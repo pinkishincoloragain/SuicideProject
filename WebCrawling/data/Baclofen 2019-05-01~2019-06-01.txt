@@ -1,0 +1,1479 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-05-31T23:58:24.000Z",
+            "id": "1134610109836009472",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T22:30:30.000Z",
+            "id": "1134587988510482432",
+            "text": "Lioresal Sans Prescription \u2013 Pharmacie 24h \u2013 Soutien en ligne 24 heures https://t.co/0Q2yrsGM5X"
+        },
+        {
+            "created_at": "2019-05-31T13:05:20.000Z",
+            "id": "1134445756818100232",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T12:57:47.000Z",
+            "id": "1134443857117155328",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T12:55:00.000Z",
+            "id": "1134443158765481984",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T12:50:11.000Z",
+            "id": "1134441947937071104",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T03:37:19.000Z",
+            "id": "1134302813301891073",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T03:35:47.000Z",
+            "id": "1134302425689419776",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T03:29:16.000Z",
+            "id": "1134300785397907461",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-31T03:14:44.000Z",
+            "id": "1134297127587373056",
+            "text": "How Much Cost 10 mg Lioresal generic in Broomfield, CO - Safe Pharmacy To Buy... https://t.co/1EJMDJz7pW on @bloglovin"
+        },
+        {
+            "created_at": "2019-05-29T15:24:24.000Z",
+            "id": "1133755978338357253",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T13:52:54.000Z",
+            "id": "1133732955501858816",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T13:34:51.000Z",
+            "id": "1133728409513857029",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T12:00:26.000Z",
+            "id": "1133704651017248770",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T11:59:53.000Z",
+            "id": "1133704512366088192",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T08:20:05.000Z",
+            "id": "1133649198597976064",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T04:41:55.000Z",
+            "id": "1133594295980699648",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T04:35:52.000Z",
+            "id": "1133592773154754561",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T03:23:32.000Z",
+            "id": "1133574566641582080",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T01:07:41.000Z",
+            "id": "1133540379167477760",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-29T01:06:25.000Z",
+            "id": "1133540061088235520",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T22:44:32.000Z",
+            "id": "1133504354370117634",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T22:19:46.000Z",
+            "id": "1133498120950767616",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T21:00:01.000Z",
+            "id": "1133478055064887296",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T20:54:22.000Z",
+            "id": "1133476629840367616",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T19:32:11.000Z",
+            "id": "1133455947068846083",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T18:25:16.000Z",
+            "id": "1133439109228310534",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T18:18:24.000Z",
+            "id": "1133437380055244800",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T17:29:56.000Z",
+            "id": "1133425183316946945",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T17:19:45.000Z",
+            "id": "1133422619603161088",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T15:55:16.000Z",
+            "id": "1133401361306017793",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T15:48:43.000Z",
+            "id": "1133399710285410305",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T14:47:58.000Z",
+            "id": "1133384423351771137",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T14:14:01.000Z",
+            "id": "1133375879248273409",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T14:05:53.000Z",
+            "id": "1133373833249996801",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:53:02.000Z",
+            "id": "1133370600616013825",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:44:49.000Z",
+            "id": "1133368532295725056",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:37:18.000Z",
+            "id": "1133366640807153664",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:10:35.000Z",
+            "id": "1133359915718852613",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:08:29.000Z",
+            "id": "1133359387643400192",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:06:52.000Z",
+            "id": "1133358979663486978",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:06:39.000Z",
+            "id": "1133358924369924096",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:05:15.000Z",
+            "id": "1133358576007819264",
+            "text": "RT @APUCoficial: Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguient\u2026"
+        },
+        {
+            "created_at": "2019-05-28T13:03:34.000Z",
+            "id": "1133358152018268161",
+            "text": "Para hijo del colega de la @FaCE_UC Argenis Rodr\u00edguez recluido en la UCI de la Vi\u00f1a se solicitan con urgencia los siguientes medicamentos Somazina en ampollas, piracetan, lioresal, piperacilina tazobacan iny 4,5 mg contacto 04144200214. De antemano gracias por su valioso apoyo!"
+        },
+        {
+            "created_at": "2019-05-23T00:18:45.000Z",
+            "id": "1131353736968921088",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-21T17:54:57.000Z",
+            "id": "1130894764075827200",
+            "text": "@fundaparkca Hola Sandra es el prof el medicamento se llama lioresal o Bacofleno de 10 mg"
+        },
+        {
+            "created_at": "2019-05-18T13:18:36.000Z",
+            "id": "1129738055768842245",
+            "text": "@MyEMyYo Alguien ha tomado lioresal?"
+        },
+        {
+            "created_at": "2019-05-18T13:12:24.000Z",
+            "id": "1129736494976032769",
+            "text": "@MyEMyYo Yo tambi\u00e9n estoy con espasticidad, sobre todo en las piernas, el neur\u00f3logo me mand\u00f3 lioresal y no s\u00e9 si tomarlo, porque de efectos secundarios te deja todav\u00eda m\u00e1s fatigado, si de por s\u00ed voy ya cansado con lioresal m\u00e1s todav\u00eda, as\u00ed que no se...seguir\u00e9 as\u00ed\ud83d\ude14"
+        },
+        {
+            "created_at": "2019-05-16T19:18:59.000Z",
+            "id": "1129103973468839936",
+            "text": "@ALNEMERK lioresal 25\n\u0647\u0630\u0627 \u0627\u0644\u062f\u0648\u0627\u0621 \u0644\u064a \u0627\u0633\u0628\u0648\u0639 \u0627\u0633\u062a\u0639\u0645\u0644\u0647 \u0644\u0643\u0646 \u0627\u0635\u0628\u062d \u0646\u0648\u0645\u064a \u0639\u0645\u064a\u0642 \u062c\u062f\u0622 \u0647\u0644 \u0647\u0648 \u0627\u0644\u0633\u0628\u0628 \u0641\u064a \u0630\u0644\u0643 \u061f https://t.co/wtWXCDYpYS"
+        },
+        {
+            "created_at": "2019-05-13T01:10:28.000Z",
+            "id": "1127742876493000704",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-13T00:26:49.000Z",
+            "id": "1127731889924710401",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-13T00:06:36.000Z",
+            "id": "1127726802569396225",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T19:30:42.000Z",
+            "id": "1127657368291094528",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T15:21:48.000Z",
+            "id": "1127594731133919232",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T13:22:12.000Z",
+            "id": "1127564631852167168",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T12:58:08.000Z",
+            "id": "1127558579282677762",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T12:56:30.000Z",
+            "id": "1127558166068301824",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T12:25:19.000Z",
+            "id": "1127550318903005185",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T11:39:05.000Z",
+            "id": "1127538683719106562",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T11:24:18.000Z",
+            "id": "1127534964340416512",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T11:18:45.000Z",
+            "id": "1127533564717879297",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T10:55:09.000Z",
+            "id": "1127527628066435072",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T10:53:34.000Z",
+            "id": "1127527229360046080",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T10:26:36.000Z",
+            "id": "1127520443223674880",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T10:23:47.000Z",
+            "id": "1127519735250341888",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T10:11:01.000Z",
+            "id": "1127516522019266560",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T08:42:20.000Z",
+            "id": "1127494204354117632",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T07:46:05.000Z",
+            "id": "1127480047714148353",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T07:31:27.000Z",
+            "id": "1127476363030609920",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:37:38.000Z",
+            "id": "1127462819249754112",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:32:08.000Z",
+            "id": "1127461438006677504",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:31:12.000Z",
+            "id": "1127461200781090817",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:27:47.000Z",
+            "id": "1127460340592148480",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:25:26.000Z",
+            "id": "1127459753154818048",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:24:54.000Z",
+            "id": "1127459617976590337",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:23:19.000Z",
+            "id": "1127459218573991936",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:14:39.000Z",
+            "id": "1127457036789219328",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:14:29.000Z",
+            "id": "1127456997215850496",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T06:06:15.000Z",
+            "id": "1127454922721546240",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:59:01.000Z",
+            "id": "1127453103329042433",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:56:30.000Z",
+            "id": "1127452468382715904",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:53:43.000Z",
+            "id": "1127451771197120512",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:51:30.000Z",
+            "id": "1127451212800901121",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:47:03.000Z",
+            "id": "1127450092133343232",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:46:09.000Z",
+            "id": "1127449866530099201",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:45:12.000Z",
+            "id": "1127449626058137600",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:43:08.000Z",
+            "id": "1127449104366342144",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:39:09.000Z",
+            "id": "1127448105257979904",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:37:57.000Z",
+            "id": "1127447803008040962",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:37:22.000Z",
+            "id": "1127447653401399296",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T05:36:17.000Z",
+            "id": "1127447382461952000",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T04:33:17.000Z",
+            "id": "1127431529163034624",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T03:53:28.000Z",
+            "id": "1127421508081655809",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T03:49:45.000Z",
+            "id": "1127420572588236800",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T03:29:41.000Z",
+            "id": "1127415521689985024",
+            "text": "RT @FLibertad2019: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzal\u2026"
+        },
+        {
+            "created_at": "2019-05-12T03:27:59.000Z",
+            "id": "1127415092319068161",
+            "text": "*Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofeno...urgente!!! @AsambleaVE\n@jguaido"
+        },
+        {
+            "created_at": "2019-05-10T11:52:34.000Z",
+            "id": "1126817300357758976",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-10T09:24:03.000Z",
+            "id": "1126779927338946560",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-10T05:11:29.000Z",
+            "id": "1126716366742888449",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-10T00:16:08.000Z",
+            "id": "1126642039427358720",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T20:55:54.000Z",
+            "id": "1126591645913423875",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T18:57:11.000Z",
+            "id": "1126561771920265216",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T18:22:39.000Z",
+            "id": "1126553083016822784",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T18:15:45.000Z",
+            "id": "1126551344884723712",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T18:10:10.000Z",
+            "id": "1126549940581351424",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T18:07:07.000Z",
+            "id": "1126549171534729216",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T17:27:52.000Z",
+            "id": "1126539295974658048",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T17:18:40.000Z",
+            "id": "1126536978730762245",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T17:04:42.000Z",
+            "id": "1126533462842839040",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T17:02:10.000Z",
+            "id": "1126532824826372096",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T16:31:55.000Z",
+            "id": "1126525212852457478",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T16:30:41.000Z",
+            "id": "1126524903979724800",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T16:12:42.000Z",
+            "id": "1126520376719302657",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T16:10:11.000Z",
+            "id": "1126519744901857280",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T16:03:06.000Z",
+            "id": "1126517963945910272",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:52:00.000Z",
+            "id": "1126515170203750400",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:32:07.000Z",
+            "id": "1126510164649975810",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:24:56.000Z",
+            "id": "1126508355101446144",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:22:20.000Z",
+            "id": "1126507702614511616",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:15:26.000Z",
+            "id": "1126505968097845249",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:15:04.000Z",
+            "id": "1126505874564870148",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:12:36.000Z",
+            "id": "1126505254890065924",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:11:19.000Z",
+            "id": "1126504929919553540",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T15:04:23.000Z",
+            "id": "1126503186183778304",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T14:55:58.000Z",
+            "id": "1126501067083210753",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T14:51:56.000Z",
+            "id": "1126500051436613632",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T14:44:23.000Z",
+            "id": "1126498150686978048",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T14:19:41.000Z",
+            "id": "1126491937408802816",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T14:09:04.000Z",
+            "id": "1126489263212716032",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T14:01:37.000Z",
+            "id": "1126487387905904640",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T14:00:47.000Z",
+            "id": "1126487181537816577",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:59:41.000Z",
+            "id": "1126486902876573698",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:59:24.000Z",
+            "id": "1126486831409848320",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:59:23.000Z",
+            "id": "1126486826099924993",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:59:22.000Z",
+            "id": "1126486824002650112",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:58:32.000Z",
+            "id": "1126486612135878657",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:57:39.000Z",
+            "id": "1126486391477678080",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:57:36.000Z",
+            "id": "1126486377292496896",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:56:56.000Z",
+            "id": "1126486212330520576",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:55:36.000Z",
+            "id": "1126485875209199617",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:54:41.000Z",
+            "id": "1126485644778397696",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:52:53.000Z",
+            "id": "1126485192011649024",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:46:34.000Z",
+            "id": "1126483601493778432",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:44:10.000Z",
+            "id": "1126483000206798852",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:37:34.000Z",
+            "id": "1126481337907654656",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:28:48.000Z",
+            "id": "1126479132764852225",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:22:55.000Z",
+            "id": "1126477650099351552",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:21:02.000Z",
+            "id": "1126477177539780613",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:17:30.000Z",
+            "id": "1126476286308835332",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:16:45.000Z",
+            "id": "1126476100622856192",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T13:14:10.000Z",
+            "id": "1126475450203693057",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:50:54.000Z",
+            "id": "1126469593353129985",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:46:37.000Z",
+            "id": "1126468514116767745",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:43:28.000Z",
+            "id": "1126467723213582338",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:36:44.000Z",
+            "id": "1126466029289443328",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:24:16.000Z",
+            "id": "1126462891484430336",
+            "text": "RT @fundacionjesed: @nrodriguez7 Disculpe hace un a\u00f1o me pasaron una informaci\u00f3n parecida, luego me dijeron que era una cadena como la del\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:23:58.000Z",
+            "id": "1126462817236914177",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:12:03.000Z",
+            "id": "1126459817151926278",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:11:03.000Z",
+            "id": "1126459565543972864",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:09:46.000Z",
+            "id": "1126459241085198337",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:07:21.000Z",
+            "id": "1126458635561910273",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T12:03:54.000Z",
+            "id": "1126457766401445889",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:50:02.000Z",
+            "id": "1126454274056175616",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:48:28.000Z",
+            "id": "1126453881137922052",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:43:41.000Z",
+            "id": "1126452679339732994",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:38:43.000Z",
+            "id": "1126451428044804100",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:35:14.000Z",
+            "id": "1126450549992378368",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:06:56.000Z",
+            "id": "1126443428475297793",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:05:01.000Z",
+            "id": "1126442946017005569",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T11:00:59.000Z",
+            "id": "1126441931624669185",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:58:08.000Z",
+            "id": "1126441213081587712",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:57:50.000Z",
+            "id": "1126441140209770496",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:55:12.000Z",
+            "id": "1126440478256312321",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:47:03.000Z",
+            "id": "1126438423458455552",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:46:16.000Z",
+            "id": "1126438230189064194",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:41:38.000Z",
+            "id": "1126437060804521985",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:40:45.000Z",
+            "id": "1126436838741295104",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:39:53.000Z",
+            "id": "1126436620465508352",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:34:19.000Z",
+            "id": "1126435222525042688",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:14:28.000Z",
+            "id": "1126430224923729920",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:09:07.000Z",
+            "id": "1126428878891814917",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T10:06:52.000Z",
+            "id": "1126428313310855169",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T09:56:46.000Z",
+            "id": "1126425771340390402",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T09:50:56.000Z",
+            "id": "1126424304604856320",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T09:42:32.000Z",
+            "id": "1126422189497028608",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T09:27:50.000Z",
+            "id": "1126418487931482112",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T09:09:56.000Z",
+            "id": "1126413983248986112",
+            "text": "RT @fundacionjesed: @nrodriguez7 Disculpe hace un a\u00f1o me pasaron una informaci\u00f3n parecida, luego me dijeron que era una cadena como la del\u2026"
+        },
+        {
+            "created_at": "2019-05-09T09:09:25.000Z",
+            "id": "1126413857017204736",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T08:58:44.000Z",
+            "id": "1126411167822381057",
+            "text": "RT @fundacionjesed: @nrodriguez7 Disculpe hace un a\u00f1o me pasaron una informaci\u00f3n parecida, luego me dijeron que era una cadena como la del\u2026"
+        },
+        {
+            "created_at": "2019-05-09T08:21:19.000Z",
+            "id": "1126401751459028993",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T07:56:19.000Z",
+            "id": "1126395459789119489",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T07:15:28.000Z",
+            "id": "1126385178899898368",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T06:20:42.000Z",
+            "id": "1126371396974796800",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T05:37:57.000Z",
+            "id": "1126360636999569408",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T05:16:30.000Z",
+            "id": "1126355241824346112",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T05:10:13.000Z",
+            "id": "1126353657929261056",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T05:05:16.000Z",
+            "id": "1126352413265412098",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:52:44.000Z",
+            "id": "1126349256946790400",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:51:22.000Z",
+            "id": "1126348914276356096",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:46:11.000Z",
+            "id": "1126347611760398336",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:35:13.000Z",
+            "id": "1126344848569716736",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:33:32.000Z",
+            "id": "1126344425305772032",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:25:50.000Z",
+            "id": "1126342488560689152",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:21:47.000Z",
+            "id": "1126341468971503618",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:20:28.000Z",
+            "id": "1126341140507176960",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:19:56.000Z",
+            "id": "1126341002447421440",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:17:12.000Z",
+            "id": "1126340315760209920",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:16:40.000Z",
+            "id": "1126340181999616001",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:15:49.000Z",
+            "id": "1126339967364534272",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:15:37.000Z",
+            "id": "1126339917263572993",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:11:57.000Z",
+            "id": "1126338996148285440",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:10:45.000Z",
+            "id": "1126338694145875969",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:10:13.000Z",
+            "id": "1126338560725065729",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:09:06.000Z",
+            "id": "1126338280063213568",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:08:42.000Z",
+            "id": "1126338179475300352",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:08:07.000Z",
+            "id": "1126338032347561984",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:05:15.000Z",
+            "id": "1126337309815734273",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:05:05.000Z",
+            "id": "1126337268451618822",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:01:50.000Z",
+            "id": "1126336451388563457",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T04:01:21.000Z",
+            "id": "1126336327820218368",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:54:33.000Z",
+            "id": "1126334614925131777",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:53:40.000Z",
+            "id": "1126334393012883456",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:53:04.000Z",
+            "id": "1126334244085805059",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:50:46.000Z",
+            "id": "1126333662277062656",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:47:38.000Z",
+            "id": "1126332877665394688",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:46:35.000Z",
+            "id": "1126332612769984512",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:46:08.000Z",
+            "id": "1126332498651287552",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:44:58.000Z",
+            "id": "1126332204609691649",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:33:27.000Z",
+            "id": "1126329305779380225",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:24:55.000Z",
+            "id": "1126327158689935361",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:18:52.000Z",
+            "id": "1126325635088101376",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:17:28.000Z",
+            "id": "1126325282892333057",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:17:19.000Z",
+            "id": "1126325246435450880",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:10:07.000Z",
+            "id": "1126323434613506049",
+            "text": "RT @fundacionjesed: @nrodriguez7 Disculpe hace un a\u00f1o me pasaron una informaci\u00f3n parecida, luego me dijeron que era una cadena como la del\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:09:45.000Z",
+            "id": "1126323340170420225",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:08:34.000Z",
+            "id": "1126323044740472837",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T03:06:23.000Z",
+            "id": "1126322494468702208",
+            "text": "@nrodriguez7 Disculpe hace un a\u00f1o me pasaron una informaci\u00f3n parecida, luego me dijeron que era una cadena como la del granocity; de esta resultar cierta tenemos lioresal pero vencido. Lo malo que por los momentos no podemos hacer envios s\u00f3lo con \u00c1ngeles viajeros. https://t.co/f2apAYFDQM"
+        },
+        {
+            "created_at": "2019-05-09T01:27:41.000Z",
+            "id": "1126297654693175297",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T01:12:42.000Z",
+            "id": "1126293887578988544",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T00:45:48.000Z",
+            "id": "1126287116881756160",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T00:41:29.000Z",
+            "id": "1126286028812226566",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T00:34:10.000Z",
+            "id": "1126284188209094656",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-09T00:19:30.000Z",
+            "id": "1126280497108279298",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T23:48:03.000Z",
+            "id": "1126272582188187648",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T23:34:56.000Z",
+            "id": "1126269280021094400",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T22:18:38.000Z",
+            "id": "1126250078602133504",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T22:09:13.000Z",
+            "id": "1126247710464577537",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T21:44:48.000Z",
+            "id": "1126241563850547200",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T21:44:05.000Z",
+            "id": "1126241384434937857",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T21:32:34.000Z",
+            "id": "1126238485684326403",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:42:45.000Z",
+            "id": "1126210852443631616",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:40:48.000Z",
+            "id": "1126210360392978434",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:39:40.000Z",
+            "id": "1126210074739970049",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:36:08.000Z",
+            "id": "1126209186172477440",
+            "text": "*LoMARACAY) soy Asdrubal Gonzales,  desesperadamente solicito Urgente  lioresal o baclofeno...en la presentaci\u00f3n q sea esto bacteria del t\u00e9tanos d mi peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua...para su ayuda x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-05-08T19:33:16.000Z",
+            "id": "1126208463686729728",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:29:46.000Z",
+            "id": "1126207582350270464",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:24:47.000Z",
+            "id": "1126206330476421121",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:24:16.000Z",
+            "id": "1126206201333784580",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:23:03.000Z",
+            "id": "1126205893966692352",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:20:56.000Z",
+            "id": "1126205359662796800",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:18:14.000Z",
+            "id": "1126204682798546949",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T19:01:59.000Z",
+            "id": "1126200591561166855",
+            "text": "Emergencia:  soy Asdrubal Gonzales solicito lioresal o baclofeno cualquier presentaci\u00f3n, mi hija 5 a\u00f1os puede morir sin este medicamento, esto sirve para matar bacteria del t\u00e9tanos q provocan en ella graves convulsiones, recluida en HCM Aragua..04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-05-08T17:46:10.000Z",
+            "id": "1126181513316503552",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T17:35:09.000Z",
+            "id": "1126178737932984322",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T17:20:36.000Z",
+            "id": "1126175076389412865",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T17:20:22.000Z",
+            "id": "1126175018721906688",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T17:15:56.000Z",
+            "id": "1126173904060469249",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T17:13:11.000Z",
+            "id": "1126173209869594624",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T17:07:42.000Z",
+            "id": "1126171829859700736",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T16:40:56.000Z",
+            "id": "1126165096403808256",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T16:37:23.000Z",
+            "id": "1126164200571703296",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T16:25:27.000Z",
+            "id": "1126161200537116672",
+            "text": "RT @nrodriguez7: Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q\u2026"
+        },
+        {
+            "created_at": "2019-05-08T16:12:50.000Z",
+            "id": "1126158021963472896",
+            "text": "Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Lioresal o Blacofeno Urgente  para ni\u00f1o de 5 a\u00f1os\n Tlf 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-05-08T14:23:49.000Z",
+            "id": "1126130587314597888",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T13:41:06.000Z",
+            "id": "1126119839955849216",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T13:04:37.000Z",
+            "id": "1126110656137244674",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T13:04:10.000Z",
+            "id": "1126110545315278853",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T13:01:59.000Z",
+            "id": "1126109996259762176",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T12:52:12.000Z",
+            "id": "1126107534073434112",
+            "text": "RT @albamartinezb: \u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria\u2026"
+        },
+        {
+            "created_at": "2019-05-08T12:49:06.000Z",
+            "id": "1126106752779522048",
+            "text": "\u2665\ufe0fSOS. Urgente, para ni\u00f1a de 5 a\u00f1os se requiere Lioresal o baclofeno en cualquier presentaci\u00f3n.  Para tratar la bacteria del t\u00e9tano, su padre Asdr\u00fabal Gonz\u00e1lez 04144603470 04169467608.Por Favor dar RT.@CaraotaDigital @AlbertoRavell"
+        },
+        {
+            "created_at": "2019-05-08T11:55:22.000Z",
+            "id": "1126093228544020480",
+            "text": "RT @ematafl: Urgente  lioresal o baclofeno.urgente.en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...est\u2026"
+        },
+        {
+            "created_at": "2019-05-08T11:51:49.000Z",
+            "id": "1126092336314896385",
+            "text": "RT @ematafl: Urgente  lioresal o baclofeno.urgente.en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...est\u2026"
+        },
+        {
+            "created_at": "2019-05-08T09:09:47.000Z",
+            "id": "1126051558788083712",
+            "text": "@LocatelVzla_ATC  tendr\u00e1n bacoflen o lioresal"
+        },
+        {
+            "created_at": "2019-05-08T04:03:56.000Z",
+            "id": "1125974590222680064",
+            "text": "RT @ematafl: Urgente  lioresal o baclofeno.urgente.en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...est\u2026"
+        },
+        {
+            "created_at": "2019-05-08T01:54:17.000Z",
+            "id": "1125941963604279296",
+            "text": "Urgente  lioresal o baclofeno...en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...esto sirve para matar la bacteria del t\u00e9tanos q provocan en ella graves convulsiones y fuertes dolores medicamento...ayuda x favor x el 04144603470 04169467608"
+        },
+        {
+            "created_at": "2019-05-08T01:40:48.000Z",
+            "id": "1125938568482963456",
+            "text": "RT @ematafl: Urgente  lioresal o baclofeno.urgente.en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...est\u2026"
+        },
+        {
+            "created_at": "2019-05-08T00:17:15.000Z",
+            "id": "1125917541854007297",
+            "text": "RT @ematafl: Urgente  lioresal o baclofeno.urgente.en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...est\u2026"
+        },
+        {
+            "created_at": "2019-05-07T23:55:53.000Z",
+            "id": "1125912165012201472",
+            "text": "RT @ematafl: Urgente  lioresal o baclofeno.urgente.en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...est\u2026"
+        },
+        {
+            "created_at": "2019-05-07T22:11:08.000Z",
+            "id": "1125885806873333760",
+            "text": "Urgente  lioresal o baclofeno.urgente.en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento...esto sirve para matar la bacteria del t\u00e9tano. Podr\u00eda salvar la vida d mi peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua. 04144603470 04169467608"
+        },
+        {
+            "created_at": "2019-05-02T15:40:13.000Z",
+            "id": "1123975489683697665",
+            "text": "Mw, 70 jr, zakt door benen, is duizelig bij opstaan en valt veel. Gezien door arts en diagnose: BPPD.\nMedicatie (o.a.): venlafaxine, pregabaline, clonazepam 3x/dag, fentanylpleister 25 mcg, lioresal 1x/dag, clopidogrel. \nIk denk: polyfarmacie? #ouderengeneeskunde"
+        }
+    ],
+    "meta": {
+        "newest_id": "1134610109836009472",
+        "oldest_id": "1123975489683697665",
+        "result_count": 290
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-05-28T14:43:35.000Z",
+            "id": "1266017278555914240",
+            "text": "#alcohol #gablofenabuse GABLOFEN ABUSE: Here is everything you need to know about gablofen abuse. Gablofen Abuse Abusing Baclofen (also known as Gablofen or Kemstro)\u00a0... https://t.co/MVVpku0LtC https://t.co/MlDjVTck7J"
+        }
+    ],
+    "meta": {
+        "newest_id": "1266017278555914240",
+        "oldest_id": "1266017278555914240",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-05-28T14:43:35.000Z",
+            "id": "1266017278555914240",
+            "text": "#alcohol #gablofenabuse GABLOFEN ABUSE: Here is everything you need to know about gablofen abuse. Gablofen Abuse Abusing Baclofen (also known as Gablofen or Kemstro)\u00a0... https://t.co/MVVpku0LtC https://t.co/MlDjVTck7J"
+        }
+    ],
+    "meta": {
+        "newest_id": "1266017278555914240",
+        "oldest_id": "1266017278555914240",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-05-29T14:27:08.000Z",
+            "id": "1266375527675252740",
+            "text": "@EMPower12456963 Joe, vaya siento que hayas empeorado, espero que te vaya bien con Ocre. \ud83d\ude4c\u2764\nTom\u00e1s otras medicaci\u00f3nes, lioresal, fampyra, sativex?"
+        },
+        {
+            "created_at": "2020-05-23T07:44:20.000Z",
+            "id": "1264099830382694402",
+            "text": "RT @martitasolis732: #Insistir #NuncaDesistir \nSomos muchos, un poquito cada uno ; puede ser? Hay q comprar \"lioresal 10 mg Baclofeno\" Hoy\u2026"
+        },
+        {
+            "created_at": "2020-05-23T03:33:55.000Z",
+            "id": "1264036814886756353",
+            "text": "A ver Chaco si pueden dar una mano, Lioresal (Bacofleno) 10mg \ud83d\udc47 https://t.co/wy93CCPFQp"
+        },
+        {
+            "created_at": "2020-05-22T17:45:47.000Z",
+            "id": "1263888804542283776",
+            "text": "RT @martitasolis732: #Insistir #NuncaDesistir \nSomos muchos, un poquito cada uno ; puede ser? Hay q comprar \"lioresal 10 mg Baclofeno\" Hoy\u2026"
+        },
+        {
+            "created_at": "2020-05-22T16:34:27.000Z",
+            "id": "1263870851025338369",
+            "text": "RT @martitasolis732: #Insistir #NuncaDesistir \nSomos muchos, un poquito cada uno ; puede ser? Hay q comprar \"lioresal 10 mg Baclofeno\" Hoy\u2026"
+        },
+        {
+            "created_at": "2020-05-22T16:33:03.000Z",
+            "id": "1263870501497319425",
+            "text": "#Insistir #NuncaDesistir \nSomos muchos, un poquito cada uno ; puede ser? Hay q comprar \"lioresal 10 mg Baclofeno\" Hoy x el , ma\u00f1ana x nos!! Gracias!! Rt x fv!! @migueln21457185   la cuenta y la data!\u00a1 https://t.co/nqHg4FPQQp"
+        },
+        {
+            "created_at": "2020-05-21T19:35:24.000Z",
+            "id": "1263554002521935874",
+            "text": "RT @martitasolis732: Chicos les pido x fv le den una mano a Miguel  ; necesita este medicamento \"Lioresal 10mg Baclofeno\"\" Por favor un poq\u2026"
+        },
+        {
+            "created_at": "2020-05-21T19:22:21.000Z",
+            "id": "1263550718973292544",
+            "text": "Chicos les pido x fv le den una mano a Miguel  ; necesita este medicamento \"Lioresal 10mg Baclofeno\"\" Por favor un poquito cada uno!!! Gracias!!@migueln21457185 &lt; su cuenta!!! @patriciasosaok @pachu_penia @bichogomezOK https://t.co/O32oi9upMl"
+        },
+        {
+            "created_at": "2020-05-14T22:37:47.000Z",
+            "id": "1261063185458659330",
+            "text": "@ALNEMERK \u062c\u0627\u0646\u064a \u0628\u0639\u062f \u0647\u0630\u064a \u0627\u0644\u062b\u0644\u0627\u062b \u0627\u0644\u0627\u062f\u0648\u064a\u0647 Neuroplex 300mg\nCELEBREX 200mg\nLioresal 10g\n\u0648\u0643\u0644\u0647\u0627 \u0645\u0631\u062a\u064a\u0646 \u0628\u0627\u0644\u064a\u0648\u0645 \u0628\u0639\u062f\u0627\u0644\u0641\u0637\u0648\u0631 \u0648\u0628\u0639\u062f\u0627\u0644\u0633\u062d\u0648\u0631"
+        },
+        {
+            "created_at": "2020-05-14T21:28:39.000Z",
+            "id": "1261045786177142784",
+            "text": "RT @jens_lieb: ich bin auch krank. brauche Medizin. muskelrelaxanzien, um genau zu sein. hilft auch gegen Alkoholismus. nennt sich Backofen\u2026"
+        },
+        {
+            "created_at": "2020-05-14T21:28:03.000Z",
+            "id": "1261045635794587655",
+            "text": "ich bin auch krank. brauche Medizin. muskelrelaxanzien, um genau zu sein. hilft auch gegen Alkoholismus. nennt sich Backofen oder auch lioresal... ;) https://t.co/9MOx5ejaoa"
+        },
+        {
+            "created_at": "2020-05-13T22:14:46.000Z",
+            "id": "1260695006203056139",
+            "text": "meine derzeitige Medikation: Lioresal oder auch Baclofen. So zwischen 30 und 80 mg am Tag. (das ist ein Muskelrelaxanz)"
+        },
+        {
+            "created_at": "2020-05-07T13:49:48.000Z",
+            "id": "1258393597709295622",
+            "text": "@Luce_Tensile Non mais j'ai du Lioresal en plus, l\u00e0 je redescends encore de l'autre bordel ahah\n\nJe verrai quand mon corps sera remis \u00e0 z\u00e9ro pour mieux me rendre compte"
+        }
+    ],
+    "meta": {
+        "newest_id": "1266375527675252740",
+        "oldest_id": "1258393597709295622",
+        "result_count": 13
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

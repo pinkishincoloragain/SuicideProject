@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-06-30T22:01:11.000Z",
+            "id": "1278086202525192192",
+            "text": "@GeorgiosMatis Our hospital uses traditional lioresal. Some of our managing docs use the gablofen syringes"
+        },
+        {
+            "created_at": "2020-06-08T18:49:59.000Z",
+            "id": "1270065553856552960",
+            "text": "Gonna take some Ativan &amp; Gablofen then snort Gabapentin."
+        }
+    ],
+    "meta": {
+        "newest_id": "1278086202525192192",
+        "oldest_id": "1270065553856552960",
+        "result_count": 2
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-06-25T19:15:15.000Z",
+            "id": "1276232505297944578",
+            "text": "@CashApp $veeva65, $stoneyquartz, $kemstro,$lissabae, $katcash215, $YoungReign1290, $tacki6, $ArtTheRage"
+        }
+    ],
+    "meta": {
+        "newest_id": "1276232505297944578",
+        "oldest_id": "1276232505297944578",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-06-30T22:01:11.000Z",
+            "id": "1278086202525192192",
+            "text": "@GeorgiosMatis Our hospital uses traditional lioresal. Some of our managing docs use the gablofen syringes"
+        },
+        {
+            "created_at": "2020-06-28T13:15:18.000Z",
+            "id": "1277229087610884097",
+            "text": "Hygiene lioresal re https://t.co/IzMpuTtO6p"
+        },
+        {
+            "created_at": "2020-06-27T05:02:58.000Z",
+            "id": "1276742797756858368",
+            "text": "@LKaganovich2970 A quale farmaco ti riferisci?\nGABAPENTIN?\nLIORESAL (baclofen)?\nANTABUSE?\nLYRICA (pregabalin)?\n\nP.S.: Non \u00e8 una domanda retorica. \ud83d\udc4d"
+        },
+        {
+            "created_at": "2020-06-26T05:12:56.000Z",
+            "id": "1276382920270319616",
+            "text": "@tabiii__ 2 meds under a doctors prescription..baclofen(Lioresal) and Clonazepam (Rivotril)"
+        },
+        {
+            "created_at": "2020-06-24T16:52:53.000Z",
+            "id": "1275834290866184193",
+            "text": "RT @ADEMMADRID: Consulta sobre si hay tratamiento para la espasticidad? Hay tratamientos Sintom\u00e1ticos como Lioresal y sativex, hay que cons\u2026"
+        },
+        {
+            "created_at": "2020-06-24T16:41:44.000Z",
+            "id": "1275831485220573184",
+            "text": "RT @ADEMMADRID: Consulta sobre si hay tratamiento para la espasticidad? Hay tratamientos Sintom\u00e1ticos como Lioresal y sativex, hay que cons\u2026"
+        },
+        {
+            "created_at": "2020-06-24T16:34:18.000Z",
+            "id": "1275829614213058561",
+            "text": "RT @ADEMMADRID: Consulta sobre si hay tratamiento para la espasticidad? Hay tratamientos Sintom\u00e1ticos como Lioresal y sativex, hay que cons\u2026"
+        },
+        {
+            "created_at": "2020-06-24T16:28:13.000Z",
+            "id": "1275828083505991682",
+            "text": "Consulta sobre si hay tratamiento para la espasticidad? Hay tratamientos Sintom\u00e1ticos como Lioresal y sativex, hay que consultar con el neurologo para que nos indiquen qu\u00e9 necesitamos para los s\u00edntomas de la #EsclerosisM\u00faltiple #EMGregorioMara\u00f1on"
+        },
+        {
+            "created_at": "2020-06-24T02:13:25.000Z",
+            "id": "1275612964733640704",
+            "text": "Z lioresal lowest p https://t.co/8sZ2oXFQjO"
+        },
+        {
+            "created_at": "2020-06-22T12:13:29.000Z",
+            "id": "1275039201776431105",
+            "text": "Keep lioresal onlin https://t.co/oxQSmfnUy3"
+        },
+        {
+            "created_at": "2020-06-14T00:34:48.000Z",
+            "id": "1271964270260113408",
+            "text": "RT @MariaJGarciaL: Por favor ay\u00fadame con un RT. Buscamos Lioresal.\nCaracas - Venezuela."
+        },
+        {
+            "created_at": "2020-06-13T19:30:36.000Z",
+            "id": "1271887715508916224",
+            "text": "Por favor ay\u00fadame con un RT. Buscamos Lioresal.\nCaracas - Venezuela. https://t.co/9beH4dApr5"
+        },
+        {
+            "created_at": "2020-06-13T15:40:59.000Z",
+            "id": "1271829928946827264",
+            "text": "Buenos d\u00edas se necesita con urgencia LIORESAL. Gracias de antemano, cualquier informaci\u00f3n ser\u00eda valiosa."
+        },
+        {
+            "created_at": "2020-06-13T14:52:27.000Z",
+            "id": "1271817717608316929",
+            "text": "@Farmarato Muy buenos d\u00edas... Estoy buscando LIORESAL porfavor y gracias"
+        },
+        {
+            "created_at": "2020-06-10T00:15:41.000Z",
+            "id": "1270509906874052608",
+            "text": "@RuizGerry Baclofeno (Lioresal 10 mg)"
+        },
+        {
+            "created_at": "2020-06-08T15:13:01.000Z",
+            "id": "1270010952369537024",
+            "text": "@Sclerostar @AtakdaDLsNrvios Hoy me ha recetado la neuro baclofeno q leo es lioresal. C\u00f3mo os va? Os da sue\u00f1o de morirse?\ud83d\ude05 A\u00fan no lo he comprado pero tengo dudas. Lo puedo mezclar con espidifen cuando me baje la regla?"
+        },
+        {
+            "created_at": "2020-06-02T19:35:42.000Z",
+            "id": "1267902732012314626",
+            "text": "@moreau1_quentin @jesuisbigpharma lioresal"
+        }
+    ],
+    "meta": {
+        "newest_id": "1278086202525192192",
+        "oldest_id": "1267902732012314626",
+        "result_count": 17
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

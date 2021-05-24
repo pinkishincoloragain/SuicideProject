@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-09-27T08:02:46.000Z",
+            "id": "1310127731817013250",
+            "text": "quiero un lioresal o alg\u00fan relajante muscular:("
+        },
+        {
+            "created_at": "2020-09-14T22:21:14.000Z",
+            "id": "1305632726607896581",
+            "text": "5)sigue NAIRO Y EGAN FUERON INTOXICADOS POR MANO CRIMINAL: LES PUDIERON HABER SUMINISTRADO LA NOCHE ANTERIOR O AL DEJENEUR\" DIAZEP\u00cdNICOS(VALIUM ,ALPRAZOLAM) \u00d3 FENOTIAZINICOS:HALOPERIDOL QUETIAPINA. ANTIHISTAM\u00cdNICOS PARA RINITIS O RELAJANTES MUSCULARES COMO BACLOFENO (LIORESAL)"
+        },
+        {
+            "created_at": "2020-09-14T14:18:56.000Z",
+            "id": "1305511352031682561",
+            "text": "Tambi\u00e9n es que he empezado septiembre con migra\u00f1a c\u00f3mo se nota que ya va a venir el fr\u00edo y la lluvia pero vamos que no suelo tomarme m\u00e1s de un ibuprofeno al d\u00eda que ya tengo bastante con el lioresal que tomo para la paraparesia espastica"
+        },
+        {
+            "created_at": "2020-09-06T23:17:16.000Z",
+            "id": "1302747728271806464",
+            "text": "@Farmarato feliz domingo, tienen disponible Sirdalud o Lioresal?"
+        }
+    ],
+    "meta": {
+        "newest_id": "1310127731817013250",
+        "oldest_id": "1302747728271806464",
+        "result_count": 4
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

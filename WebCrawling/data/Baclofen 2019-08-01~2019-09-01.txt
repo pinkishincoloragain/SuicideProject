@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-08-26T16:59:04.000Z",
+            "id": "1166032322304577536",
+            "text": "@caamipasserini Hola. Aun tienes el Lioresal? Lo requiero para mi suegro que tiene cancer."
+        },
+        {
+            "created_at": "2019-08-26T16:57:56.000Z",
+            "id": "1166032039746899970",
+            "text": "Buenas tardes, estoy en la b\u00fasqueda de LIORESAL para paciente con c\u00e1ncer de pr\u00f3stata, con met\u00e1stasis en huesos. Quien tenga o me dice donde encontrar mucho lo agradecer\u00eda."
+        },
+        {
+            "created_at": "2019-08-26T16:50:51.000Z",
+            "id": "1166030254235893761",
+            "text": "@FundacionBADAN Buenas tardes. Tienen Lioresal en Caracas?"
+        },
+        {
+            "created_at": "2019-08-19T11:14:06.000Z",
+            "id": "1163408796955369472",
+            "text": "Garantie de remboursement :: Lioresal 10 mg combien g\u00e9n\u00e9rique :: Bonus... https://t.co/9GmbiY7eWC on @bloglovin"
+        },
+        {
+            "created_at": "2019-08-13T18:31:41.000Z",
+            "id": "1161344589652987905",
+            "text": "@drsjivago Sendekilere ek lioresal regapen lustral depakin buspon lustral  de aliyorum  form\u00fcl\u00fc hangisi bozuyor ne eksik"
+        },
+        {
+            "created_at": "2019-08-10T04:24:49.000Z",
+            "id": "1160044304309637120",
+            "text": "Lioresal 25 mg moins cher acheter / Pharmacie 24h - https://t.co/PB6DgCWGsa https://t.co/i8LPyY94lM"
+        },
+        {
+            "created_at": "2019-08-08T16:04:05.000Z",
+            "id": "1159495506470604801",
+            "text": "RT @caamipasserini: Tengo para dar: alimento para utilizar por via enteral \"fresubin original fibra\" y guias para la bomba de alimento. Med\u2026"
+        },
+        {
+            "created_at": "2019-08-08T15:29:21.000Z",
+            "id": "1159486765822033924",
+            "text": "RT @caamipasserini: Tengo para dar: alimento para utilizar por via enteral \"fresubin original fibra\" y guias para la bomba de alimento. Med\u2026"
+        },
+        {
+            "created_at": "2019-08-08T12:35:19.000Z",
+            "id": "1159442968299876352",
+            "text": "RT @caamipasserini: Tengo para dar: alimento para utilizar por via enteral \"fresubin original fibra\" y guias para la bomba de alimento. Med\u2026"
+        },
+        {
+            "created_at": "2019-08-08T10:15:25.000Z",
+            "id": "1159407761995763712",
+            "text": "Payer Par BTC \u2013 Prix bas Lioresal 10 mg acheter \u2013 Meilleurs Prix pour tous les\u00a0clients https://t.co/OGDFvp11re https://t.co/NDn8OSbpSC"
+        },
+        {
+            "created_at": "2019-08-08T03:07:06.000Z",
+            "id": "1159299970861809664",
+            "text": "RT @caamipasserini: Tengo para dar: alimento para utilizar por via enteral \"fresubin original fibra\" y guias para la bomba de alimento. Med\u2026"
+        },
+        {
+            "created_at": "2019-08-08T01:39:20.000Z",
+            "id": "1159277884265181184",
+            "text": "Tengo para dar: alimento para utilizar por via enteral \"fresubin original fibra\" y guias para la bomba de alimento. Medicamento: Lioresal, riluzol, tryptanol y lasix. Tambien un amb\u00fa y silla de ruedas para traslado. https://t.co/3B2esIHS76"
+        },
+        {
+            "created_at": "2019-08-07T12:34:12.000Z",
+            "id": "1159080300032475137",
+            "text": "Les moins chers des m\u00e9dicaments en ligne - Achat de Lioresal pas cher - Livraison trackable - https://t.co/OddKYKjLbg https://t.co/slqWU9Zhau"
+        },
+        {
+            "created_at": "2019-08-06T12:17:43.000Z",
+            "id": "1158713760615452672",
+            "text": "@JAGLeMans @0xB0D @BBCPolitics Which medicines? Some of the biggest pharmaceutical and medical devices manufacturing plants are in Ireland. Need Lioresal, Botox, stents or valves ... Viagra? Made in Ireland."
+        },
+        {
+            "created_at": "2019-08-04T11:17:39.000Z",
+            "id": "1157973870525198342",
+            "text": "Disponible en caracas y anzoategui \n\nBaclofeno (lioresal) de laboratorios Novartis  de 10 mg (25$) y de 25mg (40$) https://t.co/PaywRNS4kj"
+        },
+        {
+            "created_at": "2019-08-03T22:02:31.000Z",
+            "id": "1157773770326728704",
+            "text": "@BuscoTuMedicina \nSaludos, tienes Baclofeno o Lioresal?"
+        }
+    ],
+    "meta": {
+        "newest_id": "1166032322304577536",
+        "oldest_id": "1157773770326728704",
+        "result_count": 16
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

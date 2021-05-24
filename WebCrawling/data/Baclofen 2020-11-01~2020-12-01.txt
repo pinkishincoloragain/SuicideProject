@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-11-29T17:25:47.000Z",
+            "id": "1333099852809572357",
+            "text": "@BuscandoMedicin buenas tardes busco el medicamento Lioresal de 25 mg el componente es baclofeno cualquier informaci\u00f3n se los agradezco!! https://t.co/ea0HAm9vRa"
+        },
+        {
+            "created_at": "2020-11-28T20:25:34.000Z",
+            "id": "1332782707441537025",
+            "text": "@DrSekobarbital \u00c7ok do\u011fru .Ayaklarda \u00f6dem ?! mevcut, neptin ve lioresal kullan\u0131yor.G\u00fc\u00e7lenmesi i\u00e7in egseriz \u00f6nerileri videosu vs var m\u0131d\u0131r Serkan bey"
+        },
+        {
+            "created_at": "2020-11-26T21:45:59.000Z",
+            "id": "1332078172154761216",
+            "text": "@danieletineos @afoca13 @Farmarato Hola trabajo en una empresa que tiene acceso a Lioresal, si sigues interesado env\u00edame tu tel\u00e9fono por DM para ponerme en contacto contigo..."
+        },
+        {
+            "created_at": "2020-11-26T21:23:10.000Z",
+            "id": "1332072430282678278",
+            "text": "@rosanita122 Hola Buenas tardes, pasame tu n\u00famero de tel\u00e9fono para comunicarme contigo, nosotros contamos con Lioresal..."
+        },
+        {
+            "created_at": "2020-11-23T01:21:20.000Z",
+            "id": "1330682814854033412",
+            "text": "@El_Maanna \u062c\u0631\u0628 lioresal"
+        },
+        {
+            "created_at": "2020-11-19T01:00:34.000Z",
+            "id": "1329228036424814593",
+            "text": "Hola ...necesito Lioresal (bacofleno) de 25 mg. Para mi hija, si saben d\u00f3nde puedo ubicarlo, informar por favor."
+        },
+        {
+            "created_at": "2020-11-18T23:00:37.000Z",
+            "id": "1329197852191567884",
+            "text": "RT @laprensalara: #ServicioPublico | Se solicita con urgencia Baclofen o Lioresal en tabletas de 10mg para Mar\u00eda Aldana, paciente con desmi\u2026"
+        },
+        {
+            "created_at": "2020-11-18T21:46:46.000Z",
+            "id": "1329179266471358464",
+            "text": "RT @laprensalara: #ServicioPublico | Se solicita con urgencia Baclofen o Lioresal en tabletas de 10mg para Mar\u00eda Aldana, paciente con desmi\u2026"
+        },
+        {
+            "created_at": "2020-11-18T21:43:43.000Z",
+            "id": "1329178497730928700",
+            "text": "#ServicioPublico | Se solicita con urgencia Baclofen o Lioresal en tabletas de 10mg para Mar\u00eda Aldana, paciente con desmielinizaci\u00f3n sustancial del sistema nervioso central, una enfermedad que produce impedimento de la movilidad \n\nPara cualquier informaci\u00f3n \u27a1\ufe0f 0414-9738300 https://t.co/sdCSp4V2jq"
+        },
+        {
+            "created_at": "2020-11-15T14:00:02.000Z",
+            "id": "1327974643064590336",
+            "text": "@Farmacia_SAAS busco lioresal de 25 MG cualquier informaci\u00f3n por favor"
+        },
+        {
+            "created_at": "2020-11-12T19:00:48.000Z",
+            "id": "1326963170867548162",
+            "text": "@donandosaludve @Farmarato Hola, Te escribo desde Monterrey, M\u00e9xico formo parte de Houston SP empresa que se dedica a importar medicamento de dif\u00edcil acceso reci\u00e9n aprobado por las principales autoridades reguladoras sanitarias. Contamos con Lioresal \u00bfTienes alg\u00fan n\u00famero para comunicarme contigo?"
+        }
+    ],
+    "meta": {
+        "newest_id": "1333099852809572357",
+        "oldest_id": "1326963170867548162",
+        "result_count": 11
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-11-27T02:54:56.000Z",
+            "id": "1199521961514274816",
+            "text": "@animalesoficial Lioresal para tratamiento de espasticidad en Esclerosis M\u00faltiple. Me cambiaron a otro gen\u00e9rico y no puedo dominar las piernas. Tuve dos episodios de casi ca\u00eddas. Iapos Santa Fe. Gonz\u00e1lez Andrea."
+        },
+        {
+            "created_at": "2019-11-25T13:06:07.000Z",
+            "id": "1198950996707287042",
+            "text": "@PerrineST @LauredeMontalem Les benzo, le lioresal.."
+        },
+        {
+            "created_at": "2019-11-11T17:14:27.000Z",
+            "id": "1193940062100217862",
+            "text": "Seguimos buscando. Lioresal"
+        },
+        {
+            "created_at": "2019-11-11T12:22:26.000Z",
+            "id": "1193866573439746048",
+            "text": "Se busca lioresal"
+        },
+        {
+            "created_at": "2019-11-07T21:08:22.000Z",
+            "id": "1192549376268414988",
+            "text": "RT @RaquelRodz: Con car\u00e1cter de urgencia se necesita LIORESAL, comunicarse al WhatsApp 04246088789  #ServicioP\u00fablico #6Nov"
+        },
+        {
+            "created_at": "2019-11-06T19:50:48.000Z",
+            "id": "1192167468544004101",
+            "text": "Con car\u00e1cter de urgencia se necesita LIORESAL, comunicarse al WhatsApp 04246088789  #ServicioP\u00fablico #6Nov"
+        },
+        {
+            "created_at": "2019-11-06T13:05:05.000Z",
+            "id": "1192065368220561408",
+            "text": "@KemenkesRI   Pak Mentri, terkait BPJS banyak obat tak masuk daftar  yg ditetapkan Kemenkes. Penyakit saraf MS, itu obat Lioresal, Sirdalut, Myonal, Imuran harga diatas Rp 10.000 per biji masih harus beli sendiri. Kapan ini obat akan masuk daftar ?  Mohon respon pak, terimakasih https://t.co/UzG5wS35WU"
+        },
+        {
+            "created_at": "2019-11-03T01:43:26.000Z",
+            "id": "1190806659171418114",
+            "text": "RT @ZacklerAl: Neuromuscular Agents :\nB- Baclofen( Lioresal)\nC- Cyclobenzaprine HCL (Flexeril)\nD- Dantrolene sodium (Dantrium)\n\nM- Methocar\u2026"
+        },
+        {
+            "created_at": "2019-11-03T01:39:52.000Z",
+            "id": "1190805763632979968",
+            "text": "RT @ZacklerAl: Neuromuscular Agents :\nB- Baclofen( Lioresal)\nC- Cyclobenzaprine HCL (Flexeril)\nD- Dantrolene sodium (Dantrium)\n\nM- Methocar\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1199521961514274816",
+        "oldest_id": "1190805763632979968",
+        "result_count": 9
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

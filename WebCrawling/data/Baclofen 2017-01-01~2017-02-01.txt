@@ -1,0 +1,681 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-01-30T12:42:30.000Z",
+            "id": "826047937193074688",
+            "text": "ETIndustryNews: The acquired portfolio includes Gablofen (baclofen), a severe spasticity management product.\nhttps://t.co/BLsxThXJN8 #YoSo\u2026"
+        },
+        {
+            "created_at": "2017-01-30T12:30:02.000Z",
+            "id": "826044801653100545",
+            "text": "The acquired portfolio includes Gablofen (baclofen), a severe spasticity management product.\nhttps://t.co/iiBQoAlDpD"
+        }
+    ],
+    "meta": {
+        "newest_id": "826047937193074688",
+        "oldest_id": "826044801653100545",
+        "result_count": 2
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-01-27T10:40:52.000Z",
+            "id": "824930164509384704",
+            "text": "Kemstro Prescribing Information Pdf https://t.co/c3N8Vv9ae8"
+        },
+        {
+            "created_at": "2017-01-27T10:39:51.000Z",
+            "id": "824929909189509121",
+            "text": "Kemstro Prescribing Information https://t.co/jyg690EHvo"
+        }
+    ],
+    "meta": {
+        "newest_id": "824930164509384704",
+        "oldest_id": "824929909189509121",
+        "result_count": 2
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-01-31T14:39:02.000Z",
+            "id": "826439651250540544",
+            "text": "RT @FundacionBADAN: @_LuzMarina Buenas tardes \nDisponible muy pocas cantidades Lioresal Sucursal Galer\u00edas Avila, Presentar recipe,informe y\u2026"
+        },
+        {
+            "created_at": "2017-01-31T07:56:46.000Z",
+            "id": "826338419148091392",
+            "text": "SEKAI NO OWARI\uff1aOther amount &amp;lt;a href=&amp;quot; https://t.co/0MpIfha8db &amp;quot;&amp;gt;baclofen tablets 10mg&amp;l...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2017-01-31T07:25:43.000Z",
+            "id": "826330604887085056",
+            "text": "Jam9\u3010\u30b8\u30e3\u30e0\u30ca\u30a4\u30f3\u3011\uff1aLanguages &amp;lt;a href=&amp;quot; https://t.co/bLWW6shgm8 &amp;quot;&amp;gt;baclofen 10 mg uses&amp;lt;/a&amp;gt;  &amp;quot;...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2017-01-30T23:01:04.000Z",
+            "id": "826203607896821762",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T19:11:03.000Z",
+            "id": "826145722617753601",
+            "text": "@_LuzMarina Buenas tardes \nDisponible muy pocas cantidades Lioresal Sucursal Galer\u00edas Avila, Presentar recipe,informe y c.i del paciente."
+        },
+        {
+            "created_at": "2017-01-30T13:01:33.000Z",
+            "id": "826052731815260160",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T12:43:21.000Z",
+            "id": "826048150913818624",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T12:40:19.000Z",
+            "id": "826047387332395008",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T12:33:19.000Z",
+            "id": "826045626278432769",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T12:09:52.000Z",
+            "id": "826039727203708928",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T11:47:41.000Z",
+            "id": "826034141825228800",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T10:18:13.000Z",
+            "id": "826011626742697989",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T10:13:43.000Z",
+            "id": "826010496340021252",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T09:49:56.000Z",
+            "id": "826004509017124864",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T09:42:05.000Z",
+            "id": "826002537341915136",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T09:38:19.000Z",
+            "id": "826001586723889152",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T08:46:25.000Z",
+            "id": "825988526130946049",
+            "text": "SEKAI NO OWARI\uff1aI&amp;#039;ve just graduated &amp;lt;a href=&amp;quot; https://t.co/Z27YtXkZii &amp;quot;&amp;gt;baclofen to ge...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2017-01-30T08:44:42.000Z",
+            "id": "825988092683182081",
+            "text": "SEKAI NO OWARI\uff1aWe&amp;#039;re at university together &amp;lt;a href=&amp;quot; https://t.co/Z27YtXkZii &amp;quot;&amp;gt;baclo...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2017-01-30T08:14:06.000Z",
+            "id": "825980392444358656",
+            "text": "Jam9\u3010\u30b8\u30e3\u30e0\u30ca\u30a4\u30f3\u3011\uff1aI&amp;#039;ve got a part-time job &amp;lt;a href=&amp;quot; https://t.co/Z27YtXkZii &amp;quot;&amp;gt;lioresal ba...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2017-01-30T08:12:05.000Z",
+            "id": "825979886837719041",
+            "text": "Jam9\u3010\u30b8\u30e3\u30e0\u30ca\u30a4\u30f3\u3011\uff1aI&amp;#039;m sorry, she&amp;#039;s  &amp;lt;a href=&amp;quot; https://t.co/Z27YtXkZii &amp;quot;&amp;gt;lioresal intr...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2017-01-30T07:23:10.000Z",
+            "id": "825967575238639616",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T06:35:01.000Z",
+            "id": "825955460465455104",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T06:20:32.000Z",
+            "id": "825951813648121857",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T06:12:27.000Z",
+            "id": "825949780736147456",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T06:03:19.000Z",
+            "id": "825947479099179008",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T03:35:12.000Z",
+            "id": "825910205808533504",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T03:17:33.000Z",
+            "id": "825905766192267264",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T03:12:56.000Z",
+            "id": "825904601270468609",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T03:10:47.000Z",
+            "id": "825904059664232448",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T03:06:42.000Z",
+            "id": "825903032684703744",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T03:00:39.000Z",
+            "id": "825901511238639617",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:58:54.000Z",
+            "id": "825901071142895616",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:58:12.000Z",
+            "id": "825900893509976066",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:54:28.000Z",
+            "id": "825899957391654912",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:53:57.000Z",
+            "id": "825899823413002242",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:53:48.000Z",
+            "id": "825899787195138049",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:52:45.000Z",
+            "id": "825899524900139008",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:52:34.000Z",
+            "id": "825899476757905413",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:46:06.000Z",
+            "id": "825897848030031873",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:34:23.000Z",
+            "id": "825894901917298692",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:33:46.000Z",
+            "id": "825894746715471873",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:32:04.000Z",
+            "id": "825894320041553920",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:29:31.000Z",
+            "id": "825893676522037249",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:28:04.000Z",
+            "id": "825893310246043649",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:27:57.000Z",
+            "id": "825893282584678400",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:25:37.000Z",
+            "id": "825892695897944065",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:25:32.000Z",
+            "id": "825892672724426752",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:24:15.000Z",
+            "id": "825892350924828672",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:23:36.000Z",
+            "id": "825892189607702528",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:22:54.000Z",
+            "id": "825892010439671809",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:22:47.000Z",
+            "id": "825891980416786433",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:22:20.000Z",
+            "id": "825891868978323456",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:21:51.000Z",
+            "id": "825891745061801987",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:21:37.000Z",
+            "id": "825891688623243265",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:21:27.000Z",
+            "id": "825891645216415745",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:12:40.000Z",
+            "id": "825889436026167297",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T02:07:23.000Z",
+            "id": "825888104481439750",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T01:58:09.000Z",
+            "id": "825885780853870593",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T01:50:59.000Z",
+            "id": "825883977315647496",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T01:50:33.000Z",
+            "id": "825883871472472070",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T01:28:37.000Z",
+            "id": "825878352246480896",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T01:13:11.000Z",
+            "id": "825874468006457344",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T01:08:00.000Z",
+            "id": "825873160658702336",
+            "text": "@CeciRod53 @aisha_728 dejen de pasar ese twett. NADIE muere por no tener Lioresal."
+        },
+        {
+            "created_at": "2017-01-30T01:05:34.000Z",
+            "id": "825872550743912448",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T01:02:43.000Z",
+            "id": "825871832192581632",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T00:44:48.000Z",
+            "id": "825867324997697536",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T00:39:56.000Z",
+            "id": "825866097333243905",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T00:34:45.000Z",
+            "id": "825864793089306626",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T00:19:24.000Z",
+            "id": "825860931263553537",
+            "text": "RT @CeciRod53: AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846\u2026"
+        },
+        {
+            "created_at": "2017-01-30T00:17:47.000Z",
+            "id": "825860526135721984",
+            "text": "AUXILIO!  LIORESAL O BACLOFENO cualquier miligramo/presentaci\u00f3n \nPuede morir ni\u00f1a 0414-460 3470 0416-946-7608\n0412-445 2846 SrGonzalez\n#Sos"
+        },
+        {
+            "created_at": "2017-01-29T02:26:32.000Z",
+            "id": "825530538253484037",
+            "text": "Asdrubal Gonzales,  desesperadamente  lioresal o baclofeno. mi hija puede morir  Aleiber 5 a\u00f1os  el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-01-28T11:03:21.000Z",
+            "id": "825298212995096578",
+            "text": "Lioresal Baclofene Vidal https://t.co/JEAiIT3rbA"
+        },
+        {
+            "created_at": "2017-01-28T11:01:20.000Z",
+            "id": "825297703366225921",
+            "text": "Baclofen Lioresal Side Effects https://t.co/tnBbZwSzc4"
+        },
+        {
+            "created_at": "2017-01-28T11:00:19.000Z",
+            "id": "825297448016945152",
+            "text": "Lioresal Baclofen Intrathecal https://t.co/QAqZVi40mS"
+        },
+        {
+            "created_at": "2017-01-28T10:59:18.000Z",
+            "id": "825297192172847104",
+            "text": "Lioresal Baclofen 10 Mg https://t.co/McOKz7nZqY"
+        },
+        {
+            "created_at": "2017-01-28T10:58:18.000Z",
+            "id": "825296938773921793",
+            "text": "Lioresal 10 Mg Tablets Uses https://t.co/XLc5yCNgbl"
+        },
+        {
+            "created_at": "2017-01-28T10:57:17.000Z",
+            "id": "825296683328212992",
+            "text": "Lioresal 10 Mg Tablets https://t.co/hhP5g3ErTK"
+        },
+        {
+            "created_at": "2017-01-28T10:56:16.000Z",
+            "id": "825296428067123200",
+            "text": "Lioresal Intrathecal Baclofen Injection https://t.co/ogdK9Vj9aR"
+        },
+        {
+            "created_at": "2017-01-28T10:55:16.000Z",
+            "id": "825296174949265409",
+            "text": "Medtronic Lioresal Intrathecal Refill Kit https://t.co/al2ZcK9u6Q"
+        },
+        {
+            "created_at": "2017-01-28T10:54:15.000Z",
+            "id": "825295921772634112",
+            "text": "Lioresal Intrathecal Ndc https://t.co/kkdh53ZB2T"
+        },
+        {
+            "created_at": "2017-01-28T10:53:15.000Z",
+            "id": "825295668273090560",
+            "text": "Lioresal Intrathecal Kit https://t.co/R3z8TYMcZR"
+        },
+        {
+            "created_at": "2017-01-28T10:52:11.000Z",
+            "id": "825295402819805184",
+            "text": "Lioresal Intrathecal Novartis https://t.co/IMGkQQHy6b"
+        },
+        {
+            "created_at": "2017-01-28T10:51:10.000Z",
+            "id": "825295144417116163",
+            "text": "Lioresal Nursing Implications https://t.co/uIuOt39jCj"
+        },
+        {
+            "created_at": "2017-01-28T10:50:08.000Z",
+            "id": "825294884399628288",
+            "text": "Lioresal Side Effects https://t.co/MRytI3wluZ"
+        },
+        {
+            "created_at": "2017-01-28T10:49:07.000Z",
+            "id": "825294629495046144",
+            "text": "Lioresal Intrathecal https://t.co/YG9Tz0Xe1M"
+        },
+        {
+            "created_at": "2017-01-28T00:07:31.000Z",
+            "id": "825133166298009601",
+            "text": "Urgente para ni\u00f1a de 5 a\u00f1os necesita lioresal o baclofeno  recluida en el HCM d Aragua. 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-01-27T14:46:11.000Z",
+            "id": "824991899383537664",
+            "text": "#LocalGovernmentInstituteOfWisconsin Lioresal | Buy. Read Blog: https://t.co/WEqwdxsAAc"
+        },
+        {
+            "created_at": "2017-01-27T14:46:11.000Z",
+            "id": "824991899375194113",
+            "text": "#LocalGovernmentInstituteOfWisconsin Lioresal | Buy. Read Blog: https://t.co/tdgK4V4gPo"
+        },
+        {
+            "created_at": "2017-01-25T17:26:59.000Z",
+            "id": "824307593279655938",
+            "text": "@Donatumed Para ni\u00f1a de 5 a\u00f1os con convulsiones y hospitalizada se requiere Lioresal o baclofeno con car\u00e1cter urgente.Enviarme mnsj privado"
+        },
+        {
+            "created_at": "2017-01-25T12:16:34.000Z",
+            "id": "824229471398088707",
+            "text": "Cost Lioresal Single Packs, Can I Buy Pms-baclofen Medicine Multiple Sclerosis In Ca - https://t.co/DjOhI5Wda9 #GoogleAlerts"
+        },
+        {
+            "created_at": "2017-01-25T12:15:01.000Z",
+            "id": "824229085153005570",
+            "text": "Lioresal, tablete #Lioresal #Tablete https://t.co/FXYGLyoibu"
+        },
+        {
+            "created_at": "2017-01-25T09:19:12.000Z",
+            "id": "824184838639013890",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-01-25T09:18:04.000Z",
+            "id": "824184554198011904",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-01-25T09:17:44.000Z",
+            "id": "824184467422060545",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-01-25T09:17:19.000Z",
+            "id": "824184362656731136",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-01-25T09:16:24.000Z",
+            "id": "824184133920423936",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-01-24T19:20:48.000Z",
+            "id": "823973846751518720",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-01-24T18:40:22.000Z",
+            "id": "823963673236557827",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-01-24T07:05:55.000Z",
+            "id": "823788906894200832",
+            "text": "Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 0426-6084351. Gracias"
+        },
+        {
+            "created_at": "2017-01-21T21:42:32.000Z",
+            "id": "822922351184584707",
+            "text": "BT,algun fliar de la ni\u00f1a q necesita LIORESAL,en HCMcy\u00bfContacte @trafficARAGUA  @trafficVALENCIA  gracias\u00a1"
+        },
+        {
+            "created_at": "2017-01-20T19:18:04.000Z",
+            "id": "822523609365311488",
+            "text": "RT @FundacionBADAN: @rs26260101 Buenos D\u00edas   \nDisponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente. Sucursal Los Cortij\u2026"
+        },
+        {
+            "created_at": "2017-01-20T17:03:19.000Z",
+            "id": "822489695280107520",
+            "text": "RT @FundacionBADAN: @rs26260101 Buenos D\u00edas   \nDisponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente. Sucursal Los Cortij\u2026"
+        },
+        {
+            "created_at": "2017-01-20T17:02:58.000Z",
+            "id": "822489608944488449",
+            "text": "RT @FundacionBADAN: @rs26260101 Buenos D\u00edas   \nDisponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente. Sucursal Los Cortij\u2026"
+        },
+        {
+            "created_at": "2017-01-20T17:01:51.000Z",
+            "id": "822489329113108480",
+            "text": "RT @FundacionBADAN: @rs26260101 Buenos D\u00edas   \nDisponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente. Sucursal Los Cortij\u2026"
+        },
+        {
+            "created_at": "2017-01-20T17:01:23.000Z",
+            "id": "822489212293410816",
+            "text": "RT @FundacionBADAN: @rs26260101 Buenos D\u00edas   \nDisponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente. Sucursal Los Cortij\u2026"
+        },
+        {
+            "created_at": "2017-01-18T14:46:12.000Z",
+            "id": "821730414830256128",
+            "text": "Urgente: Lioresal o Baclofeno...04144603470 04169467608 04124452846... Ni\u00f1a en riesgo de muerte. Gracias de antemano!"
+        },
+        {
+            "created_at": "2017-01-16T12:53:57.000Z",
+            "id": "820977391073894405",
+            "text": "RT @FundacionBADAN: @fundatiacruz Buenos D\u00edas  \n Disponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente Sucursal Los Corti\u2026"
+        },
+        {
+            "created_at": "2017-01-16T12:48:05.000Z",
+            "id": "820975912040677376",
+            "text": "RT @FundacionBADAN: @fundatiacruz Buenos D\u00edas  \n Disponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente Sucursal Los Corti\u2026"
+        },
+        {
+            "created_at": "2017-01-16T12:43:35.000Z",
+            "id": "820974781101207554",
+            "text": "@fundatiacruz Buenos D\u00edas  \n Disponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente Sucursal Los Cortijos."
+        }
+    ],
+    "meta": {
+        "newest_id": "826439651250540544",
+        "next_token": "1jzu9lk96gu5npw3j403gjigrb48zyz0byc2nqm4wltp",
+        "oldest_id": "820974781101207554",
+        "result_count": 109
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-01-15T02:49:35.000Z",
+            "id": "820462908350066688",
+            "text": "Buy online Lioresal (Baclofen)...: USA, with no prescriptions ; purchase at low cost\u2026 https://t.co/6H8k1MzgXq"
+        },
+        {
+            "created_at": "2017-01-14T03:37:11.000Z",
+            "id": "820112497655025664",
+            "text": "RT @fundatiacruz: Consultar disponibilidad de LIORESAL en la sucursal de los cortijos de @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-01-14T02:42:47.000Z",
+            "id": "820098808860344320",
+            "text": "RT @fundatiacruz: Consultar disponibilidad de LIORESAL en la sucursal de los cortijos de @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-01-14T02:40:30.000Z",
+            "id": "820098233577914368",
+            "text": "RT @fundatiacruz: Consultar disponibilidad de LIORESAL en la sucursal de los cortijos de @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-01-14T02:40:17.000Z",
+            "id": "820098180624814084",
+            "text": "RT @fundatiacruz: Consultar disponibilidad de LIORESAL en la sucursal de los cortijos de @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-01-14T02:36:34.000Z",
+            "id": "820097243776630784",
+            "text": "Consultar disponibilidad de LIORESAL en la sucursal de los cortijos de @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-01-13T17:35:34.000Z",
+            "id": "819961097683931138",
+            "text": "@LocatelVzla_ATC me podrian informar si hay lioresal de 25mg y q sucursal del pais esta disponible"
+        },
+        {
+            "created_at": "2017-01-13T17:03:20.000Z",
+            "id": "819952984759078915",
+            "text": "RT @FundacionBADAN: @rs26260101 Buenos D\u00edas   \nDisponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente. Sucursal Los Cortij\u2026"
+        },
+        {
+            "created_at": "2017-01-13T15:05:27.000Z",
+            "id": "819923321303265280",
+            "text": "@rs26260101 Buenos D\u00edas   \nDisponible Lioresal 10mg comp Presentar r\u00e9cipe,informe,c.i del paciente. Sucursal Los Cortijos."
+        },
+        {
+            "created_at": "2017-01-13T14:59:22.000Z",
+            "id": "819921786930397184",
+            "text": "@FundacionBADAN busco lioresal de 25  mg o baclofen les habra llegado"
+        },
+        {
+            "created_at": "2017-01-06T09:32:32.000Z",
+            "id": "817302824509906944",
+            "text": "90 Cm Baclofen &lt;b&gt;Gaggenau&lt;/b&gt; Uk: Muscle Relaxant(Lioresal) - 90 cm baclofen\u2026 https://t.co/76YNSzj1MD #lacuisine"
+        },
+        {
+            "created_at": "2017-01-03T04:27:59.000Z",
+            "id": "816139016366133248",
+            "text": "Difference between name brand must lioresal medicine multiple sclerosis and generic - https://t.co/n71US568dd #GoogleAlerts"
+        },
+        {
+            "created_at": "2017-01-03T04:06:40.000Z",
+            "id": "816133654011379714",
+            "text": "Lioresal treat multiple sclerosis cost per tablet - https://t.co/HwagVim4ys #GoogleAlerts"
+        },
+        {
+            "created_at": "2017-01-01T19:08:16.000Z",
+            "id": "815635771512061952",
+            "text": "I've got a part-time job &lt;a href=\" https://t.co/qwei4OPI2V \"&gt;lioresal 10 mg pret&lt;/a&gt; ... https://t.co/T63wQTDPjb"
+        }
+    ],
+    "meta": {
+        "newest_id": "820462908350066688",
+        "oldest_id": "815635771512061952",
+        "result_count": 14
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

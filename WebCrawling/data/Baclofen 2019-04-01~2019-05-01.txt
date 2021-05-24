@@ -1,0 +1,108 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-04-29T15:14:15.000Z",
+            "id": "1122881789326917632",
+            "text": "RT PelvicGuru1 PelvicGuru1: RyanMarino indygerl speakingabtpain Thanks for this!! What about Lioresal and Gablofen (Baclofen). What are the true muscle relaxers?\n \nThis seems like such a grey area...now I know why. https://t.co/vydV5ywLOH April 29, 2019 at 05:10AM"
+        },
+        {
+            "created_at": "2019-04-29T15:10:51.000Z",
+            "id": "1122880934745989121",
+            "text": "@RyanMarino @indygerl @speakingabtpain Thanks for this!! What about Lioresal and Gablofen (Baclofen). What are the true muscle relaxers?\n \nThis seems like such a grey area...now I know why."
+        }
+    ],
+    "meta": {
+        "newest_id": "1122881789326917632",
+        "oldest_id": "1122880934745989121",
+        "result_count": 2
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-04-30T23:15:25.000Z",
+            "id": "1123365266392588288",
+            "text": "RT @SocialElHatillo: Se requiere con Caracter de #Urgencia para paciente con esclerosis m\u00faltiple en estado avanzado Lioresal de 25mg, compo\u2026"
+        },
+        {
+            "created_at": "2019-04-30T06:01:36.000Z",
+            "id": "1123105099449020416",
+            "text": "Se requiere con Caracter de #Urgencia para paciente con esclerosis m\u00faltiple en estado avanzado Lioresal de 25mg, componente activo Baclofeno. \n#FarinolaConcejal \n#AracelisConcejal https://t.co/FyZwTkWF3N"
+        },
+        {
+            "created_at": "2019-04-29T15:14:15.000Z",
+            "id": "1122881789326917632",
+            "text": "RT PelvicGuru1 PelvicGuru1: RyanMarino indygerl speakingabtpain Thanks for this!! What about Lioresal and Gablofen (Baclofen). What are the true muscle relaxers?\n \nThis seems like such a grey area...now I know why. https://t.co/vydV5ywLOH April 29, 2019 at 05:10AM"
+        },
+        {
+            "created_at": "2019-04-29T15:10:51.000Z",
+            "id": "1122880934745989121",
+            "text": "@RyanMarino @indygerl @speakingabtpain Thanks for this!! What about Lioresal and Gablofen (Baclofen). What are the true muscle relaxers?\n \nThis seems like such a grey area...now I know why."
+        },
+        {
+            "created_at": "2019-04-25T12:17:26.000Z",
+            "id": "1121387742930378757",
+            "text": "@FundacionBADAN tendran lioresal de 25 mg?"
+        },
+        {
+            "created_at": "2019-04-25T12:14:16.000Z",
+            "id": "1121386943546310659",
+            "text": "@FundacionBADAN Buen dia tendran LIORESAL DE 25 MG?"
+        },
+        {
+            "created_at": "2019-04-22T18:59:49.000Z",
+            "id": "1120401842314334209",
+            "text": "Buenas tardes @FundacionBADAN, tienen disponible lioresal... Gracias"
+        },
+        {
+            "created_at": "2019-04-22T11:06:04.000Z",
+            "id": "1120282619151888385",
+            "text": "Reliable, Fast And Secure :: Order Generic Lioresal Online :: Trusted Pharmacy - https://t.co/UIHMQIr4GR https://t.co/tGMA8ajPqI"
+        },
+        {
+            "created_at": "2019-04-14T17:00:51.000Z",
+            "id": "1117472797842866178",
+            "text": "@ORLJmdelosRios Hola! Necesito ayuda urgente para proveer LIORESAL 10MG a ni\u00f1a de 8 a\u00f1os con Encefalopat\u00eda hipoxica severa con cuadriparesia esp\u00e1stica severa. Ella vive en Valencia y ya no tiene medicamento. Ayuda por favor!"
+        },
+        {
+            "created_at": "2019-04-14T00:35:33.000Z",
+            "id": "1117224840992260097",
+            "text": "@_celestika Que dramin o qu\u00ea \n\nToma Lioresal"
+        },
+        {
+            "created_at": "2019-04-08T05:04:49.000Z",
+            "id": "1115118276579868672",
+            "text": "M\u00e9dicaments de bonne qualit\u00e9 Lioresal 25 mg G\u00e9n\u00e9rique En Pharmacie - https://t.co/b2D1eyEynX https://t.co/c4N2uZlGp9"
+        },
+        {
+            "created_at": "2019-04-05T03:52:12.000Z",
+            "id": "1114012838648057865",
+            "text": "\u2618Lioresal (baclofen) for Muscle Spasms in Multiple Sclerosis\u2618 https://t.co/R98b6HlGvj"
+        },
+        {
+            "created_at": "2019-04-04T09:01:00.000Z",
+            "id": "1113728162800775169",
+            "text": "La Morue Livraison Acheter Lioresal UK - https://t.co/2hpLlYRBUh https://t.co/sVcCTy32c2"
+        }
+    ],
+    "meta": {
+        "newest_id": "1123365266392588288",
+        "oldest_id": "1113728162800775169",
+        "result_count": 13
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

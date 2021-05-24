@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-10-23T14:47:48.000Z",
+            "id": "1319651744939446278",
+            "text": "@cazamosfakenews igual que las carboplatino para el bbd de mary Hern\u00e1ndez. Las ampollas de granocyte. Las amp de lioresal para la hija de asdrubal y tantas mas"
+        },
+        {
+            "created_at": "2020-10-18T00:46:53.000Z",
+            "id": "1317628180509958150",
+            "text": "@GrupoFarmarket Buscando Diazepam 10mg o Lioresal  (Baclofeno) 10mg en tabletas"
+        },
+        {
+            "created_at": "2020-10-17T15:31:04.000Z",
+            "id": "1317488306054189056",
+            "text": "@AniMartnez2 Es la \u00faltima opci\u00f3n, he probado lioresal, bot\u00f3x, sativex y sirdalux... lo \u00faltimo es esto"
+        },
+        {
+            "created_at": "2020-10-03T00:23:54.000Z",
+            "id": "1312186579239104512",
+            "text": "@fucktprincess No Lioresal. Tenga fe."
+        },
+        {
+            "created_at": "2020-10-01T19:37:04.000Z",
+            "id": "1311752007871586304",
+            "text": "RT @ElisabetCabello: Alg\u00fan neur\u00f3logo o quien lo sepa, puede explicarme porque se le receta Lioresal a una paciente con hemiparesia en etapa\u2026"
+        },
+        {
+            "created_at": "2020-10-01T14:38:52.000Z",
+            "id": "1311676964386861059",
+            "text": "@ElisabetCabello Yo tom\u00e9 Lioresal para la espasticidad. No entiendo nada de nada... \ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33"
+        },
+        {
+            "created_at": "2020-10-01T14:37:37.000Z",
+            "id": "1311676649163890696",
+            "text": "RT @ElisabetCabello: Alg\u00fan neur\u00f3logo o quien lo sepa, puede explicarme porque se le receta Lioresal a una paciente con hemiparesia en etapa\u2026"
+        },
+        {
+            "created_at": "2020-10-01T14:15:22.000Z",
+            "id": "1311671048639832065",
+            "text": "Alg\u00fan neur\u00f3logo o quien lo sepa, puede explicarme porque se le receta Lioresal a una paciente con hemiparesia en etapa fl\u00e1cida? Con qu\u00e9 objetivo terap\u00e9utico? (Si no es para \u201cflacidarla\u201d m\u00e1s?) no logro entenderlo... \ud83e\udd14\ud83e\udd14\ud83e\udd14"
+        },
+        {
+            "created_at": "2020-10-01T03:19:33.000Z",
+            "id": "1311506009131757569",
+            "text": "@Farmarato Buen d\u00eda. Tendr\u00e1n disponible Lioresal o bipirideno? En Los Teques?"
+        }
+    ],
+    "meta": {
+        "newest_id": "1319651744939446278",
+        "oldest_id": "1311506009131757569",
+        "result_count": 9
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

@@ -1,0 +1,1179 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-06-29T18:31:18.000Z",
+            "id": "880493895708274691",
+            "text": "#Pharmaceuticals baclofen : Lioresal : https://t.co/zpOBE2f1br #MRX #Surveys #Statistics #MarketResearchReports #Forecast #Marketing"
+        },
+        {
+            "created_at": "2017-06-29T15:35:09.000Z",
+            "id": "880449567451381761",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-06-29T04:58:44.000Z",
+            "id": "880289405881073664",
+            "text": "Baclofen (Lioresal) may be used to decrease spasticity in the client w/ multiple sclerosis."
+        },
+        {
+            "created_at": "2017-06-28T21:27:39.000Z",
+            "id": "880175887186046978",
+            "text": "@Gerri_Edwards1 Just took 2x Lioresal which is the current relaxant used"
+        },
+        {
+            "created_at": "2017-06-28T18:36:59.000Z",
+            "id": "880132939929014272",
+            "text": "New post: \u00c9conomisez de l\u2019argent avec Generics Lioresal 25 mg En Vente Libre Courrier Livraison https://t.co/fYizGuf4D3"
+        },
+        {
+            "created_at": "2017-06-28T18:35:36.000Z",
+            "id": "880132591143104512",
+            "text": "Purchase Lioresal compare prices Discounts And Free Shipping Applied Canadian Discount Pha... https://t.co/XF9DAM107X https://t.co/vSxsWFqcV9"
+        },
+        {
+            "created_at": "2017-06-28T17:59:47.000Z",
+            "id": "880123577495834624",
+            "text": "#Safebridgeofhelp.org Cheapest Prices Ever - 25 mg Lioresal Buy - Discounts And Free Shippi... Read Blog: https://t.co/c8qadV4Yid"
+        },
+        {
+            "created_at": "2017-06-28T11:29:19.000Z",
+            "id": "880025312960040961",
+            "text": "Lioresal 10 mg Best Deal On The Best Lowest Prices For All Drugs Worldwide Shipping (1-3 D... https://t.co/njowFMQyR7 https://t.co/00mnJuHVoY"
+        },
+        {
+            "created_at": "2017-06-28T05:16:54.000Z",
+            "id": "879931591341948928",
+            "text": "#Thememonstor Soutien en ligne 24 heures - Le Prix Du Lioresal En Pharmacie. Read Blog: https://t.co/i5xUihyPxy"
+        },
+        {
+            "created_at": "2017-06-27T09:42:43.000Z",
+            "id": "879636096887533570",
+            "text": "New post: Billigaste Lioresal I Sverige. l\u00e5ga priser https://t.co/oXBz2bhbMu"
+        },
+        {
+            "created_at": "2017-06-26T15:55:50.000Z",
+            "id": "879367610240032768",
+            "text": "L\u00e5gt Pris Lioresal 25 mg Ink\u00f6p :: Gratis Worldwide frakt :: Inget recept beh\u00f6vs https://t.co/6Od9BiobrF https://t.co/NhJmBV8lCe"
+        },
+        {
+            "created_at": "2017-06-25T16:43:49.000Z",
+            "id": "879017296475422728",
+            "text": "RT @votabien: #ServicioP\u00fablico Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os  - https://t.co/tuHJrUS1x0 #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-25T16:15:08.000Z",
+            "id": "879010078006837248",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os  - https://t.co/tuHJrUS1x0 #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-25T15:20:46.000Z",
+            "id": "878996396489289728",
+            "text": "RT @Soypinturera: @FundaDistoniaVe @AndresDuran_3D @MarySobrino @AceroDuarte @mujermama @EME_demujer @Elu Lioresal\n25 junio\ud83c\udf37confirme x\u260e\ufe0f\n@A\u2026"
+        },
+        {
+            "created_at": "2017-06-25T15:17:51.000Z",
+            "id": "878995661181652993",
+            "text": "RT @Soypinturera: @FundaDistoniaVe @AndresDuran_3D @MarySobrino @AceroDuarte @mujermama @EME_demujer @Elu Lioresal\n25 junio\ud83c\udf37confirme x\u260e\ufe0f\n@A\u2026"
+        },
+        {
+            "created_at": "2017-06-25T15:07:57.000Z",
+            "id": "878993172063453185",
+            "text": "@FundaDistoniaVe @AndresDuran_3D @MarySobrino @AceroDuarte @mujermama @EME_demujer @Elu Lioresal\n25 junio\ud83c\udf37confirme x\u260e\ufe0f\n@AnonMundial @ACLAVE @DonaMed_VE @Donatumed @catalinacaroli https://t.co/8XMlC3RZaM"
+        },
+        {
+            "created_at": "2017-06-24T03:49:00.000Z",
+            "id": "878459921485975552",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-06-23T18:04:43.000Z",
+            "id": "878312881053237249",
+            "text": "@paolucci40 @BastaYaDeMuerte @Betticaa @hombreradikal @CATERINAV @ProfaMariaSilva @GarcaReinaldo @bonifazzi200 @miliurca @Azabacheonline Tienen lioresal en locatel la yaguara, sugiero rapidez ya que hay muy poca disponibilidad"
+        },
+        {
+            "created_at": "2017-06-23T00:24:10.000Z",
+            "id": "878045984315637762",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-06-22T16:36:11.000Z",
+            "id": "877928210406789120",
+            "text": "By Canadian Pharmacy \u2013 Best Place To Buy Lioresal online \u2013 Guaranteed Shipping https://t.co/MWXLoo3G2a https://t.co/lWQLFCJNRN"
+        },
+        {
+            "created_at": "2017-06-22T16:34:12.000Z",
+            "id": "877927711209123843",
+            "text": "By Canadian Pharmacy \u2013 Best Place To Buy Lioresal online \u2013 Guaranteed Shipping https://t.co/MWXLoo3G2a https://t.co/v5MEHuzSEB"
+        },
+        {
+            "created_at": "2017-06-19T15:33:32.000Z",
+            "id": "876825281692086272",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T14:59:34.000Z",
+            "id": "876816733805449218",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T13:04:42.000Z",
+            "id": "876787825601130501",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T06:11:24.000Z",
+            "id": "876683814420066304",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T04:46:08.000Z",
+            "id": "876662357526708224",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T04:13:04.000Z",
+            "id": "876654038619762688",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T04:09:32.000Z",
+            "id": "876653147770556418",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T04:08:41.000Z",
+            "id": "876652935266131969",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T04:07:52.000Z",
+            "id": "876652726381412356",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T04:04:09.000Z",
+            "id": "876651793714950144",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T03:49:51.000Z",
+            "id": "876648196147212291",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T01:51:36.000Z",
+            "id": "876618436323028999",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T01:23:49.000Z",
+            "id": "876611445093523456",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-19T00:06:29.000Z",
+            "id": "876591981824233477",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T23:31:33.000Z",
+            "id": "876583189682290688",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T21:40:36.000Z",
+            "id": "876555269668515841",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T21:16:24.000Z",
+            "id": "876549179534962691",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T21:10:59.000Z",
+            "id": "876547818219085824",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T21:10:27.000Z",
+            "id": "876547682776600576",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T21:03:35.000Z",
+            "id": "876545955029450752",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T20:50:45.000Z",
+            "id": "876542722676490240",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T20:48:34.000Z",
+            "id": "876542174439100417",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T20:34:56.000Z",
+            "id": "876538744488251392",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:47:50.000Z",
+            "id": "876526889619394560",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:35:50.000Z",
+            "id": "876523872404819968",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:35:27.000Z",
+            "id": "876523776430747648",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:33:35.000Z",
+            "id": "876523304424787968",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:31:49.000Z",
+            "id": "876522859836964865",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:29:33.000Z",
+            "id": "876522290732826625",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:27:35.000Z",
+            "id": "876521795960135680",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:26:34.000Z",
+            "id": "876521536857010177",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:22:46.000Z",
+            "id": "876520581939834880",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:19:20.000Z",
+            "id": "876519718680760321",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:16:06.000Z",
+            "id": "876518904826408961",
+            "text": "Por favor, para joven de 20a\u00f1os Oscar Navarrete, a\u00fan tiene el Lioresal de 10mg? https://t.co/8uP0jDCxV7"
+        },
+        {
+            "created_at": "2017-06-18T19:14:24.000Z",
+            "id": "876518478974509057",
+            "text": "Disculpa, a\u00fan tienes el Lioresal, se necesita urgente! https://t.co/5yD8faDLn5"
+        },
+        {
+            "created_at": "2017-06-18T19:12:55.000Z",
+            "id": "876518105282994176",
+            "text": "RT @ysbeliabedetti: El joven Oscar  Navarrete, herido por bomba necesita ayuda urgente #18jun #Ayuda #Urgente #Caracas #Venezuela #Lioresal\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:12:23.000Z",
+            "id": "876517969639206913",
+            "text": "El joven Oscar  Navarrete, herido por bomba necesita ayuda urgente #18jun #Ayuda #Urgente #Caracas #Venezuela #Lioresal #10mg #DiaDelPadre https://t.co/DiY1Y0RcOC"
+        },
+        {
+            "created_at": "2017-06-18T19:02:42.000Z",
+            "id": "876515532836663296",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:02:08.000Z",
+            "id": "876515391819980804",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:01:21.000Z",
+            "id": "876515192292745217",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T19:00:50.000Z",
+            "id": "876515062013407233",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:59:11.000Z",
+            "id": "876514647045804032",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:58:17.000Z",
+            "id": "876514421371273225",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:45:13.000Z",
+            "id": "876511133749956608",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:40:53.000Z",
+            "id": "876510042140356608",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:36:30.000Z",
+            "id": "876508938560192512",
+            "text": "Lioresal K\u00f6p Billigt. BTC Betalning accepteras. B\u00e4sta Apotek F\u00f6r Att K\u00f6pa\u2026 https://t.co/E3WczWyu0r https://t.co/jgy2KT9GFs"
+        },
+        {
+            "created_at": "2017-06-18T18:32:11.000Z",
+            "id": "876507853342871554",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:28:42.000Z",
+            "id": "876506974820741122",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:25:04.000Z",
+            "id": "876506060638613504",
+            "text": "RT @Elportuguej: \u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u2026"
+        },
+        {
+            "created_at": "2017-06-18T18:21:31.000Z",
+            "id": "876505169147592706",
+            "text": "\u00d3scar necesita con urgencia un medicamento llamado Lioresal de 10 mg. Si conocen d\u00f3nde puede conseguirse, se les agradecer\u00eda https://t.co/Ru9Ak7Vosc"
+        },
+        {
+            "created_at": "2017-06-17T21:59:22.000Z",
+            "id": "876197604970942468",
+            "text": "Meilleur Lioresal 25 mg * Exp\u00e9dition rapide * bas prix https://t.co/4iuHqiMDDX https://t.co/eRCXFj1uhH"
+        },
+        {
+            "created_at": "2017-06-16T22:49:04.000Z",
+            "id": "875847721944567808",
+            "text": "Free Doctor Consultations - Costo Lioresal 25 mg https://t.co/Chnm777glt https://t.co/qxA2ArkEwv"
+        },
+        {
+            "created_at": "2017-06-16T16:58:34.000Z",
+            "id": "875759517895733250",
+            "text": "VENDO PASTILLAS LIORESAL \"BACLOFENO\" EN VENEZUELA 10mg - Blog de lioresalbaclofeno10mg v\u00eda @lioresalbaclofeno10mg.blogdiario.com"
+        },
+        {
+            "created_at": "2017-06-16T12:57:02.000Z",
+            "id": "875698735594057730",
+            "text": "Canadian Family Pharmacy \u2013 cheapest Lioresal 25 mg Mail Order \u2013 Express\u00a0Delivery https://t.co/5jNdvrYJJJ https://t.co/sn86TwZuQ7"
+        },
+        {
+            "created_at": "2017-06-15T13:14:20.000Z",
+            "id": "875340697997459456",
+            "text": "In linea Lioresal Baclofen Senza Prescrizione \u2013 Trusted Online Pharmacy \u2013 Best Deal sui\u2026 https://t.co/VS9qZzXnOx https://t.co/CDHUL2T0P4"
+        },
+        {
+            "created_at": "2017-06-14T22:53:28.000Z",
+            "id": "875124056638574595",
+            "text": "K\u00f6pa Lioresal 10 mg Belgien / #bitcoin betalning \u00e4r tillg\u00e4nglig / Legal P\u00e5 N\u00e4tet Apotek https://t.co/W1addwmSMx"
+        },
+        {
+            "created_at": "2017-06-14T19:38:14.000Z",
+            "id": "875074922678190082",
+            "text": "@turufuria @NunkMasKK y lioresal? No creo, porque las recetas a vos te llegan ya autorizadas. Y no hablo de pami puntualmente, asique interiorizate ;)"
+        },
+        {
+            "created_at": "2017-06-14T15:23:59.000Z",
+            "id": "875010939875143681",
+            "text": "Generico 10 mg Lioresal Acquistare Sconto Online Pharmacy https://t.co/2UXvL7KOJ5 https://t.co/QZi4Uarc5X"
+        },
+        {
+            "created_at": "2017-06-14T15:17:08.000Z",
+            "id": "875009214745333760",
+            "text": "Lioresal 25 mg Cost Of - Canadian Discount Pharmacy - Worldwide Shipping (3-7 Days) https://t.co/YCiuwQuWfx https://t.co/hK72KVYEQ8"
+        },
+        {
+            "created_at": "2017-06-14T13:43:27.000Z",
+            "id": "874985638600122368",
+            "text": "#JuneWalker Brand And Generic Products - Discount Lioresal 25 mg - Bonus Free Shipping. Read Blog: https://t.co/0gXotShKsL"
+        },
+        {
+            "created_at": "2017-06-14T13:21:43.000Z",
+            "id": "874980171513712643",
+            "text": "#JuneWalker Acheter Lioresal France Sans Ordonnance :: Exp\u00e9dition rapide. Read Blog: https://t.co/aSA1IhOLXO"
+        },
+        {
+            "created_at": "2017-06-13T22:34:35.000Z",
+            "id": "874756915301101568",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/Nwh6dFViZM"
+        },
+        {
+            "created_at": "2017-06-13T22:13:55.000Z",
+            "id": "874751712652931072",
+            "text": "RT @info_Ve: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/QCeny2jK9V"
+        },
+        {
+            "created_at": "2017-06-13T22:02:25.000Z",
+            "id": "874748821078671364",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/QCeny2jK9V"
+        },
+        {
+            "created_at": "2017-06-13T21:42:00.000Z",
+            "id": "874743682720595969",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/Nwh6dFViZM"
+        },
+        {
+            "created_at": "2017-06-13T14:51:24.000Z",
+            "id": "874640353155874816",
+            "text": "Lioresal G\u00e9n\u00e9rique Prix * Livraison gratuite dans le monde * La Morue Livraison https://t.co/sP5XG5vinY https://t.co/gfKNRh8chm"
+        },
+        {
+            "created_at": "2017-06-13T14:36:23.000Z",
+            "id": "874636571491811328",
+            "text": "Lioresal G\u00e9n\u00e9rique Prix * Livraison gratuite dans le monde * La Morue Livraison https://t.co/WaCbVsdabu"
+        },
+        {
+            "created_at": "2017-06-13T13:46:03.000Z",
+            "id": "874623906723876866",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zVhWhwTEZN"
+        },
+        {
+            "created_at": "2017-06-13T12:47:03.000Z",
+            "id": "874609057973317632",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/8Gq9IRshrF"
+        },
+        {
+            "created_at": "2017-06-13T12:43:00.000Z",
+            "id": "874608040607178757",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/8Gq9IRshrF"
+        },
+        {
+            "created_at": "2017-06-13T12:30:44.000Z",
+            "id": "874604952391487489",
+            "text": "Info_Ve:#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/PDTNDNWy3y"
+        },
+        {
+            "created_at": "2017-06-13T11:49:32.000Z",
+            "id": "874594581777666048",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/xfYTwdUUMM"
+        },
+        {
+            "created_at": "2017-06-13T11:48:12.000Z",
+            "id": "874594248099860480",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/mDBBERp6tq"
+        },
+        {
+            "created_at": "2017-06-13T11:47:26.000Z",
+            "id": "874594053505134596",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/mDBBERp6tq"
+        },
+        {
+            "created_at": "2017-06-13T11:44:22.000Z",
+            "id": "874593283363786754",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/mDBBERp6tq"
+        },
+        {
+            "created_at": "2017-06-13T11:43:58.000Z",
+            "id": "874593181630967809",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/mDBBERp6tq"
+        },
+        {
+            "created_at": "2017-06-13T11:43:00.000Z",
+            "id": "874592939455815681",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/mDBBERp6tq"
+        },
+        {
+            "created_at": "2017-06-13T11:30:22.000Z",
+            "id": "874589761612255233",
+            "text": "Webnotitarde:#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/PDTNDNWy3y"
+        },
+        {
+            "created_at": "2017-06-13T11:16:11.000Z",
+            "id": "874586189671608320",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/0HW3g3J0c0"
+        },
+        {
+            "created_at": "2017-06-13T10:50:07.000Z",
+            "id": "874579629113307136",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zaIsz09q1c"
+        },
+        {
+            "created_at": "2017-06-13T10:46:37.000Z",
+            "id": "874578751849476096",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zaIsz09q1c"
+        },
+        {
+            "created_at": "2017-06-13T10:43:00.000Z",
+            "id": "874577839777091584",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zaIsz09q1c"
+        },
+        {
+            "created_at": "2017-06-13T10:32:12.000Z",
+            "id": "874575121238958080",
+            "text": "RT @info_Ve: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/EMCAm9CraB"
+        },
+        {
+            "created_at": "2017-06-13T10:29:48.000Z",
+            "id": "874574516403437568",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/EMCAm9CraB"
+        },
+        {
+            "created_at": "2017-06-13T09:45:50.000Z",
+            "id": "874563452995596288",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/oTk1IrwAIK"
+        },
+        {
+            "created_at": "2017-06-13T09:42:00.000Z",
+            "id": "874562490310561793",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/oTk1IrwAIK"
+        },
+        {
+            "created_at": "2017-06-13T06:42:00.000Z",
+            "id": "874517191017865216",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn"
+        },
+        {
+            "created_at": "2017-06-13T05:42:00.000Z",
+            "id": "874502090097164289",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/NqFb1wxYoz"
+        },
+        {
+            "created_at": "2017-06-13T04:51:08.000Z",
+            "id": "874489289748471808",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T04:48:50.000Z",
+            "id": "874488710687072257",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/yXygvZ2Rdz"
+        },
+        {
+            "created_at": "2017-06-13T04:42:00.000Z",
+            "id": "874486991399731200",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/yXygvZ2Rdz"
+        },
+        {
+            "created_at": "2017-06-13T03:52:55.000Z",
+            "id": "874474638138585092",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zVhWhwTEZN"
+        },
+        {
+            "created_at": "2017-06-13T03:46:37.000Z",
+            "id": "874473054239424513",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zVhWhwTEZN"
+        },
+        {
+            "created_at": "2017-06-13T03:45:24.000Z",
+            "id": "874472748143312897",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zVhWhwTEZN"
+        },
+        {
+            "created_at": "2017-06-13T03:44:45.000Z",
+            "id": "874472582975807488",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zVhWhwTEZN"
+        },
+        {
+            "created_at": "2017-06-13T03:42:55.000Z",
+            "id": "874472121937924099",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zVhWhwTEZN"
+        },
+        {
+            "created_at": "2017-06-13T03:42:02.000Z",
+            "id": "874471898045960192",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/zVhWhwTEZN"
+        },
+        {
+            "created_at": "2017-06-13T03:15:09.000Z",
+            "id": "874465134722330624",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:54:27.000Z",
+            "id": "874459925522632704",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:44:30.000Z",
+            "id": "874457420185128961",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:44:03.000Z",
+            "id": "874457306276257794",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:43:47.000Z",
+            "id": "874457240396333056",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:43:27.000Z",
+            "id": "874457157076430848",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:42:55.000Z",
+            "id": "874457022409961473",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:42:00.000Z",
+            "id": "874456792167727104",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/z2XExw49cj"
+        },
+        {
+            "created_at": "2017-06-13T02:33:21.000Z",
+            "id": "874454613726048256",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/xfYTwdUUMM"
+        },
+        {
+            "created_at": "2017-06-13T02:14:34.000Z",
+            "id": "874449888305717248",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/xfYTwdUUMM"
+        },
+        {
+            "created_at": "2017-06-13T01:50:11.000Z",
+            "id": "874443753859280898",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/Dd10lfw2mr"
+        },
+        {
+            "created_at": "2017-06-13T01:43:16.000Z",
+            "id": "874442009569882112",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/xfYTwdUUMM"
+        },
+        {
+            "created_at": "2017-06-13T01:41:01.000Z",
+            "id": "874441445792501761",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/xfYTwdUUMM"
+        },
+        {
+            "created_at": "2017-06-13T01:41:01.000Z",
+            "id": "874441443518988288",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/Dd10lfw2mr"
+        },
+        {
+            "created_at": "2017-06-13T01:30:11.000Z",
+            "id": "874438717703950336",
+            "text": "webnotitarde:#servicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/PDTNDNWy3y"
+        },
+        {
+            "created_at": "2017-06-13T01:25:25.000Z",
+            "id": "874437518371979270",
+            "text": "RT @info_Ve: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/bsSFd3nlT1"
+        },
+        {
+            "created_at": "2017-06-13T01:12:14.000Z",
+            "id": "874434203080937473",
+            "text": "RT @info_Ve: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/bsSFd3nlT1"
+        },
+        {
+            "created_at": "2017-06-13T01:10:20.000Z",
+            "id": "874433723118309376",
+            "text": "RT @info_Ve: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/bsSFd3nlT1"
+        },
+        {
+            "created_at": "2017-06-13T01:07:06.000Z",
+            "id": "874432908345454593",
+            "text": "RT @info_Ve: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/bsSFd3nlT1"
+        },
+        {
+            "created_at": "2017-06-13T01:06:30.000Z",
+            "id": "874432760324263937",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/bsSFd3nlT1"
+        },
+        {
+            "created_at": "2017-06-13T01:06:29.000Z",
+            "id": "874432756536705024",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal    https://t.co/h1PnX6OuzS\u00a0https://t.co/1sxsZjL9pE"
+        },
+        {
+            "created_at": "2017-06-13T00:45:28.000Z",
+            "id": "874427466697383936",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/vvjcHZBezl"
+        },
+        {
+            "created_at": "2017-06-13T00:41:16.000Z",
+            "id": "874426408948334592",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/jzqijkTOYg"
+        },
+        {
+            "created_at": "2017-06-13T00:41:00.000Z",
+            "id": "874426341898297344",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/vvjcHZBezl"
+        },
+        {
+            "created_at": "2017-06-13T00:40:00.000Z",
+            "id": "874426090663497728",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96sL7wV https://t.co/jzqijkTOYg"
+        },
+        {
+            "created_at": "2017-06-13T00:23:01.000Z",
+            "id": "874421815946489857",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/YTQLl7XbBc"
+        },
+        {
+            "created_at": "2017-06-13T00:22:23.000Z",
+            "id": "874421654780334083",
+            "text": "RT @webnotitarde: #ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/YTQLl7XbBc"
+        },
+        {
+            "created_at": "2017-06-13T00:19:47.000Z",
+            "id": "874421001102163971",
+            "text": "#ServicioP\u00fablico Se necesita con urgencia el medicamento Lioresal   https://t.co/94d96stwFn https://t.co/YTQLl7XbBc"
+        },
+        {
+            "created_at": "2017-06-12T23:29:04.000Z",
+            "id": "874408238686404608",
+            "text": "Se necesita con urgencia el medicamento Lioresal https://t.co/jJR4oVJl4V https://t.co/GoYhQVb5kY"
+        },
+        {
+            "created_at": "2017-06-12T04:07:36.000Z",
+            "id": "874115946633449474",
+            "text": "Good Quality Drugs. Lioresal 10 mg Costo https://t.co/zloR2wbu4U https://t.co/9krLamcVCR"
+        },
+        {
+            "created_at": "2017-06-12T02:28:40.000Z",
+            "id": "874091047374270466",
+            "text": "Good Quality Drugs. Lioresal 10 mg Costo https://t.co/zloR2wbu4U https://t.co/ZMNCYId6jn"
+        },
+        {
+            "created_at": "2017-06-10T18:32:44.000Z",
+            "id": "873608887630528512",
+            "text": "RT @jraarmas: @FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,te\u2026"
+        },
+        {
+            "created_at": "2017-06-10T18:23:17.000Z",
+            "id": "873606511200620545",
+            "text": "RT @jraarmas: @FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,te\u2026"
+        },
+        {
+            "created_at": "2017-06-09T04:02:17.000Z",
+            "id": "873027442453102594",
+            "text": "Pharmacie Approuv\u00e9 / M\u00e9dicament Lioresal / Livraison trackable https://t.co/xQ5RxI2T8c https://t.co/bcmOuhgrZE"
+        },
+        {
+            "created_at": "2017-06-09T02:46:56.000Z",
+            "id": "873008483590955008",
+            "text": "Achat De Lioresal En France - Payer Par Carte Visa - Meilleur prix et de haute qualit\u00e9 https://t.co/El1V2YuuOE https://t.co/usZyK7MFP1"
+        },
+        {
+            "created_at": "2017-06-09T02:01:47.000Z",
+            "id": "872997117983371264",
+            "text": "Urgente lioresal o baclofeno mi hija puede morir sin este medicamento para matar la bacteria del t\u00e9tanos04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-06-08T16:33:16.000Z",
+            "id": "872854047669309440",
+            "text": "Purchase Lioresal 25 mg cheap #1 Online Drugstore Free\u00a0Delivery https://t.co/pG0Fvzfl1s https://t.co/kHROy1h85j"
+        },
+        {
+            "created_at": "2017-06-08T15:53:40.000Z",
+            "id": "872844080790818817",
+            "text": "@FundacionBADAN Buen dia me urge saber si en alguna parte de Venezuela se dispone de Lioresal o baclofeno de 10 mg"
+        },
+        {
+            "created_at": "2017-06-08T15:02:15.000Z",
+            "id": "872831141786550272",
+            "text": "Purchase Cheapest Lioresal * Best Place To Order Generics * Worldwide\u00a0Delivery https://t.co/3GPAAw7Ftf https://t.co/gLVhjv1jMz"
+        },
+        {
+            "created_at": "2017-06-07T21:46:04.000Z",
+            "id": "872570378706604033",
+            "text": "Lioresal and 8565 - Lioresal manufacturer - Medtronic lioresal refill kit - Oologahonline https://t.co/eLdCEcQPxj"
+        },
+        {
+            "created_at": "2017-06-07T20:38:54.000Z",
+            "id": "872553475678367744",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @DonandoMedicin1 @amagroupnurse @SERVICIOPUBLIVE @PublS\u2026"
+        },
+        {
+            "created_at": "2017-06-07T20:14:47.000Z",
+            "id": "872547407757807616",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @DonandoMedicin1 @amagroupnurse @SERVICIOPUBLIVE @PublS\u2026"
+        },
+        {
+            "created_at": "2017-06-07T20:10:50.000Z",
+            "id": "872546410876608513",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @DonandoMedicin1 @amagroupnurse @SERVICIOPUBLIVE @PublS\u2026"
+        },
+        {
+            "created_at": "2017-06-07T20:10:32.000Z",
+            "id": "872546338935889922",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @DonandoMedicin1 @amagroupnurse @SERVICIOPUBLIVE @PublS\u2026"
+        },
+        {
+            "created_at": "2017-06-07T11:19:03.000Z",
+            "id": "872412583722184705",
+            "text": "@paramedik0112 @karkristali84 @KASPAROVTC @zngn_ysn @Shu_Mht @MarsdangelenATT @realistwe @magdur_hem @Gokhan_E_E_1905 @bhraSLM @muallimm5587 @magduranasinfci @zubdei_alemm @MRyhnl @KamyoncuFikret Senden tibbi yardim aliriz hocam, lirika neorontin lioresal vs ;)"
+        },
+        {
+            "created_at": "2017-06-07T01:12:31.000Z",
+            "id": "872259944803958784",
+            "text": "Purchase Online Lioresal Generic pills / Buy Online Without Prescription / Generic\u00a0Pharmacy https://t.co/ZE0smvNmW1 https://t.co/4aisxo3R13"
+        },
+        {
+            "created_at": "2017-06-06T18:52:13.000Z",
+            "id": "872164241125625856",
+            "text": "RT @jraarmas: @FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,te\u2026"
+        },
+        {
+            "created_at": "2017-06-06T16:38:48.000Z",
+            "id": "872130664488988673",
+            "text": "RT @jraarmas: @FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,te\u2026"
+        },
+        {
+            "created_at": "2017-06-06T12:50:49.000Z",
+            "id": "872073292739489793",
+            "text": "RT @jraarmas: @FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,te\u2026"
+        },
+        {
+            "created_at": "2017-06-06T12:50:03.000Z",
+            "id": "872073095800115202",
+            "text": "RT @jraarmas: @FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,te\u2026"
+        },
+        {
+            "created_at": "2017-06-06T12:49:12.000Z",
+            "id": "872072883270561792",
+            "text": "RT @jraarmas: @FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,te\u2026"
+        },
+        {
+            "created_at": "2017-06-06T12:44:39.000Z",
+            "id": "872071737315381248",
+            "text": "@FundaDistoniaVe @solechesoluma @Pura_Miel @juanlorenzodona @MarySobrino @YazVzla @RossVzla29 @CHC31 BD, el nro no atiende,tengo Lioresal, 10mg, 50 pastilas, para donar"
+        },
+        {
+            "created_at": "2017-06-05T22:58:49.000Z",
+            "id": "871863910525267968",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @sebuscasedona @BuscandoMedicin @buscatumedicina @mevem\u2026"
+        },
+        {
+            "created_at": "2017-06-05T22:07:14.000Z",
+            "id": "871850927795392512",
+            "text": "RT ATodoMomento_: #ServicioP\u00fablico Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #aTodoMomento  https://t.co/xUJS\u2026"
+        },
+        {
+            "created_at": "2017-06-05T22:07:13.000Z",
+            "id": "871850925622775809",
+            "text": "RT ATodoMomento_: Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os http://t.co/xUJS\u2026"
+        },
+        {
+            "created_at": "2017-06-05T17:52:20.000Z",
+            "id": "871786783339683841",
+            "text": "RT @aleidabaez: LA CADENA DE LA NI\u00d1A DE 5 A\u00d1OS QUE NECESITA LIORESAL(BACLOFENO).FALSO NO SE HAGA ECO DE ESO. YA NO TENDRA 5 A\u00d1OS. QUE ES DE\u2026"
+        },
+        {
+            "created_at": "2017-06-05T17:00:35.000Z",
+            "id": "871773758578720769",
+            "text": "Best Pharmacy To Order Generics \u2013 Purchase Cheapest Lioresal Generic Online \u2013 Big Discounts https://t.co/mjs1VidAKL"
+        },
+        {
+            "created_at": "2017-06-05T16:26:55.000Z",
+            "id": "871765288194367494",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @FundacionBADAN @fundatiacruz @serviproeura @farmaciafa\u2026"
+        },
+        {
+            "created_at": "2017-06-05T16:21:09.000Z",
+            "id": "871763837002895360",
+            "text": "RT @Venezuelienne09: URGENTE  @FundaDistoniaVe 0414 0121642 #Caracas CLONAZEPAM 2 mg/ RESPERIDONA 2mg/LIORESAL(Baclofeno)20 mg @SaludYa0800\u2026"
+        },
+        {
+            "created_at": "2017-06-05T16:20:20.000Z",
+            "id": "871763628134998016",
+            "text": "URGENTE  @FundaDistoniaVe 0414 0121642 #Caracas CLONAZEPAM 2 mg/ RESPERIDONA 2mg/LIORESAL(Baclofeno)20 mg @SaludYa0800 https://t.co/I9i1uafKDq"
+        },
+        {
+            "created_at": "2017-06-05T16:16:13.000Z",
+            "id": "871762592469012480",
+            "text": "RT @votabien: #URGENTE Se necesita con  Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T16:07:55.000Z",
+            "id": "871760503609143299",
+            "text": "RT @votabien: #URGENTE Se necesita con  Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T16:05:08.000Z",
+            "id": "871759802497675268",
+            "text": "RT @votabien: #URGENTE Se necesita con  Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T16:04:38.000Z",
+            "id": "871759677817794561",
+            "text": "RT @votabien: #URGENTE Se necesita con  Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T16:04:07.000Z",
+            "id": "871759547064619009",
+            "text": "#URGENTE Se necesita con  Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T16:00:26.000Z",
+            "id": "871758620647723008",
+            "text": "Cambio caja de lioresal o baclofen de 10 mg por lamotrigina de 100MG https://t.co/1XJ2uLKoJw"
+        },
+        {
+            "created_at": "2017-06-05T15:53:20.000Z",
+            "id": "871756834515943424",
+            "text": "RT @NoticiasVenezue: Se necesita con car\u00e1cter de urgencia Lioresal o Baclofeno https://t.co/bCTP7irE4U"
+        },
+        {
+            "created_at": "2017-06-05T15:53:14.000Z",
+            "id": "871756809975078912",
+            "text": "RT @NoticiasVenezue: Se necesita con car\u00e1cter de urgencia Lioresal o Baclofeno https://t.co/bCTP7irE4U"
+        },
+        {
+            "created_at": "2017-06-05T15:47:28.000Z",
+            "id": "871755359605731328",
+            "text": "RT @NoticiasVenezue: Se necesita con car\u00e1cter de urgencia Lioresal o Baclofeno https://t.co/bCTP7irE4U"
+        },
+        {
+            "created_at": "2017-06-05T15:45:10.000Z",
+            "id": "871754777834770435",
+            "text": "Se necesita con car\u00e1cter de urgencia Lioresal o Baclofeno https://t.co/7xXm3q6T5f"
+        },
+        {
+            "created_at": "2017-06-05T15:43:45.000Z",
+            "id": "871754422971494400",
+            "text": "RT @NoticiasVenezue: Se necesita con car\u00e1cter de urgencia Lioresal o Baclofeno https://t.co/bCTP7irE4U"
+        },
+        {
+            "created_at": "2017-06-05T15:43:38.000Z",
+            "id": "871754395347759104",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @FundacionBADAN @fundatiacruz @serviproeura @farmaciafa\u2026"
+        },
+        {
+            "created_at": "2017-06-05T15:40:49.000Z",
+            "id": "871753683926757378",
+            "text": "Se necesita con car\u00e1cter de urgencia Lioresal o Baclofeno https://t.co/bCTP7irE4U"
+        },
+        {
+            "created_at": "2017-06-05T15:33:35.000Z",
+            "id": "871751866216046599",
+            "text": "LA CADENA DE LA NI\u00d1A DE 5 A\u00d1OS QUE NECESITA LIORESAL(BACLOFENO).FALSO NO SE HAGA ECO DE ESO. YA NO TENDRA 5 A\u00d1OS. QUE ES DE MARACAY..BLA.BLA https://t.co/GZirM4Eayw"
+        },
+        {
+            "created_at": "2017-06-05T15:31:42.000Z",
+            "id": "871751388497412096",
+            "text": "RT @votabien: #URGENTE Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T15:28:08.000Z",
+            "id": "871750491239325697",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @FundacionBADAN @fundatiacruz @serviproeura @farmaciafa\u2026"
+        },
+        {
+            "created_at": "2017-06-05T15:27:27.000Z",
+            "id": "871750320568905729",
+            "text": "RT @votabien: #URGENTE Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T15:25:41.000Z",
+            "id": "871749875750318080",
+            "text": "RT @votabien: #URGENTE Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T15:23:41.000Z",
+            "id": "871749371603431426",
+            "text": "#URGENTE Se necesita con urgencia Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os #5Jun - https://t.co/txVGo3biNr #ATodoMomento"
+        },
+        {
+            "created_at": "2017-06-05T14:37:33.000Z",
+            "id": "871737761207906304",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @farma_sagrado @LocatelVzla @corazonymanos01 @fundacoli\u2026"
+        },
+        {
+            "created_at": "2017-06-05T11:09:33.000Z",
+            "id": "871685419863121921",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @farma_sagrado @LocatelVzla @corazonymanos01 @fundacoli\u2026"
+        },
+        {
+            "created_at": "2017-06-05T11:01:50.000Z",
+            "id": "871683478345089025",
+            "text": "RT @TodoNoticiasYA: V\u00eda daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay  SERVICIOPUBLIVE SERVICIO P\u00daBLICO\ud83c\uddfb\ud83c\uddea"
+        },
+        {
+            "created_at": "2017-06-05T10:19:31.000Z",
+            "id": "871672827593797633",
+            "text": "RT @TodoNoticiasYA: V\u00eda daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay  SERVICIOPUBLIVE SERVICIO P\u00daBLICO\ud83c\uddfb\ud83c\uddea"
+        },
+        {
+            "created_at": "2017-06-05T10:06:00.000Z",
+            "id": "871669426625671169",
+            "text": "V\u00eda daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay  SERVICIOPUBLIVE SERVICIO P\u00daBLICO\ud83c\uddfb\ud83c\uddea"
+        },
+        {
+            "created_at": "2017-06-05T04:21:48.000Z",
+            "id": "871582804336881664",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @AyudaHumanVzla @ayudasocialmed @ayudaalcubo @AyudaSOSV\u2026"
+        },
+        {
+            "created_at": "2017-06-05T04:19:11.000Z",
+            "id": "871582147970293760",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @farma_sagrado @LocatelVzla @corazonymanos01 @fundacoli\u2026"
+        },
+        {
+            "created_at": "2017-06-05T04:14:56.000Z",
+            "id": "871581078468911104",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @farma_sagrado @LocatelVzla @corazonymanos01 @fundacoli\u2026"
+        },
+        {
+            "created_at": "2017-06-05T03:03:08.000Z",
+            "id": "871563005435269122",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @AyudaHumanVzla @ayudasocialmed @ayudaalcubo @AyudaSOSV\u2026"
+        },
+        {
+            "created_at": "2017-06-05T02:49:32.000Z",
+            "id": "871559586804883456",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @farma_sagrado @LocatelVzla @corazonymanos01 @fundacoli\u2026"
+        },
+        {
+            "created_at": "2017-06-05T02:48:30.000Z",
+            "id": "871559326221127680",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @AyudaHumanVzla @ayudasocialmed @ayudaalcubo @AyudaSOSV\u2026"
+        },
+        {
+            "created_at": "2017-06-05T02:44:17.000Z",
+            "id": "871558261740359680",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @AyudaHumanVzla @ayudasocialmed @ayudaalcubo @AyudaSOSV\u2026"
+        },
+        {
+            "created_at": "2017-06-05T02:40:13.000Z",
+            "id": "871557239831703552",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @AyudaHumanVzla @ayudasocialmed @ayudaalcubo @AyudaSOSV\u2026"
+        },
+        {
+            "created_at": "2017-06-05T02:39:41.000Z",
+            "id": "871557107547594752",
+            "text": "RT @daniguerrero22: Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @farma_sagrado @LocatelVzla @corazonymanos01 @fundacoli\u2026"
+        },
+        {
+            "created_at": "2017-06-05T02:27:08.000Z",
+            "id": "871553949236592640",
+            "text": "RT @SERVICIOPUBLIVE: V\u00eda @daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay"
+        },
+        {
+            "created_at": "2017-06-05T02:26:19.000Z",
+            "id": "871553740922388480",
+            "text": "RT @SERVICIOPUBLIVE: V\u00eda @daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay"
+        },
+        {
+            "created_at": "2017-06-05T02:19:23.000Z",
+            "id": "871551996259684352",
+            "text": "RT @SERVICIOPUBLIVE: V\u00eda @daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay"
+        },
+        {
+            "created_at": "2017-06-05T02:17:51.000Z",
+            "id": "871551609473576965",
+            "text": "RT @SERVICIOPUBLIVE: V\u00eda @daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay"
+        },
+        {
+            "created_at": "2017-06-05T02:15:38.000Z",
+            "id": "871551052482478082",
+            "text": "RT @SERVICIOPUBLIVE: V\u00eda @daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay"
+        },
+        {
+            "created_at": "2017-06-05T02:11:26.000Z",
+            "id": "871549995023040512",
+            "text": "V\u00eda @daniguerrero22 Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay"
+        },
+        {
+            "created_at": "2017-06-05T02:03:12.000Z",
+            "id": "871547925243072512",
+            "text": "Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @farma_sagrado @LocatelVzla @corazonymanos01 @fundacolibrive @Necesidades_"
+        },
+        {
+            "created_at": "2017-06-05T02:02:09.000Z",
+            "id": "871547660636958720",
+            "text": "Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @Farmacarlota @Farmaplus_ve @Farmahorrove @FarmaciaLaManga @Farmatodo"
+        },
+        {
+            "created_at": "2017-06-05T02:00:26.000Z",
+            "id": "871547227541577728",
+            "text": "Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @ACLAVE @AccionVZLA @AccionSolidaria @caritasvln @AccionVZLA @farmbelladona"
+        },
+        {
+            "created_at": "2017-06-05T01:59:44.000Z",
+            "id": "871547052500688900",
+            "text": "Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @AyudaHumanVzla @ayudasocialmed @ayudaalcubo @AyudaSOSVzla @AyudaMedicinasV"
+        },
+        {
+            "created_at": "2017-06-05T01:59:03.000Z",
+            "id": "871546881280757760",
+            "text": "Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @DonandoMedicin1 @amagroupnurse @SERVICIOPUBLIVE @PublServ @AyudandoVzla"
+        },
+        {
+            "created_at": "2017-06-05T01:58:02.000Z",
+            "id": "871546624081874945",
+            "text": "Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @sebuscasedona @BuscandoMedicin @buscatumedicina @mevemex_ong"
+        },
+        {
+            "created_at": "2017-06-05T01:57:06.000Z",
+            "id": "871546390744367105",
+            "text": "Se solicita Lioresal o Baclofeno para ni\u00f1a de 5 a\u00f1os en Maracay @FundacionBADAN @fundatiacruz @serviproeura @farmaciafarmoi @FLaPastillita"
+        },
+        {
+            "created_at": "2017-06-04T21:29:53.000Z",
+            "id": "871479142386151426",
+            "text": "SOS. Soy Asdrubal Gonzalez, solicito Urgente:  LIORESAL o BACLOFENO Para salvar la vida d mi peque\u00f1a en HCM. 04144603470 04169467608"
+        },
+        {
+            "created_at": "2017-06-04T14:31:03.000Z",
+            "id": "871373737857134592",
+            "text": "Gros R\u00e9ductions * Acheter Lioresal 10 mg France * Livraison\u00a0internationale https://t.co/X0oAUF5vXA"
+        },
+        {
+            "created_at": "2017-06-04T14:27:43.000Z",
+            "id": "871372901143855106",
+            "text": "No Prescription Online Pharmacy \u2013 Posto migliore per comprare Lioresal \u2013 Comprare\u2026 https://t.co/XCPkd682vk https://t.co/JV6X31SdEz"
+        },
+        {
+            "created_at": "2017-06-02T06:54:43.000Z",
+            "id": "870534124263493632",
+            "text": "Purchase 10 mg Lioresal cheapest \u2013 Fast Shipping \u2013 Best Place To Order Generic\u00a0Drugs https://t.co/1th0nNSIlU https://t.co/q9mpEZQtRX"
+        },
+        {
+            "created_at": "2017-06-01T04:55:59.000Z",
+            "id": "870141856583233536",
+            "text": "Price Lioresal 10 mg generic :: Secure Drug Store :: We Ship With Ems, Fedex, Ups, And Other https://t.co/UEZUe0P5td"
+        },
+        {
+            "created_at": "2017-06-01T04:55:36.000Z",
+            "id": "870141760823013376",
+            "text": "Price Lioresal 10 mg generic :: Secure Drug Store :: We Ship With Ems, Fedex, Ups, And Other https://t.co/VqBVMXXYy0"
+        }
+    ],
+    "meta": {
+        "newest_id": "880493895708274691",
+        "oldest_id": "870141760823013376",
+        "result_count": 230
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

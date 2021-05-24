@@ -1,0 +1,549 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-01-31T08:12:30.000Z",
+            "id": "1090885519054118912",
+            "text": "Acheter Et \u00e9conomiser de l\u2019argent. O\u00f9 Acheter Lioresal Belgique. Bonus Livraison gratuite https://t.co/6RPG4jgTFV"
+        },
+        {
+            "created_at": "2019-01-30T20:20:57.000Z",
+            "id": "1090706454909239300",
+            "text": "1. Araba s\u00fcrmeyi \u00f6\u011fren\n2. Ehliyet al\n3. Lioresal'in prospekt\u00fcs\u00fcn\u00fc oku.\n\nArt\u0131k trafi\u011fe \u00e7\u0131kabilirsin. \ud83d\ude0c https://t.co/hxwqYo1g7G"
+        },
+        {
+            "created_at": "2019-01-29T15:32:19.000Z",
+            "id": "1090271427033485312",
+            "text": "@NicolasMaduro C conoce como ELA   esclerosis lateral amiotrofica eS una enfermedad degenerativa que atak laS NEURONA CENTRAL motoras \nM\u00e9dicamentos \nRilutec o rilusol d 50 mlg \nInmunocal est es nuevo \nbaclofeno o lioresal de  10 mlg"
+        },
+        {
+            "created_at": "2019-01-27T04:02:33.000Z",
+            "id": "1089373065446899713",
+            "text": "Pharmacie En Ligne Lioresal \u2013 \u00c9conomisez temps et co\u00fbts \u2013 Meds \u00c0 Bas Prix https://t.co/MYr7Cy1414"
+        },
+        {
+            "created_at": "2019-01-26T03:06:41.000Z",
+            "id": "1088996620346232833",
+            "text": "Cheap Pharmacy Products - Lioresal Generic Over The Counter Online - Discounts And Free Shipping Applied https://t.co/pB2a0avmfv"
+        },
+        {
+            "created_at": "2019-01-25T12:51:10.000Z",
+            "id": "1088781324058533892",
+            "text": "Lioresal-comprar en Colombia aqui no hay Risotomia dorsal selectiva-vaya a Colombia x q aqui ningun neurocirujano pediatra HA REALIZADO el procedimiento, quieren, pero jamas han hecho-cita para re calificacion llame ma\u00f1ana x q no hay agenda vamos 6 meses @Salud_Ec  @MVEspinosaS"
+        },
+        {
+            "created_at": "2019-01-25T01:30:16.000Z",
+            "id": "1088609968780132353",
+            "text": "Missed Them? US #FDA #drug approvals, updates and changes as of Thursday, January 17: Clozaril [NDA #019758], Lioresal [NDA #020075], Tylenol [NDA #019872] and many others: https://t.co/U3jSFD8XrY"
+        },
+        {
+            "created_at": "2019-01-20T16:31:26.000Z",
+            "id": "1087024815196725248",
+            "text": "Baclofen (Lioresal) \u2013 Side Effects, Uses, Dosage, Interactions,\u00a0Reviews https://t.co/t9QqETYFsf https://t.co/pduF0BEkrU"
+        },
+        {
+            "created_at": "2019-01-20T09:06:56.000Z",
+            "id": "1086912954472255488",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-18T03:51:10.000Z",
+            "id": "1086108710236237824",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-18T00:19:59.000Z",
+            "id": "1086055563803398145",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-18T00:00:09.000Z",
+            "id": "1086050576335556613",
+            "text": "Regulatory News: US Food &amp; Drug Administration #drug approvals, updates and/or changes as of Thursday, January 17: Clozaril [NDA #019758], Lioresal [NDA #020075], Tylenol [NDA #019872] and many others. #FDA: https://t.co/U3jSFD8XrY"
+        },
+        {
+            "created_at": "2019-01-17T23:47:01.000Z",
+            "id": "1086047271018524672",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T20:52:22.000Z",
+            "id": "1086003315413078017",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T19:33:59.000Z",
+            "id": "1085983593292288002",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T19:06:49.000Z",
+            "id": "1085976754362159104",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T16:54:42.000Z",
+            "id": "1085943505841803265",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T11:01:20.000Z",
+            "id": "1085854580972376070",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T10:36:39.000Z",
+            "id": "1085848368339996672",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T10:22:24.000Z",
+            "id": "1085844782302314496",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T10:21:16.000Z",
+            "id": "1085844496779231233",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T10:00:35.000Z",
+            "id": "1085839291316686849",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T09:59:21.000Z",
+            "id": "1085838979763658752",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T07:52:26.000Z",
+            "id": "1085807040885374976",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T07:17:54.000Z",
+            "id": "1085798348651606016",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T06:22:44.000Z",
+            "id": "1085784468768600064",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T03:40:31.000Z",
+            "id": "1085743644596989952",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T03:24:13.000Z",
+            "id": "1085739543377014786",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T02:47:00.000Z",
+            "id": "1085730175885737984",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T02:23:14.000Z",
+            "id": "1085724193478660096",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T02:05:50.000Z",
+            "id": "1085719817234141184",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:34:10.000Z",
+            "id": "1085711847007940608",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:32:56.000Z",
+            "id": "1085711537938018305",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:31:57.000Z",
+            "id": "1085711288007835648",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:29:15.000Z",
+            "id": "1085710608488529924",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:19:31.000Z",
+            "id": "1085708159648452608",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:17:05.000Z",
+            "id": "1085707546256650241",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:16:04.000Z",
+            "id": "1085707291918135297",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:12:20.000Z",
+            "id": "1085706352444420096",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:08:51.000Z",
+            "id": "1085705476090810368",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T01:06:34.000Z",
+            "id": "1085704899021627392",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:55:46.000Z",
+            "id": "1085702181183864832",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:55:40.000Z",
+            "id": "1085702156030828544",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:54:33.000Z",
+            "id": "1085701878724227072",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:46:03.000Z",
+            "id": "1085699737930682368",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:41:20.000Z",
+            "id": "1085698549243879424",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:35:11.000Z",
+            "id": "1085697003097595905",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:34:26.000Z",
+            "id": "1085696815398379520",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:27:45.000Z",
+            "id": "1085695131150438400",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:14:43.000Z",
+            "id": "1085691851087273989",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:12:52.000Z",
+            "id": "1085691388958818304",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:10:05.000Z",
+            "id": "1085690688078008321",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:04:31.000Z",
+            "id": "1085689286215847936",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:03:43.000Z",
+            "id": "1085689084121677824",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:02:24.000Z",
+            "id": "1085688752398352384",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:00:39.000Z",
+            "id": "1085688313607004160",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:00:30.000Z",
+            "id": "1085688275006828544",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-17T00:00:14.000Z",
+            "id": "1085688208732708865",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:57:53.000Z",
+            "id": "1085687614970175489",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:57:51.000Z",
+            "id": "1085687605965062149",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:57:30.000Z",
+            "id": "1085687518648066054",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:55:03.000Z",
+            "id": "1085686902479556608",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:54:19.000Z",
+            "id": "1085686717263331328",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:52:51.000Z",
+            "id": "1085686351096438785",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:51:58.000Z",
+            "id": "1085686128768888832",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:48:01.000Z",
+            "id": "1085685135025074176",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:41:50.000Z",
+            "id": "1085683578825031681",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:32:15.000Z",
+            "id": "1085681165925842944",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:29:43.000Z",
+            "id": "1085680526118305793",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:28:46.000Z",
+            "id": "1085680290545192960",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:13:35.000Z",
+            "id": "1085676467198017536",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:13:08.000Z",
+            "id": "1085676353461121024",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:12:10.000Z",
+            "id": "1085676110900330496",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:03:12.000Z",
+            "id": "1085673856365260800",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:03:07.000Z",
+            "id": "1085673833904984066",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T23:01:05.000Z",
+            "id": "1085673320459190273",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:56:43.000Z",
+            "id": "1085672225343262720",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:52:48.000Z",
+            "id": "1085671235843956738",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:43:47.000Z",
+            "id": "1085668970278064129",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:43:18.000Z",
+            "id": "1085668846374211585",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:42:27.000Z",
+            "id": "1085668632687005702",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:38:34.000Z",
+            "id": "1085667657750323205",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:35:18.000Z",
+            "id": "1085666832705568769",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:33:51.000Z",
+            "id": "1085666468434505728",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:29:55.000Z",
+            "id": "1085665478952001536",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:17:05.000Z",
+            "id": "1085662249467797505",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:14:55.000Z",
+            "id": "1085661703885381635",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:14:24.000Z",
+            "id": "1085661572826058753",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:10:49.000Z",
+            "id": "1085660672283668481",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:06:46.000Z",
+            "id": "1085659652946255874",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:06:45.000Z",
+            "id": "1085659649271943174",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:06:38.000Z",
+            "id": "1085659618515111942",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:06:31.000Z",
+            "id": "1085659591847731203",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:06:20.000Z",
+            "id": "1085659545010003969",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:06:03.000Z",
+            "id": "1085659472771526656",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:04:50.000Z",
+            "id": "1085659165635207168",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:03:59.000Z",
+            "id": "1085658954074447885",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:03:34.000Z",
+            "id": "1085658848214413319",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:01:51.000Z",
+            "id": "1085658415295131649",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:00:54.000Z",
+            "id": "1085658175620112385",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:00:41.000Z",
+            "id": "1085658120909598720",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde pa\u2026"
+        },
+        {
+            "created_at": "2019-01-16T22:00:05.000Z",
+            "id": "1085657972796084224",
+            "text": "\u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f Disponible el medicamento LIORESAL #BLACOFENO 25mg x 30 \ud83d\udc8aen Farmacia @LafranciscanaF HOY #16Ene Difunde para que llegue a quien lo necesita | Da retuit \ud83e\udd33 RT #ServicioP\u00fablico #SalvemosVidas \nDr. Jos\u00e9 Gregorio Hern\u00e1ndez \ud83c\uddfb\ud83c\uddea\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb https://t.co/2UVGLwQsDc"
+        },
+        {
+            "created_at": "2019-01-10T13:55:29.000Z",
+            "id": "1083361688794132481",
+            "text": "@HadadRay Megnapure: magnesium\nDebutine: protection \u0644\u0644\u0627\u0645\u0639\u0627\u0621\nDulcolax:\u0644\u0644\u0627\u0645\u0633\u0627\u0643\nSpasfon:\u0644\u0644\u062a\u0634\u0646\u062c\nLioresal:\u0645\u0631\u062e \u0644\u0644\u0639\u0636\u0644\u0627\u062a\nCinitrux: reflux\n\u062a\u0643\u0631\u0645"
+        },
+        {
+            "created_at": "2019-01-03T09:21:03.000Z",
+            "id": "1080755912376287232",
+            "text": "Lioresal was approved for use in the treatment of alcoholism https://t.co/njXP3umQVQ https://t.co/N0tluLMfD9 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e @YouTube"
+        }
+    ],
+    "meta": {
+        "newest_id": "1090885519054118912",
+        "oldest_id": "1080755912376287232",
+        "result_count": 104
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

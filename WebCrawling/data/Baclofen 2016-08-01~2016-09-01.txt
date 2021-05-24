@@ -1,0 +1,1007 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-08-21T21:53:54.000Z",
+            "id": "767479868669906948",
+            "text": "Azur | Pharma Kemstro Arbre Acheter Washington Otc 28 Tablets West Virginia | \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0410\u0432\u0442\u043e\u0412\u0438\u043a - \u0433.\u0410\u043d... https://t.co/CRHSMJSs2c #pharma"
+        },
+        {
+            "created_at": "2016-08-21T21:53:52.000Z",
+            "id": "767479859916353536",
+            "text": "Azur | Pharma Kemstro Arbre Acheter Washington Otc 28 Tablets West Virginia | \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0410\u0432\u0442\u043e\u0412\u0438\u043a - \u0433.\u0410\u043d... https://t.co/f9b2OaDb7E #pharma"
+        },
+        {
+            "created_at": "2016-08-21T21:53:45.000Z",
+            "id": "767479830371635200",
+            "text": "Azur | Pharma Kemstro Arbre Acheter Washington Otc 28 Tablets West Virginia | \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0410\u0432\u0442\u043e\u0412\u0438\u043a - ... https://t.co/sG81Ix9btz #PHARMACIST"
+        },
+        {
+            "created_at": "2016-08-21T21:53:43.000Z",
+            "id": "767479822117314560",
+            "text": "Azur | Pharma Kemstro Arbre Acheter Washington Otc 28 Tablets West Virginia | \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0410\u0432\u0442\u043e\u0412\u0438\u043a - ... https://t.co/yyBnlcUmY2 #PHARMACIST"
+        },
+        {
+            "created_at": "2016-08-21T21:53:32.000Z",
+            "id": "767479774700638208",
+            "text": "Azur | Pharma Kemstro Arbre Acheter Washington Otc 28 Tablets West Virginia | \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0410\u0432\u0442\u043e\u0412\u0438\u043a - ... https://t.co/vT0mCT7hxX #PHARMACIST"
+        }
+    ],
+    "meta": {
+        "newest_id": "767479868669906948",
+        "oldest_id": "767479774700638208",
+        "result_count": 5
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-08-29T00:12:53.000Z",
+            "id": "770051561997398020",
+            "text": "AanVLoFMBpB - I'm only getting an answering machine cheap lioresal  They reveal that she struggled for support fro..."
+        },
+        {
+            "created_at": "2016-08-28T07:05:09.000Z",
+            "id": "769792922195726336",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T04:02:43.000Z",
+            "id": "769747010383523840",
+            "text": "#TransformationalSchoolOfBusiness Bas Prix En Ligne 10 mg Lioresal - Exp\u00e9dition la plus rap... Read Blog: https://t.co/3b824YDmAV"
+        },
+        {
+            "created_at": "2016-08-28T02:59:58.000Z",
+            "id": "769731222264279041",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T02:54:46.000Z",
+            "id": "769729909799448576",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T02:37:10.000Z",
+            "id": "769725482912784384",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T02:27:13.000Z",
+            "id": "769722978212974592",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T02:19:55.000Z",
+            "id": "769721142517100544",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T01:35:25.000Z",
+            "id": "769709941988978688",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T01:20:20.000Z",
+            "id": "769706148614266880",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T01:20:14.000Z",
+            "id": "769706123159011328",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-28T00:46:55.000Z",
+            "id": "769697735909974016",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:59:37.000Z",
+            "id": "769685833788121088",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:52:40.000Z",
+            "id": "769684085170114560",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:52:22.000Z",
+            "id": "769684009597145088",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:51:48.000Z",
+            "id": "769683865933746176",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:51:36.000Z",
+            "id": "769683815283433472",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:49:15.000Z",
+            "id": "769683226478673920",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:37:10.000Z",
+            "id": "769680185012740096",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:20:23.000Z",
+            "id": "769675960157343744",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T23:14:08.000Z",
+            "id": "769674388585193472",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:54:42.000Z",
+            "id": "769669496504217604",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:53:27.000Z",
+            "id": "769669182380277761",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:51:54.000Z",
+            "id": "769668792758788096",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:50:59.000Z",
+            "id": "769668563338539008",
+            "text": "Retweeted Dip.Melva Paredes (@DipMelvaParedes):\n\nURGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la... https://t.co/t2OjLn8KVG"
+        },
+        {
+            "created_at": "2016-08-27T22:50:58.000Z",
+            "id": "769668558393663489",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:50:47.000Z",
+            "id": "769668512331796480",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:50:09.000Z",
+            "id": "769668349894811648",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:34:30.000Z",
+            "id": "769664414266122244",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:32:20.000Z",
+            "id": "769663868050280449",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:24:09.000Z",
+            "id": "769661809297063936",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:21:03.000Z",
+            "id": "769661029605339136",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:14:30.000Z",
+            "id": "769659381541658624",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:14:03.000Z",
+            "id": "769659267397873664",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T22:12:50.000Z",
+            "id": "769658962073518080",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:55:06.000Z",
+            "id": "769654496611926017",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:51:24.000Z",
+            "id": "769653568198639617",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:51:16.000Z",
+            "id": "769653531561320448",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:47:39.000Z",
+            "id": "769652621741322242",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:44:51.000Z",
+            "id": "769651919463800832",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:36:57.000Z",
+            "id": "769649930440966144",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:35:14.000Z",
+            "id": "769649497873981440",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:33:33.000Z",
+            "id": "769649074593271808",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:31:12.000Z",
+            "id": "769648482181222400",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:30:48.000Z",
+            "id": "769648382029758464",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:28:32.000Z",
+            "id": "769647812506161152",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:25:42.000Z",
+            "id": "769647099298324480",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:24:04.000Z",
+            "id": "769646687761666048",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:23:38.000Z",
+            "id": "769646580534284288",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:22:28.000Z",
+            "id": "769646286870048772",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:21:33.000Z",
+            "id": "769646053427712000",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:20:28.000Z",
+            "id": "769645781112524800",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:18:05.000Z",
+            "id": "769645182895742976",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:15:38.000Z",
+            "id": "769644568082022403",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:14:42.000Z",
+            "id": "769644330067853314",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:14:22.000Z",
+            "id": "769644246664089600",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:13:52.000Z",
+            "id": "769644121120247810",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:13:20.000Z",
+            "id": "769643989083496448",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:13:12.000Z",
+            "id": "769643954488877056",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:12:46.000Z",
+            "id": "769643843021070338",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T21:12:25.000Z",
+            "id": "769643758031933440",
+            "text": "RT @DipMelvaParedes: URGENTE !!! Por favor qui\u00e9n tenga LIORESAL o BACOFENOL  en la presentaci\u00f3n que sea comunicarse al 04144603470- 0416946\u2026"
+        },
+        {
+            "created_at": "2016-08-27T13:00:04.000Z",
+            "id": "769519852038066177",
+            "text": "Available Now: Lioresal intrathecal injection 10mg/20ml @ \u00a323.80 https://t.co/Bi6r4qFk4S"
+        },
+        {
+            "created_at": "2016-08-26T16:11:46.000Z",
+            "id": "769205705609977857",
+            "text": "RT @normara03: RTNoticiero Venevision Asdrubal Gonzales, lioresal o baclofeno mi hija puede morir sin este medicamento Aleiber 5 a\u00f1os reclu\u2026"
+        },
+        {
+            "created_at": "2016-08-26T13:16:27.000Z",
+            "id": "769161588859346944",
+            "text": "RT @normara03: RTNoticiero Venevision Asdrubal Gonzales, lioresal o baclofeno mi hija puede morir sin este medicamento Aleiber 5 a\u00f1os reclu\u2026"
+        },
+        {
+            "created_at": "2016-08-26T13:06:47.000Z",
+            "id": "769159156611878912",
+            "text": "RT @normara03: RTNoticiero Venevision Asdrubal Gonzales, lioresal o baclofeno mi hija puede morir sin este medicamento Aleiber 5 a\u00f1os reclu\u2026"
+        },
+        {
+            "created_at": "2016-08-26T13:04:23.000Z",
+            "id": "769158551772299264",
+            "text": "RT @normara03: RTNoticiero Venevision Asdrubal Gonzales, lioresal o baclofeno mi hija puede morir sin este medicamento Aleiber 5 a\u00f1os reclu\u2026"
+        },
+        {
+            "created_at": "2016-08-26T12:59:31.000Z",
+            "id": "769157325538136064",
+            "text": "RT @normara03: RTNoticiero Venevision Asdrubal Gonzales, lioresal o baclofeno mi hija puede morir sin este medicamento Aleiber 5 a\u00f1os reclu\u2026"
+        },
+        {
+            "created_at": "2016-08-26T12:17:39.000Z",
+            "id": "769146791958904832",
+            "text": "RTNoticiero Venevision Asdrubal Gonzales, lioresal o baclofeno mi hija puede morir sin este medicamento Aleiber 5 a\u00f1os recluida HCM d Aragua"
+        },
+        {
+            "created_at": "2016-08-25T16:03:01.000Z",
+            "id": "768841118201118720",
+            "text": "Common oral therapies for #spasticity in children with cerebral palsy found safe and effective. https://t.co/1GgnqvRDfi"
+        },
+        {
+            "created_at": "2016-08-25T10:44:11.000Z",
+            "id": "768760881672884224",
+            "text": "lioresal preis fiale intramuscolo pi e fibromialgia: High-avviso di recettori lioresal preis fiale intramusco... https://t.co/si3zbmuJX1"
+        },
+        {
+            "created_at": "2016-08-25T10:11:14.000Z",
+            "id": "768752589634613249",
+            "text": "#Telmi #Android | Kawasaki showed lioresal off the duAro at an event in Tokyo: buy lioresal cheap price lioresal\u2026 https://t.co/fzlAJV0XmQ"
+        },
+        {
+            "created_at": "2016-08-25T10:10:43.000Z",
+            "id": "768752457916686336",
+            "text": "#Telmi #Android | Kawasaki showed lioresal off the duAro at an event in Tokyo: buy lioresal cheap price lioresal\u2026 https://t.co/mucPBgL5fR"
+        },
+        {
+            "created_at": "2016-08-24T05:23:22.000Z",
+            "id": "768317756353548290",
+            "text": "#Telmi #Android | An American teenager baclofen seeks his place in the: Lioresal (Baclofen) 10mg/25mg - Special\u2026 https://t.co/eNrWNUsAKp"
+        },
+        {
+            "created_at": "2016-08-24T04:19:47.000Z",
+            "id": "768301753892687872",
+            "text": "#Telmi #Android | Buy lioresal 10mg bangkok: find lioresal generic find lioresal buy find lioresal purchase\u2026 https://t.co/EDejzPTQdg"
+        },
+        {
+            "created_at": "2016-08-23T16:45:52.000Z",
+            "id": "768127125308051456",
+            "text": "Lessons From Lioresal His Brush With Potential: generic lioresal\nbuy lioresal similar\ncheap lioresal no presc... https://t.co/C1HAvlU4QO"
+        },
+        {
+            "created_at": "2016-08-23T06:39:37.000Z",
+            "id": "767974557017739264",
+            "text": "#Telmi #Android | Discount Horse Lioresal For Pain Dose: Lioresal 10mg/25mg - Safe and Secure Drugstore Safe and\u2026 https://t.co/JTv0wbpk2f"
+        },
+        {
+            "created_at": "2016-08-23T05:36:17.000Z",
+            "id": "767958620646416384",
+            "text": "#Telmi #Android | Cash Price Of Rhyme Lioresal, Pacifen Missed Canada Buy Online: buy lioresal no rx buy lioresal\u2026 https://t.co/Mnd8a5pgTd"
+        },
+        {
+            "created_at": "2016-08-22T13:16:11.000Z",
+            "id": "767711968320892928",
+            "text": "Common Oral Therapies for Spasticity in Children with CP Found Safe and Effective https://t.co/E3nAOJWpx2 #disability #feedly"
+        },
+        {
+            "created_at": "2016-08-20T23:40:18.000Z",
+            "id": "767144257400471552",
+            "text": "RT @cerpalsy: Common Oral Therapies for Spasticity in Children with CP Found Safe and\u00a0Effective https://t.co/tg5JjQwwb8 https://t.co/0gn6Si\u2026"
+        },
+        {
+            "created_at": "2016-08-20T23:13:12.000Z",
+            "id": "767137439580299269",
+            "text": "Common Oral Therapies for Spasticity in Children with CP Found Safe and Effective - https://t.co/LJOkXgG4hw #GoogleAlerts"
+        },
+        {
+            "created_at": "2016-08-20T22:06:01.000Z",
+            "id": "767120532009476096",
+            "text": "Best Deal On 25 mg Lioresal generic * All Pills For Your Needs Here * Drug Shop: Best Deal On 25 mg Lioresal ... https://t.co/wRXs3R2i2w"
+        },
+        {
+            "created_at": "2016-08-20T21:47:30.000Z",
+            "id": "767115869960962050",
+            "text": "@LocatelVzla_ATC les llego lioresal 10 o 25mg o baclofen?"
+        },
+        {
+            "created_at": "2016-08-20T21:06:05.000Z",
+            "id": "767105445861400578",
+            "text": "Generic Drugs Without Prescription / Order Lioresal Generic Over The Counter / Fast Order Delivery - https://t.co/c7xGS9aA9P"
+        },
+        {
+            "created_at": "2016-08-20T15:59:52.000Z",
+            "id": "767028384182444032",
+            "text": "24/7 Customer Support Service Purchase Cheapest Lioresal Generic Online Free Courier Delivery - https://t.co/GSSQwVAdQ4"
+        },
+        {
+            "created_at": "2016-08-20T14:53:59.000Z",
+            "id": "767011807110238208",
+            "text": "@SOSmedicina busco lioresal o baclofe  10 o 25mg ayudenme a rt gracias"
+        },
+        {
+            "created_at": "2016-08-19T18:10:28.000Z",
+            "id": "766698865202335744",
+            "text": "Common Oral Therapies for Spasticity in Children with CP Found Safe and Effective: Spastic cer... https://t.co/MDWR7BqIIr #ACCSI #ACRCSI"
+        },
+        {
+            "created_at": "2016-08-19T17:10:22.000Z",
+            "id": "766683740429049856",
+            "text": "RT @rs26260101: @ACLAVE ayudenme busco lioresal o baclofen 10 o 25 mg por favor Rt gracias"
+        },
+        {
+            "created_at": "2016-08-19T16:31:56.000Z",
+            "id": "766674065994158080",
+            "text": "RT @rs26260101: @ACLAVE ayudenme busco lioresal o baclofen 10 o 25 mg por favor Rt gracias"
+        },
+        {
+            "created_at": "2016-08-19T16:30:58.000Z",
+            "id": "766673822913298432",
+            "text": "RT @rs26260101: @ACLAVE ayudenme busco lioresal o baclofen 10 o 25 mg por favor Rt gracias"
+        },
+        {
+            "created_at": "2016-08-19T16:30:01.000Z",
+            "id": "766673586593628161",
+            "text": "Common Oral Therapies for Spasticity in Children with CP Found Safe and\u00a0Effective https://t.co/tg5JjQwwb8 https://t.co/0gn6SiOg6x"
+        },
+        {
+            "created_at": "2016-08-19T15:27:40.000Z",
+            "id": "766657892523073537",
+            "text": "@ACLAVE ayudenme busco lioresal o baclofen 10 o 25 mg por favor Rt gracias"
+        },
+        {
+            "created_at": "2016-08-19T14:43:20.000Z",
+            "id": "766646736257425408",
+            "text": "generic Lioresal 10 mg Price * Save Money With Generics - https://t.co/l6hdkoKpz5"
+        },
+        {
+            "created_at": "2016-08-18T06:19:12.000Z",
+            "id": "766157480510492672",
+            "text": "Pillola Lioresal (Baclofen) 25 mg https://t.co/AgZxjDnKCt"
+        },
+        {
+            "created_at": "2016-08-18T01:10:47.000Z",
+            "id": "766079866135519232",
+            "text": "RT @rs26260101: @Jensaac @fundafarmacia @CienciaVE @fundatiacruz @FundLasDanielas @vivirmejorafpv1 busco lioresal o baclofen 10 o 25mg por\u2026"
+        },
+        {
+            "created_at": "2016-08-18T00:27:58.000Z",
+            "id": "766069087654948864",
+            "text": "#JavierPazSuarezCiaLtda Generic Lioresal Low Price :: Safe Buy Generic Lioresal Cheapest ::... Read Blog: https://t.co/NmYBEtDPOa"
+        },
+        {
+            "created_at": "2016-08-17T20:16:23.000Z",
+            "id": "766005777165348865",
+            "text": "RT v\u00eda @rs26260101 \"busco lioresal o baclofen 10 o 25mg por favor Rt2\"."
+        },
+        {
+            "created_at": "2016-08-17T19:34:23.000Z",
+            "id": "765995206093123584",
+            "text": "sext: i take 40-80 mg of baclofen (lioresal) every day...you work your elbows, too"
+        },
+        {
+            "created_at": "2016-08-17T18:37:09.000Z",
+            "id": "765980804291977216",
+            "text": "RT @rs26260101: @Jensaac @fundafarmacia @CienciaVE @fundatiacruz @FundLasDanielas @vivirmejorafpv1 busco lioresal o baclofen 10 o 25mg por\u2026"
+        },
+        {
+            "created_at": "2016-08-17T18:29:50.000Z",
+            "id": "765978961750921216",
+            "text": "@Jensaac @fundafarmacia @CienciaVE @fundatiacruz @FundLasDanielas @vivirmejorafpv1 busco lioresal o baclofen 10 o 25mg por favor Rt"
+        },
+        {
+            "created_at": "2016-08-17T15:35:26.000Z",
+            "id": "765935075259187200",
+            "text": "Lioresal buy, buy online mpfen cheap place to buy lioresal lioresal dosage. https://t.co/Qz2cZRM4ZM"
+        },
+        {
+            "created_at": "2016-08-17T15:35:25.000Z",
+            "id": "765935068980219904",
+            "text": "#TransformationalSchoolOfBusiness Order Safe Lioresal Discount (10 mg/25 mg) Buy Lioresal O... Read Blog: https://t.co/dZhprVJowi"
+        },
+        {
+            "created_at": "2016-08-17T15:13:32.000Z",
+            "id": "765929560760315904",
+            "text": "lioresal medicine lioresal price uk find lioresal buy buy lioresal tablet. https://t.co/qGM7MnCXUG"
+        },
+        {
+            "created_at": "2016-08-17T06:30:57.000Z",
+            "id": "765798048115073024",
+            "text": "buy lioresal uk buy lioresal online pharmacy cheap lioresal online buy. https://t.co/fchYZADDT0"
+        },
+        {
+            "created_at": "2016-08-15T11:44:30.000Z",
+            "id": "765152182895271936",
+            "text": "(MARACAY) soy Asdrubal Gonzales,  desesperadamente  solicito x lo q mas quieran si saben d nalguien q tenga Urgente  lioresal o baclofeno.."
+        },
+        {
+            "created_at": "2016-08-13T21:37:25.000Z",
+            "id": "764576617683378177",
+            "text": "@Akiztapp busco lioresal o baclofen 10 o 25mg ayudenme a difundir 04144337509"
+        },
+        {
+            "created_at": "2016-08-10T16:26:10.000Z",
+            "id": "763411124268175360",
+            "text": "@FundacionBADAN @NestorLuisCuma2busco lioresal o baclofen 10 o 25mg 04144337509 - 04126739430 @DonaMed_VE @OreOreo14 @farmaciafarmoi"
+        },
+        {
+            "created_at": "2016-08-08T13:58:09.000Z",
+            "id": "762649099623624705",
+            "text": "@MiguelL21332410 hola miguel, pudiste resolver lo del Lioresal?"
+        },
+        {
+            "created_at": "2016-08-07T17:09:36.000Z",
+            "id": "762334893581955072",
+            "text": "@MiguelL21332410 Hola Miguel \u00bfno se puede reemplazar el medicamento LIORESAL de #Novartis? Tomo otro mismo Lab. y a veces NO LO CONSIGO"
+        }
+    ],
+    "meta": {
+        "newest_id": "770051561997398020",
+        "next_token": "1jzu9lk96gu5npw2y5lp4gvs9d2tepva4g310pyx9ym5",
+        "oldest_id": "762334893581955072",
+        "result_count": 108
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-08-06T13:25:21.000Z",
+            "id": "761916071947411456",
+            "text": "RT @pedrucho2906: @MiguelL21332410 Vamos todos a respaldar al compa\u00f1ero Miguel en su pedimento del medicamento Lioresal Baclofeno. 10 mg,,,\u2026"
+        },
+        {
+            "created_at": "2016-08-06T01:54:43.000Z",
+            "id": "761742268302753793",
+            "text": "RT @pedrucho2906: @MiguelL21332410 Vamos todos a respaldar al compa\u00f1ero Miguel en su pedimento del medicamento Lioresal Baclofeno. 10 mg,,,\u2026"
+        },
+        {
+            "created_at": "2016-08-06T01:07:14.000Z",
+            "id": "761730316751036416",
+            "text": "@noticierovv Lioresal de 25mg.. si alguna persona, institucion o farmacia los tienen, favor informarme a los siguientes numeros de telefono"
+        },
+        {
+            "created_at": "2016-08-05T22:59:28.000Z",
+            "id": "761698164084764672",
+            "text": "RT @pedrucho2906: @MiguelL21332410 Vamos todos a respaldar al compa\u00f1ero Miguel en su pedimento del medicamento Lioresal Baclofeno. 10 mg,,,\u2026"
+        },
+        {
+            "created_at": "2016-08-05T22:39:57.000Z",
+            "id": "761693253565644801",
+            "text": "RT @cv_mercy: @fundatiacruz @DonaMed_VE @SeBuscaSeDona \nLIORESAL 10  mg https://t.co/dYZehwDsQf"
+        },
+        {
+            "created_at": "2016-08-05T22:35:27.000Z",
+            "id": "761692121455857669",
+            "text": "RT @cv_mercy: @fundatiacruz @DonaMed_VE @SeBuscaSeDona \nLIORESAL 10  mg https://t.co/dYZehwDsQf"
+        },
+        {
+            "created_at": "2016-08-05T22:35:14.000Z",
+            "id": "761692063582781440",
+            "text": "RT @pedrucho2906: @MiguelL21332410 Vamos todos a respaldar al compa\u00f1ero Miguel en su pedimento del medicamento Lioresal Baclofeno. 10 mg,,,\u2026"
+        },
+        {
+            "created_at": "2016-08-05T22:20:35.000Z",
+            "id": "761688379905957888",
+            "text": "@MiguelL21332410 Vamos todos a respaldar al compa\u00f1ero Miguel en su pedimento del medicamento Lioresal Baclofeno. 10 mg,,, Y pidamos a Dios"
+        },
+        {
+            "created_at": "2016-08-05T22:18:48.000Z",
+            "id": "761687927302782978",
+            "text": "@fundatiacruz @DonaMed_VE @SeBuscaSeDona \nLIORESAL 10  mg https://t.co/dYZehwDsQf"
+        },
+        {
+            "created_at": "2016-08-05T07:39:48.000Z",
+            "id": "761466720687194112",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-05T04:24:14.000Z",
+            "id": "761417504535224324",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-05T04:16:29.000Z",
+            "id": "761415555945463808",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-05T03:56:41.000Z",
+            "id": "761410570662842370",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-04T23:42:10.000Z",
+            "id": "761346521086382080",
+            "text": "#Lioresal https://t.co/CiZ40WApeA"
+        },
+        {
+            "created_at": "2016-08-04T15:32:48.000Z",
+            "id": "761223366929940480",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-04T13:26:30.000Z",
+            "id": "761191584566218752",
+            "text": "Urgente lioresal o baclofeno para la peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2016-08-02T02:02:24.000Z",
+            "id": "760294650368421888",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-02T01:47:02.000Z",
+            "id": "760290783002030082",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T01:35:13.000Z",
+            "id": "760287805763416065",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T01:15:43.000Z",
+            "id": "760282901313302528",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T01:10:22.000Z",
+            "id": "760281552949485568",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T01:06:54.000Z",
+            "id": "760280680509079553",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T01:05:05.000Z",
+            "id": "760280226018496512",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T01:04:53.000Z",
+            "id": "760280173845544960",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T01:03:16.000Z",
+            "id": "760279766440214528",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-02T00:40:25.000Z",
+            "id": "760274017953742848",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T22:52:11.000Z",
+            "id": "760246778633588736",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T21:10:36.000Z",
+            "id": "760221214975590400",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T19:23:19.000Z",
+            "id": "760194217398374400",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T19:09:00.000Z",
+            "id": "760190614713630720",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T19:06:52.000Z",
+            "id": "760190074864754688",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T19:06:49.000Z",
+            "id": "760190062395088897",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T18:59:34.000Z",
+            "id": "760188240930430976",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T18:57:36.000Z",
+            "id": "760187743804751872",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T18:54:05.000Z",
+            "id": "760186858773090304",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T18:41:13.000Z",
+            "id": "760183619352657920",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:38:39.000Z",
+            "id": "760182976328204288",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:36:46.000Z",
+            "id": "760182502979932160",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:25:15.000Z",
+            "id": "760179604074196993",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:20:45.000Z",
+            "id": "760178472086044672",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:20:27.000Z",
+            "id": "760178397171556353",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:20:13.000Z",
+            "id": "760178336807223297",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:17:19.000Z",
+            "id": "760177606344007681",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:11:39.000Z",
+            "id": "760176180993650688",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:10:49.000Z",
+            "id": "760175969663606784",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:08:30.000Z",
+            "id": "760175387389419520",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:06:15.000Z",
+            "id": "760174820822753280",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:06:08.000Z",
+            "id": "760174794062954496",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:05:56.000Z",
+            "id": "760174742980718592",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:04:52.000Z",
+            "id": "760174473299492865",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T18:01:59.000Z",
+            "id": "760173746707689472",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:56:02.000Z",
+            "id": "760172251463479301",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:41:27.000Z",
+            "id": "760168580180738048",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:39:51.000Z",
+            "id": "760168176525213698",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:35:28.000Z",
+            "id": "760167074564022273",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:34:07.000Z",
+            "id": "760166733894279169",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:20:02.000Z",
+            "id": "760163192828026881",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:19:59.000Z",
+            "id": "760163179385196545",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:15:47.000Z",
+            "id": "760162119681794048",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:03:29.000Z",
+            "id": "760159027598921728",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T17:03:23.000Z",
+            "id": "760159001380257793",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T17:01:09.000Z",
+            "id": "760158437980463104",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:56:23.000Z",
+            "id": "760157240527642624",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:55:44.000Z",
+            "id": "760157077520150531",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:54:08.000Z",
+            "id": "760156673629642752",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:52:40.000Z",
+            "id": "760156303717179397",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:52:33.000Z",
+            "id": "760156274252275712",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:52:29.000Z",
+            "id": "760156259647680512",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:52:16.000Z",
+            "id": "760156202009436160",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:52:12.000Z",
+            "id": "760156187115610112",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T16:51:05.000Z",
+            "id": "760155903769337860",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:50:40.000Z",
+            "id": "760155801252134917",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:50:35.000Z",
+            "id": "760155778615537664",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:50:34.000Z",
+            "id": "760155776912617472",
+            "text": "RT @ajchp53: Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPubl\u2026"
+        },
+        {
+            "created_at": "2016-08-01T16:49:51.000Z",
+            "id": "760155596784033793",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:49:19.000Z",
+            "id": "760155460238446592",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:49:00.000Z",
+            "id": "760155380810932224",
+            "text": "RT @ReporteYa: #1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:48:15.000Z",
+            "id": "760155190960021504",
+            "text": "#1Ag #ServicioP\u00fablico Urgente LIORESAL o BACLOFENO para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 \u2013 V\u00eda @ajchp53"
+        },
+        {
+            "created_at": "2016-08-01T16:35:57.000Z",
+            "id": "760152098021441537",
+            "text": "Urgente lioresal o baclofeno para ni\u00f1a en ESTADO de GRAVEDAD 04144603470 @fundatiacruz @SeBuscaSeDona @ReporteYa #ServicioPublico @Hanna3p"
+        },
+        {
+            "created_at": "2016-08-01T15:00:24.000Z",
+            "id": "760128049136406528",
+            "text": "Available Now: Lioresal intrathecal injection 10mg/20ml @ \u00a323.80 https://t.co/Bi6r4qFk4S"
+        }
+    ],
+    "meta": {
+        "newest_id": "761916071947411456",
+        "oldest_id": "760128049136406528",
+        "result_count": 80
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

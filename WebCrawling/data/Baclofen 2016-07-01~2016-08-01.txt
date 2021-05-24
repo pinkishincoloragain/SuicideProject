@@ -1,0 +1,1923 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-07-29T19:13:46.000Z",
+            "id": "759104650578649088",
+            "text": "Lioresal 10mg by Novartis x 1 Strip https://t.co/QT9Vs7c0LJ"
+        },
+        {
+            "created_at": "2016-07-29T04:54:40.000Z",
+            "id": "758888448417640449",
+            "text": "Comprar Muchas Lioresal Murcia, Haras Alpha-baclofen Generico Envio Urgente, Generic: Lioresal 10mg/25mg - Lo... https://t.co/GnRepKQYDR"
+        },
+        {
+            "created_at": "2016-07-28T19:49:26.000Z",
+            "id": "758751236292083714",
+            "text": "Aleiber d 5 a\u00f1os recluida en el HCM d Aragua...para su ayuda x favor x el 04144603470 04169467608 04124452846. Urgente  lioresal o baclofeno"
+        },
+        {
+            "created_at": "2016-07-28T07:00:04.000Z",
+            "id": "758557619275587585",
+            "text": "Available Now: Lioresal intrathecal injection 10mg/20ml @ \u00a323.80 https://t.co/Bi6r4qFk4S"
+        },
+        {
+            "created_at": "2016-07-28T03:22:43.000Z",
+            "id": "758502920530829312",
+            "text": "saben d alguien q tenga Urgente  lioresal o baclofeno...urgente!!!...en la presentaci\u00f3n q sea ayuden a ese padre que pide por su hija"
+        },
+        {
+            "created_at": "2016-07-28T03:03:34.000Z",
+            "id": "758498102550626304",
+            "text": "Difundan Asdrubal Gonzales desesperadamente les solicito x q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofeno...urgente"
+        },
+        {
+            "created_at": "2016-07-28T02:46:52.000Z",
+            "id": "758493900885594112",
+            "text": "#serviciopublico Estan solicitando el medicamento LIORESAL o en su defecto BACOFLENO. Favor avisar por esta via.  Dios les recompensar\u00e1"
+        },
+        {
+            "created_at": "2016-07-27T21:47:26.000Z",
+            "id": "758418545889964033",
+            "text": "RT @ServicioPubliVE: V\u00eda @miguelpinol URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9\u2026"
+        },
+        {
+            "created_at": "2016-07-27T21:27:33.000Z",
+            "id": "758413542064328704",
+            "text": "@MSF_Espana URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846 URGE"
+        },
+        {
+            "created_at": "2016-07-27T21:27:21.000Z",
+            "id": "758413489056653312",
+            "text": "@MSF_Espana URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL GONZALE 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:27:00.000Z",
+            "id": "758413402171670528",
+            "text": "@MSF_Espana AL PARECER ESTOS MEDICAMENTOS NO SE CONSIGUEN EN VENEZUELA LIORESAL O BACLOFENO PUEDEN SALVAR UNA VIDA NI\u00d1A 5 A\u00d1OS 0414-4603470"
+        },
+        {
+            "created_at": "2016-07-27T21:25:49.000Z",
+            "id": "758413103516229632",
+            "text": "@MSF_Espana URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:24:04.000Z",
+            "id": "758412664070692864",
+            "text": "RT @miguelpinol: @SeBuscaSeDona URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608\u2026"
+        },
+        {
+            "created_at": "2016-07-27T21:15:56.000Z",
+            "id": "758410615937531905",
+            "text": "@LaMega96 URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:15:14.000Z",
+            "id": "758410442729484288",
+            "text": "@MARACAYACTIVA URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:15:09.000Z",
+            "id": "758410421447618561",
+            "text": "RT @ServicioPubliVE: V\u00eda @miguelpinol URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9\u2026"
+        },
+        {
+            "created_at": "2016-07-27T21:13:13.000Z",
+            "id": "758409932085526528",
+            "text": "@estiempodedonar URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:12:33.000Z",
+            "id": "758409764225310720",
+            "text": "RT @miguelpinol: @buscatumedicina URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-94676\u2026"
+        },
+        {
+            "created_at": "2016-07-27T21:08:54.000Z",
+            "id": "758408846335479809",
+            "text": "@AyudaMedicinas URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR  VIDA COMUNICARSE CON ASDRUBAL URGE 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:08:47.000Z",
+            "id": "758408818107748352",
+            "text": "V\u00eda @miguelpinol URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:07:51.000Z",
+            "id": "758408584099205120",
+            "text": "@FarmaciaLaManga URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:07:16.000Z",
+            "id": "758408436371558404",
+            "text": "@publiservicio URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:05:43.000Z",
+            "id": "758408046833983488",
+            "text": "@spvzla URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:05:34.000Z",
+            "id": "758408008208617473",
+            "text": "@spvzla URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:04:54.000Z",
+            "id": "758407840327401472",
+            "text": "@AyudaMedicinasV URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:03:15.000Z",
+            "id": "758407424424443904",
+            "text": "@UrgeMedicamento URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:02:38.000Z",
+            "id": "758407272427036672",
+            "text": "@FLaPastillita URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:02:14.000Z",
+            "id": "758407170685865985",
+            "text": "@fundafarmacia URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T21:00:03.000Z",
+            "id": "758406618996416512",
+            "text": "RT @miguelpinol: @buscatumedicina URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-94676\u2026"
+        },
+        {
+            "created_at": "2016-07-27T20:59:28.000Z",
+            "id": "758406472866889734",
+            "text": "@GuiaMedicaVE URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T20:59:07.000Z",
+            "id": "758406387416399874",
+            "text": "@AyudaMedicinas URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T20:58:46.000Z",
+            "id": "758406295602860032",
+            "text": "@buscatumedicina URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T20:58:25.000Z",
+            "id": "758406210320207876",
+            "text": "@mismedicinas URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T20:58:10.000Z",
+            "id": "758406147426648064",
+            "text": "@SeBuscaSeDona URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T20:57:50.000Z",
+            "id": "758406061820870656",
+            "text": "@DonaMed_VE URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T20:57:06.000Z",
+            "id": "758405877254778880",
+            "text": "@ServicioPubliVE URGENTE LIORESAL O BACLOFENO ESTO PODRIA SALVAR UNA VIDA COMUNICARSE CON ASDRUBAL 0414-4603470 0416-9467608 0412-4452846"
+        },
+        {
+            "created_at": "2016-07-27T16:56:40.000Z",
+            "id": "758345369260400640",
+            "text": "Best Deal Lioresal Genuine - Lioresal To Buy Online - most effective Spasms cure https://t.co/FhuJNe2QdW"
+        },
+        {
+            "created_at": "2016-07-27T16:41:05.000Z",
+            "id": "758341450576855041",
+            "text": "Urgente  lioresal o baclofeno. la bacteria del t\u00e9tanos q provocan en ella gravessu ayuda x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2016-07-27T15:01:09.000Z",
+            "id": "758316298283520000",
+            "text": "Interesting read:  Best Deal Lioresal Genuine - Lioresal To Buy Online - most effective Spasms cure https://t.co/fBM6JmFyAN #InfoDocRx"
+        },
+        {
+            "created_at": "2016-07-27T13:46:06.000Z",
+            "id": "758297413719326720",
+            "text": "@SaludYa0800 se solicita con urgencia lioresal y baclofeno. Tlf de contacto 04144603470- 04169467608 -04124452846"
+        },
+        {
+            "created_at": "2016-07-27T11:48:42.000Z",
+            "id": "758267868387606528",
+            "text": "Para una ni\u00f1a con tetano se necesita urgente:LIORESAL oBACLOFENO.04144603470 o4124452846"
+        },
+        {
+            "created_at": "2016-07-27T03:47:57.000Z",
+            "id": "758146883558707200",
+            "text": "RT @Anticonvulsivos: \"Urgente\"  LIORESAL o BACLOFENO. Para la peque\u00f1a Aleiber recluida en el HCM de Aragua. 04144603470 04169467608 https:/\u2026"
+        },
+        {
+            "created_at": "2016-07-27T01:14:48.000Z",
+            "id": "758108344573976576",
+            "text": "RT @Round929: Urgente para la ni\u00f1a Aleiber d 5 a\u00f1os Lioresal o Baclofeno... en la presentaci\u00f3n q sea d los Ml q sea... 04144603470 04169467\u2026"
+        },
+        {
+            "created_at": "2016-07-27T01:13:56.000Z",
+            "id": "758108125127925760",
+            "text": "Urgente para la ni\u00f1a Aleiber d 5 a\u00f1os Lioresal o Baclofeno... en la presentaci\u00f3n q sea d los Ml q sea... 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2016-07-27T01:11:38.000Z",
+            "id": "758107546263678976",
+            "text": "RT @ulrichmarinel: EMERGENCIAAAA Amigos soy Asdrubal Gonzales,  solicito Urgente  lioresal o baclofeno.  04144603470/ 04169467608 041244528\u2026"
+        },
+        {
+            "created_at": "2016-07-27T01:11:33.000Z",
+            "id": "758107522611941376",
+            "text": "EMERGENCIAAAA Amigos soy Asdrubal Gonzales,  solicito Urgente  lioresal o baclofeno.  04144603470/ 04169467608 04124452846 POR FAVOR"
+        },
+        {
+            "created_at": "2016-07-26T20:37:08.000Z",
+            "id": "758038463727955968",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-26T18:04:58.000Z",
+            "id": "758000172253216768",
+            "text": "@NovartisPharma @Novartis \"Urgente\"  LIORESAL o BACLOFENO. Para la peque\u00f1a Aleiber recluida en el HCM de Aragua. 04144603470 04169467608"
+        },
+        {
+            "created_at": "2016-07-26T17:50:22.000Z",
+            "id": "757996498625978368",
+            "text": "RT @Anticonvulsivos: \"Urgente\"  LIORESAL o BACLOFENO. Para la peque\u00f1a Aleiber recluida en el HCM de Aragua. 04144603470 04169467608 https:/\u2026"
+        },
+        {
+            "created_at": "2016-07-26T17:07:42.000Z",
+            "id": "757985758875615232",
+            "text": "\"Urgente\"  LIORESAL o BACLOFENO. Para la peque\u00f1a Aleiber recluida en el HCM de Aragua. 04144603470 04169467608 https://t.co/qI2tYSZBEN"
+        },
+        {
+            "created_at": "2016-07-26T16:20:30.000Z",
+            "id": "757973882808766464",
+            "text": "@ConElMazoDando AYUDEME CON EL MEDICAMENTO LIORESAL (BACLOFENO) DE 10 O 20MG. SOY DISCAPACITADO. TELF.0416-7411458. VIVO EN SAN FDO-APURE."
+        },
+        {
+            "created_at": "2016-07-26T16:14:46.000Z",
+            "id": "757972440756748288",
+            "text": "@TareckPSUV CAMARADA NECESITO URGENTE EL MEDICAMENTO LIORESAL (BACLOFENO) DE 10 O 20MG. SOY DISCAPACITADO.TELF.0416-7411458. SOY APURE\u00d1O."
+        },
+        {
+            "created_at": "2016-07-26T16:07:54.000Z",
+            "id": "757970710547558400",
+            "text": "@NicolasMaduro PRESIDENTE NECESITO URGENTE EL MEDICAMENTO LIORESAL (BACLOFENO) DE 10 O 20 MG. SOY DISCAPACITADO. TELF. 0416-7411458.APURE\u00d1O."
+        },
+        {
+            "created_at": "2016-07-26T15:57:25.000Z",
+            "id": "757968070396739584",
+            "text": "@HectoRodriguez CAMARADA NECESITO EL MEDICAMENTO LIORESAL (BACLOFENO) DE 10 O 20MG URGENTE. SOY PACIENTE DISCAPACITADO. TELF. 0416-7411458"
+        },
+        {
+            "created_at": "2016-07-26T15:53:52.000Z",
+            "id": "757967180424183810",
+            "text": "soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofenourgente la"
+        },
+        {
+            "created_at": "2016-07-26T15:45:00.000Z",
+            "id": "757964949327114240",
+            "text": "@ConElMazoDand0 CAMARADA NECESITO EL MEDICAMENTO LIORESAL (BACLOFENO) DE 10 O 20MG, DIAGNOSTICO PARAPARESIA ESPASTICA TROPICAL. 04167411458"
+        },
+        {
+            "created_at": "2016-07-26T15:38:12.000Z",
+            "id": "757963237770063873",
+            "text": "@ConElMazoDandoD NECESITO EL MEDICAMENTO LIORESAL (BACLOFENO) DE 10 O 20MG. PADESCO DE PARAPARESIA ESPASTICA TROPICAL. TELF.0416-7411458."
+        },
+        {
+            "created_at": "2016-07-26T15:30:20.000Z",
+            "id": "757961254740848640",
+            "text": "@dcabellor camarada necesito el medicamento lioresal (baclofeno) de 10 o 20mg urgente. sufro de PARAPARESIA ESPASTICA TROPICAL. 0416-7411458"
+        },
+        {
+            "created_at": "2016-07-26T15:20:15.000Z",
+            "id": "757958720986939393",
+            "text": "@LuisanaMelo DRA ME URGE EL MEDICAMENTO LIORESAL (BACLOFENO) DE 10 O 20 MG. DIAGNOSTICO: PARAPARESIA ESPASTICA TROPICAL. TELF. 0416-7411458."
+        },
+        {
+            "created_at": "2016-07-26T15:07:51.000Z",
+            "id": "757955599346827265",
+            "text": "@LuisanaMelo DRA NECESITO URGENTE LIORESAL DE 10 - O 2OMG EN TABLETAS. MI DIAGNOSTICO PARAPARESIA ESPASTICA TROPICAL. TELF. 0416-7411458"
+        },
+        {
+            "created_at": "2016-07-26T13:12:15.000Z",
+            "id": "757926505305505792",
+            "text": "@RCR750 BD URGENT Lioresal o Baclofeno en cualquier presentaci\u00f3n para una ni\u00f1a de 5 a\u00f1os 04144603470 04169467608 04124452846 #Aragua"
+        },
+        {
+            "created_at": "2016-07-26T13:05:29.000Z",
+            "id": "757924805186314240",
+            "text": "@trafficMcbo BD URGENT Lioresal o Baclofeno en cualquier presentaci\u00f3n para una ni\u00f1a de 5 a\u00f1os 04144603470 04169467608 04124452846 #Aragua"
+        },
+        {
+            "created_at": "2016-07-26T13:04:55.000Z",
+            "id": "757924663364317184",
+            "text": "@trafficLARA BD URGENT Lioresal o Baclofeno en cualquier presentaci\u00f3n para una ni\u00f1a de 5 a\u00f1os 04144603470 04169467608 04124452846 #Aragua"
+        },
+        {
+            "created_at": "2016-07-26T13:03:31.000Z",
+            "id": "757924310606635008",
+            "text": "@trafficARC BD URGENT Lioresal o Baclofeno en cualquier presentaci\u00f3n para una ni\u00f1a de 5 a\u00f1os 04144603470 04169467608 04124452846 #Aragua"
+        },
+        {
+            "created_at": "2016-07-26T13:02:31.000Z",
+            "id": "757924058172366849",
+            "text": "@trafficARAGUA BD URGENT Lioresal o Baclofeno en cualquier presentaci\u00f3n para una ni\u00f1a de 5 a\u00f1os 04144603470 04169467608 04124452846 #Aragua"
+        },
+        {
+            "created_at": "2016-07-26T13:01:53.000Z",
+            "id": "757923899766083584",
+            "text": "@traffiCARACAS BD URGENT Lioresal o Baclofeno en cualquier presentaci\u00f3n para una ni\u00f1a de 5 a\u00f1os 04144603470 04169467608 04124452846 #Aragua"
+        },
+        {
+            "created_at": "2016-07-24T00:11:59.000Z",
+            "id": "757005370581745664",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-23T20:24:40.000Z",
+            "id": "756948164150689793",
+            "text": "@AyudaMedicinasV busco lioresal d 10 o 25mg telef04144337509-04126739430 ayudenme por favor https://t.co/hs6xnojZXB"
+        },
+        {
+            "created_at": "2016-07-23T01:32:09.000Z",
+            "id": "756663158325075968",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-23T00:46:07.000Z",
+            "id": "756651570960400384",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T23:12:34.000Z",
+            "id": "756628032098603009",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T21:47:27.000Z",
+            "id": "756606610244591617",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T21:45:50.000Z",
+            "id": "756606201035644929",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T21:44:18.000Z",
+            "id": "756605816011100162",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T21:42:09.000Z",
+            "id": "756605274593566720",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T21:25:51.000Z",
+            "id": "756601175307419649",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T21:07:00.000Z",
+            "id": "756596429783699456",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:51:19.000Z",
+            "id": "756592484071931908",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:34:34.000Z",
+            "id": "756588266720145408",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:32:27.000Z",
+            "id": "756587735331332096",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:29:04.000Z",
+            "id": "756586885594644480",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:28:10.000Z",
+            "id": "756586658515017729",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:13:00.000Z",
+            "id": "756582841534775296",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:05:48.000Z",
+            "id": "756581030572818434",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T20:02:35.000Z",
+            "id": "756580219272597504",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:58:54.000Z",
+            "id": "756579292063162368",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:57:12.000Z",
+            "id": "756578864646787073",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:57:12.000Z",
+            "id": "756578862553784320",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:54:24.000Z",
+            "id": "756578159353626624",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:54:18.000Z",
+            "id": "756578134061973505",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:54:06.000Z",
+            "id": "756578083520540676",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:53:41.000Z",
+            "id": "756577980181278720",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:51:50.000Z",
+            "id": "756577512017231872",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:51:42.000Z",
+            "id": "756577478559367172",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:45:16.000Z",
+            "id": "756575863043416066",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:29:52.000Z",
+            "id": "756571985979772928",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:26:10.000Z",
+            "id": "756571052843630592",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:16:05.000Z",
+            "id": "756568515323240448",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:11:35.000Z",
+            "id": "756567384526315521",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:09:35.000Z",
+            "id": "756566880492646400",
+            "text": "#SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @Farmacia_SAAS @Farmatodo"
+        },
+        {
+            "created_at": "2016-07-22T19:09:09.000Z",
+            "id": "756566770492866560",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T19:08:08.000Z",
+            "id": "756566515219046401",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:47:31.000Z",
+            "id": "756561326042931200",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:43:34.000Z",
+            "id": "756560335566503936",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:42:40.000Z",
+            "id": "756560107056529408",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:42:12.000Z",
+            "id": "756559991314771968",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:38:03.000Z",
+            "id": "756558947348348933",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:37:37.000Z",
+            "id": "756558836098564097",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:36:34.000Z",
+            "id": "756558572419444737",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:36:13.000Z",
+            "id": "756558483017826304",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:35:46.000Z",
+            "id": "756558373181657088",
+            "text": "#SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LocatelVzla_ATC @LocatelVzla @SAS"
+        },
+        {
+            "created_at": "2016-07-22T18:34:01.000Z",
+            "id": "756557931571798016",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:32:38.000Z",
+            "id": "756557584170094592",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:30:38.000Z",
+            "id": "756557080383856641",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:29:33.000Z",
+            "id": "756556806634278912",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:29:08.000Z",
+            "id": "756556700774195200",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:23:30.000Z",
+            "id": "756555284953391104",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:22:35.000Z",
+            "id": "756555054811869184",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:22:32.000Z",
+            "id": "756555041264263168",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:14:13.000Z",
+            "id": "756552947195056128",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:11:35.000Z",
+            "id": "756552285841416193",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:11:21.000Z",
+            "id": "756552227246997504",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:10:44.000Z",
+            "id": "756552071411863552",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:10:24.000Z",
+            "id": "756551987467026432",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:07:49.000Z",
+            "id": "756551335403786240",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:07:11.000Z",
+            "id": "756551176993271808",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:04:57.000Z",
+            "id": "756550616680398848",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:04:10.000Z",
+            "id": "756550420424720384",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:03:13.000Z",
+            "id": "756550181143908352",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:02:21.000Z",
+            "id": "756549960733261824",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:01:51.000Z",
+            "id": "756549835646504960",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:01:11.000Z",
+            "id": "756549669795299328",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T18:01:03.000Z",
+            "id": "756549635523678208",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:59:54.000Z",
+            "id": "756549346607398912",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:57:45.000Z",
+            "id": "756548805428928512",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:55:45.000Z",
+            "id": "756548299616821249",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:55:06.000Z",
+            "id": "756548136705732608",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:53:51.000Z",
+            "id": "756547821076119554",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:53:15.000Z",
+            "id": "756547669485576192",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:53:13.000Z",
+            "id": "756547664376897536",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T17:52:40.000Z",
+            "id": "756547525427933184",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T16:15:10.000Z",
+            "id": "756522989689208832",
+            "text": "RT @Guaralandia11: #SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC\u2026"
+        },
+        {
+            "created_at": "2016-07-22T16:14:59.000Z",
+            "id": "756522941974732800",
+            "text": "#SOS para paciente 3ra edad hospitalizado en Barquisimeto, se requiere urgente: LIORESAL Tab, (Bacoflen) @LucioQuincioC @trafficLARA"
+        },
+        {
+            "created_at": "2016-07-21T13:08:09.000Z",
+            "id": "756113534342209536",
+            "text": "I came here to work &lt;a href=\" https://t.co/NdKuQcgMiv \"&gt;baclo... https://t.co/SKj54w75uZ"
+        },
+        {
+            "created_at": "2016-07-21T09:30:02.000Z",
+            "id": "756058645150990336",
+            "text": "@Cristin08jesse Cu\u00e1nto caf\u00e9 has bebido?Te ha entrado parkison o espamlos y tbhas quedado pegada al bot\u00f3n de fav???Lioresal va bien creo \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        },
+        {
+            "created_at": "2016-07-20T21:53:26.000Z",
+            "id": "755883341484814337",
+            "text": "RT @rs26260101: @daisycar03051 @ayudaalcubo necesito lioresal o baclofen 10 o 25mg al 04144337509 04126739430 urgente"
+        },
+        {
+            "created_at": "2016-07-20T21:34:30.000Z",
+            "id": "755878575874641920",
+            "text": "#Pharmaceutical LIORESAL 25 : Tablet : 25mg : Novartis Pharma AG, Switzerland : https://t.co/QuyjZBcXn8 #MarketResearch #Statistics"
+        },
+        {
+            "created_at": "2016-07-20T03:54:53.000Z",
+            "id": "755611915573788672",
+            "text": "Life brand baclofen drive, lioresal assistant online singapore: buy baclofen no doctor\nbuy baclofen no doctor... https://t.co/Eozo38uZO8"
+        },
+        {
+            "created_at": "2016-07-20T03:18:23.000Z",
+            "id": "755602730316693504",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-19T16:08:09.000Z",
+            "id": "755434059271024640",
+            "text": "Where do you live? &lt;a href=\" https://t.co/YqxkYjr76w... https://t.co/JRKwk8w7xT"
+        },
+        {
+            "created_at": "2016-07-18T13:02:20.000Z",
+            "id": "755024909495959556",
+            "text": "Buy Cheap Lioresal Online Safe Buy Lioresal Medication most effective Spasms cure: Safe Buy Lioresal Medicati... https://t.co/A9WzRH0SyC"
+        },
+        {
+            "created_at": "2016-07-16T19:51:01.000Z",
+            "id": "754402979789365248",
+            "text": "RT @rs26260101: @fundatiacruz busco lioresal o baclofen 10 o 25mg soy lesionado medular telef 04144337509 - 04126739430 urgente por favor"
+        },
+        {
+            "created_at": "2016-07-16T19:26:19.000Z",
+            "id": "754396763667259392",
+            "text": "@fundatiacruz busco lioresal o baclofen 10 o 25mg soy lesionado medular telef 04144337509 - 04126739430 urgente por favor"
+        },
+        {
+            "created_at": "2016-07-14T10:02:17.000Z",
+            "id": "753530046216753152",
+            "text": "Order Safe Lioresal Discount \u2013 Low Cost Generic Lioresal Price \u2013 Next Day Delivery: Low Cost Generic Lioresal... https://t.co/liPZBlZhZS"
+        },
+        {
+            "created_at": "2016-07-12T21:30:40.000Z",
+            "id": "752978509107228672",
+            "text": "Necesitamos con URGENCIA el medicamento LIORESAL (Baclof\u00e9n) 10mg 0 20mg pastillas - 0212 8417982"
+        },
+        {
+            "created_at": "2016-07-11T22:35:44.000Z",
+            "id": "752632492486713344",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T21:28:41.000Z",
+            "id": "752615619393191936",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T18:38:19.000Z",
+            "id": "752572746756947968",
+            "text": "@PublServ @Alomirabal buenas tardes, no disponible Lioresal o Ligresal en nuestras farmacias afiliadas. Haremos RT con mucho gusto."
+        },
+        {
+            "created_at": "2016-07-11T17:12:38.000Z",
+            "id": "752551181868761091",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T15:40:39.000Z",
+            "id": "752528036214542336",
+            "text": "@Akiztapp busco lioresal 10 o 25mg telef 04144337509"
+        },
+        {
+            "created_at": "2016-07-11T15:21:03.000Z",
+            "id": "752523103696072704",
+            "text": "RT @Akiztapp: RT v\u00eda @rs26260101 \"buenos dias tienen lioresal o baclofen 10 o 25 mg tele 04144337509\"."
+        },
+        {
+            "created_at": "2016-07-11T15:11:22.000Z",
+            "id": "752520666864295936",
+            "text": "RT v\u00eda @rs26260101 \"buenos dias tienen lioresal o baclofen 10 o 25 mg tele 04144337509\"."
+        },
+        {
+            "created_at": "2016-07-11T14:53:17.000Z",
+            "id": "752516115729973248",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T14:43:22.000Z",
+            "id": "752513619687006208",
+            "text": "@fundafarmacia buenos dias tienen lioresal o baclofen 10 o 25 mg telef 04144337509"
+        },
+        {
+            "created_at": "2016-07-11T13:55:15.000Z",
+            "id": "752501511167639552",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T11:43:28.000Z",
+            "id": "752468345702719488",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T07:23:08.000Z",
+            "id": "752402832557502464",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T05:02:48.000Z",
+            "id": "752367515607658496",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T03:56:15.000Z",
+            "id": "752350766086688768",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T03:13:09.000Z",
+            "id": "752339921172590592",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T03:10:06.000Z",
+            "id": "752339154978021376",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:40:55.000Z",
+            "id": "752331808222707712",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:25:08.000Z",
+            "id": "752327837839925248",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:22:19.000Z",
+            "id": "752327128281219072",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:20:04.000Z",
+            "id": "752326562972856324",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:19:58.000Z",
+            "id": "752326535873454081",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:17:52.000Z",
+            "id": "752326007395381249",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:17:52.000Z",
+            "id": "752326007282106368",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:17:39.000Z",
+            "id": "752325952592543744",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:12:29.000Z",
+            "id": "752324653587304449",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:11:20.000Z",
+            "id": "752324362267746305",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "759104650578649088",
+        "next_token": "1jzu9lk96gu5npw2y2lxcou89849ney7gaztuff9re65",
+        "oldest_id": "752324362267746305",
+        "result_count": 181
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-07-11T02:09:30.000Z",
+            "id": "752323903511367680",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:09:22.000Z",
+            "id": "752323868539383808",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:09:09.000Z",
+            "id": "752323812746821632",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:09:01.000Z",
+            "id": "752323782228975616",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:06:39.000Z",
+            "id": "752323183886336001",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:05:58.000Z",
+            "id": "752323014138728448",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:03:46.000Z",
+            "id": "752322458015899648",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T02:02:52.000Z",
+            "id": "752322233486282752",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:59:33.000Z",
+            "id": "752321399344230404",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:57:09.000Z",
+            "id": "752320796278788096",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:57:05.000Z",
+            "id": "752320778532556800",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:55:43.000Z",
+            "id": "752320434230562816",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:55:43.000Z",
+            "id": "752320433848983552",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:54:55.000Z",
+            "id": "752320234254635009",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:54:49.000Z",
+            "id": "752320206383570944",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:54:25.000Z",
+            "id": "752320107251113984",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:53:32.000Z",
+            "id": "752319885682827265",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:53:05.000Z",
+            "id": "752319771111223301",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:51:05.000Z",
+            "id": "752319269497602048",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:50:38.000Z",
+            "id": "752319156553453569",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:50:12.000Z",
+            "id": "752319043747676160",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:49:58.000Z",
+            "id": "752318988026281985",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:49:57.000Z",
+            "id": "752318983706185728",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:49:45.000Z",
+            "id": "752318931684233217",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:49:29.000Z",
+            "id": "752318867071008768",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:49:21.000Z",
+            "id": "752318832681820160",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:48:28.000Z",
+            "id": "752318608378892289",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:47:52.000Z",
+            "id": "752318457945985024",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:47:24.000Z",
+            "id": "752318338764828673",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:47:10.000Z",
+            "id": "752318283429347329",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:47:07.000Z",
+            "id": "752318269768564737",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:46:47.000Z",
+            "id": "752318183575519234",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:46:35.000Z",
+            "id": "752318134900719616",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:45:47.000Z",
+            "id": "752317936010989568",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:45:22.000Z",
+            "id": "752317830180339712",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:29:18.000Z",
+            "id": "752313786233675776",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:26:37.000Z",
+            "id": "752313112028647428",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:22:43.000Z",
+            "id": "752312129424859136",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:19:52.000Z",
+            "id": "752311413679554560",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:18:31.000Z",
+            "id": "752311071168425986",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:17:55.000Z",
+            "id": "752310920727056388",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:17:09.000Z",
+            "id": "752310727201943552",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:04:31.000Z",
+            "id": "752307547449753600",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T01:00:39.000Z",
+            "id": "752306574207713280",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:59:00.000Z",
+            "id": "752306159671967744",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:58:07.000Z",
+            "id": "752305937847726080",
+            "text": "RT @Alomirabal: Se requiere urgente Ligresal o lioresal(baclofenode)10mg, espasticidad d la musculatura estriada d origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:56:05.000Z",
+            "id": "752305425727512577",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:54:03.000Z",
+            "id": "752304916652298240",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:47:46.000Z",
+            "id": "752303333130530816",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:44:31.000Z",
+            "id": "752302516285673472",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:42:30.000Z",
+            "id": "752302006145081346",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:39:29.000Z",
+            "id": "752301247324192776",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:35:07.000Z",
+            "id": "752300151323107328",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:33:44.000Z",
+            "id": "752299802860347396",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:30:17.000Z",
+            "id": "752298933754466304",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:29:26.000Z",
+            "id": "752298721476501504",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:25:23.000Z",
+            "id": "752297702688522240",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:22:35.000Z",
+            "id": "752296994002042884",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:18:46.000Z",
+            "id": "752296034953490432",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:17:00.000Z",
+            "id": "752295591531642880",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:13:14.000Z",
+            "id": "752294644252368896",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:13:05.000Z",
+            "id": "752294604305797120",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:09:03.000Z",
+            "id": "752293592287289344",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:08:59.000Z",
+            "id": "752293573010288640",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:05:56.000Z",
+            "id": "752292806358626304",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:03:13.000Z",
+            "id": "752292122238259200",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:01:27.000Z",
+            "id": "752291677008699393",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-11T00:01:27.000Z",
+            "id": "752291675993677824",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:59:32.000Z",
+            "id": "752291195167137792",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:59:13.000Z",
+            "id": "752291114573557760",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:59:00.000Z",
+            "id": "752291061150744576",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:55:56.000Z",
+            "id": "752290288652124160",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:55:48.000Z",
+            "id": "752290254778957824",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:55:33.000Z",
+            "id": "752290193856720896",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:55:24.000Z",
+            "id": "752290153666899968",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:54:57.000Z",
+            "id": "752290042689773568",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:54:16.000Z",
+            "id": "752289869431468032",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:54:01.000Z",
+            "id": "752289808962187264",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:53:36.000Z",
+            "id": "752289700782669828",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:53:31.000Z",
+            "id": "752289681816027136",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:53:22.000Z",
+            "id": "752289644851650563",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:52:34.000Z",
+            "id": "752289442476490752",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:51:56.000Z",
+            "id": "752289281432059904",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:51:50.000Z",
+            "id": "752289256933031936",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:50:59.000Z",
+            "id": "752289043552071680",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:50:35.000Z",
+            "id": "752288944725823488",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:50:04.000Z",
+            "id": "752288813192450048",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:49:39.000Z",
+            "id": "752288707600912388",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:49:26.000Z",
+            "id": "752288654702342147",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:49:25.000Z",
+            "id": "752288650956800001",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:49:11.000Z",
+            "id": "752288589317373952",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:48:18.000Z",
+            "id": "752288368977907713",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:48:17.000Z",
+            "id": "752288362871066624",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:48:02.000Z",
+            "id": "752288300703113216",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:47:34.000Z",
+            "id": "752288184692867072",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:46:44.000Z",
+            "id": "752287974319153152",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:46:15.000Z",
+            "id": "752287854043226112",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:45:44.000Z",
+            "id": "752287723067740160",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T23:01:21.000Z",
+            "id": "752276554621779969",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:56:34.000Z",
+            "id": "752275348121874432",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:54:18.000Z",
+            "id": "752274779340693504",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:33:04.000Z",
+            "id": "752269434115518464",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:15:36.000Z",
+            "id": "752265040904986624",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:12:41.000Z",
+            "id": "752264306704674816",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:07:55.000Z",
+            "id": "752263105019727872",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:07:49.000Z",
+            "id": "752263079702953984",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T22:07:43.000Z",
+            "id": "752263055053119489",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:43:05.000Z",
+            "id": "752256854709899264",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:42:52.000Z",
+            "id": "752256802411032576",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:38:18.000Z",
+            "id": "752255651204702209",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:36:12.000Z",
+            "id": "752255124312035328",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:27:11.000Z",
+            "id": "752252855269134336",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:24:22.000Z",
+            "id": "752252144649179138",
+            "text": "RT @Alomirabal: Se requiere urgente Ligresal o lioresal(baclofenode)10mg, espasticidad d la musculatura estriada d origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:21:03.000Z",
+            "id": "752251310733398017",
+            "text": "RT @Alomirabal: Se requiere urgente Ligresal o lioresal(baclofenode)10mg, espasticidad d la musculatura estriada d origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:13:46.000Z",
+            "id": "752249477294125056",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:12:41.000Z",
+            "id": "752249204555313153",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:12:32.000Z",
+            "id": "752249169050497024",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:11:51.000Z",
+            "id": "752248998430404608",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:09:14.000Z",
+            "id": "752248338704019456",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:02:22.000Z",
+            "id": "752246608134365185",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:00:39.000Z",
+            "id": "752246177773391872",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T21:00:23.000Z",
+            "id": "752246108609544193",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:50:27.000Z",
+            "id": "752243610041651204",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:48:48.000Z",
+            "id": "752243195120087041",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:44:02.000Z",
+            "id": "752241996920651777",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:37:36.000Z",
+            "id": "752240375520124928",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:35:59.000Z",
+            "id": "752239969905901569",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:33:25.000Z",
+            "id": "752239322946994177",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:29:37.000Z",
+            "id": "752238368482816001",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:28:06.000Z",
+            "id": "752237985547055105",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:27:03.000Z",
+            "id": "752237722702483456",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:27:01.000Z",
+            "id": "752237715261911040",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:22:48.000Z",
+            "id": "752236653675212804",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:14:48.000Z",
+            "id": "752234639880781825",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:14:43.000Z",
+            "id": "752234618221367296",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:11:52.000Z",
+            "id": "752233901788127233",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:11:38.000Z",
+            "id": "752233843785080836",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:05:41.000Z",
+            "id": "752232345185452033",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T20:00:44.000Z",
+            "id": "752231098164318208",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:58:50.000Z",
+            "id": "752230622144393216",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:50:06.000Z",
+            "id": "752228422999502848",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:49:49.000Z",
+            "id": "752228352128409601",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:49:21.000Z",
+            "id": "752228234012622848",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:46:22.000Z",
+            "id": "752227482640715776",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:44:24.000Z",
+            "id": "752226989562535940",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:44:15.000Z",
+            "id": "752226952870756358",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:44:11.000Z",
+            "id": "752226933153402880",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:42:02.000Z",
+            "id": "752226395166744576",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:41:51.000Z",
+            "id": "752226346688995328",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:41:02.000Z",
+            "id": "752226143621812225",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:40:45.000Z",
+            "id": "752226068669620225",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:40:13.000Z",
+            "id": "752225936867819522",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:39:11.000Z",
+            "id": "752225676980281344",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:38:50.000Z",
+            "id": "752225587771559936",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:36:58.000Z",
+            "id": "752225116243755008",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:34:30.000Z",
+            "id": "752224495658827776",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:34:03.000Z",
+            "id": "752224385575030784",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:33:42.000Z",
+            "id": "752224294726492160",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:29:29.000Z",
+            "id": "752223235287244800",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:29:28.000Z",
+            "id": "752223231021580288",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:28:11.000Z",
+            "id": "752222909372960768",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:27:11.000Z",
+            "id": "752222656523624448",
+            "text": "Se requiere urgente Ligresal o lioresal(baclofenode)10mg, espasticidad d la musculatura estriada d origen espinal y cerebral\n+58 4148123239"
+        },
+        {
+            "created_at": "2016-07-10T19:27:06.000Z",
+            "id": "752222633723359233",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:26:54.000Z",
+            "id": "752222585518161920",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:26:53.000Z",
+            "id": "752222581013569536",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:26:18.000Z",
+            "id": "752222435425054721",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:25:55.000Z",
+            "id": "752222339073503232",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:25:45.000Z",
+            "id": "752222296912297984",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:25:41.000Z",
+            "id": "752222277303934976",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:25:10.000Z",
+            "id": "752222149088161792",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:25:06.000Z",
+            "id": "752222131325394944",
+            "text": "RT    Urgente! PF Ligresal o lioresal (baclofenode) 10mg https://t.co/VF0sP7GJ6x"
+        },
+        {
+            "created_at": "2016-07-10T19:24:59.000Z",
+            "id": "752222104528023553",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:24:51.000Z",
+            "id": "752222067555196928",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:24:48.000Z",
+            "id": "752222056046030848",
+            "text": "RT @estebangerbasi: Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebra\u2026"
+        },
+        {
+            "created_at": "2016-07-10T19:24:18.000Z",
+            "id": "752221930690871296",
+            "text": "Urgente! PF Ligresal o lioresal (baclofenode) 10mg, espasticidad de la musculatura estriada de origen espinal y cerebral.\n+58 4148123239"
+        },
+        {
+            "created_at": "2016-07-10T14:25:37.000Z",
+            "id": "752146764350840833",
+            "text": "tu as rilutek,dantrium,lioresal comme moi https://t.co/jHThUTGotK"
+        },
+        {
+            "created_at": "2016-07-10T07:00:03.000Z",
+            "id": "752034632045125632",
+            "text": "Available Now: Lioresal intrathecal injection 10mg/20ml @ \u00a323.80 https://t.co/Bi6r4qFk4S"
+        },
+        {
+            "created_at": "2016-07-08T21:19:17.000Z",
+            "id": "751526089785311232",
+            "text": "@Locatelcol el lioresal d  cuantos mg tienen y cuanto cobran por el envio a vzla y donde lo enviarian gracias"
+        },
+        {
+            "created_at": "2016-07-08T21:10:57.000Z",
+            "id": "751523992582905856",
+            "text": "@Locatelcol soy lesionado medular cuanta me cuesta lioresal 10 o 25mg v\u00eevo en valencia  vzla gracias"
+        },
+        {
+            "created_at": "2016-07-08T21:06:31.000Z",
+            "id": "751522878781292544",
+            "text": "@Locatelcol buenas tardes soy lesionado medular tienen lioresal 10 o 25 mg cuanto me cuesta por alla vivo en valencia vzla"
+        },
+        {
+            "created_at": "2016-07-08T20:04:13.000Z",
+            "id": "751507199432790016",
+            "text": "@LocatelVzla_ATC soy lesionado medular busco lioresal 10 o 25mg telef 04144337509 y 04126739430 gracias"
+        },
+        {
+            "created_at": "2016-07-08T20:00:28.000Z",
+            "id": "751506256343470084",
+            "text": "@LocatelVzla_ATC @caterinaidj soy lesionado medular busco lioresal o baclofen 10 o 25mg telef 04144337509 y 04126739430 gracias"
+        },
+        {
+            "created_at": "2016-07-08T19:55:26.000Z",
+            "id": "751504991031062529",
+            "text": "@LocatelVzla_ATC @nezgarcia1804 hola soy lesionado medular busco lioresal o baclofen 10 o 25 mg telef 04144337509 y 04126739430 gracias"
+        },
+        {
+            "created_at": "2016-07-07T01:36:57.000Z",
+            "id": "750866160913117184",
+            "text": "@VoluntadPopular lesionado medular necesito lioresal 25 o 10mg telef 04144337509 04126739430 urgente y gracias"
+        },
+        {
+            "created_at": "2016-07-07T01:33:09.000Z",
+            "id": "750865205253513216",
+            "text": "@liliantintori lesionado medular busco lioresal o baclofen 10 o 25mg telef 04144337509 04126739430 gracias"
+        },
+        {
+            "created_at": "2016-07-07T01:07:25.000Z",
+            "id": "750858728711348224",
+            "text": "@Miguel_Pizarro lesionado medular necesita lioresal o baclofen 10 o 25mg telef 04144337509 04126739430 gracias"
+        },
+        {
+            "created_at": "2016-07-06T00:14:36.000Z",
+            "id": "750483046743232512",
+            "text": "To Buy Lioresal Muscle Relaxer: Looking for a lioresal? Not a problem!  Click to Buy lioresal online   \nIf yo... https://t.co/PA8m7qFYWx"
+        },
+        {
+            "created_at": "2016-07-05T17:18:18.000Z",
+            "id": "750378283267723264",
+            "text": "RT @rs26260101: @daisycar03051 @ayudaalcubo necesito lioresal o baclofen 10 o 25mg al 04144337509 04126739430 urgente"
+        },
+        {
+            "created_at": "2016-07-05T17:09:33.000Z",
+            "id": "750376081799151616",
+            "text": "RT @rs26260101: @daisycar03051 @ayudaalcubo necesito lioresal o baclofen 10 o 25mg al 04144337509 04126739430 urgente"
+        },
+        {
+            "created_at": "2016-07-05T17:07:37.000Z",
+            "id": "750375594421002240",
+            "text": "RT @rs26260101: @daisycar03051 @ayudaalcubo necesito lioresal o baclofen 10 o 25mg al 04144337509 04126739430 urgente"
+        },
+        {
+            "created_at": "2016-07-05T17:06:24.000Z",
+            "id": "750375288501112832",
+            "text": "RT @rs26260101: @daisycar03051 @ayudaalcubo necesito lioresal o baclofen 10 o 25mg al 04144337509 04126739430 urgente"
+        },
+        {
+            "created_at": "2016-07-04T20:51:25.000Z",
+            "id": "750069528147726336",
+            "text": "RT @rs26260101: @daisycar03051 @ayudaalcubo necesito lioresal o baclofen 10 o 25mg al 04144337509 04126739430 urgente"
+        },
+        {
+            "created_at": "2016-07-04T20:50:42.000Z",
+            "id": "750069347083751424",
+            "text": "@daisycar03051 @ayudaalcubo necesito lioresal o baclofen 10 o 25mg al 04144337509 04126739430 urgente"
+        },
+        {
+            "created_at": "2016-07-02T04:07:35.000Z",
+            "id": "749092127406059522",
+            "text": "Miorel Rx: buy cheap lioresal\norder generic lioresal online\nlioresal online pharmacy\nlow price lioresal\n- Abs... https://t.co/U4bxBegNOm"
+        },
+        {
+            "created_at": "2016-07-01T18:44:04.000Z",
+            "id": "748950314795937792",
+            "text": "Prescription For Ray Alpha-baclofen, Cheap Standing Alpha-baclofen Pills Free Shippi: Lioresal (Baclofen) 10m... https://t.co/8PoEMsXRN6"
+        },
+        {
+            "created_at": "2016-07-01T04:24:23.000Z",
+            "id": "748733969030451200",
+            "text": "Cheaper Version Of Alpha-baclofen, Buy Alpha-baclofen Lloyds Pharmacy, Lyflex Canada: Lioresal (Pms-baclofen)... https://t.co/Ozry5X9UNS"
+        }
+    ],
+    "meta": {
+        "newest_id": "752323903511367680",
+        "oldest_id": "748733969030451200",
+        "result_count": 196
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

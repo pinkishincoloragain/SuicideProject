@@ -1,0 +1,599 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2018-06-30T23:15:33.000Z",
+            "id": "1013199388787781633",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T23:11:37.000Z",
+            "id": "1013198397812150273",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T20:15:24.000Z",
+            "id": "1013154053474439178",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T20:01:36.000Z",
+            "id": "1013150579470692352",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T19:31:34.000Z",
+            "id": "1013143020726824960",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T19:14:47.000Z",
+            "id": "1013138799679983616",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T19:03:17.000Z",
+            "id": "1013135905362673666",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T19:03:06.000Z",
+            "id": "1013135860194332672",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T18:53:37.000Z",
+            "id": "1013133472628641792",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T18:51:23.000Z",
+            "id": "1013132907920150529",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T18:45:05.000Z",
+            "id": "1013131323920322560",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T18:45:05.000Z",
+            "id": "1013131322594906112",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T18:22:09.000Z",
+            "id": "1013125553786949632",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T18:22:01.000Z",
+            "id": "1013125520182177794",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T18:03:55.000Z",
+            "id": "1013120966598283264",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:57:32.000Z",
+            "id": "1013119359382904838",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:52:03.000Z",
+            "id": "1013117980174159873",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:48:46.000Z",
+            "id": "1013117150704304128",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:48:26.000Z",
+            "id": "1013117069427138565",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:47:08.000Z",
+            "id": "1013116742774722560",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:47:07.000Z",
+            "id": "1013116735342432256",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:46:45.000Z",
+            "id": "1013116644779085825",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:39:35.000Z",
+            "id": "1013114841018589185",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:38:33.000Z",
+            "id": "1013114582091563008",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:36:55.000Z",
+            "id": "1013114169124630529",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:34:48.000Z",
+            "id": "1013113636016017413",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:34:01.000Z",
+            "id": "1013113438137212940",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:33:32.000Z",
+            "id": "1013113317718716418",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:32:47.000Z",
+            "id": "1013113128433971200",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:32:08.000Z",
+            "id": "1013112966982578176",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:31:06.000Z",
+            "id": "1013112705912397826",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:30:02.000Z",
+            "id": "1013112438340890624",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:29:53.000Z",
+            "id": "1013112401900785665",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-30T17:29:28.000Z",
+            "id": "1013112296992854016",
+            "text": "RT @TotumaStereo: Para paciente que debe ser operada del cerebro... Estan en la busqueda del siguiente Medicamento....\n\nLioresal \n\nTelf.\n02\u2026"
+        },
+        {
+            "created_at": "2018-06-28T07:49:01.000Z",
+            "id": "1012241442398461952",
+            "text": "https://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-06-27T17:58:24.000Z",
+            "id": "1012032413680226304",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-27T01:31:12.000Z",
+            "id": "1011783973880594432",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-26T18:10:23.000Z",
+            "id": "1011673041187868672",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-26T16:30:52.000Z",
+            "id": "1011647997397135361",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-26T01:27:45.000Z",
+            "id": "1011420719929020417",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-26T01:05:28.000Z",
+            "id": "1011415110475223040",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-26T00:51:36.000Z",
+            "id": "1011411624241041408",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-26T00:34:34.000Z",
+            "id": "1011407333518438405",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-26T00:33:17.000Z",
+            "id": "1011407011899158528",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T23:57:53.000Z",
+            "id": "1011398105730834433",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T23:50:03.000Z",
+            "id": "1011396133246128128",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T23:22:08.000Z",
+            "id": "1011389105098371073",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T21:58:39.000Z",
+            "id": "1011368096106414085",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T21:31:36.000Z",
+            "id": "1011361291955523584",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T21:17:22.000Z",
+            "id": "1011357710581936134",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T20:37:40.000Z",
+            "id": "1011347716222439424",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:58:03.000Z",
+            "id": "1011337746441555969",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:57:13.000Z",
+            "id": "1011337537548443650",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:47:10.000Z",
+            "id": "1011335010316668930",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:24:51.000Z",
+            "id": "1011329393745068035",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:18:08.000Z",
+            "id": "1011327701678993408",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:07:54.000Z",
+            "id": "1011325129094295558",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:05:21.000Z",
+            "id": "1011324486468165632",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:04:56.000Z",
+            "id": "1011324380641660928",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:04:08.000Z",
+            "id": "1011324180401401856",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T19:02:46.000Z",
+            "id": "1011323835793268739",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:52:08.000Z",
+            "id": "1011321158384353280",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:47:55.000Z",
+            "id": "1011320097519165442",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:46:04.000Z",
+            "id": "1011319631976583168",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:40:23.000Z",
+            "id": "1011318201945395200",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:39:33.000Z",
+            "id": "1011317992523812864",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:33:32.000Z",
+            "id": "1011316479315402752",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:28:05.000Z",
+            "id": "1011315105886363648",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:26:56.000Z",
+            "id": "1011314817439805440",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:25:00.000Z",
+            "id": "1011314331651276800",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:24:43.000Z",
+            "id": "1011314261044482049",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:24:30.000Z",
+            "id": "1011314203662127104",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:21:31.000Z",
+            "id": "1011313452831399937",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:21:11.000Z",
+            "id": "1011313369251491840",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:21:03.000Z",
+            "id": "1011313338486226950",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:20:10.000Z",
+            "id": "1011313115479396353",
+            "text": "RT @jcfernandezm: Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe\u2026"
+        },
+        {
+            "created_at": "2018-06-25T18:19:33.000Z",
+            "id": "1011312960193654784",
+            "text": "Buenas tardes se solicita para ni\u00f1o espwcial de 11 a\u00f1os con espasticidad que no habla ni camina valpron de 250 mg jarabe y pastillas de lioresal o baclofeno para ayudarlo a relajarse y poder dormir , soy su abuela evelyn de hernandez  tel\u00e9fono 0414 6374360 por favor https://t.co/qQWmr9jkrR"
+        },
+        {
+            "created_at": "2018-06-25T15:03:11.000Z",
+            "id": "1011263543398854656",
+            "text": "Il costo di Lioresal 10 mg In linea :: Miglior Inviato Online Pharmacy :: pagamento BitCoin \u00e8 disponibile https://t.co/d2dxzd9ezV #cryptocurrency $ETH $BTC via @MinhMy18"
+        },
+        {
+            "created_at": "2018-06-23T17:55:43.000Z",
+            "id": "1010582184145686530",
+            "text": "Achat Lioresal Montreal * 24/7 Service Clients https://t.co/A5iceZURQs"
+        },
+        {
+            "created_at": "2018-06-20T07:49:00.000Z",
+            "id": "1009342337158348800",
+            "text": "https://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-06-15T01:48:03.000Z",
+            "id": "1007439563344625664",
+            "text": "Order lioresal manufacturer - https://t.co/LbqtsqS2Q3"
+        },
+        {
+            "created_at": "2018-06-14T20:31:45.000Z",
+            "id": "1007359961129553920",
+            "text": "Generique Lioresal En France \u2013 Meilleurs Prix pour tous les clients \u2013 Exp\u00e9dition Imm\u00e9diate https://t.co/6H34mEWrdx"
+        },
+        {
+            "created_at": "2018-06-14T20:31:44.000Z",
+            "id": "1007359959279992833",
+            "text": "Ink\u00f6p Nu Lioresal \u2013 Billiga Apotek Utan Recept https://t.co/5SDcdkwcSb"
+        },
+        {
+            "created_at": "2018-06-14T05:46:33.000Z",
+            "id": "1007137193121452032",
+            "text": "Lioresal compresse costo https://t.co/9B3DDUC0u9 https://t.co/mROeQ5z94B"
+        },
+        {
+            "created_at": "2018-06-12T23:16:57.000Z",
+            "id": "1006676758739873792",
+            "text": "Pharmacie Lioresal \u2013 Seulement 100% Qualit\u00e9 https://t.co/q03Iu32Ytq #somethingiread #uncategorized"
+        },
+        {
+            "created_at": "2018-06-12T18:38:17.000Z",
+            "id": "1006606629926817792",
+            "text": "RT @YAYshamsaldeen: \u0645\u0631\u0627\u062c\u0650\u0639\u0629 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a\ud83d\ude12...\n\n\u0648 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u062a\u062d\u0633 \u062c\u0633\u0645\u0647\u0627 \u062f\u0627\u064a\u0645\u0627\u064b \u062e\u0627\u0645\u0644...\n\n... \u062a\u0639\u0644\u064a\u0642\u0643\u0645\u061f\n\nLioresal \u0644\u064a\u0648\u0631\u064a\u0633\u0627\u0644\n\n\u0627\u0633\u0645 \u062a\u062c\u0627\u0631\u064a \u0644\u062f\u0648\u0627\u0621\u0648\u0627\u0633\u0645\u2026"
+        },
+        {
+            "created_at": "2018-06-12T13:40:57.000Z",
+            "id": "1006531807146278914",
+            "text": "RT @YAYshamsaldeen: \u0645\u0631\u0627\u062c\u0650\u0639\u0629 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a\ud83d\ude12...\n\n\u0648 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u062a\u062d\u0633 \u062c\u0633\u0645\u0647\u0627 \u062f\u0627\u064a\u0645\u0627\u064b \u062e\u0627\u0645\u0644...\n\n... \u062a\u0639\u0644\u064a\u0642\u0643\u0645\u061f\n\nLioresal \u0644\u064a\u0648\u0631\u064a\u0633\u0627\u0644\n\n\u0627\u0633\u0645 \u062a\u062c\u0627\u0631\u064a \u0644\u062f\u0648\u0627\u0621\u0648\u0627\u0633\u0645\u2026"
+        },
+        {
+            "created_at": "2018-06-12T12:59:26.000Z",
+            "id": "1006521358665347073",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T12:00:41.000Z",
+            "id": "1006506572699308037",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T10:14:31.000Z",
+            "id": "1006479854202687488",
+            "text": "Solicitud de Cotizacion MEDICAMENTOS Descarga informaci\u00f3n aqu\u00ed: https://t.co/wJtNiavAHb\nFecha hasta: 13/06/2018. Articulos: LIORESAL.\nContacto: https://t.co/9SCLv9vYZs https://t.co/wJtNiavAHb"
+        },
+        {
+            "created_at": "2018-06-12T03:42:06.000Z",
+            "id": "1006381101215047680",
+            "text": "Retweeted Raptor (@F22Raptor_41):\n\nURGENTE MI GENTE!\nSERVICIO PUBLICO\ud83d\udd14N MARACAY. \nC NECESITA (LIORESAL O BACLOFENO ) ES PARA UNA NI\u00d1A Q PODRIA MORIR SIN LAS MEDICINAS, Y SON PARA MATAR LA BACTERIA D TETANOS, Q... https://t.co/ZBsddwym5Z"
+        },
+        {
+            "created_at": "2018-06-12T03:04:44.000Z",
+            "id": "1006371694762692609",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T03:01:35.000Z",
+            "id": "1006370902685224960",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T02:49:07.000Z",
+            "id": "1006367766419558405",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T02:48:46.000Z",
+            "id": "1006367676346896385",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T02:47:46.000Z",
+            "id": "1006367427909902342",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T02:47:29.000Z",
+            "id": "1006367354446417920",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T02:46:27.000Z",
+            "id": "1006367094022311936",
+            "text": "RT @merlioz: #ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T02:46:26.000Z",
+            "id": "1006367092390662145",
+            "text": "#ServicioPublico Con URGENCIA se necesita:\n\nLIORESAL o BACLOFENO | Info y contacto en la foto \u2193 https://t.co/oRSzeW0cmH"
+        },
+        {
+            "created_at": "2018-06-12T02:33:30.000Z",
+            "id": "1006363836671242245",
+            "text": "@CarissaEtienne  Amigos soy Asdrubal Gonzales, desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Urgente lioresal o baclofeno...urgente!!!...en la presentaci\u00f3n q sea d los Ml q sea...mi hija puede morir sin este medicamento..."
+        },
+        {
+            "created_at": "2018-06-12T02:13:30.000Z",
+            "id": "1006358804760547329",
+            "text": "RT @YAYshamsaldeen: \u0645\u0631\u0627\u062c\u0650\u0639\u0629 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a\ud83d\ude12...\n\n\u0648 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u062a\u062d\u0633 \u062c\u0633\u0645\u0647\u0627 \u062f\u0627\u064a\u0645\u0627\u064b \u062e\u0627\u0645\u0644...\n\n... \u062a\u0639\u0644\u064a\u0642\u0643\u0645\u061f\n\nLioresal \u0644\u064a\u0648\u0631\u064a\u0633\u0627\u0644\n\n\u0627\u0633\u0645 \u062a\u062c\u0627\u0631\u064a \u0644\u062f\u0648\u0627\u0621\u0648\u0627\u0633\u0645\u2026"
+        },
+        {
+            "created_at": "2018-06-12T01:31:04.000Z",
+            "id": "1006348123587923968",
+            "text": "RT @YAYshamsaldeen: \u0645\u0631\u0627\u062c\u0650\u0639\u0629 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a\ud83d\ude12...\n\n\u0648 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u062a\u062d\u0633 \u062c\u0633\u0645\u0647\u0627 \u062f\u0627\u064a\u0645\u0627\u064b \u062e\u0627\u0645\u0644...\n\n... \u062a\u0639\u0644\u064a\u0642\u0643\u0645\u061f\n\nLioresal \u0644\u064a\u0648\u0631\u064a\u0633\u0627\u0644\n\n\u0627\u0633\u0645 \u062a\u062c\u0627\u0631\u064a \u0644\u062f\u0648\u0627\u0621\u0648\u0627\u0633\u0645\u2026"
+        },
+        {
+            "created_at": "2018-06-12T01:30:55.000Z",
+            "id": "1006348085306580992",
+            "text": "RT @YAYshamsaldeen: \u0645\u0631\u0627\u062c\u0650\u0639\u0629 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a\ud83d\ude12...\n\n\u0648 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u062a\u062d\u0633 \u062c\u0633\u0645\u0647\u0627 \u062f\u0627\u064a\u0645\u0627\u064b \u062e\u0627\u0645\u0644...\n\n... \u062a\u0639\u0644\u064a\u0642\u0643\u0645\u061f\n\nLioresal \u0644\u064a\u0648\u0631\u064a\u0633\u0627\u0644\n\n\u0627\u0633\u0645 \u062a\u062c\u0627\u0631\u064a \u0644\u062f\u0648\u0627\u0621\u0648\u0627\u0633\u0645\u2026"
+        },
+        {
+            "created_at": "2018-06-12T01:25:06.000Z",
+            "id": "1006346622815653889",
+            "text": "RT @YAYshamsaldeen: \u0645\u0631\u0627\u062c\u0650\u0639\u0629 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a\ud83d\ude12...\n\n\u0648 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u062a\u062d\u0633 \u062c\u0633\u0645\u0647\u0627 \u062f\u0627\u064a\u0645\u0627\u064b \u062e\u0627\u0645\u0644...\n\n... \u062a\u0639\u0644\u064a\u0642\u0643\u0645\u061f\n\nLioresal \u0644\u064a\u0648\u0631\u064a\u0633\u0627\u0644\n\n\u0627\u0633\u0645 \u062a\u062c\u0627\u0631\u064a \u0644\u062f\u0648\u0627\u0621\u0648\u0627\u0633\u0645\u2026"
+        },
+        {
+            "created_at": "2018-06-12T01:19:40.000Z",
+            "id": "1006345254386176001",
+            "text": "\u0645\u0631\u0627\u062c\u0650\u0639\u0629 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0645\u0633\u062a\u0634\u0641\u064a\u0627\u062a\ud83d\ude12...\n\n\u0648 \u0627\u0644\u0645\u0631\u064a\u0636\u0629 \u062a\u062d\u0633 \u062c\u0633\u0645\u0647\u0627 \u062f\u0627\u064a\u0645\u0627\u064b \u062e\u0627\u0645\u0644...\n\n... \u062a\u0639\u0644\u064a\u0642\u0643\u0645\u061f\n\nLioresal \u0644\u064a\u0648\u0631\u064a\u0633\u0627\u0644\n\n\u0627\u0633\u0645 \u062a\u062c\u0627\u0631\u064a \u0644\u062f\u0648\u0627\u0621\u0648\u0627\u0633\u0645\u0647 \u0627\u0644\u0639\u0644\u0645\u064a \u0628\u0627\u0643\u0644\u0648\u0641\u064a\u0646 Baclofen \u0630\u0644\u0643 \u0627\u0644\u062f\u0648\u0627\u0621 \u0627\u0644\u0630\u064a \u064a\u0633\u062a\u062e\u062f\u0645 \u0644\u0644\u062a\u0634\u0646\u062c\u0627\u062a \u0627\u0644\u0639\u0636\u0644\u064a\u0629 \u064a\u0642\u0648\u0645 \u0628\u062a\u062b\u0628\u064a\u0637 \u0627\u0644\u0627\u0634\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0635\u0628\u064a\u0629 \u0645\u0646 \u0627\u0644\u062d\u0628\u0644 \u0627\u0644\u0634\u0648\u0643\u064a \u0625\u0644\u0649 \u0627\u0644\u0639\u0636\u0644\u0627\u062a \u0627\u0644\u0637\u0631\u0641\u064a\u0629 \u0645\u0633\u0628\u0628\u0627 \u0627\u0631\u062a\u062e\u0627\u0621 \u0627\u0644\u0639\u0636\u0644\u0627\u062a. https://t.co/MCzAq8OJJW"
+        },
+        {
+            "created_at": "2018-06-10T15:31:32.000Z",
+            "id": "1005834857749078016",
+            "text": "Lioresal kopen bij apotheek By Canadian\u00a0Pharmacy https://t.co/QAJMY7RRCp https://t.co/hbnW6J9gcx"
+        },
+        {
+            "created_at": "2018-06-09T20:09:11.000Z",
+            "id": "1005542344878428161",
+            "text": "Se nesecita con urgencia lioresal generico favor comunicarse por tel 04246260415 https://t.co/fSa9mXFVjB"
+        },
+        {
+            "created_at": "2018-06-09T06:08:08.000Z",
+            "id": "1005330684955766784",
+            "text": "Conveniente 25 mg Lioresal In linea \u2013 Sicuro e Anonimo \u2013 Consegna espressa https://t.co/GFEpnZ8sjo"
+        },
+        {
+            "created_at": "2018-06-07T23:49:03.000Z",
+            "id": "1004872898010632193",
+            "text": "https://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-06-07T03:53:41.000Z",
+            "id": "1004572077515526144",
+            "text": "Recordar que baclofen es lioresal @AccionSolidaria tiene en donacion"
+        },
+        {
+            "created_at": "2018-06-06T23:56:15.000Z",
+            "id": "1004512321400721410",
+            "text": "Urgente  lioresal o baclofeno...urgente!!!....mi hija puede morir Aleiber d 5 a\u00f1os  04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2018-06-05T00:09:21.000Z",
+            "id": "1003790845752102912",
+            "text": "Prix Du Lioresal \u2013 Payer Par BTC \u2013 M\u00e9dicaments de bonne qualit\u00e9 https://t.co/Cuw1hz4sZc"
+        },
+        {
+            "created_at": "2018-06-04T14:57:32.000Z",
+            "id": "1003651975739838464",
+            "text": "Nuevo Art\u00edculo AS3: Buy Online Without Prescription :: se puede comprar Lioresal sin receta\u2026 https://t.co/t9UaAV3Inf"
+        },
+        {
+            "created_at": "2018-06-03T03:18:02.000Z",
+            "id": "1003113552377532416",
+            "text": "@JdiazVJ @DonaMed_VE @DonaTuMedicina @DONANDOTRATAMI @DonandoMedicin1 Buenas noches a\u00fan necesitan el lioresal?"
+        }
+    ],
+    "meta": {
+        "newest_id": "1013199388787781633",
+        "oldest_id": "1003113552377532416",
+        "result_count": 114
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-07-24T13:19:14.000Z",
+            "id": "1154018201686032387",
+            "text": "@Alter_Arma Awwww.. try drinking meds..metoclopramide.. plasil.. or lioresal (baclofen)"
+        },
+        {
+            "created_at": "2019-07-22T16:16:31.000Z",
+            "id": "1153338041253224453",
+            "text": "El SR @Albert_Rivera MIENTE descaradamente adem\u00e1s. Cuando yo me pongo enfermo en CLM me atienden (de maravilla adem\u00e1s). \u00bfQuieren saber cu\u00e1nto me cuestan las pastillas LIORESAL en CLM? 7,80\u20ac \u00bfEn la CAM? Algo menos de 30\u20ac #InvestiduraCongreso19"
+        },
+        {
+            "created_at": "2019-07-18T14:22:14.000Z",
+            "id": "1151859726847741952",
+            "text": "Lioresal 10 mg online. 24/7 Farmacia. Sicuro E GARANTITO DI - https://t.co/P1McR8F1vC https://t.co/aHRKq7YoUk"
+        },
+        {
+            "created_at": "2019-07-13T23:31:16.000Z",
+            "id": "1150185956605136896",
+            "text": "@nhola14 @Ask_Jeddah1 \u0627\u0633\u0645\u0647\u0627 \u0644\u0648\u0631\u0633\u064a\u0644 (Lioresal 10 mg baclofen) \u0648\u0627\u0631\u062c\u0648 \u0639\u062f\u0645 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u064a \u0639\u0644\u0627\u062c \u0627\u0644\u0627 \u0628\u0639\u062f \u0627\u0633\u062a\u0634\u0627\u0631\u0629 \u0627\u0644\u0637\u0628\u064a\u0628\u060c\u0644\u0643\u0646 \u0627\u0646\u0627 \u0639\u0627\u0646\u064a\u062a \u0645\u0646 \u0647\u0630\u0647 \u0627\u0644\u0646\u063a\u0632\u0627\u062a \u0643\u062b\u064a\u0631 \u0648\u0631\u0627\u062c\u0639\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u064a \u0648\u0639\u0645\u0644\u062a \u0641\u062d\u0648\u0635\u0627\u062a \u0643\u062b\u064a\u0631 \u0648\u0643\u0644 \u0634\u064a\u0621 \u062a\u0645\u0627\u0645 \u0648\u0627\u0644\u062d\u0645\u062f \u0644\u0644\u0647 \u0648\u064a\u0639\u0637\u0648\u0646\u064a \u0646\u0641\u0633 \u0647\u0630\u0647 \u0627\u0644\u062d\u0628\u0648\u0628 \u0648\u0627\u0631\u062c\u0639 \u0644\u0644\u0628\u064a\u062a \u0641\u064a \u0627\u0644\u0627\u062e\u064a\u0631 \u0642\u0631\u0631\u062a \u0634\u0631\u0627\u0621\u0647\u0627 \u06483 \u0633\u0646\u0648\u0627\u062a \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0645\u0646\u0647\u0627 \u062d\u0628\u062a\u064a\u0646 \u0641\u0642\u0637 \u0648\u0644\u0644\u0647 \u0627\u0644\u062d\u0645\u062f."
+        },
+        {
+            "created_at": "2019-07-07T18:27:12.000Z",
+            "id": "1147935112027410434",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-07T12:17:11.000Z",
+            "id": "1147841993504108544",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-07T11:52:16.000Z",
+            "id": "1147835723002843136",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-07T03:59:38.000Z",
+            "id": "1147716781127143426",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-07T03:37:36.000Z",
+            "id": "1147711235292401665",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-07T02:26:36.000Z",
+            "id": "1147693367276556290",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-07T01:10:39.000Z",
+            "id": "1147674253267034113",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T23:35:12.000Z",
+            "id": "1147650233628811264",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T22:21:21.000Z",
+            "id": "1147631648193822720",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T21:34:17.000Z",
+            "id": "1147619802816667649",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T18:45:21.000Z",
+            "id": "1147577290420830210",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T18:37:34.000Z",
+            "id": "1147575332939214850",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T18:29:09.000Z",
+            "id": "1147573212370362368",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T18:13:46.000Z",
+            "id": "1147569339761123328",
+            "text": "RT @fundacionjesed: #misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx diston\u2026"
+        },
+        {
+            "created_at": "2019-07-06T18:11:41.000Z",
+            "id": "1147568816777584642",
+            "text": "#misioncumplida \ud83d\udc9e donaci\u00f3n que enviamos a #Caracas 100 pastillas de #lioresal ya en manos de Windalis Muentes dx distonia de torsi\u00f3n, gracias Dr Granados por presentarnos el caso. #amoralprojimo https://t.co/pDnmAMDAAn"
+        },
+        {
+            "created_at": "2019-07-05T07:52:20.000Z",
+            "id": "1147050566067064832",
+            "text": "Mi vida desde que conoc\u00ed el Lioresal\ud83d\udc8a\ud83d\udc8a\ud83d\udc8a \ud83d\ude02\ud83e\udd14\ud83d\ude34 https://t.co/S3w2byB56w"
+        }
+    ],
+    "meta": {
+        "newest_id": "1154018201686032387",
+        "oldest_id": "1147050566067064832",
+        "result_count": 20
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

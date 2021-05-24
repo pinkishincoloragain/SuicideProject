@@ -1,0 +1,513 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-06-07T03:48:17.000Z",
+            "id": "1136842289341292544",
+            "text": "@RachelGurvich Ok \u2014 which are these Darapin, Emilder, Kemstro, Nimrodel, Mavik, Tarcil, and Zimraphel"
+        }
+    ],
+    "meta": {
+        "newest_id": "1136842289341292544",
+        "oldest_id": "1136842289341292544",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-06-30T22:32:46.000Z",
+            "id": "1145460192592760833",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T14:47:27.000Z",
+            "id": "1145343093237059586",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T11:01:02.000Z",
+            "id": "1145286115399786496",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T04:09:17.000Z",
+            "id": "1145182491675807744",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T03:08:53.000Z",
+            "id": "1145167292780752896",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T02:42:04.000Z",
+            "id": "1145160544900526080",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T01:28:30.000Z",
+            "id": "1145142030361927680",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T01:17:50.000Z",
+            "id": "1145139345017491456",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T01:17:17.000Z",
+            "id": "1145139207234605056",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-30T01:15:55.000Z",
+            "id": "1145138863146512386",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T22:42:27.000Z",
+            "id": "1145100241810669569",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T20:06:54.000Z",
+            "id": "1145061098166636546",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T19:51:27.000Z",
+            "id": "1145057211258818560",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T19:39:07.000Z",
+            "id": "1145054103552307200",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T19:15:55.000Z",
+            "id": "1145048265286721536",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T18:51:02.000Z",
+            "id": "1145042004465868800",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T18:11:19.000Z",
+            "id": "1145032009384976385",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T15:58:10.000Z",
+            "id": "1144998502721839104",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T11:26:06.000Z",
+            "id": "1144930035423465473",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T09:57:56.000Z",
+            "id": "1144907847089688576",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T09:28:13.000Z",
+            "id": "1144900369543323648",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T04:50:25.000Z",
+            "id": "1144830458561290240",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T03:37:58.000Z",
+            "id": "1144812223078027264",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T03:29:32.000Z",
+            "id": "1144810101733298177",
+            "text": "RT @fundacionjesed: Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin\u2026"
+        },
+        {
+            "created_at": "2019-06-29T03:29:11.000Z",
+            "id": "1144810012994396162",
+            "text": "Donaciones enviadas xylon, alpram, nifedipina, enalapril, lioresal, pa\u00f1ales de adultos, asaprol, atorvastatina, ulgarin y pentoxifilina. https://t.co/gKi4aLTQox"
+        },
+        {
+            "created_at": "2019-06-27T20:56:53.000Z",
+            "id": "1144348902243676168",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T20:52:44.000Z",
+            "id": "1144347857769680896",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T19:30:43.000Z",
+            "id": "1144327217318703106",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T18:13:34.000Z",
+            "id": "1144307800329400321",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T17:35:29.000Z",
+            "id": "1144298215845634055",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T16:52:54.000Z",
+            "id": "1144287500132896768",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T12:53:43.000Z",
+            "id": "1144227305566474240",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T11:06:04.000Z",
+            "id": "1144200218134634496",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T05:19:32.000Z",
+            "id": "1144113009121476608",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T05:08:05.000Z",
+            "id": "1144110128586735616",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T04:18:59.000Z",
+            "id": "1144097768811552768",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T04:04:18.000Z",
+            "id": "1144094073990651904",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T04:00:29.000Z",
+            "id": "1144093115445403650",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T03:47:30.000Z",
+            "id": "1144089849617670144",
+            "text": "RT @fundacionjesed: Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Mar\u2026"
+        },
+        {
+            "created_at": "2019-06-27T03:46:00.000Z",
+            "id": "1144089469798309896",
+            "text": "Misi\u00f3n cumplida \ud83d\ude4c lioresal, olanzapina, clonazepan enviada a Miranda y olanzapina, clonazepan, fluoxetina enviada a Maracaibo. Sus sonrisas el mejor regalo. https://t.co/huFR240Qjc"
+        },
+        {
+            "created_at": "2019-06-21T13:49:05.000Z",
+            "id": "1142066915407515650",
+            "text": "Baclofeno (Lioresal): beneficios, usos y\u00a0efectos https://t.co/SJJqC2pBU3 https://t.co/dKdg8El8Qf"
+        },
+        {
+            "created_at": "2019-06-18T16:21:33.000Z",
+            "id": "1141018118975832070",
+            "text": "RT @fundacionjesed: #lioresal #clonazepan #olanzapina enviada a #caracas para Windalis Muentes dx Distonia idiopatica de torsion #solidarid\u2026"
+        },
+        {
+            "created_at": "2019-06-18T13:48:36.000Z",
+            "id": "1140979628884058122",
+            "text": "RT @fundacionjesed: #lioresal #clonazepan #olanzapina enviada a #caracas para Windalis Muentes dx Distonia idiopatica de torsion #solidarid\u2026"
+        },
+        {
+            "created_at": "2019-06-18T02:40:22.000Z",
+            "id": "1140811461960392704",
+            "text": "#lioresal #clonazepan #olanzapina enviada a #caracas para Windalis Muentes dx Distonia idiopatica de torsion #solidaridad #amoralprojimo https://t.co/cEAi54CUtZ"
+        },
+        {
+            "created_at": "2019-06-17T06:56:58.000Z",
+            "id": "1140513648089149441",
+            "text": "Clicca qui per ordinare il Generico Lioresal (Baclofen) oran! Generico Lioresal Valutazione 4.8 sulla base di 210 voti. Prezzo da \u20ac0.68 Per pillola tadacip (Lioresal generico) 25 mgin linea Lioresal Baclofen Italiain linea Lioresal Baclofen Israeleesiste Lioresal generico far"
+        },
+        {
+            "created_at": "2019-06-17T06:56:51.000Z",
+            "id": "1140513622495506432",
+            "text": "Clicca qui per ordinare il Generico Lioresal (Baclofen) oran! Generico Lioresal Valutazione 4.3 sulla base di 363 voti. Prezzo da inizio \u20ac0.68 Per pillola nome medicamento generico Lioresalconveniente Lioresal 10 mg GiapponePrezzo 10 mg Lioresal Repubblica Cecain linea Liores"
+        },
+        {
+            "created_at": "2019-06-14T13:55:14.000Z",
+            "id": "1139531747941670914",
+            "text": "RT @RErdey: @c0lettea Mirtazapine (Remeron).\nBupropion (Wellbutrin, Zyban).\nGabapentin (Neurontin).\nVigabatrin (Sabril).\nBaclofen (Lioresal\u2026"
+        },
+        {
+            "created_at": "2019-06-14T13:36:48.000Z",
+            "id": "1139527107837661184",
+            "text": "@c0lettea Mirtazapine (Remeron).\nBupropion (Wellbutrin, Zyban).\nGabapentin (Neurontin).\nVigabatrin (Sabril).\nBaclofen (Lioresal).\nTopiramate (Topamax).\nand most of these a person can be come addicted to these so combating addition only moves on to over the counter drugs or prescription"
+        },
+        {
+            "created_at": "2019-06-11T16:44:20.000Z",
+            "id": "1138487137698045957",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-10T14:27:15.000Z",
+            "id": "1138090252495720449",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-10T13:34:32.000Z",
+            "id": "1138076983852748800",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-10T13:32:44.000Z",
+            "id": "1138076532281368577",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-10T10:53:05.000Z",
+            "id": "1138036356431720448",
+            "text": "RT @9soro: @CABEZUELOM Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleib\u2026"
+        },
+        {
+            "created_at": "2019-06-10T10:36:49.000Z",
+            "id": "1138032261411065856",
+            "text": "RT @9soro: @CABEZUELOM Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleib\u2026"
+        },
+        {
+            "created_at": "2019-06-09T17:43:30.000Z",
+            "id": "1137777251284594688",
+            "text": "#NAPLEXQOTD Which of the following medications should be tapered off slowly to avoid withdrawal symptoms (e.g., irritability, diaphoresis, anxiety, seizure, etc.)?\n\nI: Soma\nII: Neurontin\nIII: Lioresal"
+        },
+        {
+            "created_at": "2019-06-08T02:10:01.000Z",
+            "id": "1137179946646953984",
+            "text": "RT @9soro: Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os\u2026"
+        },
+        {
+            "created_at": "2019-06-07T21:50:39.000Z",
+            "id": "1137114672300208129",
+            "text": "RT @9soro: @EAristeguieta Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Al\u2026"
+        },
+        {
+            "created_at": "2019-06-07T21:32:51.000Z",
+            "id": "1137110196227072001",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-07T21:31:11.000Z",
+            "id": "1137109773839720448",
+            "text": "RT @9soro: Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os\u2026"
+        },
+        {
+            "created_at": "2019-06-07T21:27:08.000Z",
+            "id": "1137108754653204484",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-07T21:11:20.000Z",
+            "id": "1137104781254778880",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-07T21:07:49.000Z",
+            "id": "1137103894868320259",
+            "text": "RT @9soro: @EAristeguieta Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Al\u2026"
+        },
+        {
+            "created_at": "2019-06-07T20:34:54.000Z",
+            "id": "1137095612841811969",
+            "text": "RT @9soro: Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os\u2026"
+        },
+        {
+            "created_at": "2019-06-07T20:00:13.000Z",
+            "id": "1137086883161366528",
+            "text": "RT @9soro: Para salvar la vida la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... Urgente  Lioresal Baclofeno ... urgente! en la p\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:56:36.000Z",
+            "id": "1137085972481527809",
+            "text": "RT @9soro: Para salvar la vida la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... Urgente  Lioresal Baclofeno ... urgente! en la p\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:37:48.000Z",
+            "id": "1137081239490482177",
+            "text": "RT @9soro: Para salvar la vida la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... Urgente  Lioresal o Baclofeno ... urgente! en la\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:34:30.000Z",
+            "id": "1137080409387409409",
+            "text": "RT @9soro: Para salvar la vida de la  peque\u00f1a Aleiber de 5 a\u00f1os recluida en el HCM de Aragua... se necesita Urgente  Lioresal Baclofeno ...\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:31:48.000Z",
+            "id": "1137079731789148160",
+            "text": "RT @9soro: Para salvar la vida de la  peque\u00f1a Aleiber de 5 a\u00f1os recluida en el HCM de Aragua... se necesita Urgente  Lioresal Baclofeno ...\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:25:03.000Z",
+            "id": "1137078032219463680",
+            "text": "RT @9soro: Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:24:18.000Z",
+            "id": "1137077843299622912",
+            "text": "RT @9soro: Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:21:31.000Z",
+            "id": "1137077144163667968",
+            "text": "RT @9soro: Para salvar la vida de la  peque\u00f1a Aleiber de 5 a\u00f1os recluida en el HCM de Aragua... se necesita Urgente  Lioresal Baclofeno ...\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:10:23.000Z",
+            "id": "1137074342104375296",
+            "text": "RT @9soro: Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:05:12.000Z",
+            "id": "1137073035813560321",
+            "text": "RT @9soro: Para salvar la vida de la  peque\u00f1a Aleiber de 5 a\u00f1os recluida en el HCM de Aragua... se necesita Urgente  Lioresal Baclofeno ...\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:03:39.000Z",
+            "id": "1137072649069371392",
+            "text": "Para salvar la vida la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... Urgente  Lioresal Baclofeno ... urgente! en la presentaci\u00f3n q sea, de los Ml q sea.x favor x el 04144603470 04169467608 04124452846 https://t.co/JXiZZ3RDNm"
+        },
+        {
+            "created_at": "2019-06-07T19:03:23.000Z",
+            "id": "1137072581872406530",
+            "text": "RT @9soro: Para salvar la vida de la  peque\u00f1a Aleiber de 5 a\u00f1os recluida en el HCM de Aragua... se necesita Urgente  Lioresal Baclofeno ...\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:01:42.000Z",
+            "id": "1137072156272205825",
+            "text": "RT @9soro: Para salvar la vida la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... Urgente  Lioresal o Baclofeno ... urgente! en la\u2026"
+        },
+        {
+            "created_at": "2019-06-07T19:00:25.000Z",
+            "id": "1137071832081846272",
+            "text": "Para salvar la vida de la  peque\u00f1a Aleiber de 5 a\u00f1os recluida en el HCM de Aragua... se necesita Urgente  Lioresal Baclofeno ... urgente! en la presentaci\u00f3n q sea, de los Ml q sea.x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T19:00:22.000Z",
+            "id": "1137071821898039298",
+            "text": "RT @9soro: Para salvar la vida la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... Urgente  Lioresal o Baclofeno ... urgente! en la\u2026"
+        },
+        {
+            "created_at": "2019-06-07T18:58:41.000Z",
+            "id": "1137071395349966848",
+            "text": "Para salvar la vida la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... Urgente  Lioresal o Baclofeno ... urgente! en la presentaci\u00f3n q sea, de los Ml q sea.x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:52:52.000Z",
+            "id": "1137069933693689856",
+            "text": "RT @9soro: Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os\u2026"
+        },
+        {
+            "created_at": "2019-06-07T18:49:30.000Z",
+            "id": "1137069086930821120",
+            "text": "@PadreJosePalmar Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:49:05.000Z",
+            "id": "1137068979154018311",
+            "text": "@oliverandresfz Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:48:36.000Z",
+            "id": "1137068861260554245",
+            "text": "@EAristeguieta Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:47:23.000Z",
+            "id": "1137068555059564545",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-07T18:46:48.000Z",
+            "id": "1137068407625584641",
+            "text": "@joserRebB Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:46:16.000Z",
+            "id": "1137068271130292224",
+            "text": "@la_lectora Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:45:44.000Z",
+            "id": "1137068139206909952",
+            "text": "@ElPensante2015 Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:45:29.000Z",
+            "id": "1137068073402417153",
+            "text": "@CABEZUELOM Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:42:31.000Z",
+            "id": "1137067330612187141",
+            "text": "Urgente Lioresal o Baclofeno..!!! en la presentaci\u00f3n q sea de los Ml q sea. Para salvar la vida de la  peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2019-06-07T18:39:29.000Z",
+            "id": "1137066563524153344",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Pa\u2026"
+        },
+        {
+            "created_at": "2019-06-07T18:38:17.000Z",
+            "id": "1137066261618278401",
+            "text": "RT @9soro: Urgente se necesita Lioresal o Lioresal o Baclofeno ...urgente!!! Caso de vida o muerte en la presentaci\u00f3n q (cont) https://t.co\u2026"
+        },
+        {
+            "created_at": "2019-06-07T18:38:15.000Z",
+            "id": "1137066256958406656",
+            "text": "Urgente se necesita Lioresal o Lioresal o Baclofeno...urgente! Caso de vida o muerte en la presentaci\u00f3n q sea d los Ml q sea. Para salvar la vida de la peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua... x favor x el 04144603470 04169467608 04124452846 \n Reply \u00b7  Report Post"
+        },
+        {
+            "created_at": "2019-06-07T18:37:24.000Z",
+            "id": "1137066040423309312",
+            "text": "Urgente se necesita Lioresal o Lioresal o Baclofeno ...urgente!!! Caso de vida o muerte en la presentaci\u00f3n q (cont) https://t.co/fndqFcG4Yb"
+        },
+        {
+            "created_at": "2019-06-06T12:27:56.000Z",
+            "id": "1136610672907829249",
+            "text": "@racodepensarEM Pues a mi me neuro me ha dicho que si que son s\u00edntomas relacionados con las lesiones que tengo...de echo tengo medicaci\u00f3n (lioresal)"
+        },
+        {
+            "created_at": "2019-06-03T23:36:20.000Z",
+            "id": "1135691716873400320",
+            "text": "#ryanoconn #CP #Diazepam #baclofen #Valium #Lioresal \ud83d\udc8a #benzos which are like vitamins nowadays, to be honest. https://t.co/XmHAPF6pu9"
+        }
+    ],
+    "meta": {
+        "newest_id": "1145460192592760833",
+        "oldest_id": "1135691716873400320",
+        "result_count": 95
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

@@ -1,0 +1,3818 @@
+{
+    "data": [
+        {
+            "created_at": "2016-02-08T18:11:20.000Z",
+            "id": "696758222749732864",
+            "text": "RT @Aplenzin: @badzlands me  https://t.co/YmKfng6t6w"
+        },
+        {
+            "created_at": "2016-02-08T16:53:10.000Z",
+            "id": "696738552453828610",
+            "text": "RT @Aplenzin: mood pt 2 https://t.co/jMCS7txfKQ"
+        },
+        {
+            "created_at": "2016-02-04T15:09:08.000Z",
+            "id": "695262822058471424",
+            "text": "@matthewherper Hard to get too worked up about the price of Aplenzin compared to drugs like Cuprimine and Syprine."
+        }
+    ],
+    "meta": {
+        "newest_id": "696758222749732864",
+        "oldest_id": "695262822058471424",
+        "result_count": 3
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-02-29T20:53:57.000Z",
+            "id": "704409293844574208",
+            "text": "@FiercePharma I wouldn't compare $VVUS to $OREX.\nVivus has 2 drugs. Qsymia higher efficacy than Contrave. https://t.co/avELZFlVXC"
+        },
+        {
+            "created_at": "2016-02-29T20:48:23.000Z",
+            "id": "704407891898462208",
+            "text": "weight loss drug contrave\n\nDetails on losing weight can be found here ...\nhttps://t.co/38UgOcnpsV https://t.co/GkM4ODEshn"
+        },
+        {
+            "created_at": "2016-02-29T17:44:20.000Z",
+            "id": "704361573872226304",
+            "text": "https://t.co/MyedVicP7k #BuyContrave #Contrave #ContraveReviews"
+        },
+        {
+            "created_at": "2016-02-29T02:56:20.000Z",
+            "id": "704138100893753345",
+            "text": "RT @RxEconsult: Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/6pmcg0ZoRh https://t.\u2026"
+        },
+        {
+            "created_at": "2016-02-29T02:30:02.000Z",
+            "id": "704131482252660737",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/6pmcg0ZoRh https://t.co/YsqCQYaYs4"
+        },
+        {
+            "created_at": "2016-02-28T16:40:35.000Z",
+            "id": "703983142638592000",
+            "text": "@MaeserGal I miss the fun of Ambien crazy. Contrave lucid dreaming is truly miserable- every.single.night!"
+        },
+        {
+            "created_at": "2016-02-28T13:58:16.000Z",
+            "id": "703942294626381824",
+            "text": "The lucid dreaming side effect from taking #Contrave had got to stop!! I can't handle another disturbing night like that!!"
+        },
+        {
+            "created_at": "2016-02-28T10:20:41.000Z",
+            "id": "703887538394697728",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-27T22:55:57.000Z",
+            "id": "703715218359087104",
+            "text": "Orexigen (OREX) Stock Dives After Terminating... https://t.co/VDy5O7UJ07"
+        },
+        {
+            "created_at": "2016-02-27T19:09:57.000Z",
+            "id": "703658345215840256",
+            "text": "If I gain on Qysmia I might switch to Contrave.  In 2002 I had fatty liver on CT scan.  I no longer do.  https://t.co/ikVcyeMWCQ"
+        },
+        {
+            "created_at": "2016-02-27T08:38:50.000Z",
+            "id": "703499517820346368",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-27T00:12:05.000Z",
+            "id": "703371990959316992",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-27T00:09:18.000Z",
+            "id": "703371291215138816",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T22:00:00.000Z",
+            "id": "703338753771888640",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/9HAGUG6kdt https://t.co/PsyRMBSWxx"
+        },
+        {
+            "created_at": "2016-02-26T21:13:26.000Z",
+            "id": "703327032739012608",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T19:33:42.000Z",
+            "id": "703301935282200576",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T19:29:30.000Z",
+            "id": "703300876069421057",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T19:27:01.000Z",
+            "id": "703300250350559233",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T18:10:50.000Z",
+            "id": "703281082259660801",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T15:12:14.000Z",
+            "id": "703236133061320704",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T14:14:25.000Z",
+            "id": "703221584866230272",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T14:06:16.000Z",
+            "id": "703219532123545600",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T13:31:52.000Z",
+            "id": "703210874169720832",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T13:29:00.000Z",
+            "id": "703210156134440960",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T13:28:07.000Z",
+            "id": "703209931172814852",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T13:14:00.000Z",
+            "id": "703206381264850944",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T13:12:34.000Z",
+            "id": "703206017174142976",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T13:06:49.000Z",
+            "id": "703204573226278912",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T12:02:53.000Z",
+            "id": "703188481091248128",
+            "text": "$OREX Q4 U.S Contrave net sales $13M"
+        },
+        {
+            "created_at": "2016-02-26T11:19:13.000Z",
+            "id": "703177493423869952",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T11:10:45.000Z",
+            "id": "703175363350781952",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T11:00:41.000Z",
+            "id": "703172831358488579",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T10:56:34.000Z",
+            "id": "703171791762526209",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T10:55:56.000Z",
+            "id": "703171635650506752",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T10:43:58.000Z",
+            "id": "703168620726083585",
+            "text": "RT @parlament_cat: El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resol\u2026"
+        },
+        {
+            "created_at": "2016-02-26T10:42:37.000Z",
+            "id": "703168281218125824",
+            "text": "El #parlament defensa davant del TC que comissi\u00f3 d'estudi del proc\u00e9s constituent no contrav\u00e9 la sent\u00e8ncia sobre la resoluci\u00f3 del 9N"
+        },
+        {
+            "created_at": "2016-02-25T21:43:23.000Z",
+            "id": "702972183455342592",
+            "text": "RT @okumus_gunes: TR Constitucional contrav\u00e9 l'arrest dels periodistes turcs, del G\u00fcl i del D\u00fcndar..en aquestes circumst\u00e0ncies s'ha de pens\u2026"
+        },
+        {
+            "created_at": "2016-02-25T19:46:15.000Z",
+            "id": "702942706478276610",
+            "text": "TR Constitucional contrav\u00e9 l'arrest dels periodistes turcs, del G\u00fcl i del D\u00fcndar..en aquestes circumst\u00e0ncies s'ha de pensar sobre a. decisi\u00f3"
+        },
+        {
+            "created_at": "2016-02-25T18:17:32.000Z",
+            "id": "702920376754544641",
+            "text": "#rx #drugs Can I stop taking Contrave after a week without side effects https://t.co/yrsntFPPsv"
+        },
+        {
+            "created_at": "2016-02-24T17:30:01.000Z",
+            "id": "702546033071489024",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/6pmcg0ZoRh https://t.co/RY4vyWVYCr"
+        },
+        {
+            "created_at": "2016-02-23T18:24:02.000Z",
+            "id": "702197236659261441",
+            "text": "New patent for #Takeda Pharms #drug CONTRAVE https://t.co/1ddrQwCBD1 via @DrugPatentWatch #pharma"
+        },
+        {
+            "created_at": "2016-02-23T14:58:20.000Z",
+            "id": "702145473054814208",
+            "text": "@BioStocks $OREX royalty from Takeda doesn\u2019t hit ~25% (from 20%) until Contrave ~$400M peak sales assumption just before patent expiration"
+        },
+        {
+            "created_at": "2016-02-23T06:15:33.000Z",
+            "id": "702013908706598912",
+            "text": "@geekpharm @drwalker_rph props to whoever can fit a contrave taper on a label... let me know the secret"
+        },
+        {
+            "created_at": "2016-02-22T20:30:00.000Z",
+            "id": "701866553072029697",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/9HAGUG6kdt https://t.co/sRqBvvs04a"
+        },
+        {
+            "created_at": "2016-02-22T15:05:08.000Z",
+            "id": "701784795299184640",
+            "text": "Orexigen - Will Takeda Step Up To Advertise Contrave Or Step Pull Away? https://t.co/Gmeu1rlLxE $ARNA $VVUS $OREX"
+        },
+        {
+            "created_at": "2016-02-20T12:59:45.000Z",
+            "id": "701028465869352960",
+            "text": "The #Contrave inflicted lucid dreaming has got to stop. I can only handle so many more bad dreams about my friends!"
+        },
+        {
+            "created_at": "2016-02-20T08:30:01.000Z",
+            "id": "700960586394374144",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/6pmcg0ZoRh https://t.co/0PTBevsLxx"
+        },
+        {
+            "created_at": "2016-02-19T09:55:10.000Z",
+            "id": "700619625340350465",
+            "text": "Contrave: Rx weight loss medication-Day 1\n\nMy first video ever! Yay! This ...\nhttps://t.co/QW2o8j93i9 https://t.co/VfvVTHp6LN"
+        },
+        {
+            "created_at": "2016-02-18T19:02:16.000Z",
+            "id": "700394919811112960",
+            "text": "RT @FindHealthGigs: Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/9HAGUG6kdt https:\u2026"
+        },
+        {
+            "created_at": "2016-02-18T19:00:01.000Z",
+            "id": "700394354221981696",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/9HAGUG6kdt https://t.co/LYWBiRESFZ"
+        },
+        {
+            "created_at": "2016-02-18T11:31:00.000Z",
+            "id": "700281356316778496",
+            "text": "#Contrave for #obesity treatment  https://t.co/Robl5TgkOG"
+        },
+        {
+            "created_at": "2016-02-17T09:58:34.000Z",
+            "id": "699895707084451840",
+            "text": "RT @MichaelSDeVries: $OREX Orexigen-Contrave Sales Lead The Pack ... https://t.co/IjNRVn7wVi #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-17T09:56:41.000Z",
+            "id": "699895231106383872",
+            "text": "RT MichaelSDeVries $OREX Orexigen-Contrave Sales Lead The Pack ... https://t.co/amP0werzLm #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-17T09:53:50.000Z",
+            "id": "699894514601828352",
+            "text": "RT @MichaelSDeVries: $OREX Orexigen-Contrave Sales Lead The Pack ... https://t.co/IjNRVn7wVi #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-17T09:50:00.000Z",
+            "id": "699893551371460608",
+            "text": "$OREX Orexigen-Contrave Sales Lead The Pack ... https://t.co/IjNRVn7wVi #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-17T08:05:10.000Z",
+            "id": "699867166879789056",
+            "text": "Orexigen- Contrave Sales Lead The Pack But Are Well Off Needed Pace https://t.co/j2VNHgRE1F"
+        },
+        {
+            "created_at": "2016-02-17T02:26:04.000Z",
+            "id": "699781832141701121",
+            "text": "Orexigen-Contrave Sales Lead The Pack But Are Well Off Needed Pace https://t.co/GVAZyJSgAM #investing #ideas"
+        },
+        {
+            "created_at": "2016-02-17T01:28:57.000Z",
+            "id": "699767456139735040",
+            "text": "Orexigen- Contrave Sales Lead The Pack But Are Well Off Needed Pace https://t.co/GpUyvdem4Y https://t.co/JlYeulNmT2 #stocks #trading #inv\u2026"
+        },
+        {
+            "created_at": "2016-02-17T00:32:57.000Z",
+            "id": "699753363966205952",
+            "text": "Orexigen- Contrave Sales Lead The Pack But Are Well Off Needed Pace https://t.co/yraNb0uyUu"
+        },
+        {
+            "created_at": "2016-02-16T23:48:05.000Z",
+            "id": "699742072752869376",
+            "text": "https://t.co/EDggX0Mxko Orexigen- Contrave Sales Lead The Pack But Are Well Off Needed Pace:  https://t.co/wzX8cSSaCp #stocks #market"
+        },
+        {
+            "created_at": "2016-02-16T23:47:49.000Z",
+            "id": "699742007124623360",
+            "text": "Orexigen- Contrave Sales Lead The Pack But Are Well Off Needed Pace:  https://t.co/oCkoXGF5Uy"
+        },
+        {
+            "created_at": "2016-02-16T23:44:53.000Z",
+            "id": "699741267656200192",
+            "text": "Orexigen- Contrave Sales Lead The Pack But Are Well Off Needed Pace https://t.co/DOwnbVLX73 $OREX"
+        },
+        {
+            "created_at": "2016-02-16T19:07:46.000Z",
+            "id": "699671528527388672",
+            "text": "Orexigen (OREX) Stock Dives After Terminating... https://t.co/VDy5O7UJ07"
+        },
+        {
+            "created_at": "2016-02-16T16:39:12.000Z",
+            "id": "699634140782555137",
+            "text": "$OREX contrave ims TRx: up 4.1% (14,587 vs. 14,009)"
+        },
+        {
+            "created_at": "2016-02-16T15:05:01.000Z",
+            "id": "699610438024228866",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/Fvo0Moi89l https://t.co/HPz1vHDJ0f"
+        },
+        {
+            "created_at": "2016-02-16T02:00:01.000Z",
+            "id": "699412887052357634",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/6pmcg0ZoRh https://t.co/WPvGgT3HQF"
+        },
+        {
+            "created_at": "2016-02-15T10:26:38.000Z",
+            "id": "699177994422767616",
+            "text": "Contrave https://t.co/SyWxEKl6mx"
+        },
+        {
+            "created_at": "2016-02-15T10:25:23.000Z",
+            "id": "699177677677264896",
+            "text": "Contrave: Contrave (\u0440\u0443\u0441\u0441\u043a. \u041a\u043e\u043d\u0442\u0440\u044d\u0439\u0432 \u0438\u043b\u0438 \u041a\u043e\u043d\u0442\u0440\u0435\u0439\u0432) \u2014 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044f \u0432\u0435\u0441\u0430 \u0441 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u043c\u2026 https://t.co/tfqik9E8gN"
+        },
+        {
+            "created_at": "2016-02-15T10:25:15.000Z",
+            "id": "699177647381876736",
+            "text": "Contrave: Contrave (\u0440\u0443\u0441\u0441\u043a. \u041a\u043e\u043d\u0442\u0440\u044d\u0439\u0432 \u0438\u043b\u0438 \u041a\u043e\u043d\u0442\u0440\u0435\u0439\u0432) \u2014 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044f \u0432\u0435\u0441\u0430\u2026 https://t.co/c4ASeagy35"
+        },
+        {
+            "created_at": "2016-02-15T10:17:41.000Z",
+            "id": "699175742677065729",
+            "text": "Contrave https://t.co/1FImPXD8Ns"
+        },
+        {
+            "created_at": "2016-02-15T09:53:00.000Z",
+            "id": "699169531630063616",
+            "text": "Contrave https://t.co/wboNuQYdo4"
+        },
+        {
+            "created_at": "2016-02-15T01:00:00.000Z",
+            "id": "699035397800775680",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/9HAGUG6kdt https://t.co/JMO4oHKyH5"
+        },
+        {
+            "created_at": "2016-02-14T18:25:46.000Z",
+            "id": "698936184056193024",
+            "text": "@blackafroheart hi. Don't mean to bother u.  I searched \"contrave \" &amp; some of your tweets appeared.  Wondered if I might ask some questions"
+        },
+        {
+            "created_at": "2016-02-14T10:36:35.000Z",
+            "id": "698818110359343104",
+            "text": "Contrave: Is This The Weight Loss Drug We&amp;#039;ve Been Waiting For? https://t.co/PDHafvU50N"
+        },
+        {
+            "created_at": "2016-02-14T08:28:01.000Z",
+            "id": "698785754588278785",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-13T13:26:39.000Z",
+            "id": "698498520899260416",
+            "text": "21 pounds down. #Contrave #YMCA #Scaledown"
+        },
+        {
+            "created_at": "2016-02-13T00:03:39.000Z",
+            "id": "698296438451793920",
+            "text": "Have you considered Contrave for weight loss?\nhttps://t.co/5YmEooKEkq"
+        },
+        {
+            "created_at": "2016-02-12T01:26:16.000Z",
+            "id": "697954841058873345",
+            "text": "\u500b\u4eba\u8f38\u5165\u4ee3\u884c\u30b5\u30a4\u30c8\u3067Contrave\u99ac\u9e7f\u9ad8\u3044\u5024\u6bb5\u3067\u7f6e\u3044\u3066\u3042\u3063\u3066\u8cb7\u3046\u4eba\u304b\u308f\u3044\u305d\u3046\u3060"
+        },
+        {
+            "created_at": "2016-02-12T01:25:49.000Z",
+            "id": "697954729167466496",
+            "text": "\u80a5\u6e80\u75c7\u6cbb\u7642\u85ac\u300cContrave\u00ae\u300d\uff08\u30ca\u30eb\u30c8\u30ec\u30ad\u30bd\u30f3\u5869\u9178\u5869\u5f90\u653e\u88fd\u5264\u3068\u30d6\u30d7\u30ed\u30d4\u30aa\u30f3\u5869\u9178\u5869\u5f90\u653e\u88fd\u5264\u306e\u5408\u5264\uff09\u306e\u7c73\u56fd\u306b\u304a\u3051\u308b\u8ca9\u58f2\u8a31\u53ef\u53d6\u5f97\u306b\u3064\u3044\u3066 https://t.co/JTXwKjBhdv"
+        },
+        {
+            "created_at": "2016-02-12T01:17:58.000Z",
+            "id": "697952752727535616",
+            "text": "Bupropion \u98f2\u3080\u3068 POMC \u304c\u591a\u304f\u4f5c\u3089\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u3066\u3001\u3067\u3082 POMC \u7523\u751f\u306f beta-endorphin \u3067\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u5236\u5fa1\u3055\u308c\u3066\u3044\u308b\u304b\u3089\u3001opioid antagonist \u3092\u5165\u308c\u3066\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u6291\u5236\u3092\u7121\u52b9\u306b\u3057\u3066\u3057\u307e\u304a\u3046\u3068\u3044\u3046\u30a2\u30a4\u30c7\u30a3\u30a2\u304cContrave\u306a\u3093\u3087"
+        },
+        {
+            "created_at": "2016-02-11T21:10:36.000Z",
+            "id": "697890502306361344",
+            "text": "Here are the facts about Contrave diet pills!\nhttps://t.co/5YmEooKEkq"
+        },
+        {
+            "created_at": "2016-02-11T18:22:31.000Z",
+            "id": "697848204147036160",
+            "text": "@aedweb @rosemaryboxer https://t.co/9RDvB6kPbE 2 my knowledge contrave not a Rx for BED.  Behavioral Rx. &amp; Vyvanse.  Contraindication 4 surg"
+        },
+        {
+            "created_at": "2016-02-11T13:00:02.000Z",
+            "id": "697767048869519361",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/6pmcg0ZoRh https://t.co/AErN22M2iy"
+        },
+        {
+            "created_at": "2016-02-11T07:22:09.000Z",
+            "id": "697682014300979200",
+            "text": "La borsa puja i contrav\u00e9 els avisos d'inestabilitat futura https://t.co/xmDvuIcxh5 #Borses"
+        },
+        {
+            "created_at": "2016-02-11T06:09:35.000Z",
+            "id": "697663752649510912",
+            "text": "RT @elpuntavui: La borsa puja i contrav\u00e9 els avisos d'inestabilitat futura https://t.co/rhbRcr19yU"
+        },
+        {
+            "created_at": "2016-02-11T06:00:12.000Z",
+            "id": "697661390270636033",
+            "text": "La borsa puja i contrav\u00e9 els avisos d'inestabilitat futura https://t.co/rhbRcr19yU"
+        },
+        {
+            "created_at": "2016-02-11T05:34:24.000Z",
+            "id": "697654897857028096",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-11T05:30:01.000Z",
+            "id": "697653795631820801",
+            "text": "Contrave (naltrexone and bupropion) for #WeightLoss : #SideEffects , Cost, and Efficacy  https://t.co/9HAGUG6kdt https://t.co/CC1W1VIjya"
+        },
+        {
+            "created_at": "2016-02-11T00:59:59.000Z",
+            "id": "697585840793505792",
+            "text": "elPuntAvui: \"La borsa puja i contrav\u00e9 els avisos d'inestabilitat futura\" https://t.co/a9Lpxb2qXc"
+        },
+        {
+            "created_at": "2016-02-11T00:50:23.000Z",
+            "id": "697583423435710465",
+            "text": "La borsa puja i contrav\u00e9 els avisos d'inestabilitat futura https://t.co/iELKJc6J5U #independencia #estatpropi"
+        },
+        {
+            "created_at": "2016-02-10T22:42:21.000Z",
+            "id": "697551203383640064",
+            "text": "If you are starting #Contrave! Make sure you taper off of your #opioids 1st!"
+        },
+        {
+            "created_at": "2016-02-09T17:54:27.000Z",
+            "id": "697116363630862336",
+            "text": "@ElDesempateW @Geo_Gonzalez @Dorados Recuerdo cuando @TorosCelayaFC intent\u00f3 debutar a Marigol y no existe en el reglamento nada que contrave"
+        },
+        {
+            "created_at": "2016-02-09T14:33:03.000Z",
+            "id": "697065678185046016",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-09T14:10:48.000Z",
+            "id": "697060080022196224",
+            "text": "Orexigen (OREX) Stock Dives After Terminating... https://t.co/VDy5O7UJ07"
+        },
+        {
+            "created_at": "2016-02-09T14:09:24.000Z",
+            "id": "697059726496903168",
+            "text": "@medicalaxioms qsymia, contrave, saxenda, belviq, phentermine, orlistat.  Obesity meds are X, pretty intuitive."
+        },
+        {
+            "created_at": "2016-02-09T13:52:19.000Z",
+            "id": "697055429227102209",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-09T13:16:13.000Z",
+            "id": "697046342296870912",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-09T12:54:08.000Z",
+            "id": "697040785519149056",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-09T12:45:47.000Z",
+            "id": "697038685326479360",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-09T12:44:57.000Z",
+            "id": "697038474042408964",
+            "text": "RT @NeilFlochMD: The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://\u2026"
+        },
+        {
+            "created_at": "2016-02-09T12:44:11.000Z",
+            "id": "697038283755409409",
+            "text": "The anti-obesity drug volume prescriptions in#USA - #obesity #contrave #qysmia #belviq #saxenda #bariatricsurgery https://t.co/q5Kufanz1Z"
+        },
+        {
+            "created_at": "2016-02-09T12:02:38.000Z",
+            "id": "697027827552505856",
+            "text": "RT @ILSOeducacion: #BlogILSO Contrave para tratar la #obesidad y el #sobrepeso. \n\nhttps://t.co/hSOqKDJMIA"
+        },
+        {
+            "created_at": "2016-02-08T17:16:32.000Z",
+            "id": "696744435611234304",
+            "text": "#BlogILSO Contrave para tratar la #obesidad y el #sobrepeso. \n\nhttps://t.co/hSOqKDJMIA"
+        },
+        {
+            "created_at": "2016-02-07T03:25:34.000Z",
+            "id": "696172924575690754",
+            "text": "@jennygarrard I'm taking something called Contrave to aid weight loss. Drug Co gave me a scale that texts me and them my weight each day."
+        },
+        {
+            "created_at": "2016-02-06T02:19:32.000Z",
+            "id": "695793921671241728",
+            "text": "@scheanamarie Contrave is a better weight loss product than hydroxycut, but if I got paid I would push it also!"
+        },
+        {
+            "created_at": "2016-02-05T17:30:45.000Z",
+            "id": "695660849587974144",
+            "text": "Entro a twitter. Llegeixo que el so de les campanes contrav\u00e9 el Conveni Europeu dels Drets Humans. Surto de twitter. @QuimTorraiPla"
+        },
+        {
+            "created_at": "2016-02-05T13:32:26.000Z",
+            "id": "695600873712566273",
+            "text": "Officially down 17lbs since starting my diet 5 weeks ago! Can't wait to see the 20lbs mark. #Contrave"
+        },
+        {
+            "created_at": "2016-02-05T12:22:08.000Z",
+            "id": "695583181941182464",
+            "text": "RT @MichaelSDeVries: $OREX Orexigen books $2.6M in Contrave royalties in Q4 =&gt; https://t.co/rrCW8peLPT #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-05T12:20:20.000Z",
+            "id": "695582727370862593",
+            "text": "RT @MichaelSDeVries: $OREX Orexigen books $2.6M in Contrave royalties in Q4 =&gt; https://t.co/rrCW8peLPT #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-05T12:19:51.000Z",
+            "id": "695582605622820864",
+            "text": "RT @MichaelSDeVries: $OREX Orexigen books $2.6M in Contrave royalties in Q4 =&gt; https://t.co/rrCW8peLPT #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-05T12:13:42.000Z",
+            "id": "695581061317685248",
+            "text": "$OREX Orexigen books $2.6M in Contrave royalties in Q4 =&gt; https://t.co/rrCW8peLPT #Orexigen #HealthCare #Stock #OREX"
+        },
+        {
+            "created_at": "2016-02-04T21:38:55.000Z",
+            "id": "695360912098656256",
+            "text": "Have you considered prescription weight loss such as Contrave?\nhttps://t.co/rPbRJnPlDC"
+        },
+        {
+            "created_at": "2016-02-04T21:31:51.000Z",
+            "id": "695359135232057346",
+            "text": "RT @SeekingAlpha: Orexigen Investors Get Glimpse Of Potential And Problems With Contrave Revenue https://t.co/f7w9TP7jMu $ARNA $OREX"
+        },
+        {
+            "created_at": "2016-02-04T21:28:57.000Z",
+            "id": "695358405595148289",
+            "text": "Orexigen Investors Get Glimpse Of Potential And Problems With Contrave Revenue https://t.co/f7w9TP7jMu $ARNA $OREX"
+        },
+        {
+            "created_at": "2016-02-04T16:52:29.000Z",
+            "id": "695288830904111104",
+            "text": "Hola @tv3cat Haur\u00edeu de corregir aquest titular https://t.co/26tSFjjasq ja que contrav\u00e9 el vostre llibre d'estil: https://t.co/BsBHmvgHxF"
+        },
+        {
+            "created_at": "2016-02-04T16:25:19.000Z",
+            "id": "695281994226241536",
+            "text": "https://t.co/EDggX0Mxko Orexigen books $2.6M in Contrave royalties in Q4:  https://t.co/VOM9MzVpBM #stocks #markets"
+        },
+        {
+            "created_at": "2016-02-04T16:16:24.000Z",
+            "id": "695279747010416640",
+            "text": "Orexigen books $2.6M in Contrave royalties in Q4 https://t.co/QwR35Py11i $OREX $TKPHF $TKPYY"
+        },
+        {
+            "created_at": "2016-02-04T01:40:36.000Z",
+            "id": "695059347173433345",
+            "text": "Hi! I have #ADHD and have been on 10mg of #Adderall for years. My doctor just prescribed #Contrave for me. ... https://t.co/UJltWfB58x"
+        },
+        {
+            "created_at": "2016-02-03T19:13:22.000Z",
+            "id": "694961895296614400",
+            "text": "RT UNHumanRights: #LetThemStay: #Australia\u2019s policy on #migrants &amp; asylum seekers contrave\u2026 https://t.co/NpBJ9oU86X https://t.co/I3r5zBNiYQ"
+        },
+        {
+            "created_at": "2016-02-02T14:22:56.000Z",
+            "id": "694526418928156672",
+            "text": "Orexigen - Contrave Sales Dip Again https://t.co/kIJKOKSJJa"
+        },
+        {
+            "created_at": "2016-02-02T13:56:33.000Z",
+            "id": "694519780833779713",
+            "text": "Orexigen - Contrave Sales Dip Again https://t.co/oYmAGPGESf #investing #ideas"
+        },
+        {
+            "created_at": "2016-02-02T13:53:42.000Z",
+            "id": "694519063536627712",
+            "text": "RT @SeekingAlpha: Orexigen - Contrave Sales Dip Again https://t.co/7jM2XsbHDT $ARNA $OREX"
+        },
+        {
+            "created_at": "2016-02-02T13:37:00.000Z",
+            "id": "694514857085829120",
+            "text": "Orexigen - Contrave Sales Dip Again https://t.co/7jM2XsbHDT $ARNA $OREX"
+        },
+        {
+            "created_at": "2016-02-01T16:58:26.000Z",
+            "id": "694203164661301249",
+            "text": "RT @qaqadebt: #Experimental #Diet Pill #Contrave Brought A Small Weight Loss https://t.co/5nlL3dgIUV"
+        }
+    ],
+    "meta": {
+        "newest_id": "704409293844574208",
+        "oldest_id": "694203164661301249",
+        "result_count": 124
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-02-16T14:55:57.000Z",
+            "id": "699608158096875520",
+            "text": "RT @jt120651: IntelGenx (IGX / IGXT) Announces Commercial Launch of Forfivo XL(TM) in USA \u2013 Viral\u00a0News https://t.co/zgrzOfpROU"
+        },
+        {
+            "created_at": "2016-02-15T18:52:08.000Z",
+            "id": "699305208933801985",
+            "text": "IntelGenx (IGX / IGXT) Announces Commercial Launch of Forfivo XL(TM) in USA \u2013 Viral\u00a0News https://t.co/zgrzOfpROU"
+        }
+    ],
+    "meta": {
+        "newest_id": "699608158096875520",
+        "oldest_id": "699305208933801985",
+        "result_count": 2
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-02-29T23:41:26.000Z",
+            "id": "704451442644525057",
+            "text": "i'm discontinuing wellbutrin, i told my doctor"
+        },
+        {
+            "created_at": "2016-02-29T23:08:38.000Z",
+            "id": "704443189462044672",
+            "text": "thinking about a med change. I'm so drowsy all the time...anybody have experience with wellbutrin? I've heard good things."
+        },
+        {
+            "created_at": "2016-02-29T18:51:35.000Z",
+            "id": "704378499419734016",
+            "text": "#Wellbutrin is helping me #quit #smoking. Maybe. I want to smoke less but I also want to [do everything except for lie down] less. So...win?"
+        },
+        {
+            "created_at": "2016-02-29T16:27:02.000Z",
+            "id": "704342123588485120",
+            "text": "Somalia Intl Inc (VRX): The Great Wellbutrin Channel Mystery #fakeheadlinebot #learntocode #makeatwitterbot #javascript"
+        },
+        {
+            "created_at": "2016-02-29T16:01:01.000Z",
+            "id": "704335575353004032",
+            "text": "Mark Zuckerberg Intl Inc (VRX): The Great Wellbutrin Channel Mystery #fakeheadlinebot #learntocode #makeatwitterbot #javascript"
+        },
+        {
+            "created_at": "2016-02-29T14:55:16.000Z",
+            "id": "704319028899160064",
+            "text": "RT @cfpdx: Enough?::GlaxoSmithKline fined $3bl after bribing doctors to increase drugs sales https://t.co/rs4VkriTYd #Paxil #Wellbutrin #Ad\u2026"
+        },
+        {
+            "created_at": "2016-02-29T14:44:29.000Z",
+            "id": "704316315104911361",
+            "text": "Enough?::GlaxoSmithKline fined $3bl after bribing doctors to increase drugs sales https://t.co/rs4VkriTYd #Paxil #Wellbutrin #Advair #youth"
+        },
+        {
+            "created_at": "2016-02-29T14:40:37.000Z",
+            "id": "704315340256354304",
+            "text": "RT @doggydaddy70: GlaxoSmithKline fined $3bn for bribing doctors to increase drugs sales  https://t.co/UDLR9LWPJu #paxil #wellbutrin https:\u2026"
+        },
+        {
+            "created_at": "2016-02-29T13:57:41.000Z",
+            "id": "704304534428844033",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T07:42:35.000Z",
+            "id": "704210139696525312",
+            "text": "Lady Gaga Intl Inc (VRX): The Great Wellbutrin Channel Mystery #fakeheadlinebot #learntocode #makeatwitterbot #javascript"
+        },
+        {
+            "created_at": "2016-02-29T05:42:41.000Z",
+            "id": "704179966179540992",
+            "text": "@brokeymcpoverty I loved Wellbutrin but it made my tongue swell"
+        },
+        {
+            "created_at": "2016-02-29T04:23:53.000Z",
+            "id": "704160136479293442",
+            "text": "RT @brokeymcpoverty: @DatNumbaPhive i actually have more trouble remembering my dreams with wellbutrin"
+        },
+        {
+            "created_at": "2016-02-29T04:23:49.000Z",
+            "id": "704160116564631552",
+            "text": "@gaosniffle sorry for a weird response but idk if u tried wellbutrin xl  at all bc for most and me it made me lose weight really easily"
+        },
+        {
+            "created_at": "2016-02-29T04:17:58.000Z",
+            "id": "704158647954362368",
+            "text": "@DatNumbaPhive i actually have more trouble remembering my dreams with wellbutrin"
+        },
+        {
+            "created_at": "2016-02-29T04:17:40.000Z",
+            "id": "704158571597062144",
+            "text": "Wellbutrin = crazy dreams/nightmares that u will definitely remember when u awake  https://t.co/XR1mEtrejB"
+        },
+        {
+            "created_at": "2016-02-29T04:09:27.000Z",
+            "id": "704156504086151168",
+            "text": "wellbutrin also kind of makes me crave alcohol, which is weird"
+        },
+        {
+            "created_at": "2016-02-29T04:07:56.000Z",
+            "id": "704156122882711552",
+            "text": "@brokeymcpoverty interesting. I've been on Wellbutrin for a while but I've noticed the same thing, particularly recently."
+        },
+        {
+            "created_at": "2016-02-29T04:07:45.000Z",
+            "id": "704156074006355969",
+            "text": "@brokeymcpoverty Several friends of mine struggled tremendously while on Wellbutrin. I hope it improves for you."
+        },
+        {
+            "created_at": "2016-02-29T04:05:03.000Z",
+            "id": "704155394784911360",
+            "text": "@brokeymcpoverty Wellbutrin was the only med that made me actively plan my death tbh"
+        },
+        {
+            "created_at": "2016-02-29T04:03:39.000Z",
+            "id": "704155043973492736",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T04:01:29.000Z",
+            "id": "704154498265124864",
+            "text": "so since starting wellbutrin ive noticed that i think about death more--not suicidally but fearfully. i goggled &amp; its apparently common"
+        },
+        {
+            "created_at": "2016-02-29T03:00:55.000Z",
+            "id": "704139256755822592",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:47:56.000Z",
+            "id": "704135989791313920",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:39:22.000Z",
+            "id": "704133831826272256",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:39:14.000Z",
+            "id": "704133800314277889",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:38:50.000Z",
+            "id": "704133697922945025",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:38:15.000Z",
+            "id": "704133551185264640",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:37:19.000Z",
+            "id": "704133315079618560",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:36:19.000Z",
+            "id": "704133065422086144",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:36:00.000Z",
+            "id": "704132984866283520",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:33:33.000Z",
+            "id": "704132369268273152",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:30:29.000Z",
+            "id": "704131595389669376",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:28:21.000Z",
+            "id": "704131061886750725",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:27:53.000Z",
+            "id": "704130944689643520",
+            "text": "RT @JewdyGold: Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:27:45.000Z",
+            "id": "704130908207636480",
+            "text": "Judy Gold would like to thank paxil, wellbutrin, ativan and trazadone. #Oscars"
+        },
+        {
+            "created_at": "2016-02-29T02:13:28.000Z",
+            "id": "704127314574053376",
+            "text": "GlaxoSmithKline fined $3bn for bribing doctors to increase drugs sales  https://t.co/UDLR9LWPJu #paxil #wellbutrin https://t.co/XSYWdD326Y"
+        },
+        {
+            "created_at": "2016-02-29T01:14:12.000Z",
+            "id": "704112398697787392",
+            "text": "RT @cfpdx: GlaxoSmithKline fined $3 billion after bribing doctors to increase drugs sales  https://t.co/rs4VkriTYd #Pail #Wellbutrin #Advai\u2026"
+        },
+        {
+            "created_at": "2016-02-29T01:10:26.000Z",
+            "id": "704111453578641408",
+            "text": "GlaxoSmithKline fined $3 billion after bribing doctors to increase drugs sales  https://t.co/rs4VkriTYd #Pail #Wellbutrin #Advair #youth"
+        },
+        {
+            "created_at": "2016-02-29T00:04:39.000Z",
+            "id": "704094898325057536",
+            "text": "RT @MyRightsRI: 3 BILLION DOLLAR FINE!\n Sales reps in the US encouraged to mis-sell antidepressants Paxil and Wellbutrin and... https://t.c\u2026"
+        },
+        {
+            "created_at": "2016-02-28T23:59:19.000Z",
+            "id": "704093556563165184",
+            "text": "3 BILLION DOLLAR FINE!\n Sales reps in the US encouraged to mis-sell antidepressants Paxil and Wellbutrin and... https://t.co/WI6G3uBzk8"
+        },
+        {
+            "created_at": "2016-02-28T19:00:46.000Z",
+            "id": "704018419960705025",
+            "text": "3 BILLION DOLLAR FINE!\nSales reps in the US encouraged to mis-sell antidepressants Paxil and Wellbutrin and... https://t.co/SsSmeySbmL"
+        },
+        {
+            "created_at": "2016-02-28T17:29:13.000Z",
+            "id": "703995383123464192",
+            "text": "@maradydd @semiotechnic Wellbutrin has been good to me - with lamictal is the most effect anything has ever had."
+        },
+        {
+            "created_at": "2016-02-28T09:36:05.000Z",
+            "id": "703876316018319361",
+            "text": "@gewt @SlimeGirlfriend I never tried that one. Think I tried Prozac, Wellbutrin, Zoloft, cymbalta and something else before giving up"
+        },
+        {
+            "created_at": "2016-02-28T06:40:24.000Z",
+            "id": "703832101511000064",
+            "text": "1882 wellbutrin"
+        },
+        {
+            "created_at": "2016-02-28T03:47:25.000Z",
+            "id": "703788571711315969",
+            "text": "@aoighost @puellavulnerata @maradydd @semiotechnic DON'T go off Wellbutrin quickly, or without doc's help; it's not a friendly withdrawal."
+        },
+        {
+            "created_at": "2016-02-28T02:23:26.000Z",
+            "id": "703767434352730113",
+            "text": "RT @MarkAmesExiled: This country's political culture is so thoroughly warped by decades of neoliberalism, even Mao would run for the Wellbu\u2026"
+        },
+        {
+            "created_at": "2016-02-28T02:16:19.000Z",
+            "id": "703765644169322501",
+            "text": ".@semiotechnic 300mg/d Wellbutrin induced a psychotic break in me, over the course of about six weeks. There are other temporary etiologies."
+        },
+        {
+            "created_at": "2016-02-27T23:22:35.000Z",
+            "id": "703721921217699845",
+            "text": "@LetsGoWVPower @MayoClinic my patients who want to quit smoking cigs? I recommend NRT combo tx and then Chantix, Wellbutrin +/- CBT"
+        },
+        {
+            "created_at": "2016-02-27T23:21:45.000Z",
+            "id": "703721713922666496",
+            "text": "\u2014\nAll I need is OxyContin and some Wellbutrin and I'm set for the week. Sadly. I have neither."
+        },
+        {
+            "created_at": "2016-02-27T20:30:13.000Z",
+            "id": "703678543503486976",
+            "text": "Wellbutrin\n\nwellbutrin 450 ...\nhttps://t.co/IuTpwAd6jr https://t.co/isFNa39wQG"
+        },
+        {
+            "created_at": "2016-02-27T20:05:39.000Z",
+            "id": "703672363406086144",
+            "text": "RT @MarkAmesExiled: This country's political culture is so thoroughly warped by decades of neoliberalism, even Mao would run for the Wellbu\u2026"
+        },
+        {
+            "created_at": "2016-02-27T17:10:31.000Z",
+            "id": "703628288061775872",
+            "text": "Once again, I tried to go off my Wellbutrin. And today I realize I'm a grouchy bitch so I still need it."
+        },
+        {
+            "created_at": "2016-02-27T16:30:08.000Z",
+            "id": "703618124059275264",
+            "text": "@norabombay i'm on wellbutrin and have a family history of alcoholism, idk where \"the merest hint\" falls on either of those spectra"
+        },
+        {
+            "created_at": "2016-02-27T16:23:25.000Z",
+            "id": "703616437403951104",
+            "text": "#weightlossfast #Wellbutrin #Weight Loss #Antidepressants: Best Diet Meals Plan \u2019s ! Unlike\u2026 https://t.co/pLb6zFYnrQ for more click \u2026"
+        },
+        {
+            "created_at": "2016-02-27T16:16:16.000Z",
+            "id": "703614636369833985",
+            "text": "#weightlossfast #Wellbutrin #Weight Loss #Antidepressants: Best Diet Meals Plan \u2019s ! Unlike\u2026 https://t.co/wXwle0o95d"
+        },
+        {
+            "created_at": "2016-02-27T13:32:25.000Z",
+            "id": "703573403131899905",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-27T12:13:16.000Z",
+            "id": "703553482482196481",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-27T12:09:58.000Z",
+            "id": "703552652332965888",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-27T10:26:27.000Z",
+            "id": "703526601879904256",
+            "text": "@KiraCarinaBird @talk_elfy_to_me OMG no. Wellbutrin was really fucked up."
+        },
+        {
+            "created_at": "2016-02-27T10:25:04.000Z",
+            "id": "703526254641876992",
+            "text": "@KiraCarinaBird @talk_elfy_to_me I had a nurse tell me how to taper off of Wellbutrin on the down-low, because the doc wouldn't. It's tough."
+        },
+        {
+            "created_at": "2016-02-27T08:29:16.000Z",
+            "id": "703497113418776576",
+            "text": "Sales reps in the US encouraged to mis-sell antidepressants Paxil and Wellbutrin and asthma treatmen https://t.co/bj0KNfIgRF"
+        },
+        {
+            "created_at": "2016-02-27T04:30:36.000Z",
+            "id": "703437049630621696",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-27T04:22:05.000Z",
+            "id": "703434905280233472",
+            "text": "Kylie Jenner Intl Inc (VRX): The Great Wellbutrin Channel Mystery #fakeheadlinebot #learntocode #makeatwitterbot #javascript"
+        },
+        {
+            "created_at": "2016-02-27T01:53:46.000Z",
+            "id": "703397580991033346",
+            "text": "Fibro Warrior Question:\n\nHas anyone been prescribed Wellbutrin for fibro? I do have a lot of other problems such... https://t.co/YVir3hXw9D"
+        },
+        {
+            "created_at": "2016-02-26T17:35:12.000Z",
+            "id": "703272114598617089",
+            "text": "@PrayForJack Over twenty years. Elavil, lithium, mellurill, wellbutrin, lamictal.... too many"
+        },
+        {
+            "created_at": "2016-02-26T11:20:00.000Z",
+            "id": "703177690229182464",
+            "text": "Is this some sort of downside to wellbutrin."
+        },
+        {
+            "created_at": "2016-02-26T10:56:56.000Z",
+            "id": "703171886956478465",
+            "text": "Anorgasmia on lowest dose of Zoloft, can't try wellbutrin because I'm taking beta blockers. Would another SSRI work?"
+        },
+        {
+            "created_at": "2016-02-26T10:08:07.000Z",
+            "id": "703159599306657796",
+            "text": "Best Site Good Work &lt;a href=\" https://t.co/HYDgI1QuUK... https://t.co/9VqMjezbdY"
+        },
+        {
+            "created_at": "2016-02-26T09:08:07.000Z",
+            "id": "703144500223291392",
+            "text": "Thanks for calling https://t.co/trRIb67sSL ... https://t.co/2AlFVZx1zv"
+        },
+        {
+            "created_at": "2016-02-26T04:37:09.000Z",
+            "id": "703076310021701632",
+            "text": "24 Tips For Busy #Wellbutrin And #Zoloft #Together #Weight Loss: Lose The Weight Or It\u2019s\u2026 https://t.co/XpxnSGc9oD for more click \u2026"
+        },
+        {
+            "created_at": "2016-02-26T04:34:48.000Z",
+            "id": "703075719564369920",
+            "text": "24 Tips For Busy #Wellbutrin And #Zoloft #Together #Weight Loss: Lose The Weight Or It\u2019s\u2026 https://t.co/8c9aReCFgC"
+        },
+        {
+            "created_at": "2016-02-26T04:14:53.000Z",
+            "id": "703070708365139968",
+            "text": "@OperaStarr I even take wellbutrin which is supposed to help stop compulsive behaviors but nope"
+        },
+        {
+            "created_at": "2016-02-26T03:30:22.000Z",
+            "id": "703059505106571264",
+            "text": "Other causes of excessive thirst: some anti-epileptic drugs; lithium-antimanic agents; the antidepressant Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-26T03:01:19.000Z",
+            "id": "703052191725174784",
+            "text": "Prescribed Lyrica and Wellbutrin today. https://t.co/8OeI5b6gC5"
+        },
+        {
+            "created_at": "2016-02-26T01:16:48.000Z",
+            "id": "703025888766525441",
+            "text": "@lookinatstories my friend is on multiple antidepressants. I think\u2026Wellbutrin and Prozac."
+        },
+        {
+            "created_at": "2016-02-26T01:16:22.000Z",
+            "id": "703025783086956544",
+            "text": "Wellbutrin OR Prozac + Tramadol (CYP2D6 questions) https://t.co/x6Nr1dA4A2"
+        },
+        {
+            "created_at": "2016-02-26T01:04:49.000Z",
+            "id": "703022874676727808",
+            "text": "@lookinatstories I\u2019m not super sensitive to meds, but I really like the Wellbutrin."
+        },
+        {
+            "created_at": "2016-02-26T01:00:40.000Z",
+            "id": "703021832236957696",
+            "text": "@perisaccadic oh prozac just like caused constant ennui for me. wellbutrin is treating me well, but also i\u2019m really stressed out."
+        },
+        {
+            "created_at": "2016-02-26T00:56:45.000Z",
+            "id": "703020844298055680",
+            "text": "@keisisqrl that's what too high ssri dose does to me. Also any amount of wellbutrin, ugh"
+        },
+        {
+            "created_at": "2016-02-26T00:11:58.000Z",
+            "id": "703009572554932227",
+            "text": "Zoloft...Wellbutrin... What's my next option?"
+        },
+        {
+            "created_at": "2016-02-25T23:41:54.000Z",
+            "id": "703002008580722690",
+            "text": "Wellbutrin and forgetfulness"
+        },
+        {
+            "created_at": "2016-02-25T22:51:06.000Z",
+            "id": "702989221636734980",
+            "text": "@iSlut_ Wellbutrin = extremely short fuse and an understanding of the \"Prozac Defense.\" But I'm not a doctor."
+        },
+        {
+            "created_at": "2016-02-25T20:11:29.000Z",
+            "id": "702949054339162112",
+            "text": "@robo_nixon have you considered Wellbutrin?"
+        },
+        {
+            "created_at": "2016-02-25T17:36:59.000Z",
+            "id": "702910174563016704",
+            "text": "@v_greyson I'm honestly not sure who Wellbutrin is right for. At least w/zombie meds like Prozac/Zoloft I can see the clinical use. Like--"
+        },
+        {
+            "created_at": "2016-02-25T17:27:24.000Z",
+            "id": "702907762771152897",
+            "text": "@v_greyson Back in the day all of my ED friends wanted to be on Wellbutrin b/c it kills appetite. Then they realized it jacked up anxiety."
+        },
+        {
+            "created_at": "2016-02-25T12:38:10.000Z",
+            "id": "702834973674332160",
+            "text": "@bipolarnation @janifoundation meds not mess lol. Wellbutrin made me way way worst?? Idk they prescribe it? Also scared feeling worst than"
+        },
+        {
+            "created_at": "2016-02-25T11:05:56.000Z",
+            "id": "702811763968974848",
+            "text": "Best Diet Meal Plans To Lose Weight: Wellbutrin Weight Loss Forum \u2019s ! Unlike many diet\u2026 https://t.co/nng7AgIQTT for more click \u2026"
+        },
+        {
+            "created_at": "2016-02-25T11:00:06.000Z",
+            "id": "702810294528172032",
+            "text": "Best Diet Meal Plans To Lose Weight: Wellbutrin Weight Loss Forum \u2019s ! Unlike many diet\u2026 https://t.co/E2oVypApKn"
+        },
+        {
+            "created_at": "2016-02-25T05:51:06.000Z",
+            "id": "702732532958281728",
+            "text": "i feel like wellbutrin isn't doing anything for me and it stresses me out so much bc i just want something that works"
+        },
+        {
+            "created_at": "2016-02-25T03:33:32.000Z",
+            "id": "702697913126940677",
+            "text": "One of Valeant\u2019s more enduring riddles is the continued vitality of Wellbutrin XL https://t.co/MvmCUOcsib $VRX https://t.co/i2XiNyirT9"
+        },
+        {
+            "created_at": "2016-02-25T02:10:48.000Z",
+            "id": "702677090580217856",
+            "text": "Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-24T23:33:16.000Z",
+            "id": "702637446907834368",
+            "text": "Without Wellbutrin, I'd have to kill somebody when helping girlie with her math. #ug"
+        },
+        {
+            "created_at": "2016-02-24T21:04:06.000Z",
+            "id": "702599909652869120",
+            "text": "@badtracking my life is torment. I fucked up my eyeliner so bad I had to wash everything off. I lost my wellbutrin. Spilled my chai x2."
+        },
+        {
+            "created_at": "2016-02-24T20:45:26.000Z",
+            "id": "702595209721413633",
+            "text": "@CharMeLoDi the only shit that helped mine was Wellbutrin. I hated adderall, shit gave me ED"
+        },
+        {
+            "created_at": "2016-02-24T19:13:00.000Z",
+            "id": "702571948639985667",
+            "text": "@ErisGriffon @vedia_lupae I do find it neat that wellbutrin can help with ADHD (Which is probably the basis for the Straterra I take...)"
+        },
+        {
+            "created_at": "2016-02-24T19:01:09.000Z",
+            "id": "702568965999104000",
+            "text": "RT @SIRF_Report: Wellbutrin XL numbers have some holes in them. With $VRX, where there are holes, there is often a hole factory."
+        },
+        {
+            "created_at": "2016-02-24T19:00:52.000Z",
+            "id": "702568895358615553",
+            "text": "RT @ActivistShorts: Valeant Pharmaceuticals: The Great Wellbutrin Channel Mystery on channel stuffing at $VRX by @SIRF_Report https://t.co/\u2026"
+        },
+        {
+            "created_at": "2016-02-24T18:59:51.000Z",
+            "id": "702568641162665984",
+            "text": "#Valeant Pharmaceuticals Intl Inc ( $VRX): The Great Wellbutrin Channel Mystery. Read more: https://t.co/hqoBxVXvA8"
+        },
+        {
+            "created_at": "2016-02-24T18:25:34.000Z",
+            "id": "702560012829327361",
+            "text": "RT @SIRF_Report: $VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T18:25:24.000Z",
+            "id": "702559971465175041",
+            "text": "RT @SIRF_Report: Wellbutrin XL numbers have some holes in them. With $VRX, where there are holes, there is often a hole factory."
+        },
+        {
+            "created_at": "2016-02-24T17:36:08.000Z",
+            "id": "702547570367791104",
+            "text": "I\u2019m convinced that Wellbutrin is magical"
+        },
+        {
+            "created_at": "2016-02-24T17:33:39.000Z",
+            "id": "702546946943275009",
+            "text": "@4xRevenue @SIRF_Report $VRX Key is a delayed K after a four month faux \"investigation\". Ain't about some Wellbutrin...that merely a symptom"
+        },
+        {
+            "created_at": "2016-02-24T17:23:41.000Z",
+            "id": "702544439068196864",
+            "text": "RT @ActivistShorts: Valeant Pharmaceuticals: The Great Wellbutrin Channel Mystery on channel stuffing at $VRX by @SIRF_Report https://t.co/\u2026"
+        },
+        {
+            "created_at": "2016-02-24T17:15:21.000Z",
+            "id": "702542340590858241",
+            "text": "RT @SIRF_Report: $VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T17:15:10.000Z",
+            "id": "702542295975989248",
+            "text": "Valeant Pharmaceuticals Intl Inc: The Great Wellbutrin Channel Mystery https://t.co/MvmCUOcsib $VRX https://t.co/oGnCxtnvjh"
+        },
+        {
+            "created_at": "2016-02-24T17:14:59.000Z",
+            "id": "702542248383107072",
+            "text": "Valeant Pharmaceuticals Intl Inc (VRX): The Great Wellbutrin Channel Mystery https://t.co/mZNfw1Zimg @valuewalk"
+        },
+        {
+            "created_at": "2016-02-24T17:14:58.000Z",
+            "id": "702542246340534272",
+            "text": "Valeant Pharmaceuticals Intl Inc (VRX): The Great Wellbutrin Channel Mystery https://t.co/x0nCqWKJFw @valuewalk"
+        },
+        {
+            "created_at": "2016-02-24T17:14:57.000Z",
+            "id": "702542242884390913",
+            "text": "Valeant Pharmaceuticals Intl Inc (VRX): The Great Wellbutrin Channel Mystery: Valeant Pharmaceutica... https://t.co/48vU3dO3nT @valuewalk"
+        },
+        {
+            "created_at": "2016-02-24T17:02:18.000Z",
+            "id": "702539056404525056",
+            "text": "RT @SIRF_Report: $VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T16:52:12.000Z",
+            "id": "702536513779802112",
+            "text": "ToGovern: RT WillauerProsky: New from SIRF_Report \"Valeant: The Great Wellbutrin Channel Mystery https://t.co/Lkv5bRSsPg #badpharma #short\u2026"
+        },
+        {
+            "created_at": "2016-02-24T16:51:29.000Z",
+            "id": "702536334079041536",
+            "text": "RT @ActivistShorts: Valeant Pharmaceuticals: The Great Wellbutrin Channel Mystery on channel stuffing at $VRX by @SIRF_Report https://t.co/\u2026"
+        },
+        {
+            "created_at": "2016-02-24T16:49:02.000Z",
+            "id": "702535719563169792",
+            "text": "Valeant Pharmaceuticals: The Great Wellbutrin Channel Mystery on channel stuffing at $VRX by @SIRF_Report https://t.co/k67vKvoPOe"
+        },
+        {
+            "created_at": "2016-02-24T16:43:46.000Z",
+            "id": "702534394603544576",
+            "text": "$VRX More bad news... reports of possible channel stuffing. https://t.co/O5Gf35QSoG"
+        },
+        {
+            "created_at": "2016-02-24T16:41:58.000Z",
+            "id": "702533939714527233",
+            "text": "RT @WillauerProsky: New from @SIRF_Report \"Valeant: The Great Wellbutrin Channel Mystery https://t.co/eJhVsKkqht #badpharma #shortseller #c\u2026"
+        },
+        {
+            "created_at": "2016-02-24T16:41:44.000Z",
+            "id": "702533881396744192",
+            "text": "RT @adamfeuerstein: $VRX should disclose changes, up/down in Wellbutrin XL wholesale channel inventory. Basic question, easily answered. ht\u2026"
+        },
+        {
+            "created_at": "2016-02-24T16:41:22.000Z",
+            "id": "702533788857974784",
+            "text": "RT @adamfeuerstein: $VRX should disclose changes, up/down in Wellbutrin XL wholesale channel inventory. Basic question, easily answered. ht\u2026"
+        },
+        {
+            "created_at": "2016-02-24T16:40:47.000Z",
+            "id": "702533644414525440",
+            "text": "New from @SIRF_Report \"Valeant: The Great Wellbutrin Channel Mystery https://t.co/eJhVsKkqht #badpharma #shortseller #corpgov\""
+        },
+        {
+            "created_at": "2016-02-24T16:37:24.000Z",
+            "id": "702532791720923136",
+            "text": "$VRX should disclose changes, up/down in Wellbutrin XL wholesale channel inventory. Basic question, easily answered. https://t.co/EqCM16F55Q"
+        },
+        {
+            "created_at": "2016-02-24T16:36:15.000Z",
+            "id": "702532501294686208",
+            "text": "RT @SIRF_Report: Wellbutrin XL numbers have some holes in them. With $VRX, where there are holes, there is often a hole factory."
+        },
+        {
+            "created_at": "2016-02-24T16:36:04.000Z",
+            "id": "702532455102701568",
+            "text": "RT @SIRF_Report: Wellbutrin XL numbers have some holes in them. With $VRX, where there are holes, there is often a hole factory."
+        },
+        {
+            "created_at": "2016-02-24T16:31:56.000Z",
+            "id": "702531413934010368",
+            "text": "Wellbutrin XL numbers have some holes in them. With $VRX, where there are holes, there is often a hole factory."
+        },
+        {
+            "created_at": "2016-02-24T16:30:10.000Z",
+            "id": "702530969832542208",
+            "text": "RT @SIRF_Report: $VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T16:30:00.000Z",
+            "id": "702530928711589888",
+            "text": "RT @SIRF_Report: $VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T16:29:49.000Z",
+            "id": "702530884306640896",
+            "text": "RT @SIRF_Report: $VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T16:29:38.000Z",
+            "id": "702530837359689728",
+            "text": "RT @SIRF_Report: $VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T16:28:31.000Z",
+            "id": "702530554206486529",
+            "text": "$VRX New from @SIRF_Report A little stuffing for your channel\nhttps://t.co/cBdNtO6frs"
+        },
+        {
+            "created_at": "2016-02-24T13:15:15.000Z",
+            "id": "702481919217311744",
+            "text": "@Night_ER_Ninja tried wellbutrin. Had insomnia, anorexia and constant butterflies in my stomach. I quit it."
+        },
+        {
+            "created_at": "2016-02-24T11:02:11.000Z",
+            "id": "702448429096685569",
+            "text": "What is your experience with Wellbutrin and afternoon Coffee (due to sleepiness and you need to work)?"
+        },
+        {
+            "created_at": "2016-02-24T04:43:08.000Z",
+            "id": "702353041027039232",
+            "text": "@windowseat on FB the other day a friend posted \"love is the best antidepressant\" and I was like nah I'll keep my Paxil and Wellbutrin, thx."
+        },
+        {
+            "created_at": "2016-02-24T02:11:18.000Z",
+            "id": "702314828694597632",
+            "text": "@magnoliacircus it worked for a while but feels like it has bottomed out. We raised the lamictal &amp; wellbutrin 2 weeks ago &amp; it isn't helping"
+        },
+        {
+            "created_at": "2016-02-24T02:09:50.000Z",
+            "id": "702314462942867456",
+            "text": "@magnoliacircus I've been on meds for 12 years. Lamictal, then lithium, Now both. Supplementing my lithium with lamictal and Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-24T01:46:53.000Z",
+            "id": "702308684920000513",
+            "text": "Order Wellbutrin SR.Want To Buy Wellbutrin SR.Wellbutrin SR From Pharmacy No Prescription: Where To Buy Wellbutrin\u2026"
+        },
+        {
+            "created_at": "2016-02-24T00:27:16.000Z",
+            "id": "702288647689785344",
+            "text": "#needdiet #Wellbutrin And #Zoloft #Together #Weight Loss: Best Diet Plan For Fatty Liver\u2026 https://t.co/qZntoJ1tHY for more click \u2026"
+        },
+        {
+            "created_at": "2016-02-24T00:26:10.000Z",
+            "id": "702288372858036228",
+            "text": "#needdiet #Wellbutrin And #Zoloft #Together #Weight Loss: Best Diet Plan For Fatty Liver\u2026 https://t.co/QmYsE8Pd08"
+        },
+        {
+            "created_at": "2016-02-23T22:55:37.000Z",
+            "id": "702265585988546560",
+            "text": "RT @Mededucation101: Need to watch out for patients with a seizure history on Wellbutrin (bupropion) https://t.co/JOwzZtcUKy #mentalhealth \u2026"
+        },
+        {
+            "created_at": "2016-02-23T21:48:45.000Z",
+            "id": "702248757140697088",
+            "text": "@Auragasmic right! those of us with mental illness don\u2019t choose it. Though Wellbutrin is prescribed for quitting smoking and depression."
+        },
+        {
+            "created_at": "2016-02-23T20:57:19.000Z",
+            "id": "702235814067986432",
+            "text": "Watching the Live action Oscar nominated shorts.  I need a Wellbutrin after that group of sadness"
+        },
+        {
+            "created_at": "2016-02-23T20:48:14.000Z",
+            "id": "702233526582685696",
+            "text": "@thexfiles The more I think about it, the more pissed I get that CC broke M and S up. Like highly pissed. Like overriding my Wellbutrin mad."
+        },
+        {
+            "created_at": "2016-02-23T20:38:41.000Z",
+            "id": "702231122726379521",
+            "text": "@mirahwood @tweetofsarah @2dAmMuslim hard way: find a good psych willing to experiment.  easy way: see if yr gp will Rx Wellbutrin 4 depress"
+        },
+        {
+            "created_at": "2016-02-23T20:33:18.000Z",
+            "id": "702229769274859520",
+            "text": "@mirahwood @tweetofsarah @2dAmMuslim Stattera and Wellbutrin mainly"
+        },
+        {
+            "created_at": "2016-02-23T19:51:25.000Z",
+            "id": "702219227193716736",
+            "text": "wellbutrin is metabolized through Cyp2B6.  Alcohol INCREASES clearance of wellbutrin.  #Goodtoknow"
+        },
+        {
+            "created_at": "2016-02-23T17:54:34.000Z",
+            "id": "702189821566066689",
+            "text": "Good news for my Facebook friends, I just ate breakfast and took my Wellbutrin so I don't care about politics anymore"
+        },
+        {
+            "created_at": "2016-02-23T16:56:56.000Z",
+            "id": "702175318400958464",
+            "text": "RT @AngelaRyan88: I need a Wellbutrin the size of a 1970 Buick right about now."
+        },
+        {
+            "created_at": "2016-02-23T16:08:11.000Z",
+            "id": "702163050212667392",
+            "text": "Please call back later https://t.co/BYgqOKSQ2V bother wellbut... https://t.co/FNFQH8spHi"
+        },
+        {
+            "created_at": "2016-02-23T16:00:57.000Z",
+            "id": "702161230803443719",
+            "text": "RT @MarkAmesExiled: This country's political culture is so thoroughly warped by decades of neoliberalism, even Mao would run for the Wellbu\u2026"
+        },
+        {
+            "created_at": "2016-02-23T15:46:32.000Z",
+            "id": "702157603405692932",
+            "text": "RT @MarkAmesExiled: This country's political culture is so thoroughly warped by decades of neoliberalism, even Mao would run for the Wellbu\u2026"
+        },
+        {
+            "created_at": "2016-02-23T13:12:49.000Z",
+            "id": "702118919994273792",
+            "text": "RT @MarkAmesExiled: This country's political culture is so thoroughly warped by decades of neoliberalism, even Mao would run for the Wellbu\u2026"
+        },
+        {
+            "created_at": "2016-02-23T12:56:35.000Z",
+            "id": "702114831374163968",
+            "text": "RT @MarkAmesExiled: This country's political culture is so thoroughly warped by decades of neoliberalism, even Mao would run for the Wellbu\u2026"
+        },
+        {
+            "created_at": "2016-02-23T12:52:08.000Z",
+            "id": "702113712455475200",
+            "text": "This country's political culture is so thoroughly warped by decades of neoliberalism, even Mao would run for the Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-23T11:35:50.000Z",
+            "id": "702094509765570564",
+            "text": "RT @Mededucation101: Need to watch out for patients with a seizure history on Wellbutrin (bupropion) https://t.co/JOwzZtcUKy #mentalhealth \u2026"
+        },
+        {
+            "created_at": "2016-02-23T11:08:08.000Z",
+            "id": "702087541495697408",
+            "text": "What line of work are you in? &lt;a href=\" https://t.co/hAwTDXGzL0... https://t.co/4vlSTYGgcV"
+        },
+        {
+            "created_at": "2016-02-23T09:06:35.000Z",
+            "id": "702056951685885952",
+            "text": "Agree with Dr. Fowler's answer to \"I've been taking Wellbutrin 150 xl for about three weeks ... Can I just stop takin...\" - http://htap.u..."
+        },
+        {
+            "created_at": "2016-02-23T06:52:02.000Z",
+            "id": "702023091757707264",
+            "text": "RT @Mededucation101: Need to watch out for patients with a seizure history on Wellbutrin (bupropion) https://t.co/JOwzZtcUKy #mentalhealth \u2026"
+        },
+        {
+            "created_at": "2016-02-23T05:48:50.000Z",
+            "id": "702007184184492032",
+            "text": "acrosc: gentlemen-sharpen-your-pencils: acrosc: anyone have much experience with Wellbutrin? any side... https://t.co/GOTxMXQrrk"
+        },
+        {
+            "created_at": "2016-02-23T04:47:55.000Z",
+            "id": "701991857484595200",
+            "text": "RT @Mededucation101: Need to watch out for patients with a seizure history on Wellbutrin (bupropion) https://t.co/JOwzZtcUKy #mentalhealth \u2026"
+        },
+        {
+            "created_at": "2016-02-23T04:46:51.000Z",
+            "id": "701991588789096448",
+            "text": "RT Mededucation101 Need to watch out for patients with a seizure history on Wellbutrin (bupropion) https://t.co/8xa8yxHQQj #mentalhealth #\u2026"
+        },
+        {
+            "created_at": "2016-02-23T04:45:00.000Z",
+            "id": "701991120729931776",
+            "text": "Need to watch out for patients with a seizure history on Wellbutrin (bupropion) https://t.co/JOwzZtcUKy #mentalhealth #nursing #pharmacist"
+        },
+        {
+            "created_at": "2016-02-23T03:29:57.000Z",
+            "id": "701972236345933826",
+            "text": "Fell in love with Wellbutrin at first, but then as soon as even the second day on it I wished I had never taken it"
+        },
+        {
+            "created_at": "2016-02-23T03:19:50.000Z",
+            "id": "701969687454859264",
+            "text": "Like I've tried everything: narcotics, icy hot, elvail, neurotin, Wellbutrin, lidocaine patches, asper cream, physical therapies...."
+        },
+        {
+            "created_at": "2016-02-23T02:19:25.000Z",
+            "id": "701954484881195008",
+            "text": "I need a Wellbutrin the size of a 1970 Buick right about now."
+        },
+        {
+            "created_at": "2016-02-22T22:24:04.000Z",
+            "id": "701895258062327809",
+            "text": "Yoo has anyone tried wellbutrin to stop smoking?"
+        },
+        {
+            "created_at": "2016-02-22T22:15:21.000Z",
+            "id": "701893061702324225",
+            "text": "dropped a corn kernel on the kitchen floor; considered leaving it for future me to find\n\n\u2026high fives &amp; wellbutrin if you got the reference"
+        },
+        {
+            "created_at": "2016-02-22T21:08:06.000Z",
+            "id": "701876139690582016",
+            "text": "Withdraw cash https://t.co/dHSXt4DZnH smear wellbutr... https://t.co/BIT6FdJrWd"
+        },
+        {
+            "created_at": "2016-02-22T18:52:46.000Z",
+            "id": "701842081577365506",
+            "text": "@underwaterlevel does it work? i'm taking it with wellbutrin"
+        },
+        {
+            "created_at": "2016-02-22T18:50:28.000Z",
+            "id": "701841504747139073",
+            "text": "So pleased to announce I'm back on Wellbutrin, press conference at 3"
+        },
+        {
+            "created_at": "2016-02-22T17:15:24.000Z",
+            "id": "701817577669062656",
+            "text": "This up in my Wellbutrin is helping!!!!!!! Not my focus at all but I'm definitely happier!!!!!!"
+        },
+        {
+            "created_at": "2016-02-22T17:07:21.000Z",
+            "id": "701815552382095364",
+            "text": "@TheRedKirby I know this is hella late but bupropion (the wellbutrin generic) is very affordable, looks like 2 months is 15-30 bucks"
+        },
+        {
+            "created_at": "2016-02-22T17:06:41.000Z",
+            "id": "701815385268609024",
+            "text": "\u00e9n uke uten Wellbutrin og plutselig h\u00f8rer jeg p\u00e5 black metal igjen.......hm"
+        },
+        {
+            "created_at": "2016-02-22T16:14:25.000Z",
+            "id": "701802229783617536",
+            "text": "@slumberines ugh oh no poor wellbutrin! or poor you more accurately lol. and yeah we have coffee here so i wasn't completely without, but"
+        },
+        {
+            "created_at": "2016-02-22T16:08:29.000Z",
+            "id": "701800736443727872",
+            "text": "@thisoneisfamily i'm sad bc i can only take wellbutrin in the morning, and i'll miss half my antacid dose for the day. RIP @ ME \ud83d\udc80\ud83d\udc4c"
+        },
+        {
+            "created_at": "2016-02-22T15:41:19.000Z",
+            "id": "701793903243083776",
+            "text": "@ChurchCarlton Clomipramine. At 6ish months, it's the longest I've spent on anything other than Wellbutrin (6ish YEARS)."
+        },
+        {
+            "created_at": "2016-02-22T12:00:00.000Z",
+            "id": "701738206002286592",
+            "text": "Mozcamp Asia: Here's a few hours late taking Effexor, and starting Wellbutrin today, so apologies if I kill anybody."
+        },
+        {
+            "created_at": "2016-02-22T03:17:05.000Z",
+            "id": "701606608430878720",
+            "text": "#rx #drugs What Is The Best Generic Version Of Wellbutrin Xl - Watson or Anchen? https://t.co/RMdO4VnlYf"
+        },
+        {
+            "created_at": "2016-02-22T03:07:55.000Z",
+            "id": "701604301274226688",
+            "text": "Just started Wellbutrin...what can I expect?"
+        },
+        {
+            "created_at": "2016-02-22T02:39:00.000Z",
+            "id": "701597025981308928",
+            "text": "Is it possible that there's a med that could help me more than Wellbutrin/Bupropion + Fluoxetine? Scared to change, not happy where I am."
+        },
+        {
+            "created_at": "2016-02-22T02:29:56.000Z",
+            "id": "701594745496322050",
+            "text": "@UrsulaV I'm alive today thanks to Effexor + Wellbutrin + Zoloft. Better living through chemistry!"
+        },
+        {
+            "created_at": "2016-02-22T01:36:03.000Z",
+            "id": "701581183205793792",
+            "text": "Probably now I'm taking less Prozac and more Wellbutrin it's more important to remember meds every morning huh"
+        },
+        {
+            "created_at": "2016-02-22T01:14:15.000Z",
+            "id": "701575695361826817",
+            "text": "Wellbutrin will go down the throat \nsoon enough. \nI lost\nwho she loved, that man \nthat let her bloom\nand be, \njust as she should."
+        },
+        {
+            "created_at": "2016-02-21T23:22:57.000Z",
+            "id": "701547686282010624",
+            "text": "@omsnoms I feel like that always happens :( i've tried so many, never prozac tho, but I am on wellbutrin now and I really hate it"
+        },
+        {
+            "created_at": "2016-02-21T22:19:55.000Z",
+            "id": "701531822828683266",
+            "text": "@publius98 Im much more productive, although the Wellbutrin may help with that. Smoking was so disruptive. I read &amp; do things uninterrupted."
+        },
+        {
+            "created_at": "2016-02-21T21:28:47.000Z",
+            "id": "701518957275168769",
+            "text": "@AbiLowood I take wellbutrin which the doc said to taper off. She told me to take the xabax when necessary. Unfortunately its been every day"
+        },
+        {
+            "created_at": "2016-02-21T13:03:48.000Z",
+            "id": "701391874435710981",
+            "text": "Wellbutrin Cause Depression https://t.co/QbT9KACSLO"
+        },
+        {
+            "created_at": "2016-02-21T12:06:31.000Z",
+            "id": "701377459153797120",
+            "text": "How Does Wellbutrin Help You Quit Smoking - https://t.co/iyWMZMFIos https://t.co/EnDzsWzqv9"
+        },
+        {
+            "created_at": "2016-02-21T11:36:46.000Z",
+            "id": "701369968747798528",
+            "text": "Could gratitude be better than Wellbutrin? https://t.co/kO4FtSzaFu"
+        },
+        {
+            "created_at": "2016-02-21T08:14:18.000Z",
+            "id": "701319018377043968",
+            "text": "Ordering Online Wellbutrin SR.Buying online Wellbutrin SR.Wellbutrin SR Overnight Without Prescription In USA: Where\u2026"
+        },
+        {
+            "created_at": "2016-02-21T05:11:23.000Z",
+            "id": "701272987090055169",
+            "text": "@evanjaquez @funcoolmami WELLBUTRIN MADE ME SO SICK I COULDNT EAT ANYTHING OF SUBSTANCE FOR MONTHS. sorry for the all caps but ugh"
+        },
+        {
+            "created_at": "2016-02-20T16:34:21.000Z",
+            "id": "701082471589404672",
+            "text": "Wellbutrin killed my sexdrive and gave me ED, quit on my own, what are the risks?"
+        },
+        {
+            "created_at": "2016-02-20T05:53:40.000Z",
+            "id": "700921240681230336",
+            "text": "@koipepper @warriorofshadow the real culprit was Wellbutrin, which APPARENTLY can cause seizures but my doctor &amp; I didn't know that"
+        },
+        {
+            "created_at": "2016-02-20T02:50:08.000Z",
+            "id": "700875053206876160",
+            "text": "So it turns out the Wellbutrin is strictly an anti-depressant. It does little to nothing to anxiety issues."
+        },
+        {
+            "created_at": "2016-02-20T02:00:54.000Z",
+            "id": "700862662851203072",
+            "text": "@DizzyHellfire I'm on 300 mg Wellbutrin :P If they help, they arent very evil."
+        },
+        {
+            "created_at": "2016-02-20T00:35:21.000Z",
+            "id": "700841131639185408",
+            "text": "@piiink1 I thought mine writhed but the idea of it working wore off n doc threw Wellbutrin at me n I thought thT helped but it hasn't either"
+        },
+        {
+            "created_at": "2016-02-20T00:30:43.000Z",
+            "id": "700839964796448769",
+            "text": "@jyaakov lexapro n Wellbutrin fuckin suck like. I still Have Wellbutrin but ikeeo forgetting to take it or my thyroid meds"
+        },
+        {
+            "created_at": "2016-02-20T00:22:30.000Z",
+            "id": "700837899911172096",
+            "text": "Quitting Wellbutrin? https://t.co/aHL8niXasB"
+        },
+        {
+            "created_at": "2016-02-19T20:30:00.000Z",
+            "id": "700779387344523264",
+            "text": "Any guys have bad reactions to Wellbutrin?"
+        },
+        {
+            "created_at": "2016-02-19T19:00:15.000Z",
+            "id": "700756802099662848",
+            "text": "@camirocha super te entendo, do alto do meu wellbutrin 300mg hahah"
+        },
+        {
+            "created_at": "2016-02-19T17:24:41.000Z",
+            "id": "700732752489005057",
+            "text": "Questions for Wellbutrin/Bupropion users"
+        },
+        {
+            "created_at": "2016-02-19T17:15:08.000Z",
+            "id": "700730346350862336",
+            "text": "@JoeBudden wellbutrin caused me to quit, maybe that'll help \ud83d\ude02 Lord knows you qualify for antidepressants"
+        },
+        {
+            "created_at": "2016-02-19T14:24:13.000Z",
+            "id": "700687335797628928",
+            "text": "...I feel like getting off the wellbutrin helps as well. I don't feel like I want to eat until im over full when im on a break at work."
+        },
+        {
+            "created_at": "2016-02-19T12:20:24.000Z",
+            "id": "700656176208347136",
+            "text": "@AFarmhousePhish do what you have to do. Mental health is so important! I'm on wellbutrin and klonopin. Has helped so much"
+        },
+        {
+            "created_at": "2016-02-19T11:19:58.000Z",
+            "id": "700640966684749824",
+            "text": "@IAmSpilly I'd been on Wellbutrin previously, but with the Paxil, so it was hard to gage how it was working. It's ok for me now."
+        },
+        {
+            "created_at": "2016-02-19T11:19:15.000Z",
+            "id": "700640787982209025",
+            "text": "@inthefade not now. Wellbutrin was one I was on in college"
+        },
+        {
+            "created_at": "2016-02-19T11:18:41.000Z",
+            "id": "700640644637683714",
+            "text": "@IAmSpilly wow, are you taking anything now? (I'm on abilify and wellbutrin)"
+        },
+        {
+            "created_at": "2016-02-19T06:21:22.000Z",
+            "id": "700565822020784128",
+            "text": "@AFarmhousePhish wellbutrin was the only one that helped me :("
+        },
+        {
+            "created_at": "2016-02-19T03:53:15.000Z",
+            "id": "700528545517412352",
+            "text": "Wellbutrin upped from 200 to 300mgs. New Wellbutrin makes me even more sleepy than my usual sloth self.\u2620"
+        },
+        {
+            "created_at": "2016-02-19T02:03:57.000Z",
+            "id": "700501039385022464",
+            "text": "[arousal] [medication] I'm on Wellbutrin and my libido is on overdrive. How can I calm down a bit? via /r/#sex #li\u2026 https://t.co/iVzt9u4YN3"
+        },
+        {
+            "created_at": "2016-02-18T22:39:14.000Z",
+            "id": "700449522640486401",
+            "text": "How Does Wellbutrin Help You Quit Smoking - https://t.co/miVvuj579O https://t.co/1oz02QmKVF"
+        },
+        {
+            "created_at": "2016-02-18T22:32:46.000Z",
+            "id": "700447895821090816",
+            "text": "@shibuyadreams Wellbutrin was relatively easy, Paxil was terrifying, Celexa  seems to be in between, at least when I've run out"
+        },
+        {
+            "created_at": "2016-02-18T21:40:19.000Z",
+            "id": "700434694354042880",
+            "text": "*starts to dance randomly at work*  Must remember Hormones + Wellbutrin = Irrational bouts of Mania."
+        },
+        {
+            "created_at": "2016-02-18T19:33:08.000Z",
+            "id": "700402688954130432",
+            "text": "@haleyp switched to wellbutrin once and went nearly suicidal. let me know if you ever need to talk"
+        },
+        {
+            "created_at": "2016-02-18T18:56:32.000Z",
+            "id": "700393476672856064",
+            "text": "@jaybakker thanks for sharing. I deal with it everyday.  Some better tgan others.  Wellbutrin does its best. Lorazapam rescues on bad days"
+        },
+        {
+            "created_at": "2016-02-18T18:27:00.000Z",
+            "id": "700386045276258306",
+            "text": "@SpaldingBalls my moment came when dr melfi prescribed wellbutrin to tony soprano"
+        },
+        {
+            "created_at": "2016-02-18T17:26:14.000Z",
+            "id": "700370752478932992",
+            "text": "@HatredIsMyMuse @TheStateSucks @cooterthug TBH thank god I'm on wellbutrin so I can laugh in the face of pain"
+        },
+        {
+            "created_at": "2016-02-18T17:14:33.000Z",
+            "id": "700367813320515585",
+            "text": "Myoclonus in pedi? DEET, amphetamines, INH, lindane, wellbutrin, lamotrigine #toxthurs"
+        },
+        {
+            "created_at": "2016-02-18T04:54:29.000Z",
+            "id": "700181569948921856",
+            "text": "RT @battleferrets: Does anyone who follows me have experience taking Cymbalta with Wellbutrin, or just Cymbalta? Guess what my new med is 8)"
+        },
+        {
+            "created_at": "2016-02-18T04:43:09.000Z",
+            "id": "700178715578232832",
+            "text": "Does anyone who follows me have experience taking Cymbalta with Wellbutrin, or just Cymbalta? Guess what my new med is 8)"
+        },
+        {
+            "created_at": "2016-02-18T00:31:39.000Z",
+            "id": "700115425586065408",
+            "text": "how does Chelle know what wellbutrin is? lmfaooo"
+        },
+        {
+            "created_at": "2016-02-18T00:30:20.000Z",
+            "id": "700115092730355712",
+            "text": "huns. i dont do crack, I do Wellbutrin!"
+        },
+        {
+            "created_at": "2016-02-17T23:50:29.000Z",
+            "id": "700105066712326144",
+            "text": "Switching from Lexapro to Wellbutrin was a nightmare in every respect except my dick actually worked"
+        },
+        {
+            "created_at": "2016-02-17T22:49:47.000Z",
+            "id": "700089789408800768",
+            "text": "Wellbutrin &amp; Libido"
+        },
+        {
+            "created_at": "2016-02-17T22:24:10.000Z",
+            "id": "700083342201483266",
+            "text": "@melooodieee red bull plus valium plus wellbutrin tho"
+        },
+        {
+            "created_at": "2016-02-17T17:58:11.000Z",
+            "id": "700016405526106113",
+            "text": "i can't remember if i took my wellbutrin last night, again.  it wasn't on purpose."
+        },
+        {
+            "created_at": "2016-02-17T17:49:32.000Z",
+            "id": "700014229823352832",
+            "text": "Wellbutrin SR and MDMA? https://t.co/fbVVxmQVUw"
+        },
+        {
+            "created_at": "2016-02-17T17:20:26.000Z",
+            "id": "700006903913394176",
+            "text": "@gravetexan If it helps, the duloxetine/bupropion (Cymbalta/Wellbutrin) combination has helped me quite a bit. No sexual side effects/cloudy"
+        },
+        {
+            "created_at": "2016-02-17T17:07:25.000Z",
+            "id": "700003631341314048",
+            "text": "@gravetexan That's why I switched to Wellbutrin. Okay wasn't enough."
+        },
+        {
+            "created_at": "2016-02-17T16:10:12.000Z",
+            "id": "699989230706032640",
+            "text": "RT @kingamir: Your #wcw crushes 2 Adderall pills into her morning coffee and snorts Wellbutrin on her lunch breaks. \ud83d\udc8a\ud83d\udc8a"
+        },
+        {
+            "created_at": "2016-02-17T15:58:46.000Z",
+            "id": "699986354524917760",
+            "text": "Your #wcw crushes 2 Adderall pills into her morning coffee and snorts Wellbutrin on her lunch breaks. \ud83d\udc8a\ud83d\udc8a"
+        },
+        {
+            "created_at": "2016-02-17T13:03:35.000Z",
+            "id": "699942266438176772",
+            "text": "@TheLizLincoln @LorelieBrown @RGraceAllen We're going through this w hubs, too. It's in the same class as wellbutrin, which he already takes"
+        },
+        {
+            "created_at": "2016-02-17T13:00:00.000Z",
+            "id": "699941365837385729",
+            "text": "I am so very proud to be some sort of downside to wellbutrin."
+        },
+        {
+            "created_at": "2016-02-17T05:08:43.000Z",
+            "id": "699822763574501377",
+            "text": "@SkylineRacerR34 Fuck yeah!!\nhttps://t.co/mPHRDO1HJV"
+        },
+        {
+            "created_at": "2016-02-17T05:06:28.000Z",
+            "id": "699822195657334784",
+            "text": "@MisophonicSpree #Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-17T04:00:28.000Z",
+            "id": "699805585601069056",
+            "text": "I'm happy to report that I am not actually in estrus but that my heightened libido is a side effect from the Wellbutrin."
+        },
+        {
+            "created_at": "2016-02-17T03:12:41.000Z",
+            "id": "699793561709973504",
+            "text": "@20bs this time it was generic wellbutrin"
+        },
+        {
+            "created_at": "2016-02-17T01:26:45.000Z",
+            "id": "699766905377202176",
+            "text": "@LindseyRichter @HeyAnnieMok Antidepressants are hard. Help others learn from your experience by writing a review: https://t.co/z5a2d7e0N0"
+        },
+        {
+            "created_at": "2016-02-17T00:06:37.000Z",
+            "id": "699746736387051520",
+            "text": "@HeyAnnieMok \ud83d\ude30\ud83d\udca6\ud83d\udca6 (the extreme amount of face sweat I had on wellbutrin)"
+        },
+        {
+            "created_at": "2016-02-16T23:58:22.000Z",
+            "id": "699744660986658816",
+            "text": "I took my vyvanse &amp; Wellbutrin and drank two pots of coffee my heart is beating so fast omg"
+        },
+        {
+            "created_at": "2016-02-16T23:19:08.000Z",
+            "id": "699734786227707905",
+            "text": "@LindseyRichter nooooo I'm on wellbutrin and I love it :((((((("
+        },
+        {
+            "created_at": "2016-02-16T23:08:27.000Z",
+            "id": "699732101088804864",
+            "text": "@HeyAnnieMok me!!!! It's a side effect of high dosages of ssris and some other drugs, wellbutrin is the worst about it"
+        },
+        {
+            "created_at": "2016-02-16T21:51:26.000Z",
+            "id": "699712718136147968",
+            "text": "RT @goldenneedleacu: Sales reps in the US encouraged to mis-sell antidepressants Paxil and Wellbutrin and asthma treatment Advair https://t\u2026"
+        },
+        {
+            "created_at": "2016-02-16T20:15:16.000Z",
+            "id": "699688516146475008",
+            "text": "I took my first dose of Wellbutrin  and now I am going to nap"
+        },
+        {
+            "created_at": "2016-02-16T20:13:48.000Z",
+            "id": "699688146221604864",
+            "text": "Sales reps in the US encouraged to mis-sell antidepressants Paxil and Wellbutrin and asthma treatment Advair https://t.co/PAXLpYAzmC"
+        },
+        {
+            "created_at": "2016-02-16T19:59:03.000Z",
+            "id": "699684437206921218",
+            "text": "@tylercoates Not for nothing but I've been on Wellbutrin for just over a month &amp; it's really helped with my generalized irritability."
+        },
+        {
+            "created_at": "2016-02-16T19:12:35.000Z",
+            "id": "699672742631755776",
+            "text": "Was Given Wellbutrin XL A While Ago\u2026 https://t.c\u2026 https://t.co/OAgfcSHCwJ"
+        },
+        {
+            "created_at": "2016-02-16T19:11:15.000Z",
+            "id": "699672405824946180",
+            "text": "@Flea I know that Wellbutrin can make you more prone to risk taking. Also in general it's a lot easier to fall on love when not depressed."
+        },
+        {
+            "created_at": "2016-02-16T19:01:45.000Z",
+            "id": "699670016409489408",
+            "text": "Was Given Wellbutrin XL A While Ago... https://t.c... https://t.co/CliBcsfWLR"
+        },
+        {
+            "created_at": "2016-02-16T18:54:16.000Z",
+            "id": "699668132928077824",
+            "text": "@melooodieee im already on wellbutrin too lol"
+        },
+        {
+            "created_at": "2016-02-16T18:32:21.000Z",
+            "id": "699662615073521664",
+            "text": "@h34rken may your therapy go well, and your therapist gentle and caring. May the Wellbutrin treat your body kindly, as well."
+        },
+        {
+            "created_at": "2016-02-16T18:29:09.000Z",
+            "id": "699661812166320128",
+            "text": "I'm on Wellbutrin now and going to therapy please pray for me to explain to a nice therapy lady how I want to do all kinds of awful things"
+        },
+        {
+            "created_at": "2016-02-16T18:17:33.000Z",
+            "id": "699658889743233024",
+            "text": "#rx #drugs What Is The Best Generic Version Of Wellbutrin Xl - Watson or Anchen? https://t.co/sYcAK7vBm7"
+        },
+        {
+            "created_at": "2016-02-16T17:47:29.000Z",
+            "id": "699651326557302784",
+            "text": "ive been out of wellbutrin for 3 days and i feel like ive been poisoned"
+        },
+        {
+            "created_at": "2016-02-16T16:53:46.000Z",
+            "id": "699637805463511040",
+            "text": "St Johns Wort And Wellbutrin https://t.co/WggB13SPv3"
+        },
+        {
+            "created_at": "2016-02-16T12:14:24.000Z",
+            "id": "699567503375110145",
+            "text": "Haha! I bet someone is thinking this about me! I don't mind, I'll tell ya! Wellbutrin XL 300mg, Zoloft 100mg, for... https://t.co/QJt7VXxbE2"
+        },
+        {
+            "created_at": "2016-02-16T12:02:22.000Z",
+            "id": "699564472294178816",
+            "text": "Anybody experience irritability or anger on Wellbutrin?"
+        },
+        {
+            "created_at": "2016-02-16T06:59:49.000Z",
+            "id": "699488336650567680",
+            "text": "Soooo... wellbutrin makes my #insomnia  even worse... yay. #depression #PTSD"
+        },
+        {
+            "created_at": "2016-02-16T06:18:04.000Z",
+            "id": "699477829558210560",
+            "text": "@DrPaulineReid Why did this shift in favored drugs (Xanax, Prozac, Wellbutrin, etc.) from whisky, beer, and wine actually occur?"
+        },
+        {
+            "created_at": "2016-02-16T03:00:00.000Z",
+            "id": "699427983103283200",
+            "text": "I never knew there were some sort of downside to wellbutrin."
+        },
+        {
+            "created_at": "2016-02-16T01:44:53.000Z",
+            "id": "699409079903584256",
+            "text": "Ambien Paxil cr Buy Cialis Buy Viagra Retin Wellbutrin gets the #gasface"
+        },
+        {
+            "created_at": "2016-02-15T22:16:48.000Z",
+            "id": "699356711132524545",
+            "text": "Both my depression medications say \"don't drink\" on the bottles and apparently people get really nasty reactions when drinking on Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-15T20:16:58.000Z",
+            "id": "699326556670423040",
+            "text": "@randileeharper FWIW adderall was awful for me-- stims a no-go, found good control thru wellbutrin + my usual SSRI."
+        },
+        {
+            "created_at": "2016-02-15T16:29:23.000Z",
+            "id": "699269282413174784",
+            "text": "@ChiTownSports Wellbutrin is highly abused in the prison systems up here. That's all I know lol"
+        },
+        {
+            "created_at": "2016-02-15T16:22:16.000Z",
+            "id": "699267493974712320",
+            "text": "@KaraBudde My doctor is having me increase Lexapro and then starting Wellbutrin to deal with severe depression"
+        },
+        {
+            "created_at": "2016-02-15T16:20:57.000Z",
+            "id": "699267161085386752",
+            "text": "@ChiTownSports Lexapro did nothing for me. I have heard that Wellbutrin pairs well with Zoloft, which has helped me to a degree."
+        },
+        {
+            "created_at": "2016-02-15T15:36:56.000Z",
+            "id": "699256085484597248",
+            "text": "I'd like to know if anyone has any opinions of the medication Lexapro or Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-15T08:45:01.000Z",
+            "id": "699152422506254336",
+            "text": "How Long Does It Take Wellbutrin Xl To Use https://t.co/6doAIUazkZ"
+        },
+        {
+            "created_at": "2016-02-15T04:26:13.000Z",
+            "id": "699087294003712000",
+            "text": "@THOMCASTLES how is it? I almost got that, but ended up with Wellbutrin instead"
+        },
+        {
+            "created_at": "2016-02-15T01:08:30.000Z",
+            "id": "699037533603287040",
+            "text": "@ruiz_johngalt @razev @rebeldescalca deixa eu fazer a minha propaganda agora; Wellbutrin XL 300 mg. Apenas SIM. Muito melhor que Zoloft"
+        },
+        {
+            "created_at": "2016-02-14T16:03:25.000Z",
+            "id": "698900358697889792",
+            "text": "#MyFirstLovein4Words\nCelexa Xanax Wellbutrin Sudafed"
+        },
+        {
+            "created_at": "2016-02-14T03:52:34.000Z",
+            "id": "698716435539955713",
+            "text": "I'm a happy idiot thanks to #Wellbutrin."
+        },
+        {
+            "created_at": "2016-02-14T02:59:25.000Z",
+            "id": "698703061137620992",
+            "text": "RT @humansofny: (6/6) \u201cI was institutionalized after the incident. They were giving me Celexa, Wellbutrin, Ambien to help me...\" https://t.\u2026"
+        },
+        {
+            "created_at": "2016-02-14T01:22:06.000Z",
+            "id": "698678570130939904",
+            "text": "Anyone out there take Wellbutrin?"
+        },
+        {
+            "created_at": "2016-02-14T00:00:00.000Z",
+            "id": "698657908607860736",
+            "text": "and you forgot to turn the real light off, and starting Wellbutrin today, so apologies if I kill anybody."
+        },
+        {
+            "created_at": "2016-02-13T22:30:27.000Z",
+            "id": "698635371781890048",
+            "text": "@maggiejstrong taking Wellbutrin made my brain leak out my ears funny enough"
+        },
+        {
+            "created_at": "2016-02-13T22:26:22.000Z",
+            "id": "698634345561522177",
+            "text": "@_AdamJames_ @Fact. No.  It's actually true (if the three things are Xanax, Prozac and Wellbutrin)"
+        },
+        {
+            "created_at": "2016-02-13T22:26:07.000Z",
+            "id": "698634281170636800",
+            "text": "Interesting info about Wellbutrin.  Anxious-depression and folks with sleep issues may not tolerate well, others, it may be helpful."
+        },
+        {
+            "created_at": "2016-02-13T21:06:53.000Z",
+            "id": "698614343408218113",
+            "text": "@michiexile @podehaye the first went from concept to first draft in ~72h. Ramping up on wellbutrin was hard."
+        },
+        {
+            "created_at": "2016-02-13T20:55:52.000Z",
+            "id": "698611571388452870",
+            "text": "Wellbutrin, in my opinion could help with opioid dependency. Dopamine gives the \"high\" feeling translated through neurons. Since Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-13T20:46:19.000Z",
+            "id": "698609165569277952",
+            "text": "abilities help &lt;b&gt;psychic&lt;/b&gt; wellbutrin can https://t.co/838Df1Ku5x"
+        },
+        {
+            "created_at": "2016-02-13T19:58:39.000Z",
+            "id": "698597170774081536",
+            "text": "abilities help psychic wellbutrin can: Can Wellbutrin. Help Psychic Abilities. Best Drugstore Online. Best Pri... https://t.co/DdD4xBgtzM"
+        },
+        {
+            "created_at": "2016-02-13T18:32:29.000Z",
+            "id": "698575485870174208",
+            "text": "Wellbutrin + Lexapro https://t.co/z5SM0hVamx"
+        },
+        {
+            "created_at": "2016-02-13T18:13:09.000Z",
+            "id": "698570619181535233",
+            "text": "Really, really starting to love wellbutrin. The adjustment period was rough, but I'm glad I stuck with it because this is worth it."
+        },
+        {
+            "created_at": "2016-02-13T16:12:10.000Z",
+            "id": "698540173831774209",
+            "text": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30dc\u30f3\u30d0\u30fc\uff1aCould you ask him to call me? &amp;lt;a href=&amp;quot; https://t.co/UT5NjUQpLs"
+        },
+        {
+            "created_at": "2016-02-13T10:48:02.000Z",
+            "id": "698458604408430592",
+            "text": "@stephendonner @theunfocused I am not positive about how Wellbutrin works but it's considered atypical. Not an SSRI or SNRI"
+        },
+        {
+            "created_at": "2016-02-13T07:36:05.000Z",
+            "id": "698410298449883136",
+            "text": "@tannerfilip @theunfocused for sure - I've heard great things about its brand name Wellbutrin.  For me, Dexedrine (ADHD Rx) helps w/dopamine"
+        },
+        {
+            "created_at": "2016-02-13T03:44:41.000Z",
+            "id": "698352065165144065",
+            "text": "Mario Sunshine is my wellbutrin."
+        },
+        {
+            "created_at": "2016-02-13T00:24:06.000Z",
+            "id": "698301584619540480",
+            "text": "Wellbutrin and digestive enzymes?"
+        },
+        {
+            "created_at": "2016-02-12T23:29:40.000Z",
+            "id": "698287886903308288",
+            "text": "@RinHugs wellbutrin"
+        },
+        {
+            "created_at": "2016-02-12T22:27:40.000Z",
+            "id": "698272284478304256",
+            "text": "RT @FruzsE: I've been neglecting my twitter for a while now... because of IRL health issues. No longer on Wellbutrin, for those following t\u2026"
+        },
+        {
+            "created_at": "2016-02-12T18:46:34.000Z",
+            "id": "698216641633656833",
+            "text": "@jessietjohnson Celexa also helps with insomnia. Wellbutrin just mellows you out and you don't feel retarded on it"
+        },
+        {
+            "created_at": "2016-02-12T18:46:04.000Z",
+            "id": "698216516613963777",
+            "text": "@jessietjohnson well my mom said that's what wellbutrin does. Have you tried Celexa? That's what I was on before I went off of it -"
+        },
+        {
+            "created_at": "2016-02-12T18:44:21.000Z",
+            "id": "698216083552018432",
+            "text": "Day 2 of Wellbutrin, haven't noticed anything yet. Maybe that's good!"
+        },
+        {
+            "created_at": "2016-02-12T18:31:41.000Z",
+            "id": "698212896833204224",
+            "text": "@Pannypannypan @crapolatombola they helped so much with my anxiety. It's a shame you can't get wellbutrin in this country"
+        },
+        {
+            "created_at": "2016-02-12T17:39:54.000Z",
+            "id": "698199865130684416",
+            "text": "@brainpicker yet had he been put on Prozac or wellbutrin or whatever it may have dulled his thinking. who knows"
+        },
+        {
+            "created_at": "2016-02-12T17:30:37.000Z",
+            "id": "698197527770738690",
+            "text": "RT @robles_jdaniel: @Organics4Free @JoeSikorraShow @PSandovalShow Abilify, Prozac, Wellbutrin, Zoloft, Lexapro even Cymbalta to name a few.\u2026"
+        },
+        {
+            "created_at": "2016-02-12T17:09:27.000Z",
+            "id": "698192202950782976",
+            "text": "RT @robles_jdaniel: @Organics4Free @JoeSikorraShow @PSandovalShow Abilify, Prozac, Wellbutrin, Zoloft, Lexapro even Cymbalta to name a few.\u2026"
+        },
+        {
+            "created_at": "2016-02-12T17:08:52.000Z",
+            "id": "698192054669578240",
+            "text": "@Organics4Free @JoeSikorraShow @PSandovalShow Abilify, Prozac, Wellbutrin, Zoloft, Lexapro even Cymbalta to name a few.Abilify IMO 1of worst"
+        },
+        {
+            "created_at": "2016-02-12T15:57:12.000Z",
+            "id": "698174018810200064",
+            "text": "We have handled dangerous drug cases involving a wide range of pharmaceutical drugs. This includes Accutane, Plavix, Wellbutrin and more."
+        },
+        {
+            "created_at": "2016-02-12T15:10:32.000Z",
+            "id": "698162275430043654",
+            "text": "@_kelsielorraine I was on Wellbutrin. I need something to help me concentrate \ud83d\ude02"
+        },
+        {
+            "created_at": "2016-02-12T15:05:47.000Z",
+            "id": "698161081739390976",
+            "text": "Rapid heartbeat from antidepressants. Baaaaaaaah. My psychiatrist told me stop taking Wellbutrin for now to see if my heart rate goes down"
+        },
+        {
+            "created_at": "2016-02-12T14:49:14.000Z",
+            "id": "698156915897929729",
+            "text": "Wellbutrin XL \u565b\u307f\u7815\u3044\u3066\u98f2\u3093\u3067\u307f\u305f\u3068\u304d\u4e0d\u5473\u3059\u304e\u3066\u3084\u3070\u304b\u3063\u305f"
+        },
+        {
+            "created_at": "2016-02-12T12:17:39.000Z",
+            "id": "698118768401235968",
+            "text": "@jessietjohnson try Wellbutrin. That's what I'm gonna go on and my mom said it's one of the best meds she's ever taken for anxiety"
+        },
+        {
+            "created_at": "2016-02-12T11:11:55.000Z",
+            "id": "698102225151905792",
+            "text": "17 #Worng Ways To #Wellbutrin #Weight Loss #Forum: Lose The Weight Or It\u2019s FREE! Unlike the\u2026 https://t.co/LIJakWoY2m"
+        },
+        {
+            "created_at": "2016-02-12T10:58:27.000Z",
+            "id": "698098837056069632",
+            "text": "@bloodbored bupropion (wellbutrin?) is an alt, that and guanfacine and clonidine? sometimes antidepressants and antianxiety drugs too."
+        },
+        {
+            "created_at": "2016-02-12T05:15:30.000Z",
+            "id": "698012532850630658",
+            "text": "Wellbutrin XR is better than SR, unless I'm doing better for any other reason."
+        },
+        {
+            "created_at": "2016-02-12T04:36:15.000Z",
+            "id": "698002655126413312",
+            "text": "Mixing Wellbutrin And Strattera https://t.co/sUWIvP2Lgp"
+        },
+        {
+            "created_at": "2016-02-12T03:46:37.000Z",
+            "id": "697990161515286528",
+            "text": "Wellbutrin and watermelon RT @Carnegro: Lexapro and Lagunitas"
+        },
+        {
+            "created_at": "2016-02-12T03:36:12.000Z",
+            "id": "697987542499483648",
+            "text": "@emperorj wondering because Wellbutrin worked wonders for me\u2014no more compulsive snacking/comfort eating\n\ndon't smoke either, it's off label"
+        },
+        {
+            "created_at": "2016-02-12T02:58:21.000Z",
+            "id": "697978017239404545",
+            "text": "Going on Wellbutrin, which can make seizures worse, made me start having them frequently enough to be noticeable (by me) (other people saw)"
+        },
+        {
+            "created_at": "2016-02-11T23:59:03.000Z",
+            "id": "697932894010896384",
+            "text": "Can I get generic WELLBUTRIN SR Online Without Prescription in USA - Price Sun Advocate https://t.co/fkK9V5p1Or"
+        },
+        {
+            "created_at": "2016-02-11T23:50:56.000Z",
+            "id": "697930851707916289",
+            "text": "@androxin maybe they can put you on Xanax or Wellbutrin in the mean time (if you are interested ofc) I'd freak if I had to wait that long"
+        },
+        {
+            "created_at": "2016-02-11T21:16:44.000Z",
+            "id": "697892047286575105",
+            "text": "Wellbutrin mood swings? https://t.co/yatMXIlyqb"
+        },
+        {
+            "created_at": "2016-02-11T21:14:04.000Z",
+            "id": "697891375040196608",
+            "text": "Can I get generic WELLBUTRIN SR Online Without Prescription in USA - Price Sun Advocate https://t.co/i7wbn7j3qm"
+        },
+        {
+            "created_at": "2016-02-11T19:00:04.000Z",
+            "id": "697857653427605508",
+            "text": "Wow thank god they put warning labels on drugs, CUZ MY DOCTOR DIDN'T SAY SHIT ABOUT ALCOHOL AND WELLBUTRIN."
+        },
+        {
+            "created_at": "2016-02-11T16:47:28.000Z",
+            "id": "697824282282500097",
+            "text": "Back on the Wellbutrin train. Choo choo."
+        },
+        {
+            "created_at": "2016-02-11T15:43:32.000Z",
+            "id": "697808191606886400",
+            "text": "@dyrbert Ewww, really? I'm on Wellbutrin too. Then again, I'm on a lot of things. Maybe one of them cancels out the hangover."
+        },
+        {
+            "created_at": "2016-02-11T15:42:42.000Z",
+            "id": "697807985171496960",
+            "text": "@LeahPetersen on the Wellbutrin one drink equals a horrendous hang over the next day. It's just not worth it."
+        },
+        {
+            "created_at": "2016-02-11T14:09:56.000Z",
+            "id": "697784639520272384",
+            "text": "This new dosage of Wellbutrin is fantastic. My mind is a rollercoaster of HAPPY DAYS SUNSHINE AND RAINBOWS *BULLSHIT*. I'm almost manic."
+        },
+        {
+            "created_at": "2016-02-11T13:41:30.000Z",
+            "id": "697777483282784256",
+            "text": "RT @NerdMom_Deals: Use of Wellbutrin for treatment of Major Depressive Disorder https://t.co/lZugWBbLk3 via @MixBowlSavings"
+        },
+        {
+            "created_at": "2016-02-11T13:39:52.000Z",
+            "id": "697777069783121920",
+            "text": "RT @NerdMom_Deals: Use of Wellbutrin for treatment of Major Depressive Disorder https://t.co/lZugWBbLk3 via @MixBowlSavings"
+        },
+        {
+            "created_at": "2016-02-11T13:37:35.000Z",
+            "id": "697776494551166976",
+            "text": "RT @NerdMom_Deals: Use of Wellbutrin for treatment of Major Depressive Disorder https://t.co/lZugWBbLk3 via @MixBowlSavings"
+        },
+        {
+            "created_at": "2016-02-11T13:36:03.000Z",
+            "id": "697776110981877760",
+            "text": "Use of Wellbutrin for treatment of Major Depressive Disorder https://t.co/lZugWBbLk3 via @MixBowlSavings"
+        },
+        {
+            "created_at": "2016-02-11T13:18:10.000Z",
+            "id": "697771611030683648",
+            "text": "I have #bipolar and #major #depression, for which I take #wellbutrin, #Lamotragine, and #sertraline. #iamnotashamed A part of my life."
+        },
+        {
+            "created_at": "2016-02-11T07:04:34.000Z",
+            "id": "697677592674091008",
+            "text": "About 3 weeks into Wellbutrin. Gained 4 pounds over a weekend?"
+        },
+        {
+            "created_at": "2016-02-11T00:08:34.000Z",
+            "id": "697572900056887296",
+            "text": "I'm on Wellbutrin XL, Lamictal, and Klonopin. https://t.co/CqJtTlbuwg"
+        },
+        {
+            "created_at": "2016-02-10T22:43:07.000Z",
+            "id": "697551396594290688",
+            "text": "#IfIDontTakeMyMeds... \n\nMy Dr said I'm a junkie cos I don't go off my meds (Lamictal &amp; Wellbutrin). I've been sober 9yrs. #notkidding\n\nDick."
+        },
+        {
+            "created_at": "2016-02-10T21:21:01.000Z",
+            "id": "697530734395805696",
+            "text": "@ararawrs adderall was terrible for me as a kid.  Wellbutrin I couldn\u2019t tell if it helped or not."
+        },
+        {
+            "created_at": "2016-02-10T20:35:10.000Z",
+            "id": "697519195492376576",
+            "text": "Having a Jublia, Xifaxan, and Wellbutrin overload\ud83d\ude23 I'm glad it's Wednesday"
+        },
+        {
+            "created_at": "2016-02-10T20:20:23.000Z",
+            "id": "697515478445592579",
+            "text": "He almost recommended wellbutrin for my depression/anxiety but I told him I was on it for 6 months and it was giving me anxiety"
+        },
+        {
+            "created_at": "2016-02-10T17:47:56.000Z",
+            "id": "697477111347449856",
+            "text": "I am gonna be super depressed today probably because I couldn't swallow the Wellbutrin and I couldn't find another pill of it"
+        },
+        {
+            "created_at": "2016-02-10T12:11:19.000Z",
+            "id": "697392396951097344",
+            "text": "@yuungzelda @momguts Wellbutrin is really hard on some people to adjust to, me and my sister both it helped with anxiety but worsened"
+        },
+        {
+            "created_at": "2016-02-10T09:59:04.000Z",
+            "id": "697359117103579136",
+            "text": "Anyone else ever drank while on Wellbutrin? https://t.co/izNC51rsWt"
+        },
+        {
+            "created_at": "2016-02-10T04:21:48.000Z",
+            "id": "697274243172569088",
+            "text": "@Ruperthucks wow u should quit i quit over 15 years ago tell the doc to give u Wellbutrin i don't know how to spell it but thats how i quit"
+        },
+        {
+            "created_at": "2016-02-10T04:14:09.000Z",
+            "id": "697272314182955009",
+            "text": "All this Wellbutrin is why I tolerate the state! #soreadytofeel #stopyourmeds #drugfree (but actually #Bernie2016 ) https://t.co/EpafFlqkNz"
+        },
+        {
+            "created_at": "2016-02-10T00:45:00.000Z",
+            "id": "697219680252121088",
+            "text": "Need to watch out for patients with a seizure history on Wellbutrin (bupropion) https://t.co/JOwzZtcUKy #mentalhealth #nursing #pharmacist"
+        },
+        {
+            "created_at": "2016-02-09T22:18:38.000Z",
+            "id": "697182845308051456",
+            "text": "Wellbutrin question..."
+        },
+        {
+            "created_at": "2016-02-09T20:59:19.000Z",
+            "id": "697162887366885377",
+            "text": "I've been on wellbutrin and prozac (generic) for the past 4-5 years."
+        },
+        {
+            "created_at": "2016-02-09T19:46:35.000Z",
+            "id": "697144581750652929",
+            "text": "Looking for a wellbutrin? Not a problem! Click Here ... https://t.co/Ghhw9RGvsI #smo #seo #ecommerce"
+        },
+        {
+            "created_at": "2016-02-09T18:13:46.000Z",
+            "id": "697121224430739456",
+            "text": "cw weight\n\ni am at 156.2 but the only reason my weight has been 6 lbs down is because of wellbutrin lol so ya but the goal is 130"
+        },
+        {
+            "created_at": "2016-02-09T15:43:26.000Z",
+            "id": "697083390663626752",
+            "text": "i'm working on finding a balance of cipralex+wellbutrin. it worked last yr: i was in thegym every 2nd day lifting :) https://t.co/jg2fgN0qqk"
+        },
+        {
+            "created_at": "2016-02-09T15:43:08.000Z",
+            "id": "697083316130820096",
+            "text": "@SimonABuckden i'm working on finding a balance of cipralex+wellbutrin. it worked last yr. i was in the gym every 2nd day weight training :)"
+        },
+        {
+            "created_at": "2016-02-09T15:17:54.000Z",
+            "id": "697076966252347392",
+            "text": "@cricketsareok i volunteer online. :) convenient4me + still helps others! hoping2find a sweet spot w/ wellbutrin&amp;gain energy like last time."
+        },
+        {
+            "created_at": "2016-02-09T15:14:47.000Z",
+            "id": "697076183616323584",
+            "text": "RT @MentalHealthLea: you can pry my cipralex and wellbutrin from my cold dead hands! ;) https://t.co/b1EXoMH5bd"
+        },
+        {
+            "created_at": "2016-02-09T14:55:33.000Z",
+            "id": "697071339731988481",
+            "text": "you can pry my cipralex and wellbutrin from my cold dead hands! ;) https://t.co/b1EXoMH5bd"
+        },
+        {
+            "created_at": "2016-02-09T11:55:03.000Z",
+            "id": "697025917353402368",
+            "text": "Buy Bupropion 150mg Low Price - Can I Order Wellbutrin Sr Quick Delivery https://t.co/nmhRhrJ5lG #medical #blog #health"
+        },
+        {
+            "created_at": "2016-02-09T11:29:36.000Z",
+            "id": "697019514848833536",
+            "text": "@Protohype they do it sometimes, wellbutrin is by itself antidepressant"
+        },
+        {
+            "created_at": "2016-02-09T11:28:30.000Z",
+            "id": "697019236699361280",
+            "text": "@Protohype yeah but people take wellbutrin alone"
+        },
+        {
+            "created_at": "2016-02-09T11:15:46.000Z",
+            "id": "697016032276262912",
+            "text": "@JustDakotaXXX isn't wellbutrin just an antidepressant to add on to your current antidepressant"
+        },
+        {
+            "created_at": "2016-02-09T11:09:40.000Z",
+            "id": "697014496557195264",
+            "text": "RT @JustDakotaXXX: If your having a hard time a antidepressants like Zoloft, try out this \"wellbutrin\" https://t.co/k9jIySQpwz"
+        },
+        {
+            "created_at": "2016-02-09T11:06:46.000Z",
+            "id": "697013768568459265",
+            "text": "@JustDakotaXXX I was on Wellbutrin for a while. Didn't really work for me. Effexor has been doing well for me for several years."
+        },
+        {
+            "created_at": "2016-02-09T11:03:40.000Z",
+            "id": "697012985638748160",
+            "text": "If your having a hard time a antidepressants like Zoloft, try out this \"wellbutrin\" https://t.co/k9jIySQpwz"
+        },
+        {
+            "created_at": "2016-02-09T11:00:30.000Z",
+            "id": "697012189761290240",
+            "text": "@JustDakotaXXX ask your doctor about Wellbutrin. It has less of that side effect.  It worked for me. That and watching a lot of ur movies..."
+        },
+        {
+            "created_at": "2016-02-09T10:51:31.000Z",
+            "id": "697009927089356800",
+            "text": "@JustDakotaXXX Try other alternatives like Wellbutrin (Bupropion)"
+        },
+        {
+            "created_at": "2016-02-09T06:04:44.000Z",
+            "id": "696937757780922368",
+            "text": "Wellbutrin and headaches?"
+        },
+        {
+            "created_at": "2016-02-09T04:40:14.000Z",
+            "id": "696916492638674944",
+            "text": "Purchase Wellbutrin Order No Prescription https://t.co/y1buwcCYKd chirmnursery (siir dostu)"
+        },
+        {
+            "created_at": "2016-02-09T00:36:19.000Z",
+            "id": "696855106768265217",
+            "text": "i feel like the warning is just being cautious cause im reading other people's experience on wellbutrin and they're fine with alcohol idk"
+        },
+        {
+            "created_at": "2016-02-08T21:48:42.000Z",
+            "id": "696812925881884672",
+            "text": "@pinkness The other adjustment I had to make with Wellbutrin was learning to actually feel again after the years of the SSRIs making me numb"
+        },
+        {
+            "created_at": "2016-02-08T21:47:15.000Z",
+            "id": "696812560591540224",
+            "text": "@penguinsnaked I should add that the anxiety I'm having with wellbutrin isn't as severe as what I was dealing with before."
+        },
+        {
+            "created_at": "2016-02-08T21:43:52.000Z",
+            "id": "696811708673875970",
+            "text": "@pinkness Unfortunately the one draw back to Wellbutrin I found is it can increase anxiety for the first couple of months  after you start."
+        },
+        {
+            "created_at": "2016-02-08T21:36:02.000Z",
+            "id": "696809738751864833",
+            "text": "@penguinsnaked SSRIs do terrible things to me. Tricyclics worked for a bit and then DIDN'T. Now Wellbutrin seems to be working out"
+        },
+        {
+            "created_at": "2016-02-08T21:23:47.000Z",
+            "id": "696806653983879169",
+            "text": "@pinkness Going off of SSRIs and switching to Wellbutrin probably saved my life.  #depressionlies"
+        },
+        {
+            "created_at": "2016-02-08T20:36:46.000Z",
+            "id": "696794822527602690",
+            "text": "Wellbutrin and smelling https://t.co/WrwGky0t6l"
+        },
+        {
+            "created_at": "2016-02-08T20:27:48.000Z",
+            "id": "696792565643931648",
+            "text": "How Long Wellbutrin To Live https://t.co/AY30HjZz6L"
+        },
+        {
+            "created_at": "2016-02-08T19:56:41.000Z",
+            "id": "696784736690315268",
+            "text": "Wellbutrin is obviously starting to really work for me. #depressionlies"
+        },
+        {
+            "created_at": "2016-02-08T18:22:54.000Z",
+            "id": "696761135765147648",
+            "text": "Ciprofloxacin, Levofloxacin, and Wellbutrin are medications that lower seizure threshold. More likely to have seizures if on these drugs"
+        },
+        {
+            "created_at": "2016-02-08T18:05:03.000Z",
+            "id": "696756643623645185",
+            "text": "Canadian Health&amp;Care Mall sells Wellbutrin sr 300 mg - https://t.co/P7HvYdLGQ8."
+        },
+        {
+            "created_at": "2016-02-08T17:46:29.000Z",
+            "id": "696751969650618368",
+            "text": "cipralex and wellbutrin make it effortless. you can pry my cippy and welly from my cold dead hands. ;) https://t.co/g7fVSccKQc"
+        },
+        {
+            "created_at": "2016-02-08T14:45:30.000Z",
+            "id": "696706424886288385",
+            "text": "@mollymollymaude my wellbutrin is apparently NOT working. #notfunny #neednewmeds"
+        },
+        {
+            "created_at": "2016-02-08T12:29:13.000Z",
+            "id": "696672127588687872",
+            "text": "Was Given Wellbutrin XL A While Ago\u2026 https://t.c\u2026 https://t.co/2XN3yBuHJ0"
+        },
+        {
+            "created_at": "2016-02-08T12:00:38.000Z",
+            "id": "696664933300248578",
+            "text": "Was Given Wellbutrin XL A While Ago... https://t.c... https://t.co/EDFGMpEwF4"
+        },
+        {
+            "created_at": "2016-02-08T05:05:49.000Z",
+            "id": "696560542186500097",
+            "text": "RT @stalkingnatalie: I feel nothing ! Thanks Wellbutrin XL . you really are magic !"
+        },
+        {
+            "created_at": "2016-02-08T04:45:37.000Z",
+            "id": "696555457968783361",
+            "text": "RT @bizmichael: adjusting my antidepressants from Wellbutrin SR to XR like https://t.co/LmGUj3hecd"
+        },
+        {
+            "created_at": "2016-02-08T04:31:54.000Z",
+            "id": "696552007880953857",
+            "text": "adjusting my antidepressants from Wellbutrin SR to XR like https://t.co/LmGUj3hecd"
+        },
+        {
+            "created_at": "2016-02-08T04:16:54.000Z",
+            "id": "696548232655192066",
+            "text": "@SheSeauxSaditty oh shit. I was thinking Wellbutrin. But that's anti depressant. You ain't gonna wake UP until Tuesday momma."
+        },
+        {
+            "created_at": "2016-02-08T00:28:03.000Z",
+            "id": "696490640893353985",
+            "text": "@sabrina101974 the Wellbutrin makes me able to laugh about it. FYI"
+        },
+        {
+            "created_at": "2016-02-07T22:45:54.000Z",
+            "id": "696464932187951104",
+            "text": "@LILBENZO what do you think of Zoloft mixed with Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-07T19:49:12.000Z",
+            "id": "696420464583974912",
+            "text": "abilities can help https://t.co/juP9HUfkcr"
+        },
+        {
+            "created_at": "2016-02-07T18:59:48.000Z",
+            "id": "696408034453561345",
+            "text": "abilities can help: Help Psychic Abilities. We Always Have The Cheapest Offers In Our. Online-Drugstore. Best ... https://t.co/84kYSWItTo"
+        },
+        {
+            "created_at": "2016-02-07T17:01:22.000Z",
+            "id": "696378228064190464",
+            "text": "@loftybones folks I know who take Lexapro and Wellbutrin have generally had good things to say about them. neither worked for me, personally"
+        },
+        {
+            "created_at": "2016-02-07T16:43:35.000Z",
+            "id": "696373755543580672",
+            "text": "anyone got dat wellbutrin for da low"
+        },
+        {
+            "created_at": "2016-02-07T15:29:39.000Z",
+            "id": "696355146645671936",
+            "text": "Anywhore...lemme get up and take this Wellbutrin and go make grocery."
+        },
+        {
+            "created_at": "2016-02-07T09:26:40.000Z",
+            "id": "696263798827646976",
+            "text": "Buy Wellbutrin Gm Europe https://t.co/2AW4gk1lO3 #gamesworkshop"
+        },
+        {
+            "created_at": "2016-02-07T07:40:13.000Z",
+            "id": "696237009161965568",
+            "text": "Buy Wellbutrin Amex Free Shipping https://t.co/ai3fQsanri"
+        },
+        {
+            "created_at": "2016-02-07T05:37:23.000Z",
+            "id": "696206097884045312",
+            "text": "That Wellbutrin must've been strong for me to like this show."
+        },
+        {
+            "created_at": "2016-02-07T04:41:37.000Z",
+            "id": "696192066343272448",
+            "text": "@____PantheR Started with Paxil. Worked ok, but bad effects if stopped fast. Wellbutrin better. Basically no more pit of despair. @pecunium"
+        },
+        {
+            "created_at": "2016-02-07T04:22:35.000Z",
+            "id": "696187274447355904",
+            "text": "@BreakingGodless Wellbutrin made me manic. And I'm a hermit. Have a couple friends that I rarely see and only go to the store &amp; doctor appt."
+        },
+        {
+            "created_at": "2016-02-07T04:13:52.000Z",
+            "id": "696185083213062144",
+            "text": "@LghtsknMxedKid Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-07T02:34:36.000Z",
+            "id": "696160101007171584",
+            "text": "LOL Trump provides much better answer on ISIS (take their money away), Bush looks like he's on Wellbutrin..."
+        },
+        {
+            "created_at": "2016-02-06T23:49:24.000Z",
+            "id": "696118527384821760",
+            "text": "Almost took my second dose lol nooooo we do not need to find out what happens when Pixies take double the ritalin/wellbutrin"
+        },
+        {
+            "created_at": "2016-02-06T22:59:23.000Z",
+            "id": "696105938885984258",
+            "text": "@alispagnola ***sees this, stops taking Wellbutrin***"
+        },
+        {
+            "created_at": "2016-02-06T22:04:57.000Z",
+            "id": "696092239072665600",
+            "text": ".@The_Autism_Dad Wellbutrin does offer an energy boost. Its off-label use is to stimulate weight loss. Absolutely discuss it with your GP."
+        },
+        {
+            "created_at": "2016-02-06T17:11:51.000Z",
+            "id": "696018481192374272",
+            "text": "New post:  https://t.co/2v8fTthSJu #alert #celexa #crouppen #depakote #drug #effexor #lexapro #paxil #prozac #terry #topamax #wellbutrin"
+        },
+        {
+            "created_at": "2016-02-06T16:54:10.000Z",
+            "id": "696014030805274624",
+            "text": "Upon switching to taking it at bedtime, wellbutrin is working well for me. I sleep through the anxiety spike. #depression"
+        },
+        {
+            "created_at": "2016-02-06T15:19:11.000Z",
+            "id": "695990124950073344",
+            "text": "I did it again, skipped my wellbutrin dose last night. Why does it seem like a good idea at the time?"
+        },
+        {
+            "created_at": "2016-02-06T12:06:12.000Z",
+            "id": "695941558915461120",
+            "text": "Ik voel me Rustig en ontspannen door de #wellbutrin #bupropion #add #ass #asd #asperger #autisme Ik werk oa voor #paarden ik voel me goed"
+        },
+        {
+            "created_at": "2016-02-06T11:10:30.000Z",
+            "id": "695927541748604928",
+            "text": "@____PantheR @pecunium SSRIs make me apathetic and low-key sad and kill my libido.\nWellbutrin seems to be awesome for me."
+        },
+        {
+            "created_at": "2016-02-06T09:42:36.000Z",
+            "id": "695905420620210176",
+            "text": "Told dr that wellbutrin wasnt working to remove the sadness. He changed it to stablon, to up my serotonin levels. Supposed to be v strong."
+        },
+        {
+            "created_at": "2016-02-06T04:55:23.000Z",
+            "id": "695833142205272064",
+            "text": "Prozac has been very helpful for me, Zoloft too. Wellbutrin didn't do anything for me and a few other people I know. https://t.co/tgW4UXxXt2"
+        },
+        {
+            "created_at": "2016-02-06T04:23:49.000Z",
+            "id": "695825199346769922",
+            "text": "Wellbutrin\u306e\u65b9\u304cZyban\u3088\u308a\u9ad8\u3044\u3063\u3066\u306a\u3093\u304b\u304a\u304b\u3057\u3044\u2026Wellbutrin\u306e\u65b9\u304cZyban\u3088\u308a\u9ad8\u3044\u3063\u3066\u306a\u3093\u304b\u304a\u304b\u3057\u304f\u306a\u3044\uff1f"
+        },
+        {
+            "created_at": "2016-02-06T02:02:08.000Z",
+            "id": "695789543400742913",
+            "text": "@Vanessaa_Gomz @____PantheR switched to wellbutrin--worked great. I basically quit smoking too (nice size effect for once)."
+        },
+        {
+            "created_at": "2016-02-06T01:28:07.000Z",
+            "id": "695780979529510912",
+            "text": "@____PantheR I was on Wellbutrin and had to stop because of massive headaches. Wasn't on anything 2014 - 2015. I was just recently put on"
+        },
+        {
+            "created_at": "2016-02-06T01:27:35.000Z",
+            "id": "695780846465368065",
+            "text": "@BriaFromKorea @____PantheR Wellbutrin is a win. Very mild. I was on it for a while and I've really never heard anyone complain about it."
+        },
+        {
+            "created_at": "2016-02-06T01:05:59.000Z",
+            "id": "695775409309405184",
+            "text": "@____PantheR But a lot of them either didn't help or gave me bad side effects. I dropped below 100 lbs (45 kg) on Wellbutrin."
+        },
+        {
+            "created_at": "2016-02-05T22:06:04.000Z",
+            "id": "695730132971970561",
+            "text": "Got that Wellbutrin plug"
+        },
+        {
+            "created_at": "2016-02-05T19:30:09.000Z",
+            "id": "695690894511624193",
+            "text": "Is anyone taking wellbutrin and gabapentin in conjunction for depression/anxiety?"
+        },
+        {
+            "created_at": "2016-02-05T15:29:13.000Z",
+            "id": "695630264635101185",
+            "text": "@farenthold @GOPoversight Mr. Farenthold: Can you prevent generics that don't work (as with Concerta, Wellbutrin XL) as you speed approvals?"
+        },
+        {
+            "created_at": "2016-02-05T14:28:24.000Z",
+            "id": "695614958961295360",
+            "text": "\"You know what the antidepressant Wellbutrin does? Boosts the neurotransmitter dopamine. So does gratitude.\" via: https://t.co/O1vjo7YxUe"
+        },
+        {
+            "created_at": "2016-02-05T11:18:59.000Z",
+            "id": "695567290721562624",
+            "text": "Nurse gave me 2 of my fibro meds and half a wellbutrin which is what my doc wants to try again, to perk me up."
+        },
+        {
+            "created_at": "2016-02-05T07:44:35.000Z",
+            "id": "695513332078350336",
+            "text": "Herbs can be used for good or bad.  You know, like WELLBUTRIN.  Artificial nicotine. Sometimes #LOVE must be lived!! https://t.co/8W6t4fwvim"
+        },
+        {
+            "created_at": "2016-02-05T07:38:41.000Z",
+            "id": "695511848796430336",
+            "text": "Doctor is gonna try wellbutrin again."
+        },
+        {
+            "created_at": "2016-02-05T06:43:51.000Z",
+            "id": "695498048059916288",
+            "text": "We know that poverty isn't pretty \nI blame the Wellbutrin \nAnd the adderal\nThe Prozac princesses dancing in the rain"
+        },
+        {
+            "created_at": "2016-02-05T06:13:49.000Z",
+            "id": "695490490754404352",
+            "text": "Wellbutrin sr 300 mg shipped by Canadian Health&amp;Care Mall. See https://t.co/P7HvYdLGQ8. https://t.co/1KbaLp5nyy"
+        },
+        {
+            "created_at": "2016-02-05T03:42:50.000Z",
+            "id": "695452494940344320",
+            "text": "I've been wondering why I'm so angry all the time then I realize wellbutrin causes irritability and I'm taking 150mg :^)"
+        },
+        {
+            "created_at": "2016-02-05T03:36:48.000Z",
+            "id": "695450978972147712",
+            "text": "@communistdghtr I'm on 450mg of Wellbutrin, 120mg of cymbalta, 15mg of miratzapine and now he's putting me on abilify"
+        }
+    ],
+    "meta": {
+        "newest_id": "704451442644525057",
+        "next_token": "1jzu9lk96gu5npw2d47ynaut5z88yvq6mc0xneab1r3x",
+        "oldest_id": "695450978972147712",
+        "result_count": 411
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-02-05T03:02:30.000Z",
+            "id": "695442347195293696",
+            "text": "Anyone experienced MDMA while on both Vyvanse and Wellbutrin(bupropion)? https://t.co/V1i4T8eLwE"
+        },
+        {
+            "created_at": "2016-02-05T03:01:15.000Z",
+            "id": "695442031490048000",
+            "text": "@tryptefan yep and dermatillomania. it was def the paxil. also wellbutrin. now i only smoke trees, god's serotonin uptake inhibitor"
+        },
+        {
+            "created_at": "2016-02-05T01:50:09.000Z",
+            "id": "695424138333147136",
+            "text": "@capital1point1 @graystoke how would you cut generic ANDA cost without getting Wellbutrin XL and Concerta (generics don't work) again?"
+        },
+        {
+            "created_at": "2016-02-05T01:29:31.000Z",
+            "id": "695418943440224256",
+            "text": "Thread Wellbutrin Buy Ointment Tampa https://t.co/702O4aT0Hs #other"
+        },
+        {
+            "created_at": "2016-02-04T23:15:09.000Z",
+            "id": "695385132148994048",
+            "text": "Don't forget your wellbutrin. You're crushing without it. But distraction never goes away; liberation is ever out of reach."
+        },
+        {
+            "created_at": "2016-02-04T20:55:19.000Z",
+            "id": "695349940575301633",
+            "text": "thank you, higher power, for lexapro, wellbutrin &amp; xanax. without you i'd be lost \ud83d\udc8a\ud83d\udc95 #Anxiety"
+        },
+        {
+            "created_at": "2016-02-04T19:49:23.000Z",
+            "id": "695333346759454720",
+            "text": "@Zooomingevy I tried. After 2 weeks my wife tossed a pack of smokes and wellbutrin on the counter and said, \"Choose. These or death.\""
+        },
+        {
+            "created_at": "2016-02-04T17:12:07.000Z",
+            "id": "695293768614809601",
+            "text": "@dirtwoman69 Prozac made me obsessively suicidal\ud83d\ude14. I'm off Wellbutrin now so idk what's next lol"
+        },
+        {
+            "created_at": "2016-02-04T16:30:29.000Z",
+            "id": "695283294418546688",
+            "text": "Starting new #prescription #wellbutrin &amp; crossing my fingers for visual disturbance &amp; excessive sweating. #winning https://t.co/lkQifN9cGS"
+        },
+        {
+            "created_at": "2016-02-04T13:50:06.000Z",
+            "id": "695242932702457856",
+            "text": "@kyuubey get a script for Wellbutrin; say you're trying to quit smoking. I've lost 15kg on it. (well, I run, but no more compulsive eating!)"
+        },
+        {
+            "created_at": "2016-02-04T10:19:20.000Z",
+            "id": "695189891718582272",
+            "text": "Metformin weight loss: Thus shown these wellbutrin, by metformin weight loss is urine density. By provide for ... https://t.co/bfGQ7nFyhJ"
+        },
+        {
+            "created_at": "2016-02-04T06:02:48.000Z",
+            "id": "695125333498933248",
+            "text": "RT @humansofny: (6/6) \u201cI was institutionalized after the incident. They were giving me Celexa, Wellbutrin, Ambien to help me...\" https://t.\u2026"
+        },
+        {
+            "created_at": "2016-02-04T05:52:19.000Z",
+            "id": "695122693612445699",
+            "text": "RT @humansofny: (6/6) \u201cI was institutionalized after the incident. They were giving me Celexa, Wellbutrin, Ambien to help me...\" https://t.\u2026"
+        },
+        {
+            "created_at": "2016-02-04T03:09:18.000Z",
+            "id": "695081668554534912",
+            "text": "I feel nothing ! Thanks Wellbutrin XL . you really are magic !"
+        },
+        {
+            "created_at": "2016-02-04T01:33:32.000Z",
+            "id": "695057568272510976",
+            "text": "WELLBUTRIN (bupropion hydrocholoride) or ZYBAN is a synthetic NICOTINE?  How many depressed people need a cigarette in a pill?  GO FDA/ACA!"
+        },
+        {
+            "created_at": "2016-02-04T00:13:57.000Z",
+            "id": "695037539535687680",
+            "text": "Alcohol and wellbutrin, are they compatible? https://t.co/bPJt6ZvKtj"
+        },
+        {
+            "created_at": "2016-02-04T00:05:37.000Z",
+            "id": "695035441330917381",
+            "text": "Fort Hood Shootings: Lopez\u2019s was on Ambien, Celexa, Lunesta, and Wellbutrin.\nhttps://t.co/e3GoqK9rpu \u2026 #imnotashamed"
+        },
+        {
+            "created_at": "2016-02-03T23:32:51.000Z",
+            "id": "695027198357426177",
+            "text": "RT @TheWoodenslurpy: I\u2019m on Wellbutrin, so everything is intensely okay. Food tastes enchantingly benign. You\u2019re all incredibly adequate. I\u2026"
+        },
+        {
+            "created_at": "2016-02-03T20:54:39.000Z",
+            "id": "694987383981256705",
+            "text": "@ImNoMilkMaid What an awful thought.  My tagline for Wellbutrin:  \"When you just don't want to make the effort.\""
+        },
+        {
+            "created_at": "2016-02-03T20:38:46.000Z",
+            "id": "694983386927087616",
+            "text": "@jbran44 @b_ink WELLBUTRIN"
+        },
+        {
+            "created_at": "2016-02-03T18:10:23.000Z",
+            "id": "694946044308623361",
+            "text": "@UnitedHealthGrp charging a patient $8,720.26 for 90 day supply of Wellbutrin XL. #truestory"
+        },
+        {
+            "created_at": "2016-02-03T17:42:09.000Z",
+            "id": "694938940571123712",
+            "text": "Started with Wellbutrin about a week ago... Not seeing any changes at all :("
+        },
+        {
+            "created_at": "2016-02-03T16:59:39.000Z",
+            "id": "694928247205703681",
+            "text": "Update: #Bupropion Hydrochloride Extended-Release 300 mg (Wellbutrin) Bioequivalence Studies https://t.co/lEVN06qqx6"
+        },
+        {
+            "created_at": "2016-02-03T15:44:34.000Z",
+            "id": "694909351014879232",
+            "text": "@dyrbert I used to be on Wellbutrin but it gave me massive headaches and shot my blood pressure up something terrible"
+        },
+        {
+            "created_at": "2016-02-03T15:43:12.000Z",
+            "id": "694909005429284864",
+            "text": "Depression kills my sex drive.\nOn my good days Wellbutrin makes me horny enough to fuck the crack of dawn 24/7.\nA happy medium would be nice"
+        },
+        {
+            "created_at": "2016-02-03T15:00:23.000Z",
+            "id": "694898229293424640",
+            "text": "since i've been on wellbutrin 300 mg i've been losing a pound a day"
+        },
+        {
+            "created_at": "2016-02-03T04:38:04.000Z",
+            "id": "694741617962524673",
+            "text": "Fort Hood Shootings: Lopez\u2019s was on Ambien, Celexa, Lunesta, and Wellbutrin.\nhttps://t.co/kx28BaCA0A #imnotashamed https://t.co/67JwyW8RWd"
+        },
+        {
+            "created_at": "2016-02-03T04:16:43.000Z",
+            "id": "694736246837501953",
+            "text": "@WoolyBumblebee Wellbutrin was helpful. But what really got me to finally quit was ANGER that they kept jacking up the fuckin prices, heh"
+        },
+        {
+            "created_at": "2016-02-03T02:49:56.000Z",
+            "id": "694714407025295360",
+            "text": "I've drank ten gallons of tea and am on wellbutrin... Come at me bruh!"
+        },
+        {
+            "created_at": "2016-02-03T01:24:32.000Z",
+            "id": "694692913666654208",
+            "text": "@NireBryce i've been on stimulants. wellbutrin specifically. all it did was make the anhedonia worse"
+        },
+        {
+            "created_at": "2016-02-03T00:25:17.000Z",
+            "id": "694678006699266048",
+            "text": "Purchase Wellbutrin Order No Prescription https://t.co/jeyfZqqzOt ~ old photo"
+        },
+        {
+            "created_at": "2016-02-02T21:00:00.000Z",
+            "id": "694626342906757120",
+            "text": "s/o to Wellbutrin today, so apologies if I kill anybody."
+        },
+        {
+            "created_at": "2016-02-02T20:01:52.000Z",
+            "id": "694611711962300417",
+            "text": "ianxcarlos TheRealBillyS Speaking of me being a thirsty slut, remind me to tell you of the Wellbutrin-induced dream I had last night."
+        },
+        {
+            "created_at": "2016-02-02T18:15:48.000Z",
+            "id": "694585022842470400",
+            "text": "Weird Withdrawal symptoms from Wellbutrin (buproprian): Hi All,  \n \nAfter using Wellbutrin for 2 years I decid... https://t.co/S3YdA1TSVY"
+        },
+        {
+            "created_at": "2016-02-02T13:56:08.000Z",
+            "id": "694519674923532288",
+            "text": "RT @UndressJess: Anything &amp; everything has been ultra unnerving lately. I don\u2019t know if it\u2019s the lack of sleep or if the Wellbutrin is maki\u2026"
+        },
+        {
+            "created_at": "2016-02-02T13:50:55.000Z",
+            "id": "694518362064429057",
+            "text": "Anything &amp; everything has been ultra unnerving lately. I don\u2019t know if it\u2019s the lack of sleep or if the Wellbutrin is making me nuts again."
+        },
+        {
+            "created_at": "2016-02-02T06:36:29.000Z",
+            "id": "694409031675412480",
+            "text": "RT @humansofny: (6/6) \u201cI was institutionalized after the incident. They were giving me Celexa, Wellbutrin, Ambien to help me...\" https://t.\u2026"
+        },
+        {
+            "created_at": "2016-02-02T05:00:43.000Z",
+            "id": "694384933079482368",
+            "text": "Ya boy got himself a prescription for Wellbutrin so PARTY'S OVER GUYS."
+        },
+        {
+            "created_at": "2016-02-02T04:37:50.000Z",
+            "id": "694379173574475776",
+            "text": "Wow,  because of  Plexus, she just got off her Depression medication Wellbutrin, that she had been on for 15... https://t.co/NUGEoTNKs7"
+        },
+        {
+            "created_at": "2016-02-02T03:38:32.000Z",
+            "id": "694364250794405889",
+            "text": "Real World Psychiatric Data Contradict Clinical Trial Results: A Data Analysis on Wellbutrin https://t.co/M450ElitSw"
+        },
+        {
+            "created_at": "2016-02-02T03:16:47.000Z",
+            "id": "694358778356088832",
+            "text": "RT @Clin_Trials: Real World Psychiatric Data Contradict Clinical Trial Results: A Data Analysis on Wellbutrin http://t.co/PlquCyT9K2"
+        },
+        {
+            "created_at": "2016-02-01T23:41:50.000Z",
+            "id": "694304680730611712",
+            "text": "Lunch consisted of a microwaved chicken patty, and starting Wellbutrin today, so I guess UNI beat UNC?"
+        },
+        {
+            "created_at": "2016-02-01T23:40:00.000Z",
+            "id": "694304220254736384",
+            "text": "Lunch consisted of a microwaved chicken patty, and starting Wellbutrin today, so I guess UNI beat UNC?"
+        },
+        {
+            "created_at": "2016-02-01T23:23:47.000Z",
+            "id": "694300139662499840",
+            "text": "Wellbutrin XL - seizures risk at 150mg daily https://t.co/Bhx1EUUGPM"
+        },
+        {
+            "created_at": "2016-02-01T23:03:55.000Z",
+            "id": "694295140714713088",
+            "text": "@XxroythehorsexX SSRIs and I didn't get along. (Wellbutrin is my forever girl.)"
+        },
+        {
+            "created_at": "2016-02-01T21:28:31.000Z",
+            "id": "694271132652797952",
+            "text": "#ooc Anybody have experience with Wellbutrin?"
+        },
+        {
+            "created_at": "2016-02-01T20:43:06.000Z",
+            "id": "694259703984078849",
+            "text": "Thank god for antidepressants. I mean, honestly. No words. #blessed #cliche #wellbutrin https://t.co/DmtTDXW1uF"
+        },
+        {
+            "created_at": "2016-02-01T19:49:12.000Z",
+            "id": "694246140233953280",
+            "text": "The company admitted corporate misconduct over the antidepressants Paxil and Wellbutrin and asthma drug Advair.... https://t.co/U7kU5J51R5"
+        },
+        {
+            "created_at": "2016-02-01T18:48:30.000Z",
+            "id": "694230860678205440",
+            "text": "Zoloft&gt;Lexapro&gt;Effexor&gt;Wellbutrin.. Now what ?"
+        },
+        {
+            "created_at": "2016-02-01T16:38:43.000Z",
+            "id": "694198202564747265",
+            "text": "Wellbutrin (Bupropion 300mg) makes me extremely nervous (anxious?). Will it pass? https://t.co/kwws567kyD"
+        },
+        {
+            "created_at": "2016-02-01T15:34:21.000Z",
+            "id": "694182004766707712",
+            "text": "@Rezznul Wellbutrin!"
+        },
+        {
+            "created_at": "2016-02-01T15:32:03.000Z",
+            "id": "694181425868881920",
+            "text": "@Waterdragon1995 Wellbutrin"
+        },
+        {
+            "created_at": "2016-02-01T14:48:27.000Z",
+            "id": "694170453414395904",
+            "text": "Wellbutrin (Bupropion 300mg) makes me extremely nervous (anxious?). Will it pass? Or should I go off?"
+        },
+        {
+            "created_at": "2016-02-01T07:52:10.000Z",
+            "id": "694065689599041536",
+            "text": "\"i think i'm going to be put on wellbutrin.\"\n\"dude, that's what i'm on!\"\n\"we're gonna be antidepressant twins!!\""
+        },
+        {
+            "created_at": "2016-02-01T04:04:46.000Z",
+            "id": "694008465866514432",
+            "text": "@Thin_Wishes3 I only had a weight gain problem with Zoloft. I didn't gain weight on Effexor, Wellbutrin, or Cymbalta. However I attempted on"
+        },
+        {
+            "created_at": "2016-02-01T01:15:36.000Z",
+            "id": "693965891843821568",
+            "text": "@earlxsweat wellbutrin fuels my energy"
+        }
+    ],
+    "meta": {
+        "newest_id": "695442347195293696",
+        "oldest_id": "693965891843821568",
+        "result_count": 56
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-02-29T22:30:22.000Z",
+            "id": "704433558958419969",
+            "text": "Zyban Price South Africa: Champix effet secondaire mood swings para q sirve la pastilla provera de 500 mg zyba... https://t.co/d3dRTydVqC"
+        },
+        {
+            "created_at": "2016-02-29T22:19:29.000Z",
+            "id": "704430819008344065",
+            "text": "Zyban Price South Africa: Champix effet secondaire mood swings para q sirve la pastilla provera de 500 mg zyba... https://t.co/Fy8UXGBVRi"
+        },
+        {
+            "created_at": "2016-02-29T11:01:26.000Z",
+            "id": "704260183535517698",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-29T05:20:59.000Z",
+            "id": "704174503866318849",
+            "text": "Zyban farmacia baratro, Zyban enviar medicina nacional https://t.co/436HGHnNc2 Comprar Generico Zyban online en EspanaComprar Zyban!\nOur g\u2026"
+        },
+        {
+            "created_at": "2016-02-29T01:33:33.000Z",
+            "id": "704117271107661824",
+            "text": "consegna Zyban generico, Zyban comprare pastiglie chirurgia https://t.co/T0rF7EITKL Comprare Zyban senza prescrizione in ItaliaComprare Zy\u2026"
+        },
+        {
+            "created_at": "2016-02-28T20:32:17.000Z",
+            "id": "704041454226837504",
+            "text": "order Zyban, fast order Zyban https://t.co/vVlB2KuqcH Buy generic Zyban onlineBuy Zyban!\nOur goal is to provide medications at discount ra\u2026"
+        },
+        {
+            "created_at": "2016-02-28T17:00:05.000Z",
+            "id": "703988052197294080",
+            "text": "Zyban no doctor, Zyban fast https://t.co/0iiA8HeD2k Order Zyban NOW and get free pills!!!Buy Zyban!\nOur goal is to provide medications at \u2026"
+        },
+        {
+            "created_at": "2016-02-28T16:12:28.000Z",
+            "id": "703976068995088384",
+            "text": "Zyban 150 mg 60\u00a0tabl. https://t.co/9dpyN1disl"
+        },
+        {
+            "created_at": "2016-02-27T18:37:23.000Z",
+            "id": "703650148283355137",
+            "text": "Zyban Cost South Africa: Chemical structure in uk zyban for smoking cessation dosage is effective to quit smok... https://t.co/usgdcR8lJO"
+        },
+        {
+            "created_at": "2016-02-27T13:32:25.000Z",
+            "id": "703573403131899905",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-27T12:13:16.000Z",
+            "id": "703553482482196481",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-27T12:09:58.000Z",
+            "id": "703552652332965888",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-27T04:30:36.000Z",
+            "id": "703437049630621696",
+            "text": "RT @CCHR: Many are unaware that Zyban, prescribed for quitting smoking, is the antidepressant Wellbutrin. https://t.co/OZS2B8zSJp"
+        },
+        {
+            "created_at": "2016-02-26T20:58:36.000Z",
+            "id": "703323297988083712",
+            "text": "@lumpence Zyban diye bir antidepresan var.1 ay kullanman\u0131z yeterli.8 senelik tiryakiydim 8 ayd\u0131r a\u011fz\u0131ma s\u00fcrmedim."
+        },
+        {
+            "created_at": "2016-02-25T15:46:56.000Z",
+            "id": "702882480248872961",
+            "text": "Zyban ou Champix ? https://t.co/BAqMFEJyJx"
+        },
+        {
+            "created_at": "2016-02-25T15:27:10.000Z",
+            "id": "702877505632382976",
+            "text": "AtAGrrGLJLmUfIT: Through friends https://t.co/rsEq7Lp1IV submit dream g... https://t.co/3UmqrJXLDh"
+        },
+        {
+            "created_at": "2016-02-25T07:05:08.000Z",
+            "id": "702751162248798208",
+            "text": "DgsvDqgQCnzjqS: It's funny goodluck zyban revenue  \u201cWe joined the international agreement for preventing the u... https://t.co/uN7tHDLLdF"
+        },
+        {
+            "created_at": "2016-02-24T23:30:11.000Z",
+            "id": "702636670726905856",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-24T02:08:08.000Z",
+            "id": "702314032947048448",
+            "text": "I saw your advert in the paper &lt;a href=\" https://t.co/yZgbulQPvA... https://t.co/HOk986Z2ch"
+        },
+        {
+            "created_at": "2016-02-24T00:32:18.000Z",
+            "id": "702289917834096641",
+            "text": "RT @jeski66: .@LungAssociation \"gum, inhalers, patches, lozenges and nasal spray, medications such as Zyban\u00ae and Chantix\u00ae.\" https://t.co/1Z\u2026"
+        },
+        {
+            "created_at": "2016-02-24T00:21:26.000Z",
+            "id": "702287183047069697",
+            "text": ".@LungAssociation \"gum, inhalers, patches, lozenges and nasal spray, medications such as Zyban\u00ae and Chantix\u00ae.\" https://t.co/1ZR9sZ5H61"
+        },
+        {
+            "created_at": "2016-02-23T22:16:52.000Z",
+            "id": "702255834148032512",
+            "text": "New: 24m asking for #Snapchat #Sexting : I'm unemployed &lt;a href=\" https://t.co/mS6VxTSUgA -&gt; https://t.co/vl9rocgehC #sext"
+        },
+        {
+            "created_at": "2016-02-23T22:11:40.000Z",
+            "id": "702254525650968577",
+            "text": "I'm in a suprisingly good mood today despite my circumstances.\n\nLooks like the pills (zyban) are working. \nStill working on the smoking tho\ud83d\ude27"
+        },
+        {
+            "created_at": "2016-02-23T20:52:15.000Z",
+            "id": "702234540366962688",
+            "text": "The A - Z Guide Of Zyban Can Help You Quit Smoking  https://t.co/KViI6uKcSv"
+        },
+        {
+            "created_at": "2016-02-23T02:11:25.000Z",
+            "id": "701952472978472960",
+            "text": "New: 22m asking for #Snapchat #Sexting : History &lt;a href=\" https://t.co/eMJKvSvFX4 -&gt; https://t.co/BNIg88DYxf #sext"
+        },
+        {
+            "created_at": "2016-02-23T01:49:14.000Z",
+            "id": "701946890280161280",
+            "text": "@aliterasyon Ilac yazdirdim,Zyban.Bakalim sabir etkisi yaratacak mi?"
+        },
+        {
+            "created_at": "2016-02-21T20:03:00.000Z",
+            "id": "701497368823390208",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-21T19:08:12.000Z",
+            "id": "701483578769575936",
+            "text": "I'd like to change some money &lt;a href=\" https://t.co/PhagCuw7Qi... https://t.co/PVa1Es5sit"
+        },
+        {
+            "created_at": "2016-02-21T05:01:33.000Z",
+            "id": "701270512379568128",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-18T10:03:46.000Z",
+            "id": "700259402465484800",
+            "text": "Zyban Sr 75: Tablets stop smoking cutting in half zyban works by ilacinin zararlari dawka. Stoppen roken how l... https://t.co/m7a5uA8kuz"
+        },
+        {
+            "created_at": "2016-02-18T03:03:09.000Z",
+            "id": "700153551469699072",
+            "text": "Zyban ou Champix ? https://t.co/BAqMFEJyJx"
+        },
+        {
+            "created_at": "2016-02-17T06:14:29.000Z",
+            "id": "699839314159534080",
+            "text": "RT @GadisGatal: Ciri-Ciri Kesembuhan Sipilis: Ciri-Ciri Kesembuhan Sipilis - penyakit kelamin ini memang sangat dianggap berba... https://t\u2026"
+        },
+        {
+            "created_at": "2016-02-17T05:40:02.000Z",
+            "id": "699830642347872256",
+            "text": "Ciri-Ciri Kesembuhan Sipilis: Ciri-Ciri Kesembuhan Sipilis - penyakit kelamin ini memang sangat dianggap berba... https://t.co/yxAm1TgluF"
+        },
+        {
+            "created_at": "2016-02-17T05:01:26.000Z",
+            "id": "699820931091472385",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-16T13:08:07.000Z",
+            "id": "699581020027252736",
+            "text": "Do you know each other?  https://t.co/RqmPsScjXO... https://t.co/erfaZ0RUPk"
+        },
+        {
+            "created_at": "2016-02-16T07:08:06.000Z",
+            "id": "699490417885081600",
+            "text": "I've been made redundant https://t.co/VuVrFxgIqt luncheo... https://t.co/r7Alm4zQGf"
+        },
+        {
+            "created_at": "2016-02-15T23:05:27.000Z",
+            "id": "699368955744485377",
+            "text": "RT @SiempreEnFormaX: Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-15T23:03:29.000Z",
+            "id": "699368461835902976",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-15T20:09:29.000Z",
+            "id": "699324674866479104",
+            "text": "Give up smoking day. Have had enough and cant afford it. Tried Zyban, sent me even more insane than already am. Cold Turkey for me"
+        },
+        {
+            "created_at": "2016-02-15T08:52:07.000Z",
+            "id": "699154209699205120",
+            "text": "@MikaSolid Ja sam ostavio duvan uz pomo\u0107 Zyban, ina\u010de sam bio strastveni pu\u0161a\u010d.\nSamo nikako bez konsultacije sa lekarom."
+        },
+        {
+            "created_at": "2016-02-15T05:01:28.000Z",
+            "id": "699096161785925632",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-15T02:00:09.000Z",
+            "id": "699050532883734528",
+            "text": "I've only had 3 cigarettes so far today! I cant tell if its because its too cold out, or the zyban is finally starting to work but its good!"
+        },
+        {
+            "created_at": "2016-02-14T22:08:08.000Z",
+            "id": "698992144413888512",
+            "text": "Why did you come to ? &lt;a href=\" https://t.co/0AHShOQdNY \"... https://t.co/mi5i1GqWwl"
+        },
+        {
+            "created_at": "2016-02-14T11:02:33.000Z",
+            "id": "698824646838235136",
+            "text": "online pharmacy hcg drops online pharmacy zyban https://t.co/1kXZTZ9McI"
+        },
+        {
+            "created_at": "2016-02-13T21:33:30.000Z",
+            "id": "698621039903969281",
+            "text": "RT @Amac_17: MORE #VapingTruth Doctors Orders. Take your medicine. Vaping over Chantix &amp; Zyban https://t.co/DbECy1F7so via @Vapingit"
+        },
+        {
+            "created_at": "2016-02-13T18:33:28.000Z",
+            "id": "698575733589827589",
+            "text": "MORE #VapingTruth Doctors Orders. Take your medicine. Vaping over Chantix &amp; Zyban https://t.co/DbECy1F7so via @Vapingit"
+        },
+        {
+            "created_at": "2016-02-13T11:56:45.000Z",
+            "id": "698475897763061760",
+            "text": "Zyban Tablets In Pakistan"
+        },
+        {
+            "created_at": "2016-02-13T03:23:29.000Z",
+            "id": "698346729037365248",
+            "text": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30dc\u30f3\u30d0\u30fc\uff1aI&amp;#039;ll put him on https://t.co/Vlsay4QnO8 regret systems m...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2016-02-13T02:49:55.000Z",
+            "id": "698338282321477632",
+            "text": "RT @Vapingit: WHAT are you thinking?\n          Take your medicine to stop smoking! \n\nhttps://t.co/kanicjZ6l3"
+        },
+        {
+            "created_at": "2016-02-13T02:17:43.000Z",
+            "id": "698330177915457536",
+            "text": "RT @Vapingit: WHAT are you thinking?\n          Take your medicine to stop smoking! \n\nhttps://t.co/kanicjZ6l3"
+        },
+        {
+            "created_at": "2016-02-13T02:12:44.000Z",
+            "id": "698328925588611072",
+            "text": "WHAT are you thinking?\n          Take your medicine to stop smoking! \n\nhttps://t.co/kanicjZ6l3"
+        },
+        {
+            "created_at": "2016-02-13T00:32:36.000Z",
+            "id": "698303722946846722",
+            "text": "Zyban Kaufen https://t.co/dY2HZHRjew"
+        },
+        {
+            "created_at": "2016-02-12T23:01:52.000Z",
+            "id": "698280892662288384",
+            "text": "How Zyban Can Help You Quit Smoking\nhttps://t.co/Ph8INA3s9N"
+        },
+        {
+            "created_at": "2016-02-12T20:08:05.000Z",
+            "id": "698237156075167745",
+            "text": "I've got a very weak signal &lt;a href=\" https://t.co/IE5yZ2p5U2... https://t.co/zgM1i4ai3v"
+        },
+        {
+            "created_at": "2016-02-12T00:08:04.000Z",
+            "id": "697935163469099009",
+            "text": "I'll call back later https://t.co/E0W5wAS2ws duplica... https://t.co/mmIS8aNdR6"
+        },
+        {
+            "created_at": "2016-02-11T06:58:21.000Z",
+            "id": "697676027447926785",
+            "text": "11.02.11 j\u00e4tsin maha. Ilma pikkade juttudeta, ainult mina, Zyban, Kristi ja vein. Siis tulid muutused https://t.co/G0qlXV1Wsi #suitsetamine"
+        },
+        {
+            "created_at": "2016-02-10T12:52:40.000Z",
+            "id": "697402803338215424",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T20:53:42.000Z",
+            "id": "697161474326863873",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T20:18:15.000Z",
+            "id": "697152551049768960",
+            "text": "Zyban ou Champix ? https://t.co/BAqMFEJyJx"
+        },
+        {
+            "created_at": "2016-02-09T17:30:03.000Z",
+            "id": "697110222087786496",
+            "text": "Looking for a zyban? Not a problem! Click Here ... https://t.co/rZX9SYF4tV #smo #seo #ecommerce"
+        },
+        {
+            "created_at": "2016-02-09T17:22:03.000Z",
+            "id": "697108210008854528",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T17:20:05.000Z",
+            "id": "697107715580162048",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T16:39:37.000Z",
+            "id": "697097532934062080",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T16:19:05.000Z",
+            "id": "697092363731259393",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:48:59.000Z",
+            "id": "697084788784635904",
+            "text": "@RT_Erdogan benim bura\u011f\u0131n zyban'\u0131 diosunuz yani iyi gelir diosun:D"
+        },
+        {
+            "created_at": "2016-02-09T15:47:04.000Z",
+            "id": "697084304938135556",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:10.000Z",
+            "id": "697082064559067136",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:10.000Z",
+            "id": "697082064559013888",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:10.000Z",
+            "id": "697082064554823681",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064299020289",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064252903424",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064244490240",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064210935808",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064206700547",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064202559488",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064202526720",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064185778176",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064181596160",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082064177381377",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082063825063936",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082061358817280",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082061300043776",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082061182648322",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082061161635841",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082061140713476",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082061014880256",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060960309250",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060939333632",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060918411264",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060691918848",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060662558724",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060658384897",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060574478336",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060507324417",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060398321664",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060385751040",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:09.000Z",
+            "id": "697082060373159936",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060314451968",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060289273856",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060251463681",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060247326721",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060196999168",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060192751616",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060167639040",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060155064321",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060154998784",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060146655236",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060146634755",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060087934976",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060066942977",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082060029222912",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059920175105",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059697864705",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059664322561",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059483979776",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059374915586",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059362271233",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059358105600",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059341307904",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059324583936",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082059211325440",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082058649288704",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:38:08.000Z",
+            "id": "697082058401775616",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:09:41.000Z",
+            "id": "697074900054450176",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:06:23.000Z",
+            "id": "697074067803893760",
+            "text": "RT @MKAtaturkTC: 171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigara\u2026"
+        },
+        {
+            "created_at": "2016-02-09T15:04:48.000Z",
+            "id": "697073668355186688",
+            "text": "171 i Ar\u0131yorsunuz Size Zyban Diye \u0130la\u00e7 \u00d6neriyorlar\n\u0130la\u00e7 150 tl civar\u0131\nBu \u0130lac\u0131 Kim Pazarl\u0131yor \nBurak Erdo\u011fan\n\n#HayatSigaras\u0131zG\u00fczel mis Hsktr"
+        },
+        {
+            "created_at": "2016-02-09T07:58:51.000Z",
+            "id": "696966475614126080",
+            "text": "@KevinCarson1 fine now, weaned myself off, it would come out of nowhere on Zyban. and intense"
+        },
+        {
+            "created_at": "2016-02-09T07:56:32.000Z",
+            "id": "696965891263721472",
+            "text": "@KevinCarson1 zyban is fucked, I have reacted both times trying it."
+        },
+        {
+            "created_at": "2016-02-09T07:53:25.000Z",
+            "id": "696965110410174464",
+            "text": "@TrancewithMe zyban, same shit, it fucked with me so bad"
+        },
+        {
+            "created_at": "2016-02-09T04:14:51.000Z",
+            "id": "696910105179127808",
+            "text": "@Shckwish I quit w/help of Zyban almost 2yrs ago. Improvement is dramatic. Totally worth it. Bad stuff passes, stick with it!  Good luck!"
+        },
+        {
+            "created_at": "2016-02-09T03:26:17.000Z",
+            "id": "696897884202008577",
+            "text": "Purchase Zyban Amex Pharmacy:  https://t.co/mG62ib8220"
+        },
+        {
+            "created_at": "2016-02-09T02:50:14.000Z",
+            "id": "696888809615663104",
+            "text": "Buy Zyban Online Without Script https://t.co/OxI43P8o3a foulabsquatulate (siir dostu)"
+        },
+        {
+            "created_at": "2016-02-08T20:29:46.000Z",
+            "id": "696793063616712704",
+            "text": "\u201cThey say, \u2018I smoked for decades and I\u2019ve tried everything \u2014 nicotine gum, patches, Zyban, Champix \u2014 and I... https://t.co/MYrBw4wyz8"
+        },
+        {
+            "created_at": "2016-02-07T04:52:58.000Z",
+            "id": "696194921682743301",
+            "text": "Buy Zyban Online Without Script https://t.co/So0JMj1uKD"
+        },
+        {
+            "created_at": "2016-02-06T14:03:05.000Z",
+            "id": "695970976299884545",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-06T05:03:47.000Z",
+            "id": "695835256591527936",
+            "text": "How Long To Feel Effects Of Zyban For Bipolar https://t.co/yi0diKHIlh"
+        },
+        {
+            "created_at": "2016-02-06T04:23:49.000Z",
+            "id": "695825199346769922",
+            "text": "Wellbutrin\u306e\u65b9\u304cZyban\u3088\u308a\u9ad8\u3044\u3063\u3066\u306a\u3093\u304b\u304a\u304b\u3057\u3044\u2026Wellbutrin\u306e\u65b9\u304cZyban\u3088\u308a\u9ad8\u3044\u3063\u3066\u306a\u3093\u304b\u304a\u304b\u3057\u304f\u306a\u3044\uff1f"
+        },
+        {
+            "created_at": "2016-02-05T13:09:45.000Z",
+            "id": "695595166439235584",
+            "text": "Bu Zyban ne mal ediyomus adami. 2 gundur hayalet gibim"
+        },
+        {
+            "created_at": "2016-02-05T12:34:22.000Z",
+            "id": "695586260405112832",
+            "text": "#Pharmaceutical bupropion : Zyban SR : https://t.co/6hYVzixNjz #MRX #Surveys #Statistics #MarketResearchReports #Forecast #Marketing"
+        },
+        {
+            "created_at": "2016-02-05T02:37:33.000Z",
+            "id": "695436064614383616",
+            "text": "\u201cThey say, \u2018I smoked for decades and I\u2019ve tried everything \u2014 nicotine gum, patches, Zyban, Champix \u2014 and I... https://t.co/LizTNjltS7"
+        },
+        {
+            "created_at": "2016-02-04T23:29:06.000Z",
+            "id": "695388639660892160",
+            "text": "Cheap Zyban No Script Physician https://t.co/DRHad0bnIK #avatarsofwar"
+        },
+        {
+            "created_at": "2016-02-04T23:16:12.000Z",
+            "id": "695385395438055425",
+            "text": "@varik77 ik heb gehoord dat als je zyban gebruikt het makkelijker gaat  maar Mar het is het niet waard om er gek van te worden"
+        },
+        {
+            "created_at": "2016-02-04T09:03:36.000Z",
+            "id": "695170832256102400",
+            "text": "@AgnieszkaLewko @SmokeWatchers @COsadnik @TheACPRC Like the 'safe' drugs Champix and Zyban? Can't say I'm impressed by clinical trials"
+        },
+        {
+            "created_at": "2016-02-04T01:44:24.000Z",
+            "id": "695060302698655744",
+            "text": "@SMCHD_gov dizziness,anxiety,depression,constipation, nausea,vomiting,insomnia:Side Effects of Chantix &amp; Zyban, the 2 brands you say by name"
+        },
+        {
+            "created_at": "2016-02-04T01:33:32.000Z",
+            "id": "695057568272510976",
+            "text": "WELLBUTRIN (bupropion hydrocholoride) or ZYBAN is a synthetic NICOTINE?  How many depressed people need a cigarette in a pill?  GO FDA/ACA!"
+        },
+        {
+            "created_at": "2016-02-03T20:02:06.000Z",
+            "id": "694974159726735361",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-02T15:51:46.000Z",
+            "id": "694548772974673920",
+            "text": "Cheap Zyban No Script Physician https://t.co/lVv9Bfcy5P ~ old photo"
+        },
+        {
+            "created_at": "2016-02-02T11:30:18.000Z",
+            "id": "694482971814944768",
+            "text": "Dejar de fumar | Medicamentos | Zyban | Champix - https://t.co/XENEB3yvUu"
+        },
+        {
+            "created_at": "2016-02-01T21:11:53.000Z",
+            "id": "694266947911950336",
+            "text": "@PBelgian @Feltonmormon volont\u00e9 + sport + Spinoza + zyban"
+        },
+        {
+            "created_at": "2016-02-01T17:51:46.000Z",
+            "id": "694216583569412103",
+            "text": "Order Bupropion 150 mg Low Price. How to Buy Zyban in Verified Pharmacy https://t.co/0HARQsxsXY #medical #blog #health"
+        },
+        {
+            "created_at": "2016-02-01T06:51:10.000Z",
+            "id": "694050337821450242",
+            "text": "92% of ex smokers surveyed quit without the use of medication.  Only 2% used chantix or zyban! https://t.co/5v2PYDWHEP"
+        },
+        {
+            "created_at": "2016-02-01T05:21:45.000Z",
+            "id": "694027836177297408",
+            "text": "Obat Herbal gang jie dan Gho Siah Manjur Dari Denature: Obat Gang jie dan gho siah pengobatan herbal dari dena... https://t.co/OltbZB3EXg"
+        },
+        {
+            "created_at": "2016-02-01T02:52:13.000Z",
+            "id": "693990205192167424",
+            "text": "@aussieinTO working on quitting, shd be off them in the next few weeks! Ive cut back cause these ones taste gross (or maybe its the zyban)"
+        },
+        {
+            "created_at": "2016-02-01T01:41:44.000Z",
+            "id": "693972468680097792",
+            "text": "@Mad_Catur zyban is for me to quit smoking... but if it keeps everything else in check, i may just stay on it"
+        },
+        {
+            "created_at": "2016-02-01T01:34:05.000Z",
+            "id": "693970543771414528",
+            "text": "My guts were fucked when i woke up... but im blaming that on my 2/3 sub dose. If it happens again tomorrow ill know the zyban had its part 2"
+        },
+        {
+            "created_at": "2016-02-01T01:31:00.000Z",
+            "id": "693969765577027584",
+            "text": "Oh! And today was the first day I've been able to double the zyban... i set an alarm for real early, ate 1st dose then back to bed"
+        }
+    ],
+    "meta": {
+        "newest_id": "704433558958419969",
+        "oldest_id": "693969765577027584",
+        "result_count": 156
+    }
+}

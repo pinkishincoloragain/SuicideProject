@@ -1,0 +1,852 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-02-23T17:29:46.000Z",
+            "id": "1099360684138250242",
+            "text": "RT @arahmangok: \"Balg\u00eef\u00ean me qurm \u00fb do\u015fek\u00ean me kevir in.\nEy qewm\u00ea min, dil\u00ea xwe nebij\u00eenin g\u00fbran!\nHinek\u00ee li ber keda me bikevin, em ne gawir\u2026"
+        },
+        {
+            "created_at": "2019-02-23T13:58:57.000Z",
+            "id": "1099307628889542658",
+            "text": "\"Balg\u00eef\u00ean me qurm \u00fb do\u015fek\u00ean me kevir in.\nEy qewm\u00ea min, dil\u00ea xwe nebij\u00eenin g\u00fbran!\nHinek\u00ee li ber keda me bikevin, em ne gawir in. \"\nJi pirt\u00fbka Stran\u00ean Sor Nivi\u015ft\u00ean Mor a @renasjiyanrenas"
+        }
+    ],
+    "meta": {
+        "newest_id": "1099360684138250242",
+        "oldest_id": "1099307628889542658",
+        "result_count": 2
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-02-06T18:46:14.000Z",
+            "id": "1093219331842998273",
+            "text": "Does Gablofen Help With Opiate Withdrawal Symptoms? https://t.co/vTsV2L2L8a"
+        }
+    ],
+    "meta": {
+        "newest_id": "1093219331842998273",
+        "oldest_id": "1093219331842998273",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-02-24T04:41:51.000Z",
+            "id": "1099529817148538881",
+            "text": "Payer Par Mastercard :: Acheter Lioresal Finland - https://t.co/AsjlalVkCJ https://t.co/E1oDU5x4td"
+        },
+        {
+            "created_at": "2019-02-23T03:34:23.000Z",
+            "id": "1099150452564918272",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-23T03:21:39.000Z",
+            "id": "1099147245864259585",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-23T03:14:07.000Z",
+            "id": "1099145351032918017",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-23T03:10:37.000Z",
+            "id": "1099144468241043457",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-23T03:07:41.000Z",
+            "id": "1099143732811706369",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-23T00:27:02.000Z",
+            "id": "1099103301323423745",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-22T23:19:47.000Z",
+            "id": "1099086379622064129",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-22T21:39:33.000Z",
+            "id": "1099061156042473472",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-22T21:17:38.000Z",
+            "id": "1099055638943072256",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-22T21:12:02.000Z",
+            "id": "1099054229459779587",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-22T21:10:08.000Z",
+            "id": "1099053749983678464",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T22:10:16.000Z",
+            "id": "1098706495858987010",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T17:23:35.000Z",
+            "id": "1098634352701906947",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T17:22:47.000Z",
+            "id": "1098634150184189952",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T17:22:26.000Z",
+            "id": "1098634063047524352",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T17:20:17.000Z",
+            "id": "1098633519385989121",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T17:18:32.000Z",
+            "id": "1098633079017615362",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T12:45:11.000Z",
+            "id": "1098564290204835841",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T10:01:39.000Z",
+            "id": "1098523133693382657",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T08:02:00.000Z",
+            "id": "1098493024408166401",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T03:46:25.000Z",
+            "id": "1098428704760442880",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T02:08:41.000Z",
+            "id": "1098404107390464000",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T01:55:48.000Z",
+            "id": "1098400866388856837",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T01:43:35.000Z",
+            "id": "1098397790458257408",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T01:40:00.000Z",
+            "id": "1098396892067708929",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T00:39:01.000Z",
+            "id": "1098381543310086144",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T00:22:00.000Z",
+            "id": "1098377261017939968",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-21T00:18:59.000Z",
+            "id": "1098376500280283139",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T23:55:51.000Z",
+            "id": "1098370681421615110",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T23:52:41.000Z",
+            "id": "1098369883413327873",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T23:16:21.000Z",
+            "id": "1098360740615016448",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T22:32:05.000Z",
+            "id": "1098349601109823489",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T22:01:15.000Z",
+            "id": "1098341840917549059",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T21:38:21.000Z",
+            "id": "1098336078220722177",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T20:03:55.000Z",
+            "id": "1098312312417644545",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T19:57:09.000Z",
+            "id": "1098310607818899459",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T19:36:29.000Z",
+            "id": "1098305406840070144",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T19:21:30.000Z",
+            "id": "1098301638048129026",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T19:19:58.000Z",
+            "id": "1098301250372808705",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T19:07:21.000Z",
+            "id": "1098298075733467137",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T18:56:42.000Z",
+            "id": "1098295396730847233",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T18:37:36.000Z",
+            "id": "1098290589244768267",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T18:25:02.000Z",
+            "id": "1098287428702486530",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T18:14:18.000Z",
+            "id": "1098284725272301571",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T18:02:20.000Z",
+            "id": "1098281713812365312",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T18:00:39.000Z",
+            "id": "1098281290422472705",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T17:56:44.000Z",
+            "id": "1098280305822187521",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T17:52:05.000Z",
+            "id": "1098279136718741511",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T17:27:36.000Z",
+            "id": "1098272974015205377",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T17:12:24.000Z",
+            "id": "1098269150391209985",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T17:02:08.000Z",
+            "id": "1098266563260698624",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T16:54:16.000Z",
+            "id": "1098264583649837058",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T16:46:56.000Z",
+            "id": "1098262738185437186",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T16:37:05.000Z",
+            "id": "1098260259171454978",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T16:31:31.000Z",
+            "id": "1098258860182249480",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T16:29:18.000Z",
+            "id": "1098258303400972288",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T16:23:14.000Z",
+            "id": "1098256773318877184",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T16:12:55.000Z",
+            "id": "1098254179808829440",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:54:00.000Z",
+            "id": "1098249417772154880",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:42:46.000Z",
+            "id": "1098246589951426560",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:42:40.000Z",
+            "id": "1098246568036257793",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:40:22.000Z",
+            "id": "1098245985971650563",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:38:02.000Z",
+            "id": "1098245401755467781",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:37:35.000Z",
+            "id": "1098245287775227904",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:32:54.000Z",
+            "id": "1098244108739534850",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:21:50.000Z",
+            "id": "1098241325101666304",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:18:16.000Z",
+            "id": "1098240426799259648",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:09:31.000Z",
+            "id": "1098238222419836929",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:05:18.000Z",
+            "id": "1098237162439483392",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:03:54.000Z",
+            "id": "1098236812219293698",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:01:47.000Z",
+            "id": "1098236275981725697",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T15:00:30.000Z",
+            "id": "1098235954031144961",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:57:04.000Z",
+            "id": "1098235092558905344",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:41:25.000Z",
+            "id": "1098231153771900928",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:35:39.000Z",
+            "id": "1098229703033393152",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:31:00.000Z",
+            "id": "1098228531430080519",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:30:36.000Z",
+            "id": "1098228430024392706",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:30:24.000Z",
+            "id": "1098228381341110274",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:29:54.000Z",
+            "id": "1098228252299194374",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:26:07.000Z",
+            "id": "1098227301895016449",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:23:27.000Z",
+            "id": "1098226630818971651",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:10:24.000Z",
+            "id": "1098223348163723264",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:08:51.000Z",
+            "id": "1098222957229469696",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:07:24.000Z",
+            "id": "1098222593222627328",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:07:19.000Z",
+            "id": "1098222569524813824",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:06:08.000Z",
+            "id": "1098222271804723201",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:03:02.000Z",
+            "id": "1098221493283106817",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T14:00:03.000Z",
+            "id": "1098220742154567680",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:58:22.000Z",
+            "id": "1098220316319539200",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:58:15.000Z",
+            "id": "1098220287185899525",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:56:08.000Z",
+            "id": "1098219754920333312",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:55:20.000Z",
+            "id": "1098219556953309186",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:55:09.000Z",
+            "id": "1098219507414458373",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:52:07.000Z",
+            "id": "1098218743459532801",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:50:52.000Z",
+            "id": "1098218429738291200",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:50:11.000Z",
+            "id": "1098218260959555584",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:46:08.000Z",
+            "id": "1098217239432577025",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:44:03.000Z",
+            "id": "1098216716985950209",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:38:53.000Z",
+            "id": "1098215414423846915",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:38:19.000Z",
+            "id": "1098215272329158656",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:36:48.000Z",
+            "id": "1098214890022539264",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:36:07.000Z",
+            "id": "1098214721050869761",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:35:09.000Z",
+            "id": "1098214474098589696",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:32:05.000Z",
+            "id": "1098213703906983943",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:31:59.000Z",
+            "id": "1098213676866289664",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:31:42.000Z",
+            "id": "1098213606276169729",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:30:44.000Z",
+            "id": "1098213365166624768",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:29:56.000Z",
+            "id": "1098213162992709633",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:29:48.000Z",
+            "id": "1098213127815086081",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:28:54.000Z",
+            "id": "1098212903755440128",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:28:09.000Z",
+            "id": "1098212714529345536",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:28:00.000Z",
+            "id": "1098212677451689984",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:26:43.000Z",
+            "id": "1098212352808370176",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:25:39.000Z",
+            "id": "1098212084221923329",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:23:51.000Z",
+            "id": "1098211630578626560",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:23:08.000Z",
+            "id": "1098211452807188480",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:22:58.000Z",
+            "id": "1098211407575896065",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:22:40.000Z",
+            "id": "1098211334439735297",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:21:56.000Z",
+            "id": "1098211151089991680",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:21:48.000Z",
+            "id": "1098211118059843586",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:21:33.000Z",
+            "id": "1098211051441741824",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:21:01.000Z",
+            "id": "1098210920038391808",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:20:39.000Z",
+            "id": "1098210826421501953",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:19:22.000Z",
+            "id": "1098210502860292097",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:18:11.000Z",
+            "id": "1098210205492568065",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:18:06.000Z",
+            "id": "1098210184810430464",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:17:25.000Z",
+            "id": "1098210013313753088",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:15:11.000Z",
+            "id": "1098209449230127104",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:14:58.000Z",
+            "id": "1098209394712633345",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:14:40.000Z",
+            "id": "1098209318997028864",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:13:35.000Z",
+            "id": "1098209047197700096",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:13:31.000Z",
+            "id": "1098209032387641345",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:13:26.000Z",
+            "id": "1098209009734205440",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:12:41.000Z",
+            "id": "1098208820667576321",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:12:38.000Z",
+            "id": "1098208809229651969",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:12:10.000Z",
+            "id": "1098208692179267589",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:11:23.000Z",
+            "id": "1098208496414322688",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:11:04.000Z",
+            "id": "1098208416747741185",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:10:32.000Z",
+            "id": "1098208279765893120",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:09:16.000Z",
+            "id": "1098207961837723649",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:09:04.000Z",
+            "id": "1098207910906290176",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:08:55.000Z",
+            "id": "1098207875158237184",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:08:43.000Z",
+            "id": "1098207823425691649",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:07:46.000Z",
+            "id": "1098207583373004802",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:07:42.000Z",
+            "id": "1098207567250112512",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:07:28.000Z",
+            "id": "1098207509901443074",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:06:43.000Z",
+            "id": "1098207319496773633",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:06:34.000Z",
+            "id": "1098207282922430464",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:06:30.000Z",
+            "id": "1098207265625174017",
+            "text": "RT @LafranciscanaF: \u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL\u2026"
+        },
+        {
+            "created_at": "2019-02-20T13:05:29.000Z",
+            "id": "1098207007776165888",
+            "text": "\u26a0\ufe0fATENCI\u00d3N\u26a0\ufe0f #Medicamentos Llegando en este momento #20Feb\n\n\ud83d\udd39ARIPIPRAZOL 10mg x 30\ud83d\udc8a \n\ud83d\udd39CALOXPIRINA 81mg x 30\ud83d\udc8a \n\ud83d\udd39LIORESAL 25mg x 30\ud83d\udc8a \n\ud83d\udd39FERGANIC FOLIC x 30\ud83d\udc8a\n\ud83d\udd39LIOLACTIL x 6 sobres\n\ud83d\udd39GLIBENCLAMIDA 5mg x 10\ud83d\udc8a \n\ud83d\udd39QUETIAPINA 100mg x 30\ud83d\udc8a\n\ud83d\udd39REMINAL 20mg x 20\ud83d\udc8a\nAyuda a difundir RT"
+        },
+        {
+            "created_at": "2019-02-12T15:25:24.000Z",
+            "id": "1095343119418023937",
+            "text": "RT @stafilococusaer: JESUS BENDITO HASTA CUANDO EL BB DE MARY HERNANDEZ,EL LIORESAL PARA LA HIJA DE ASDRUBAL. LAS AMPOLLAS DE GRANOCYTE.?\u2026"
+        },
+        {
+            "created_at": "2019-02-12T14:52:27.000Z",
+            "id": "1095334825148313600",
+            "text": "JESUS BENDITO HASTA CUANDO EL BB DE MARY HERNANDEZ,EL LIORESAL PARA LA HIJA DE ASDRUBAL. LAS AMPOLLAS DE GRANOCYTE.?\n\nBASTA CON TODO ESO.\n\nQUE ES TAN FALSO. COMO QUE NICOLAS ES VENEZOLANO. https://t.co/abESDSTbjN"
+        },
+        {
+            "created_at": "2019-02-11T15:37:51.000Z",
+            "id": "1094983863015743489",
+            "text": "Yo como santo Tomas! \nDe verdad es muy dif\u00edcil creer que para dormir hace m\u00e1s da\u00f1o UNA cerveza que un lioresal!!\nEso no lo cree ni Las farmac\u00e9uticas! \n#EMPP duerme como un bb con su birra! https://t.co/10Y8yr1u8p"
+        },
+        {
+            "created_at": "2019-02-10T20:34:21.000Z",
+            "id": "1094696093064093696",
+            "text": "Llevamos a\u00f1os sin un porcentaje de medicamentos e insumos importantes para la salud del venezolano; y de eso se olvidaron por completo los gobernantes. Lo puedo certificar ya que desde hace mas de 3 a\u00f1os necesito Lioresal, medicamento que no se consigue en el pa\u00eds."
+        },
+        {
+            "created_at": "2019-02-07T19:18:53.000Z",
+            "id": "1093589938451501057",
+            "text": "@MurrekiFoxfloof Kinda reminds me of lioresal muscle relaxants, they did anything but relaxing the muscles they should :("
+        },
+        {
+            "created_at": "2019-02-07T14:37:51.000Z",
+            "id": "1093519211509571584",
+            "text": "solicito los medicamentos FARMA D 1000und CLONAZEPAM 0.5 MG NEURIXA de 75mg LIORESAL O BACLOFEN DE 10 o 25 mg telef de contacto 04126739430 vivo en valencia"
+        },
+        {
+            "created_at": "2019-02-05T05:35:28.000Z",
+            "id": "1092657940203474946",
+            "text": "Generic Lioresal (Baclofen)\nLioresal (Baclofen) is a muscle relaxant. Lioresal is used to treat spasticity of the skeletal muscles and improve mobility in patients with multiple sclerosis by decreasing muscular spasm and rigidity.\nhttps://t.co/x1MIaIjGG6"
+        },
+        {
+            "created_at": "2019-02-03T17:47:04.000Z",
+            "id": "1092117277452001280",
+            "text": "Avec Prescription - Generic Lioresal Pas Cher - Commande rapide Livraison - https://t.co/iQ3qnerDdZ https://t.co/dO1RmzGmep"
+        },
+        {
+            "created_at": "2019-02-01T02:02:54.000Z",
+            "id": "1091154895036653569",
+            "text": "Recherche Lioresal \u2013 Meilleur prix et de haute qualit\u00e9 \u2013 Livraison Gratuite https://t.co/Frb92doKOj"
+        }
+    ],
+    "meta": {
+        "newest_id": "1099529817148538881",
+        "oldest_id": "1091154895036653569",
+        "result_count": 160
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

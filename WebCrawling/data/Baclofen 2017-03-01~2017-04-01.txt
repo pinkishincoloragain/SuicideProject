@@ -1,0 +1,1044 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-03-31T18:11:25.000Z",
+            "id": "847873985966682112",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @PublServ  #BaclofenIntratecal"
+        },
+        {
+            "created_at": "2017-03-31T00:24:00.000Z",
+            "id": "847605359925575680",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @FundacionBADAN #BaclofenIntra\u2026"
+        },
+        {
+            "created_at": "2017-03-31T00:22:34.000Z",
+            "id": "847605000171692032",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @PaganaTrinidad @lafleurmusica\u2026"
+        },
+        {
+            "created_at": "2017-03-31T00:22:02.000Z",
+            "id": "847604865127694336",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ECalzadillaR @PrakritiMaduro\u2026"
+        },
+        {
+            "created_at": "2017-03-31T00:11:09.000Z",
+            "id": "847602129393000448",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ECalzadillaR @PrakritiMaduro\u2026"
+        },
+        {
+            "created_at": "2017-03-30T20:40:45.000Z",
+            "id": "847549180260306949",
+            "text": "@FundacionBADAN buenas tardes tiene baclofeno o lioresal 10mg? Gracias por su respuesta"
+        },
+        {
+            "created_at": "2017-03-30T16:09:19.000Z",
+            "id": "847480870722195458",
+            "text": "V\u00eda @danielaberletr #SeSolicia #URGENTE Ampollas de #Lioresal Intratecal 50mg/20cc , 10mg/20cc"
+        },
+        {
+            "created_at": "2017-03-30T15:56:10.000Z",
+            "id": "847477560720072705",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @FundacionBADAN #BaclofenIntratecal"
+        },
+        {
+            "created_at": "2017-03-30T15:31:05.000Z",
+            "id": "847471247667609600",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ivssoficial"
+        },
+        {
+            "created_at": "2017-03-30T15:30:58.000Z",
+            "id": "847471219599212544",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @farmarrocha"
+        },
+        {
+            "created_at": "2017-03-30T15:30:54.000Z",
+            "id": "847471202218070016",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @GrupoFarmarket @Akiztapp @far\u2026"
+        },
+        {
+            "created_at": "2017-03-30T15:30:32.000Z",
+            "id": "847471110203559936",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @PaganaTrinidad @lafleurmusica\u2026"
+        },
+        {
+            "created_at": "2017-03-30T15:27:03.000Z",
+            "id": "847470235338903552",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @PaganaTrinidad @lafleurmusica @luisbascaran"
+        },
+        {
+            "created_at": "2017-03-30T15:25:26.000Z",
+            "id": "847469825727225856",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @farmarrocha"
+        },
+        {
+            "created_at": "2017-03-30T15:24:06.000Z",
+            "id": "847469492405850116",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ECalzadillaR @PrakritiMaduro @AlfonsoMedina17"
+        },
+        {
+            "created_at": "2017-03-30T15:22:55.000Z",
+            "id": "847469192672612352",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @GrupoFarmarket @Akiztapp @farmabien @Farmacarlota"
+        },
+        {
+            "created_at": "2017-03-30T15:19:22.000Z",
+            "id": "847468299868749825",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ivssoficial"
+        },
+        {
+            "created_at": "2017-03-30T15:15:22.000Z",
+            "id": "847467294385098754",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ServicioPubliVE @SERVIFARMACIAS @fundafarmacia"
+        },
+        {
+            "created_at": "2017-03-30T15:02:18.000Z",
+            "id": "847464005333417984",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-03-30T13:32:44.000Z",
+            "id": "847441465231908864",
+            "text": "RT @Laraoccs: @BertinOsborne los medicamentos no refrigerados tal como Fampyra de biogen idec baclofeno o lioresal de ... https://t.co/7zTy\u2026"
+        },
+        {
+            "created_at": "2017-03-30T13:31:43.000Z",
+            "id": "847441209920507904",
+            "text": "Farmacia prodotti a basso costo :: Generico 25 mg Lioresal Prezzo :: Spedizioni mondiali gratuite https://t.co/YsGTYLY8SJ"
+        },
+        {
+            "created_at": "2017-03-30T13:27:09.000Z",
+            "id": "847440061507555328",
+            "text": "@BertinOsborne los medicamentos no refrigerados tal como Fampyra de biogen idec baclofeno o lioresal de ... https://t.co/7zTy8vFJmt"
+        },
+        {
+            "created_at": "2017-03-30T07:05:38.000Z",
+            "id": "847344046670462977",
+            "text": "Meilleur prix et de haute qualit\u00e9 :: Recherche Lioresal 10 mg :: Payer Par Amex https://t.co/WYlld3svti"
+        },
+        {
+            "created_at": "2017-03-29T02:09:35.000Z",
+            "id": "846907155097751554",
+            "text": "RT @danielaberletr: #Caracas #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  Tratamiento de #espas\u2026"
+        },
+        {
+            "created_at": "2017-03-29T02:07:58.000Z",
+            "id": "846906750230052864",
+            "text": "RT @danielaberletr: #Caracas #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  Tratamiento de #espas\u2026"
+        },
+        {
+            "created_at": "2017-03-28T23:23:13.000Z",
+            "id": "846865288868106240",
+            "text": "RT @danielaberletr: #Caracas #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  Tratamiento de #espas\u2026"
+        },
+        {
+            "created_at": "2017-03-28T21:14:17.000Z",
+            "id": "846832841002536961",
+            "text": "RT @danielaberletr: #Caracas #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  Tratamiento de #espas\u2026"
+        },
+        {
+            "created_at": "2017-03-28T21:05:01.000Z",
+            "id": "846830510781452290",
+            "text": "#Caracas #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  Tratamiento de #espasticidad @FSFB_Salud"
+        },
+        {
+            "created_at": "2017-03-28T14:09:09.000Z",
+            "id": "846725852842917888",
+            "text": "\u00c9conomisez temps et co\u00fbts. Acheter Lioresal 10 mg Moins Cher. Payer Par Carte Visa: Acheter\u2026 https://t.co/SmYVUETYuW"
+        },
+        {
+            "created_at": "2017-03-28T10:09:57.000Z",
+            "id": "846665656338546690",
+            "text": "#Safebridgeofhelp.org Brand And Generic Products For Sale - Lioresal For Sale 25 mg - Track... Read Blog: https://t.co/dsVHSEnTvD"
+        },
+        {
+            "created_at": "2017-03-28T03:02:41.000Z",
+            "id": "846558131438145536",
+            "text": "Best\u00e4lla Lioresal 25 mg Sverige \u2013 Hela v\u00e4rlden Frakt (1-3 dagar) \u2013 personligt\u2026 https://t.co/Xv5k3OOviN"
+        },
+        {
+            "created_at": "2017-03-27T09:51:31.000Z",
+            "id": "846298628964544512",
+            "text": "#Safebridgeofhelp.org Piller Lioresal 10 mg P\u00e5 N\u00e4tet :: Snabb leverans med bud eller flygpo... Read Blog: https://t.co/pzFE7HJJJE"
+        },
+        {
+            "created_at": "2017-03-27T08:12:43.000Z",
+            "id": "846273765298229248",
+            "text": "#IslandHealing Licensierade och generiska produkter f\u00f6r f\u00f6rs\u00e4ljning. Lioresal Billigare Apo... Read Blog: https://t.co/eLmAKPEIzf"
+        },
+        {
+            "created_at": "2017-03-24T16:21:48.000Z",
+            "id": "845309686220046336",
+            "text": "@FundacionBADAN me podrian informar si en la sucursal de valencia hay lioresal 10 mg??"
+        },
+        {
+            "created_at": "2017-03-23T15:52:57.000Z",
+            "id": "844940035841572870",
+            "text": "@FundacionBADAN tendran lioresal de 10 o 25mg lo busco urgente.. gracias.."
+        },
+        {
+            "created_at": "2017-03-23T14:25:24.000Z",
+            "id": "844918003380695041",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc para mi persona, antes del pr\u00f3ximo 7 de abril"
+        },
+        {
+            "created_at": "2017-03-23T12:09:11.000Z",
+            "id": "844883723044749313",
+            "text": "Pas De Pharmacie Sur Ordonnance * Lioresal 10 mg Sur Le Net * R\u00e9ductions et la livraison gratuite appliqu\u00e9e https://t.co/eQ6uQZXm9M"
+        },
+        {
+            "created_at": "2017-03-23T00:14:16.000Z",
+            "id": "844703810140426241",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc para mi persona  #BaclofenIntra\u2026"
+        },
+        {
+            "created_at": "2017-03-22T21:42:51.000Z",
+            "id": "844665705421254657",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc para mi persona  #BaclofenIntra\u2026"
+        },
+        {
+            "created_at": "2017-03-22T14:43:47.000Z",
+            "id": "844560242604167169",
+            "text": "Coupon Edited: LIORESAL (baclofen) Coupons, Discounts &amp; Cost https://t.co/iWGfwH17nw"
+        },
+        {
+            "created_at": "2017-03-22T14:01:39.000Z",
+            "id": "844549639252692992",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc para mi persona  #BaclofenIntratecal."
+        },
+        {
+            "created_at": "2017-03-21T14:02:16.000Z",
+            "id": "844187405288685568",
+            "text": "Generic Drugs Without Prescription :: Lioresal 25 mg Looking https://t.co/rdCrJZqpHt"
+        },
+        {
+            "created_at": "2017-03-20T17:45:34.000Z",
+            "id": "843881211940556800",
+            "text": "Acheter Lioresal sans ordonnance :: Livraison gratuite dans le monde :: Sans Ordonnance https://t.co/WO0VYhnFHQ"
+        },
+        {
+            "created_at": "2017-03-19T23:59:10.000Z",
+            "id": "843612845887520769",
+            "text": "Drugstore Pas Cher \u2013 Acheter Lioresal En Ligne Canada \u2013 Airmail Exp\u00e9dition: Acheter\u2026 https://t.co/X94HTFDOmW"
+        },
+        {
+            "created_at": "2017-03-19T16:53:33.000Z",
+            "id": "843505733316427778",
+            "text": "#TransformationalSchoolOfBusiness Sans Ordonnance. Acheter Lioresal G\u00e9n\u00e9rique En France. R\u00e9... Read Blog: https://t.co/IS94Xl1BGu"
+        },
+        {
+            "created_at": "2017-03-19T07:30:03.000Z",
+            "id": "843363927534768129",
+            "text": "Achat Lioresal Pharmacie Sans Ordonnance. Livraison trackable https://t.co/TzzNzPijx1"
+        },
+        {
+            "created_at": "2017-03-19T05:46:40.000Z",
+            "id": "843337907884773376",
+            "text": "RT @FundaDistoniaVe: @FundacionBADAN se necesita con urgencia LIORESAL comprimidos para pacientes con diston\u00edas 0414 0121642 - 0212 8417982\u2026"
+        },
+        {
+            "created_at": "2017-03-18T12:18:34.000Z",
+            "id": "843074144975622144",
+            "text": "S\u00e4ker Webbplats F\u00f6r Att K\u00f6pa Generika \u2013 Best\u00e4lla L\u00e4kemedel 25 mg Lioresal \u2013 FDA godk\u00e4nt\u2026 https://t.co/qVfUYzw2QE"
+        },
+        {
+            "created_at": "2017-03-18T12:09:47.000Z",
+            "id": "843071936456359936",
+            "text": "Generique Du Lioresal :: Meilleur prix et de haute qualit\u00e9 https://t.co/O26kQNZvXF"
+        },
+        {
+            "created_at": "2017-03-18T11:06:25.000Z",
+            "id": "843055990127910917",
+            "text": "Alla mediciner \u00e4r certifierade / K\u00f6pa Generisk Lioresal / B\u00e4sta P\u00e5 N\u00e4tet Apotek https://t.co/HBmJg5etbW"
+        },
+        {
+            "created_at": "2017-03-17T19:32:16.000Z",
+            "id": "842820902534467585",
+            "text": "@somosem  Hasta hoy no me medican. Cortisona en alg\u00fan brote, lioresal para la espasticidad y no mucha, pues me quita fuerza. 27a\u00f1os juntos. https://t.co/4JeQDPDKbE"
+        },
+        {
+            "created_at": "2017-03-17T05:42:30.000Z",
+            "id": "842612085527842816",
+            "text": "RT @GrangerBernard: Baclof\u00e8ne dans l'alcoolo-d\u00e9pendance : protocole assoupli, indications \u00e9largies, utilisation simplifi\u00e9e. Bravo l'ANSM ht\u2026"
+        },
+        {
+            "created_at": "2017-03-16T22:24:38.000Z",
+            "id": "842501892114694144",
+            "text": "RT @GrangerBernard: Baclof\u00e8ne dans l'alcoolo-d\u00e9pendance : protocole assoupli, indications \u00e9largies, utilisation simplifi\u00e9e. Bravo l'ANSM ht\u2026"
+        },
+        {
+            "created_at": "2017-03-16T20:34:47.000Z",
+            "id": "842474246056116224",
+            "text": "RT @GrangerBernard: Baclof\u00e8ne dans l'alcoolo-d\u00e9pendance : protocole assoupli, indications \u00e9largies, utilisation simplifi\u00e9e. Bravo l'ANSM ht\u2026"
+        },
+        {
+            "created_at": "2017-03-16T20:32:56.000Z",
+            "id": "842473782266732546",
+            "text": "Baclof\u00e8ne dans l'alcoolo-d\u00e9pendance : protocole assoupli, indications \u00e9largies, utilisation simplifi\u00e9e. Bravo l'ANSM https://t.co/hVjzfOSBz6"
+        },
+        {
+            "created_at": "2017-03-16T18:05:13.000Z",
+            "id": "842436607953240066",
+            "text": "Billiga P\u00e5 N\u00e4tet Apotek - Ink\u00f6p Lioresal receptfritt - Gratis Worldwide Delivery https://t.co/Ubnl4hlpMu"
+        },
+        {
+            "created_at": "2017-03-16T16:52:18.000Z",
+            "id": "842418256560418816",
+            "text": "Canadian Health Care Pharmacy - Acheter Lioresal Generique - Worldwide Shipping (1-3 Days) https://t.co/a75brdDvGh"
+        },
+        {
+            "created_at": "2017-03-15T15:31:34.000Z",
+            "id": "842035550966173699",
+            "text": "#Pharmaceuticals LIORESAL 10 : Tablet : 10mg : Novartis Pharma AG, Switzerland : https://t.co/UtRNDTvRPs #MarketResearch #Statistics"
+        },
+        {
+            "created_at": "2017-03-13T21:40:37.000Z",
+            "id": "841403651927232513",
+            "text": "No Rx Online Pharmacy / cheap 10 mg Lioresal Price / Worldwide Shipping (1-3 Days) https://t.co/EzeMVgfM8m"
+        },
+        {
+            "created_at": "2017-03-13T18:53:42.000Z",
+            "id": "841361645246930944",
+            "text": "#Destinaction La Morue Livraison - Le Prix Du Lioresal 25 mg - Exp\u00e9dition rapide. Read Blog: https://t.co/xxeAJrCXbY"
+        },
+        {
+            "created_at": "2017-03-12T23:55:13.000Z",
+            "id": "841075133959811073",
+            "text": "RT @neuropediat: regrann from @fundadistoniave  -  El LIORESAL (Baclofeno) es el medicamento base para la\u2026 https://t.co/5ytlukMqSl"
+        },
+        {
+            "created_at": "2017-03-12T20:19:36.000Z",
+            "id": "841020876199989251",
+            "text": "regrann from @fundadistoniave  -  El LIORESAL (Baclofeno) es el medicamento base para la\u2026 https://t.co/5ytlukMqSl"
+        },
+        {
+            "created_at": "2017-03-12T17:53:31.000Z",
+            "id": "840984111439335424",
+            "text": "RT @FundaDistoniaVe: @FundacionBADAN se necesita con urgencia LIORESAL comprimidos para pacientes con diston\u00edas 0414 0121642 - 0212 8417982\u2026"
+        },
+        {
+            "created_at": "2017-03-12T15:04:41.000Z",
+            "id": "840941624054206465",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-12T12:56:45.000Z",
+            "id": "840909427448397824",
+            "text": "@FundacionBADAN se necesita con urgencia LIORESAL comprimidos para pacientes con diston\u00edas 0414 0121642 - 0212 8417982 https://t.co/f3wEc1gSss"
+        },
+        {
+            "created_at": "2017-03-12T08:21:05.000Z",
+            "id": "840840053928542208",
+            "text": "Exp\u00e9dition Imm\u00e9diate. Acheter Lioresal 10 mg En Ligne En France: Acheter Lioresal 10 mg En Ligne En France\u2026 https://t.co/HWraeriXgy https://t.co/K8JsqJNehj"
+        },
+        {
+            "created_at": "2017-03-12T04:35:40.000Z",
+            "id": "840783326843678720",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-12T02:52:40.000Z",
+            "id": "840757406581817344",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-12T02:51:09.000Z",
+            "id": "840757024099049472",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-12T00:41:31.000Z",
+            "id": "840724400945156097",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T19:59:53.000Z",
+            "id": "840653523050233857",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T19:59:44.000Z",
+            "id": "840653487675461633",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T19:57:41.000Z",
+            "id": "840652972208058370",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T16:43:48.000Z",
+            "id": "840604179429244928",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T16:36:32.000Z",
+            "id": "840602350020657152",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T16:34:05.000Z",
+            "id": "840601731809587200",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T16:33:41.000Z",
+            "id": "840601633172148225",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T15:47:51.000Z",
+            "id": "840590096667725824",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T15:43:00.000Z",
+            "id": "840588876947292160",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T14:46:35.000Z",
+            "id": "840574680910172160",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T12:57:39.000Z",
+            "id": "840547266511400960",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T12:03:45.000Z",
+            "id": "840533701171781632",
+            "text": "Billigaste Lioresal 25 mg Ink\u00f6p :: Frakt \u00f6ver hela v\u00e4rlden - https://t.co/grpSkTb8EF https://t.co/ZGRiEECyTE"
+        },
+        {
+            "created_at": "2017-03-11T11:27:29.000Z",
+            "id": "840524576845103104",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T11:19:44.000Z",
+            "id": "840522626527289345",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T11:05:08.000Z",
+            "id": "840518950664437760",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T05:49:10.000Z",
+            "id": "840439434172485632",
+            "text": "RT @FundaDistoniaVe: Se necesita con urgencia el medicamento LIORESAL  (baclofeno) comprimidos - 04140121642 https://t.co/8AiyUhatxj"
+        },
+        {
+            "created_at": "2017-03-11T05:25:06.000Z",
+            "id": "840433380185526272",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T03:24:35.000Z",
+            "id": "840403050871345153",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T02:20:27.000Z",
+            "id": "840386909830545409",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T01:31:27.000Z",
+            "id": "840374578060886016",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T01:26:15.000Z",
+            "id": "840373270402732033",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T01:10:23.000Z",
+            "id": "840369275776958464",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T01:10:17.000Z",
+            "id": "840369251001237504",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T01:02:42.000Z",
+            "id": "840367344752947204",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T01:01:56.000Z",
+            "id": "840367148878987265",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:56:37.000Z",
+            "id": "840365811961339905",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:46:18.000Z",
+            "id": "840363217868201984",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:42:25.000Z",
+            "id": "840362237348978688",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:39:59.000Z",
+            "id": "840361625756524544",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:39:55.000Z",
+            "id": "840361610686398464",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:38:23.000Z",
+            "id": "840361224260997128",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:34:13.000Z",
+            "id": "840360175299153921",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:34:11.000Z",
+            "id": "840360166839205888",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:33:27.000Z",
+            "id": "840359982038151168",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:26:01.000Z",
+            "id": "840358109688320000",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:25:46.000Z",
+            "id": "840358047457398784",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:16:49.000Z",
+            "id": "840355797091651585",
+            "text": "Acquista Lioresal Baclofen Generico In linea * trasporto di posta aerea - https://t.co/haYXrn8GqT https://t.co/TrpFWogWHB"
+        },
+        {
+            "created_at": "2017-03-11T00:13:34.000Z",
+            "id": "840354976996175872",
+            "text": "Affidabile, veloce e sicuro - Basso costo Lioresal Generico - 24/7 Farmacia - https://t.co/yF0htehnrb https://t.co/GDCLiu80EN"
+        },
+        {
+            "created_at": "2017-03-11T00:12:18.000Z",
+            "id": "840354658623315968",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:12:02.000Z",
+            "id": "840354593146060802",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:10:51.000Z",
+            "id": "840354292913623041",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-11T00:02:48.000Z",
+            "id": "840352269996503040",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:56:13.000Z",
+            "id": "840350612168499202",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:54:39.000Z",
+            "id": "840350218944159746",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:54:29.000Z",
+            "id": "840350176116056064",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:45:29.000Z",
+            "id": "840347909623283713",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:44:57.000Z",
+            "id": "840347775187456001",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:32:23.000Z",
+            "id": "840344614674522113",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:29:32.000Z",
+            "id": "840343896240603136",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:28:30.000Z",
+            "id": "840343638764851200",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:14:01.000Z",
+            "id": "840339990743789568",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:13:20.000Z",
+            "id": "840339821126139904",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T23:04:02.000Z",
+            "id": "840337478850625537",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T22:51:16.000Z",
+            "id": "840334268467429377",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T22:29:49.000Z",
+            "id": "840328869181849601",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T22:18:40.000Z",
+            "id": "840326064274604034",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T22:13:11.000Z",
+            "id": "840324684025597956",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T22:05:27.000Z",
+            "id": "840322735880433664",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:56:59.000Z",
+            "id": "840320605337587712",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:56:13.000Z",
+            "id": "840320412819042309",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:55:59.000Z",
+            "id": "840320355415732224",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:55:32.000Z",
+            "id": "840320241091674112",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:38:53.000Z",
+            "id": "840316051875385345",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:34:15.000Z",
+            "id": "840314885296672768",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:18:29.000Z",
+            "id": "840310917384552448",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:11:42.000Z",
+            "id": "840309209409413121",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:11:00.000Z",
+            "id": "840309034645364736",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:10:55.000Z",
+            "id": "840309011836731392",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:08:36.000Z",
+            "id": "840308428941721601",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:07:35.000Z",
+            "id": "840308172636225536",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T21:05:42.000Z",
+            "id": "840307701934641154",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:55:41.000Z",
+            "id": "840305177718583296",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:54:33.000Z",
+            "id": "840304893499961345",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:53:42.000Z",
+            "id": "840304678059532288",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:51:12.000Z",
+            "id": "840304050952376320",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:49:34.000Z",
+            "id": "840303639021408260",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:44:05.000Z",
+            "id": "840302261427408897",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:41:29.000Z",
+            "id": "840301603672457216",
+            "text": "RT @MechanicBot1: RT Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffbFundaDistoni\u2026 https\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:41:13.000Z",
+            "id": "840301536873984004",
+            "text": "RT Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffbFundaDistoni\u2026 https://t.co/D44lXzxXjm"
+        },
+        {
+            "created_at": "2017-03-10T20:39:29.000Z",
+            "id": "840301101194854401",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:37:42.000Z",
+            "id": "840300652559519744",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:36:56.000Z",
+            "id": "840300460171001857",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:33:26.000Z",
+            "id": "840299580679954434",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T20:24:01.000Z",
+            "id": "840297208478076928",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T19:50:10.000Z",
+            "id": "840288692652650497",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T19:48:27.000Z",
+            "id": "840288260165365760",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T19:35:39.000Z",
+            "id": "840285039527133184",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T19:27:29.000Z",
+            "id": "840282982334238723",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T19:09:06.000Z",
+            "id": "840278356016939008",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T19:00:43.000Z",
+            "id": "840276248521785344",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:54:03.000Z",
+            "id": "840274568132587520",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:50:48.000Z",
+            "id": "840273751317086209",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:44:35.000Z",
+            "id": "840272186493534208",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:30:43.000Z",
+            "id": "840268696501264384",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:29:19.000Z",
+            "id": "840268345861632000",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:29:06.000Z",
+            "id": "840268292262629377",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:20:42.000Z",
+            "id": "840266174571122688",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:17:28.000Z",
+            "id": "840265361740185600",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:15:23.000Z",
+            "id": "840264837418618882",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:13:52.000Z",
+            "id": "840264456806551552",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:12:21.000Z",
+            "id": "840264076026613760",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:11:33.000Z",
+            "id": "840263872640610304",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:10:05.000Z",
+            "id": "840263506540781568",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:08:44.000Z",
+            "id": "840263165757784064",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:03:52.000Z",
+            "id": "840261938823196672",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T18:02:01.000Z",
+            "id": "840261475298136064",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:55:14.000Z",
+            "id": "840259768593838080",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:54:05.000Z",
+            "id": "840259478184423426",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:53:40.000Z",
+            "id": "840259372198567936",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:53:06.000Z",
+            "id": "840259232662454273",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:46:59.000Z",
+            "id": "840257691847122949",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:44:48.000Z",
+            "id": "840257143869714436",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:44:15.000Z",
+            "id": "840257004094521344",
+            "text": "RT @Oropeza_Mari: #ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @soleche\u2026"
+        },
+        {
+            "created_at": "2017-03-10T17:42:51.000Z",
+            "id": "840256649105416192",
+            "text": "#ServicioPublico T\u00da RT PUEDE SALVAR VIDAS! SE NECESITA URGENTE LIORESAL (BACLOFENO)\ud83d\udc49\ud83c\udffb@FundaDistoniaVe\ud83d\ude4f\ud83c\udffb@vetehugo @solechesoluma @paolucci40 https://t.co/KOD7dJsfF7"
+        },
+        {
+            "created_at": "2017-03-10T17:25:18.000Z",
+            "id": "840252232608169986",
+            "text": "Se necesita con urgencia el medicamento LIORESAL  (baclofeno) comprimidos - 04140121642 https://t.co/8AiyUhatxj"
+        },
+        {
+            "created_at": "2017-03-09T19:26:23.000Z",
+            "id": "839920318768623619",
+            "text": "In linea Lioresal Acquistare \u2013 Senza ricetta https://t.co/G9Vj4WO02a"
+        },
+        {
+            "created_at": "2017-03-09T11:27:41.000Z",
+            "id": "839799848207548417",
+            "text": "Order Cheap Lioresal - Sales And Free Pills With Every Order - Canadian Pharmacy - https://t.co/7DXvptMDpB https://t.co/flWFN85I2O"
+        },
+        {
+            "created_at": "2017-03-09T10:12:44.000Z",
+            "id": "839780987634532356",
+            "text": "#OpenDg Alla kreditkort accepteras - K\u00f6pa Lioresal Norge. Read Blog: https://t.co/kteMrUnJKd"
+        },
+        {
+            "created_at": "2017-03-09T10:04:04.000Z",
+            "id": "839778808630685697",
+            "text": "#OpenDg Alla kreditkort accepteras - K\u00f6pa Lioresal Norge. Read Blog: https://t.co/0OC3iZZEaF"
+        },
+        {
+            "created_at": "2017-03-09T05:38:09.000Z",
+            "id": "839711885486247936",
+            "text": "#EugeneDining M\u00e9dicaments de bonne qualit\u00e9. Lioresal Pharmacie En Ligne. Commande rapide Li... Read Blog: https://t.co/2zxePIwhwU"
+        },
+        {
+            "created_at": "2017-03-08T19:35:58.000Z",
+            "id": "839560343953227776",
+            "text": "Lioresal Generique Les \u00e9chantillons de Viagra gratuit https://t.co/7CKDqrxe4E"
+        },
+        {
+            "created_at": "2017-03-07T12:31:36.000Z",
+            "id": "839091158064189440",
+            "text": "BTC \u00e4r tillg\u00e4nglig * Best\u00e4lla Lioresal 25 mg Billigaste * Legal P\u00e5 N\u00e4tet Apotek - https://t.co/AhZJB30LWr https://t.co/o5Q1a39y5h"
+        },
+        {
+            "created_at": "2017-03-07T09:47:15.000Z",
+            "id": "839049798011375621",
+            "text": "#OpenDg Alla kreditkort accepteras - K\u00f6pa Lioresal Norge. Read Blog: https://t.co/QmKYqhybo3"
+        },
+        {
+            "created_at": "2017-03-07T09:45:24.000Z",
+            "id": "839049331709624321",
+            "text": "#OpenDg Alla kreditkort accepteras - K\u00f6pa Lioresal Norge. Read Blog: https://t.co/cuwgu7zAWz"
+        },
+        {
+            "created_at": "2017-03-07T08:45:27.000Z",
+            "id": "839034245137911808",
+            "text": "#SelfFundedCommunitieswinkomun Lioresal | Where To Buy. Read Blog: https://t.co/KBBtzqLuMR"
+        },
+        {
+            "created_at": "2017-03-07T06:50:30.000Z",
+            "id": "839005318986096640",
+            "text": "#K9KanteenOttawasMobilePetStore Generiska L\u00e4kemedel Apotek - Ink\u00f6p Lioresal \u00d6ver Disken - H... Read Blog: https://t.co/MPKAQX2bh9"
+        },
+        {
+            "created_at": "2017-03-05T03:25:49.000Z",
+            "id": "838229032701415425",
+            "text": "Lioresal 10 mg Generisk :: Auktoriserad Apotek P\u00e5 N\u00e4tet :: Brand och generiska produkter https://t.co/c6FpflCHOL"
+        },
+        {
+            "created_at": "2017-03-04T06:44:00.000Z",
+            "id": "837916519476707328",
+            "text": "Generisk Lioresal Best\u00e4lla Vi s\u00e4nder med EMS, Fedex, Ups och andra - https://t.co/YUYx47Vl2M https://t.co/kLcYamvbml"
+        },
+        {
+            "created_at": "2017-03-03T20:39:21.000Z",
+            "id": "837764355039105024",
+            "text": "Only 100% Quality \u2013 cheap Lioresal 10 mg Best Place To Order https://t.co/m7adx0Bovy"
+        },
+        {
+            "created_at": "2017-03-03T12:26:44.000Z",
+            "id": "837640382074662912",
+            "text": "Supporto clienti 24/7 * Luogo sicuro per acquistare Lioresal Baclofen * Worldwide Shipping (1-3 giorni) https://t.co/TxsemRVvPJ"
+        },
+        {
+            "created_at": "2017-03-03T03:07:49.000Z",
+            "id": "837499727709077504",
+            "text": "Buy Cheap Generic Lioresal pills :: Bonus Free Shipping :: Fda Approved Medications https://t.co/bTDEYZzo14"
+        },
+        {
+            "created_at": "2017-03-02T03:39:58.000Z",
+            "id": "837145428961423360",
+            "text": "Lioresal Online - Lioresal 10Mg - Lioresal Medication - 9,101 Completed ORDERS Today! https://t.co/tDTgXiRMqo #onlineclasses"
+        },
+        {
+            "created_at": "2017-03-02T03:31:24.000Z",
+            "id": "837143275073060865",
+            "text": "Lioresal Online - Lioresal 10Mg - Lioresal Medication - 9,101 Completed ORDERS Today! https://t.co/Ygzr8FFOpt #onlineclasses"
+        }
+    ],
+    "meta": {
+        "newest_id": "847873985966682112",
+        "oldest_id": "837143275073060865",
+        "result_count": 203
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

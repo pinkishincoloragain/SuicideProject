@@ -1,0 +1,248 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-01-05T23:37:44.000Z",
+            "id": "1213967849682718720",
+            "text": "BATTLING BACLOFEN \nBaclofen is the generic name for a prescription muscle relaxant, commonly known as Lioresal and Gablofen. Read More:https://t.co/nfxxmQr0Gw https://t.co/DThbCOEW5Z"
+        }
+    ],
+    "meta": {
+        "newest_id": "1213967849682718720",
+        "oldest_id": "1213967849682718720",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-01-31T22:50:12.000Z",
+            "id": "1223377971152592896",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-01-31T22:21:01.000Z",
+            "id": "1223370628381671427",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-01-31T21:50:48.000Z",
+            "id": "1223363025752805379",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-01-31T21:49:12.000Z",
+            "id": "1223362622965395458",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-01-31T21:42:40.000Z",
+            "id": "1223360976633892864",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-01-31T21:28:25.000Z",
+            "id": "1223357390348783621",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T21:25:27.000Z",
+            "id": "1223356644366700553",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T21:14:28.000Z",
+            "id": "1223353879879917568",
+            "text": "Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a controlar el dolor q le causa la espaticidad.\n\nSi saben d\u00f3nde conseguir, comunicarse: 0416-0539614. Les agradezco de antemano la difusi\u00f3n de este #ServicioPublico. https://t.co/aIMtQqu50w"
+        },
+        {
+            "created_at": "2020-01-31T21:06:38.000Z",
+            "id": "1223351908469039105",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T20:54:28.000Z",
+            "id": "1223348847222587395",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T19:15:01.000Z",
+            "id": "1223323820200689665",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T19:14:16.000Z",
+            "id": "1223323631792599043",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T18:32:51.000Z",
+            "id": "1223313206992678913",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T18:30:35.000Z",
+            "id": "1223312638832148480",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T17:48:41.000Z",
+            "id": "1223302093605392384",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T17:41:52.000Z",
+            "id": "1223300378143399937",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:48:06.000Z",
+            "id": "1223256646404755458",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:35:50.000Z",
+            "id": "1223253560336506880",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:19:41.000Z",
+            "id": "1223249497695932416",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:18:53.000Z",
+            "id": "1223249296738410497",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:18:23.000Z",
+            "id": "1223249171056136192",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:16:10.000Z",
+            "id": "1223248610894237697",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:06:22.000Z",
+            "id": "1223246145432051714",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-01-31T14:05:02.000Z",
+            "id": "1223245808050622466",
+            "text": "Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a controlar el dolor q le causa la espaticidad.\n\nSi saben d\u00f3nde conseguir, comunicarse: 0416-0539614. Les agradezco de antemano la difusi\u00f3n de este #ServicioPublico. https://t.co/6Z758dchjX"
+        },
+        {
+            "created_at": "2020-01-23T18:49:33.000Z",
+            "id": "1220418307519586304",
+            "text": "RT @nekochan59: @cajounice Et pareil pour moi, je suis sous Lior\u00e9sal pour ma spasticite, une fois j'ai pris le g\u00e9n\u00e9rique pdt quelques jours\u2026"
+        },
+        {
+            "created_at": "2020-01-23T18:20:14.000Z",
+            "id": "1220410930816831488",
+            "text": "@cajounice (pour l'explication ma spasticit\u00e9 a besoin d'\u00eatre un peu inhib\u00e9e mais pas compl\u00e8tement parce qu'elle me permet de tenir debout, du coup je suis sous-dos\u00e9e en Lior\u00e9sal)"
+        },
+        {
+            "created_at": "2020-01-23T18:18:20.000Z",
+            "id": "1220410450476781569",
+            "text": "@cajounice Et pareil pour moi, je suis sous Lior\u00e9sal pour ma spasticite, une fois j'ai pris le g\u00e9n\u00e9rique pdt quelques jours. L'adjuvent n'\u00e9tait pas le m\u00eame, le m\u00e9dicament devait passer trop vite dans mon sang, je tenais plus debout."
+        },
+        {
+            "created_at": "2020-01-19T04:34:00.000Z",
+            "id": "1218753452135919616",
+            "text": "@elarcaico Lioresal culto  un medicamento?"
+        },
+        {
+            "created_at": "2020-01-18T11:35:27.000Z",
+            "id": "1218497122343047169",
+            "text": "Zovirax, Lioresal... ces m\u00e9dicaments qui \u00e9chappent aux nouvelles r\u00e8gles de remboursement | @scoopit https://t.co/uYQifbcubd"
+        },
+        {
+            "created_at": "2020-01-18T04:36:21.000Z",
+            "id": "1218391653892993024",
+            "text": "Zovirax, Lioresal... ces m\u00e9dicaments qui \u00e9chappent aux nouvelles r\u00e8gles de remboursement https://t.co/flVsJRGbH7 https://t.co/EVX7oZCFpr"
+        },
+        {
+            "created_at": "2020-01-17T18:41:47.000Z",
+            "id": "1218242024505253888",
+            "text": "RT @MagazineCapital: Depuis le d\u00e9but de l\u2019ann\u00e9e, la majorit\u00e9 des m\u00e9dicaments de marque sont rembours\u00e9s au prix des g\u00e9n\u00e9riques https://t.co/\u2026"
+        },
+        {
+            "created_at": "2020-01-17T18:29:00.000Z",
+            "id": "1218238809902546950",
+            "text": "RT @MagazineCapital: Depuis le d\u00e9but de l\u2019ann\u00e9e, la majorit\u00e9 des m\u00e9dicaments de marque sont rembours\u00e9s au prix des g\u00e9n\u00e9riques https://t.co/\u2026"
+        },
+        {
+            "created_at": "2020-01-17T18:19:10.000Z",
+            "id": "1218236334273331200",
+            "text": "RT @MagazineCapital: Depuis le d\u00e9but de l\u2019ann\u00e9e, la majorit\u00e9 des m\u00e9dicaments de marque sont rembours\u00e9s au prix des g\u00e9n\u00e9riques https://t.co/\u2026"
+        },
+        {
+            "created_at": "2020-01-17T18:15:07.000Z",
+            "id": "1218235313421799424",
+            "text": "Depuis le d\u00e9but de l\u2019ann\u00e9e, la majorit\u00e9 des m\u00e9dicaments de marque sont rembours\u00e9s au prix des g\u00e9n\u00e9riques https://t.co/hJq43E2l2i"
+        },
+        {
+            "created_at": "2020-01-17T15:13:16.000Z",
+            "id": "1218189550549422088",
+            "text": "@FundacionBADAN buenos d\u00edas baclofeno lioresal y trileptal tienen"
+        },
+        {
+            "created_at": "2020-01-13T13:59:08.000Z",
+            "id": "1216721342709542913",
+            "text": "RT @Sclerostar: @AtakdaDLsNrvios Hay desabastecimiento de drogas varias, yo estoy mendigando #lioresal y #gabapentina... est\u00e1 la cosa dif\u00edc\u2026"
+        },
+        {
+            "created_at": "2020-01-13T12:14:57.000Z",
+            "id": "1216695126329843717",
+            "text": "@AtakdaDLsNrvios Hay desabastecimiento de drogas varias, yo estoy mendigando #lioresal y #gabapentina... est\u00e1 la cosa dif\u00edcil hasta para cuidarse \ud83d\ude44"
+        },
+        {
+            "created_at": "2020-01-08T14:50:34.000Z",
+            "id": "1214922347825827841",
+            "text": "@DonaMed_VE buenos d\u00edas baclofeno lioresal tendr\u00e1n es para un paciente con un tumor cerebral gracias"
+        },
+        {
+            "created_at": "2020-01-07T16:55:33.000Z",
+            "id": "1214591412093751300",
+            "text": "RT @OhMaisOh1: #pharmatoctoc le lioresal / baclofene ne fait pas partie de la liste des sp\u00e9cialit\u00e9s concern\u00e9es fournie par @Syndicat_USPO m\u2026"
+        },
+        {
+            "created_at": "2020-01-07T16:55:27.000Z",
+            "id": "1214591386852442112",
+            "text": "#pharmatoctoc le lioresal / baclofene ne fait pas partie de la liste des sp\u00e9cialit\u00e9s concern\u00e9es fournie par @Syndicat_USPO mais le princeps ne contient pas de lactose. \nIl serait \u00e9ligible au CIF non ? https://t.co/T6uI6UXPNf"
+        },
+        {
+            "created_at": "2020-01-06T12:08:27.000Z",
+            "id": "1214156774212874244",
+            "text": "@FundacionBADAN buenos d\u00edas lioresal o baclofeno tienen en alguna de sus cedes"
+        },
+        {
+            "created_at": "2020-01-05T23:37:44.000Z",
+            "id": "1213967849682718720",
+            "text": "BATTLING BACLOFEN \nBaclofen is the generic name for a prescription muscle relaxant, commonly known as Lioresal and Gablofen. Read More:https://t.co/nfxxmQr0Gw https://t.co/DThbCOEW5Z"
+        }
+    ],
+    "meta": {
+        "newest_id": "1223377971152592896",
+        "oldest_id": "1213967849682718720",
+        "result_count": 42
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

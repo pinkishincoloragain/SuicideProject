@@ -1,0 +1,489 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-11-28T07:56:45.000Z",
+            "id": "935417163376218112",
+            "text": "Generic Lioresal Order Baclofen 10 mg Airmail Delivery Buy Now And Safe Your Money https://t.co/qypDyQuYNp"
+        },
+        {
+            "created_at": "2017-11-26T01:24:55.000Z",
+            "id": "934593779318820865",
+            "text": "Urgente lioresal o baclofeno, cualquier presentaci\u00f3n, para paciente de 5 a\u00f1os en maracay."
+        },
+        {
+            "created_at": "2017-11-26T01:22:54.000Z",
+            "id": "934593271262859266",
+            "text": "Necesito lioresal urgente de 10 mgs"
+        },
+        {
+            "created_at": "2017-11-26T00:01:58.000Z",
+            "id": "934572905672904704",
+            "text": "@marwanzamzami \u0627\u0633\u062a\u062e\u062f\u0645\u062a\u0647 \u0634\u0647\u0631\u064a\u0646 \u0648\u0628\u0627\u0644\u0641\u062a\u0631\u0629 \u0627\u0644\u0623\u062e\u064a\u0631\u0629 \u0644\u0627\u0646\u0627\u0645 \u0648\u0627\u0639\u0635\u0627\u0628\u064a \u0645\u062a\u0648\u062a\u0631\u0629 \u0647\u0644 \u0628\u0633\u0628\u0628 \u0647\u0630\u0627 \u0627\u0644\u0645\u0631\u062e\u064a lioresal \u061f"
+        },
+        {
+            "created_at": "2017-11-25T23:58:42.000Z",
+            "id": "934572080242323457",
+            "text": "@marwanzamzami \u062f\u0643\u062a\u0648\u0631 \u0643\u064a\u0641 \u0627\u0644\u062d\u0627\u0644 \u0627\u0631\u064a\u062f \u0627\u0633\u062a\u0634\u064a\u0631\u0643 \u062d\u0636\u0631\u062a\u0643 \u0643\u0646\u062a \u0645\u062a\u0627\u0628\u0639 \u062d\u0627\u0644\u062a\u064a \u0645\u0646 \u0627\u0644\u0628\u062f\u0627\u064a\u0629 \u0644\u0643\u0646 \u0644\u0645 \u0623\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u0645\u062c\u0626 \u0644\u0635\u0639\u0648\u0628\u0629 \u0627\u0644\u0633\u0641\u0631 \u0627\u0646\u062a \u0627\u0639\u0637\u064a\u062a\u0646\u064a \u0627\u0633\u0645 \u0645\u0631\u062e\u064a \u0639\u0636\u0644\u0627\u062a \u0627\u0633\u0645\u0647 \u0633\u0631\u062f\u064a\u0627\u0644\u0648\u062f 2mg \u0643\u0646\u062a \u0627\u062e\u0630\u0647 \u0635\u0628\u0627\u062d\u0627 \u0648\u0645\u0633\u0627\u0621\u0627 \u062a\u062d\u0633\u0646\u062a \u0643\u062b\u064a\u0631\u0627 \u0627\u0633\u062a\u062e\u062f\u0645\u062a\u0647 \u0644\u0639\u062f\u0629 \u0623\u0634\u0647\u0631 \u0648\u062a\u0631\u0643\u062a\u0647 \u0628\u0639\u062f \u0627\u0634\u0647\u0631  \u0627\u062e\u0631\u0649 \u0637\u0628\u064a\u0628 \u0627\u0644\u064a \u0645\u062a\u0627\u0628\u0639 \u062d\u0627\u0644\u062a\u064a \u0641\u064a \u0627\u0644\u0639\u0631\u0627\u0642  \u0627\u0639\u0637\u0627\u0646\u064a \u0645\u0631\u062e\u064a 10mg \u0627\u0633\u0645\u0647 lioresal"
+        },
+        {
+            "created_at": "2017-11-22T21:26:10.000Z",
+            "id": "933446531721687041",
+            "text": "New post: Acquistare Lioresal Baclofen Generico In linea * consegna di corriere rintracciabile https://t.co/tKNvjGjtEX"
+        },
+        {
+            "created_at": "2017-11-22T03:50:08.000Z",
+            "id": "933180773300977664",
+            "text": "Donaci\u00f3n de lioresal, vitaminas y cremas que ser\u00e1 enviada a Maracaibo para la ni\u00f1a Leslie Madera Villasmil con Dx encefalopatia est\u00e1tica con retardo psicomotor y microcefalia por Virus Zika. https://t.co/KZeTRksGKT"
+        },
+        {
+            "created_at": "2017-11-21T03:41:00.000Z",
+            "id": "932816085472174080",
+            "text": "Hey, es gibt Neuigkeiten bei WIE-ICH: Lioresal | Canada Cod Accepted https://t.co/iJGRz7godh #wieich"
+        },
+        {
+            "created_at": "2017-11-19T02:44:08.000Z",
+            "id": "932077000734527488",
+            "text": "LIORESA | ZONA LIBRE DE BELICE https://t.co/rpLIp2lJPA"
+        },
+        {
+            "created_at": "2017-11-18T23:55:47.000Z",
+            "id": "932034634313011200",
+            "text": "Costo Confezione Lioresal 25 mg / Official Canadian Pharmacy / Best Prices For All Customers https://t.co/jeKSWAx5Xj"
+        },
+        {
+            "created_at": "2017-11-18T22:05:24.000Z",
+            "id": "932006852006760450",
+            "text": "@farmagaleCA Buenas tardes tienen DULCOLAX, LIORESAL, SENOKOT CON DOCUSATO, CODELASA ? GRACIAS"
+        },
+        {
+            "created_at": "2017-11-18T17:17:16.000Z",
+            "id": "931934344939212802",
+            "text": "@farmagaleCA Buenas tardes ustedes tienen lioresal tabletas ?gracias"
+        },
+        {
+            "created_at": "2017-11-17T17:21:09.000Z",
+            "id": "931572933708918785",
+            "text": "#cambia por esto. Tiene lioresal. https://t.co/uH5k8wPJ4l"
+        },
+        {
+            "created_at": "2017-11-17T17:12:22.000Z",
+            "id": "931570723906359296",
+            "text": "RT @armandoxs: @aleidabaez hola buenas tardes tengo lioresal lo estoy vendiendo o cambiando por no usar."
+        },
+        {
+            "created_at": "2017-11-17T17:10:22.000Z",
+            "id": "931570219964944384",
+            "text": "@aleidabaez hola buenas tardes tengo lioresal lo estoy vendiendo o cambiando por no usar."
+        },
+        {
+            "created_at": "2017-11-16T11:42:06.000Z",
+            "id": "931125220349562880",
+            "text": "New post: Buy Online Without Prescription \u2013 Cheapest Lioresal Generic Buy Online \u2013 Best Place To Purchase Generics https://t.co/FeGiDcfng2"
+        },
+        {
+            "created_at": "2017-11-14T23:17:37.000Z",
+            "id": "930575478368415744",
+            "text": "RT @aleidabaez: Cadenas falsas ampollas de Granocyte. El carboplatino para el hijo de Mary Hernandez. El lioresal para la ni\u00f1a de MCY."
+        },
+        {
+            "created_at": "2017-11-14T14:17:47.000Z",
+            "id": "930439622143995904",
+            "text": "Cadenas falsas ampollas de Granocyte. El carboplatino para el hijo de Mary Hernandez. El lioresal para la ni\u00f1a de MCY."
+        },
+        {
+            "created_at": "2017-11-11T04:36:51.000Z",
+            "id": "929206262075707392",
+            "text": "FDA ha approvato Online Pharmacy \u2013 Prezzo Lioresal Baclofen In linea https://t.co/d9kgGvzaE9"
+        },
+        {
+            "created_at": "2017-11-10T23:20:28.000Z",
+            "id": "929126643985154048",
+            "text": "Remise sur R\u00e9organise. Lioresal 10 mg Generique En Ligne. Livraison gratuite Airmail Ou\u2026 https://t.co/WxePNu6cis"
+        },
+        {
+            "created_at": "2017-11-10T02:58:27.000Z",
+            "id": "928819113295859713",
+            "text": "Lioresal Baclofen Prezzo basso Generico \u2013 Miglior farmacia per acquisto Generics https://t.co/e1ZGMMZWUC"
+        },
+        {
+            "created_at": "2017-11-09T04:57:05.000Z",
+            "id": "928486578296705025",
+            "text": "25 mg Lioresal Quanto costa Generico - consegna in tutto il mondo - Migliori Online Pharmacy-offerte https://t.co/NHbm4TAce5"
+        },
+        {
+            "created_at": "2017-11-08T18:45:19.000Z",
+            "id": "928332620949319680",
+            "text": "Lioresal 25 mg Pas Cher En France - Pharmacie 24h - Airmail Exp\u00e9dition https://t.co/1qW3UITk1t"
+        },
+        {
+            "created_at": "2017-11-07T17:05:32.000Z",
+            "id": "927945123824111616",
+            "text": "NOTISALUD | LIORESAL MEDICAMENTOS\nesclerosis multiple que es? https://t.co/mA8KwS2p5C"
+        },
+        {
+            "created_at": "2017-11-07T02:15:29.000Z",
+            "id": "927721136347140096",
+            "text": "Acquista Generico 10 mg Lioresal \u2013 Accettiamo BitCoin \u2013 Bonus di trasporto... #news #Milano https://t.co/C52pFay2Nm"
+        },
+        {
+            "created_at": "2017-11-06T11:38:33.000Z",
+            "id": "927500447656574976",
+            "text": "\u27a1 Online Pharmacy Cheap Senza Ricetta 25 mg Lioresal Liberano Corriere Consegna https://t.co/tDoeETme5t"
+        },
+        {
+            "created_at": "2017-11-06T11:38:31.000Z",
+            "id": "927500438303379456",
+            "text": "\u27a1 Online Pharmacy Cheap Senza Ricetta 25 mg Lioresal Liberano Corriere Consegna https://t.co/mbLGO9AZje"
+        },
+        {
+            "created_at": "2017-11-03T11:55:45.000Z",
+            "id": "926417613487529984",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-03T01:37:56.000Z",
+            "id": "926262134954217472",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-03T01:13:24.000Z",
+            "id": "926255961685159937",
+            "text": "Cheapest Generic Lioresal - We Accept BitCoin - No Rx Canadian Pharmacy https://t.co/hAvwv6l9ya"
+        },
+        {
+            "created_at": "2017-11-03T00:22:12.000Z",
+            "id": "926243074069671936",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-03T00:19:56.000Z",
+            "id": "926242506286739462",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T22:13:59.000Z",
+            "id": "926210806450130945",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T22:08:32.000Z",
+            "id": "926209438733819904",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T18:25:19.000Z",
+            "id": "926153262411210752",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T17:57:18.000Z",
+            "id": "926146211727532035",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T17:25:20.000Z",
+            "id": "926138165483786240",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T17:22:02.000Z",
+            "id": "926137335271579650",
+            "text": "Farmacia sicuro di acquistare farmaci generici * In linea 25 mg Lioresal Nessuna\u2026 https://t.co/d4jtBhgEPN https://t.co/4jEdIQxjnt"
+        },
+        {
+            "created_at": "2017-11-02T17:16:51.000Z",
+            "id": "926136033196105729",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T17:08:56.000Z",
+            "id": "926134038619983873",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T15:39:21.000Z",
+            "id": "926111497209679874",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T15:05:46.000Z",
+            "id": "926103042126172160",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T14:47:51.000Z",
+            "id": "926098533765341185",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T14:46:15.000Z",
+            "id": "926098133876166656",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T14:41:39.000Z",
+            "id": "926096975778459648",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T14:32:01.000Z",
+            "id": "926094550631944192",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T14:15:44.000Z",
+            "id": "926090452465586176",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T13:51:06.000Z",
+            "id": "926084253087096833",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T13:47:49.000Z",
+            "id": "926083427060903936",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T13:46:26.000Z",
+            "id": "926083079919284224",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T13:25:21.000Z",
+            "id": "926077772686127104",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T13:02:40.000Z",
+            "id": "926072065618317312",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T12:12:06.000Z",
+            "id": "926059338078347265",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T11:24:05.000Z",
+            "id": "926047255852912640",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T11:20:05.000Z",
+            "id": "926046246921494528",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T11:05:33.000Z",
+            "id": "926042592411832326",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T11:02:56.000Z",
+            "id": "926041933444796416",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T10:56:59.000Z",
+            "id": "926040436833177600",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T10:52:02.000Z",
+            "id": "926039189287849984",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T10:39:19.000Z",
+            "id": "926035991332352000",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T10:11:29.000Z",
+            "id": "926028985254936576",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T09:32:36.000Z",
+            "id": "926019201449512961",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T08:44:18.000Z",
+            "id": "926007045911973889",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T06:49:20.000Z",
+            "id": "925978111598039040",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T03:31:55.000Z",
+            "id": "925928432579555334",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T03:24:28.000Z",
+            "id": "925926554475073536",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T03:18:33.000Z",
+            "id": "925925067279740928",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T03:18:20.000Z",
+            "id": "925925011948482562",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T03:03:43.000Z",
+            "id": "925921335829843968",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:58:17.000Z",
+            "id": "925919968352489472",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:54:47.000Z",
+            "id": "925919085266898944",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:50:52.000Z",
+            "id": "925918102369591296",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:49:16.000Z",
+            "id": "925917699716284416",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:42:34.000Z",
+            "id": "925916011655778304",
+            "text": "Looking Lioresal online Canadian Pharmacy Bonus Free Shipping https://t.co/YlpTbETQKB #ch\u01b0a\u0111\u01b0\u1ee3cph\u00e2nlo\u1ea1i"
+        },
+        {
+            "created_at": "2017-11-02T02:41:10.000Z",
+            "id": "925915659883679750",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:37:38.000Z",
+            "id": "925914770854830081",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:36:10.000Z",
+            "id": "925914399877058562",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:35:06.000Z",
+            "id": "925914130804027392",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:22:54.000Z",
+            "id": "925911060443516928",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:20:13.000Z",
+            "id": "925910388646006785",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:19:38.000Z",
+            "id": "925910238477373440",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:19:35.000Z",
+            "id": "925910225697116160",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:18:43.000Z",
+            "id": "925910011565543425",
+            "text": "@fundatiacruz Buenas noches, necesito urgente Lamotrigina 200 mg, Unasyn 750 MG tablet Lioresal o Baclofeno. Paciente  de estado de salud cr\u00edtica.X favor"
+        },
+        {
+            "created_at": "2017-11-02T02:17:09.000Z",
+            "id": "925909613500878848",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:16:41.000Z",
+            "id": "925909498862227456",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:12:12.000Z",
+            "id": "925908370569261058",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:11:29.000Z",
+            "id": "925908189182390272",
+            "text": "RT @fundatiacruz: En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg\u2026"
+        },
+        {
+            "created_at": "2017-11-02T02:10:11.000Z",
+            "id": "925907860143443968",
+            "text": "En Valencia\nLamotrigina 25 mg x 30 comp\nFulgram 600 mg susp ped\nTamsulosina 0,4 mg tab\nUnasyn 750 mgtab\nDigoxina 0,25 mg comp\nLioresal 10 mg https://t.co/6FJMVhEg11"
+        },
+        {
+            "created_at": "2017-11-02T00:49:46.000Z",
+            "id": "925887623771639809",
+            "text": "@Jekamijares Lio que.? lioresal o liolactil.?"
+        },
+        {
+            "created_at": "2017-11-01T16:43:37.000Z",
+            "id": "925765280604749824",
+            "text": "@brandy1960 @DolarToday Y la de la ni\u00f1a del lioresal que debe tener ya 20 a\u00f1os."
+        },
+        {
+            "created_at": "2017-11-01T14:55:36.000Z",
+            "id": "925738098448830466",
+            "text": "Order Online Lioresal Drug\u00a0Store https://t.co/Vsl0iPEruU https://t.co/9JFpKETIV6"
+        },
+        {
+            "created_at": "2017-11-01T14:53:47.000Z",
+            "id": "925737642083454976",
+            "text": "Cheapest Prices online purchase of Lioresal generic Free Airmail Or Courier\u00a0Shipping https://t.co/48OeKw9iR1 https://t.co/tRVZlPgZwr"
+        }
+    ],
+    "meta": {
+        "newest_id": "935417163376218112",
+        "oldest_id": "925737642083454976",
+        "result_count": 92
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}
