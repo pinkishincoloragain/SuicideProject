@@ -1,0 +1,109 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2018-11-28T03:39:55.000Z",
+            "id": "1067624099894177792",
+            "text": "(BitCoin accept\u00e9 / Le Prix De Lioresal / Livraison dans le monde (1-3 Jours)) - Rotativo de Quer\u00e9taro, Diario Digital - https://t.co/QWIIGytsoZ https://t.co/v4lROr5OIW"
+        },
+        {
+            "created_at": "2018-11-27T16:00:15.000Z",
+            "id": "1067448023788199936",
+            "text": "Zydus Cadila has received the final approval from the USFDA to market Baclofen Tablets (US RLD- Lioresal\u00ae), 10 mg and 20 mg. It will be manufactured at the group's formulations manufacturing facility at Baddi.... https://t.co/XmaHmdVSrK"
+        },
+        {
+            "created_at": "2018-11-27T11:59:01.000Z",
+            "id": "1067387315465539586",
+            "text": "RT @shareduniaindia: CADILA HEALTHCARE - Zydus Cadila has received final approval from the USFDA to market Baclofen Tablets (US RLD- Liores\u2026"
+        },
+        {
+            "created_at": "2018-11-27T11:35:50.000Z",
+            "id": "1067381478886133760",
+            "text": "CADILA HEALTHCARE - Zydus Cadila has received final approval from the USFDA to market Baclofen Tablets (US RLD- Lioresal\u00ae). Baclofen is used to treat muscle spasms caused by certain conditions such as multiple sclerosis, spinal cord injury/ disease."
+        },
+        {
+            "created_at": "2018-11-27T08:03:25.000Z",
+            "id": "1067328024352342018",
+            "text": "bimbesquatters wrote a new post, Lioresal En France / Livraison dans le monde entier / Pharmacie Web, on the site bimbesqu(A)tters https://t.co/X15X2DjDgA"
+        },
+        {
+            "created_at": "2018-11-27T07:35:31.000Z",
+            "id": "1067321002676359168",
+            "text": "(Acheter Generique Lioresal Livraison gratuite dans le monde) - Rotativo de Quer\u00e9taro, Diario Digital - https://t.co/6Csccr1Grx https://t.co/ZrnSPhm9ki"
+        },
+        {
+            "created_at": "2018-11-26T23:43:00.000Z",
+            "id": "1067202091196850178",
+            "text": "Lioresal Pharmacie En Ligne G\u00e9n\u00e9rique Lioresal Combien Lioresal 10 mg A Prix Reduit. Baclofen g\u00e9n\u00e9rique est un relaxant musculaire qui est utilis\u00e9 dans le traitement des spasmes musculaires... https://t.co/ccoSKm6Zzo"
+        },
+        {
+            "created_at": "2018-11-26T23:42:51.000Z",
+            "id": "1067202051321602048",
+            "text": "Gros R\u00e9ductions :: Lioresal Pharmacie En\u00a0Ligne https://t.co/sovYi5bACp https://t.co/kHmrEIXC2u"
+        },
+        {
+            "created_at": "2018-11-26T17:15:34.000Z",
+            "id": "1067104587742617600",
+            "text": "Ink\u00f6p Lioresal 10 mg Nu * Ackrediterad Kanadensiska Apotek * BTC Betalning accepteras https://t.co/9X1cUon1Ug"
+        },
+        {
+            "created_at": "2018-11-26T00:25:11.000Z",
+            "id": "1066850318326145024",
+            "text": "Apotek Utan Recept :: K\u00f6pa Lioresal Online :: Rabatter och gratis frakt\u00a0Applied https://t.co/LeK7FJpF5P https://t.co/Fnpq6ghoPD"
+        },
+        {
+            "created_at": "2018-11-22T13:33:48.000Z",
+            "id": "1065599228922093569",
+            "text": "USES:\nLioresal 25 MG Tablet is an Antispastic agent which is used to relieve pain and improves the muscle movement. #Pharmaceuticalmedicine #RSP https://t.co/cV8mpmzfId"
+        },
+        {
+            "created_at": "2018-11-16T17:58:07.000Z",
+            "id": "1063491417102843904",
+            "text": "Acheter Lioresal 25 mg En Ligne France :: Les commandes priv\u00e9es et s\u00e9curis\u00e9es :: Livraison\u00a0Gratuite https://t.co/P6uEam6lnH https://t.co/1ufCWHp4qZ"
+        },
+        {
+            "created_at": "2018-11-11T13:55:28.000Z",
+            "id": "1061618416166076419",
+            "text": "@Infoset_ch Baclofen, in der Schweiz auch unter dem Namen Lioresal bekannt, hat bei Suchtpatienten auch bei anderen harten Drogen ein hohes therapeutisches Potential, zum Nachteil der gegenw\u00e4rtigen  teureren Pharmaprodukte. Bremst hier jemand in CH die Zulassungen?"
+        },
+        {
+            "created_at": "2018-11-05T20:42:05.000Z",
+            "id": "1059546416572436482",
+            "text": "RT @Reseau_CRPV: Mais depuis 1997 le #baclofene est disponible sous la sp\u00e9cialit\u00e9 Lioresal\u00b0 oral ou injectable pour le traitement des contr\u2026"
+        },
+        {
+            "created_at": "2018-11-05T15:27:09.000Z",
+            "id": "1059467158965624832",
+            "text": "RT @Reseau_CRPV: Mais depuis 1997 le #baclofene est disponible sous la sp\u00e9cialit\u00e9 Lioresal\u00b0 oral ou injectable pour le traitement des contr\u2026"
+        },
+        {
+            "created_at": "2018-11-05T13:40:14.000Z",
+            "id": "1059440254787219457",
+            "text": "Mais depuis 1997 le #baclofene est disponible sous la sp\u00e9cialit\u00e9 Lioresal\u00b0 oral ou injectable pour le traitement des contractures spastiques notamment dans la scl\u00e9rose en plaques ou les troubles neurologiques.\n\u2795 d'infos https://t.co/B5gGDnPxGB https://t.co/u5f7okwDeX"
+        }
+    ],
+    "meta": {
+        "newest_id": "1067624099894177792",
+        "oldest_id": "1059440254787219457",
+        "result_count": 16
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

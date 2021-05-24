@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-12-17T22:44:40.000Z",
+            "id": "1207069126855933952",
+            "text": "@kurdeist73 @agoistt Keyf \u00fb \u00e7i keyf... \nNiha li nav bask\u00ea feri\u015ftahan de ye...\nPala daye  balg\u00eef\u00ean hir\u00ee, kodika w\u00ee li nav r\u00fbbara mey\u00ea de ye...\nSeyran giha w\u00ee bex\u00e7ey\u00ea \u00cerem e \ud83d\ude14\ud83d\ude14\ud83d\ude14\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
+        }
+    ],
+    "meta": {
+        "newest_id": "1207069126855933952",
+        "oldest_id": "1207069126855933952",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-12-28T01:30:13.000Z",
+            "id": "1210734665318850560",
+            "text": "Missed Them? US Food and Drug Administration's drug approvals, updates and changes for Friday, December 20: #Conjupri [NDA #212895], #Gablofen [NDA #022462], #Tissueblue [NDA #209569] and others: https://t.co/8Dv7N4akBY"
+        },
+        {
+            "created_at": "2019-12-21T00:17:53.000Z",
+            "id": "1208179748616179714",
+            "text": "Regulatory News: US Food &amp; Drug Administration's #drug approvals, updates and/or changes for Friday, December 20. #FDA: #Conjupri [NDA #212895], #Gablofen [NDA #022462], #Tissueblue [NDA #209569] and others: https://t.co/HuR9X1x6LP"
+        },
+        {
+            "created_at": "2019-12-06T09:56:02.000Z",
+            "id": "1202889425878827008",
+            "text": "Neurontin, Gablofen Increasingly Used In Suicide Attempts: Study https://t.co/VOmzRmaGw4"
+        },
+        {
+            "created_at": "2019-12-05T22:46:04.000Z",
+            "id": "1202720824781873155",
+            "text": "RT @Busiswa55177132: #Dystonia \nCarbidopa-levodopa (Duopa, Rytary, others). This medication can increase levels of the neurotransmitter dop\u2026"
+        },
+        {
+            "created_at": "2019-12-05T22:26:11.000Z",
+            "id": "1202715819542818816",
+            "text": "#Dystonia \nCarbidopa-levodopa (Duopa, Rytary, others). This medication can increase levels of the neurotransmitter dopamine.\nTrihexyphenidyl and benztropine (Cogentin)\nTetrabenazine (Austedo, Xenazine)\nDiazepam (Valium), clonazepam (Klonopin) and baclofen (Lioresal, Gablofen)"
+        },
+        {
+            "created_at": "2019-12-05T16:44:15.000Z",
+            "id": "1202629771185840128",
+            "text": "Neurontin, Gablofen Increasingly Used In Suicide Attempts: Study\nhttps://t.co/0Pu5ciyqPF"
+        }
+    ],
+    "meta": {
+        "newest_id": "1210734665318850560",
+        "oldest_id": "1202629771185840128",
+        "result_count": 6
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-12-25T08:45:02.000Z",
+            "id": "1209756928173195265",
+            "text": "Kemstro without prescription fedex, Kemstro high https://t.co/4L661rWhh4 @FedEx #BoycottFedEx"
+        }
+    ],
+    "meta": {
+        "newest_id": "1209756928173195265",
+        "oldest_id": "1209756928173195265",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-12-31T23:53:51.000Z",
+            "id": "1212159966397784070",
+            "text": "RT @PROPkills: @Birdiechirp1 @ClaireCoppeto @headdock @Tootwisted40 @LizHolland1976 @siesmatters @JudithTheGreat3 @fightpaindaily @assumpta\u2026"
+        },
+        {
+            "created_at": "2019-12-31T23:49:54.000Z",
+            "id": "1212158972733657095",
+            "text": "@Birdiechirp1 @ClaireCoppeto @headdock @Tootwisted40 @LizHolland1976 @siesmatters @JudithTheGreat3 @fightpaindaily @assumpta815 @wilsanborn777 @Bris516 @yancykm @Enough212 @KalvelageTj @jmkillingnyc @VanilaSingh @BioDeliverySI Lioresal is spinal clonidine. It is used in an intrathecal pump (same pump, different drug).\n\nThe pump was approved for chronic pain with Infumorph (morphine) and for spasticity with Lioresal. A few MDs will mix them and/or use off-label (other opiods, bupivacaine, clonidine)."
+        },
+        {
+            "created_at": "2019-12-31T23:43:59.000Z",
+            "id": "1212157484410048513",
+            "text": "@PROPkills @ClaireCoppeto @headdock @Tootwisted40 @LizHolland1976 @siesmatters @JudithTheGreat3 @fightpaindaily @assumpta815 @wilsanborn777 @Bris516 @yancykm @Enough212 @KalvelageTj @jmkillingnyc @VanilaSingh @BioDeliverySI Is that a pump? Lioresal?"
+        },
+        {
+            "created_at": "2019-12-31T23:31:45.000Z",
+            "id": "1212154404989800450",
+            "text": "@Birdiechirp1 @ClaireCoppeto @headdock @Tootwisted40 @LizHolland1976 @siesmatters @JudithTheGreat3 @fightpaindaily @assumpta815 @wilsanborn777 @Bris516 @yancykm @Enough212 @KalvelageTj @jmkillingnyc @VanilaSingh @BioDeliverySI Which muscle relaxant?\n\nCyclobenzaprine did nothing for me\nSkelaxin felt like a tranq dart\nTizanidine just needed a taper so I didn't get sleepy\nI got minimal benefit from baclofen, but I often wonder about intrathecal Lioresal"
+        },
+        {
+            "created_at": "2019-12-31T12:45:57.000Z",
+            "id": "1211991883024654339",
+            "text": "@kyia004 @drnordsud @DrCatseyes exemple ATU pour le Lioresal dans certaines pathologies (alcoolisme)\nou en canc\u00e9ro"
+        },
+        {
+            "created_at": "2019-12-24T15:28:07.000Z",
+            "id": "1209495981194141708",
+            "text": "Por una Venezuela. Sin cadenas falsas y estafadores.\nCadena de ampollas de granocyte.\nCadena de supuesta donaci\u00f3n de sillas de ruedas e insulinas.\nCadena del hijo de mary hernandez.\nCadena de la ni\u00f1a que busca lioresal.\n\nMayor red de estafador del psuv.\nJOEL CEDE\u00d1O."
+        },
+        {
+            "created_at": "2019-12-20T17:02:01.000Z",
+            "id": "1208070060641783808",
+            "text": "Donde puedo conseguir  lioresal de 25,mg gracias de antemano."
+        },
+        {
+            "created_at": "2019-12-17T01:41:44.000Z",
+            "id": "1206751296629485572",
+            "text": "@TuBaclofeno Saludos, tienes disponible lioresal de 25"
+        },
+        {
+            "created_at": "2019-12-16T17:11:58.000Z",
+            "id": "1206623011060752387",
+            "text": "RT @Morochos24: BUENAS NOCHES PARA PACIENTE CON DIFICULTAD PARA LA MARCHA SE REQUIERE BACLOFENO O LIORESAL CUALQUIER INSTITUCI\u00d3N O PERSONA\u2026"
+        },
+        {
+            "created_at": "2019-12-14T00:40:54.000Z",
+            "id": "1205648826654167042",
+            "text": "BUENAS NOCHES PARA PACIENTE CON DIFICULTAD PARA LA MARCHA SE REQUIERE BACLOFENO O LIORESAL CUALQUIER INSTITUCI\u00d3N O PERSONA QUE LO PUEDA DONAR POR FAVOR CONTACTAR POR AQU\u00cd!"
+        },
+        {
+            "created_at": "2019-12-05T22:46:04.000Z",
+            "id": "1202720824781873155",
+            "text": "RT @Busiswa55177132: #Dystonia \nCarbidopa-levodopa (Duopa, Rytary, others). This medication can increase levels of the neurotransmitter dop\u2026"
+        },
+        {
+            "created_at": "2019-12-05T22:26:11.000Z",
+            "id": "1202715819542818816",
+            "text": "#Dystonia \nCarbidopa-levodopa (Duopa, Rytary, others). This medication can increase levels of the neurotransmitter dopamine.\nTrihexyphenidyl and benztropine (Cogentin)\nTetrabenazine (Austedo, Xenazine)\nDiazepam (Valium), clonazepam (Klonopin) and baclofen (Lioresal, Gablofen)"
+        },
+        {
+            "created_at": "2019-12-05T19:42:18.000Z",
+            "id": "1202674579271016450",
+            "text": "@SaudiMOH937 \u0627\u0644\u0648\u0627\u0644\u062f \u0643\u0628\u064a\u0631 \u0633\u0646 \u0639\u0646\u062f\u0647 \u0627\u0644\u0645 \u0641\u064a \u0627\u0644\u0645\u0641\u0627\u0635\u0644 \u0648\u0627\u0644\u0631\u0643\u0628 \u0648\u0623\u0639\u0637\u0648\u0647 \u062d\u0628\u0648\u0628 lioresal 10 mg \u0648\u062d\u0628\u0648\u0628 \u0643\u0648\u0643\u0633\u064a\u0643\u0627\u0645 15 \u0645\u0644\u062c\u0645\n\u0647\u0644 \u0647\u064a \u0645\u0646\u0627\u0633\u0628\u0647"
+        }
+    ],
+    "meta": {
+        "newest_id": "1212159966397784070",
+        "oldest_id": "1202674579271016450",
+        "result_count": 13
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

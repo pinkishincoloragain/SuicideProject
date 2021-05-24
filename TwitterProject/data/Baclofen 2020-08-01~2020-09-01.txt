@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-08-31T00:27:32.000Z",
+            "id": "1300228695060344834",
+            "text": "RT @arpacuatros: Cadena de mary Hern\u00e1ndez. La del.lioresal. la de las insulinas y sillas de ruedas. Y tantas mas https://t.co/xzOB4NuDxF"
+        },
+        {
+            "created_at": "2020-08-31T00:15:40.000Z",
+            "id": "1300225706241282050",
+            "text": "Cadena de mary Hern\u00e1ndez. La del.lioresal. la de las insulinas y sillas de ruedas. Y tantas mas https://t.co/xzOB4NuDxF"
+        },
+        {
+            "created_at": "2020-08-30T18:59:24.000Z",
+            "id": "1300146117720649731",
+            "text": "RT @ZacklerAl: Neuromuscular Agents :\nB- Baclofen( Lioresal)\nC- Cyclobenzaprine HCL (Flexeril)\nD- Dantrolene sodium (Dantrium)\n\nM- Methocar\u2026"
+        },
+        {
+            "created_at": "2020-08-26T19:43:23.000Z",
+            "id": "1298707632933310465",
+            "text": "Buenas tardes, me podr\u00edan ayudar a ubicar Lioresal tableta de 10 mg para comprarlo. Gracias"
+        },
+        {
+            "created_at": "2020-08-25T00:39:31.000Z",
+            "id": "1298057381696372737",
+            "text": "Servicio P\u00fablico:\nSe requiere con car\u00e1cter de Urgencia BACLOFENO (LIORESAL) para paciente con esclerosis m\u00faltiple. Quienes dispongan del medicamento favor escribirme al privado."
+        },
+        {
+            "created_at": "2020-08-24T17:09:04.000Z",
+            "id": "1297944024364584961",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T16:57:07.000Z",
+            "id": "1297941016687845376",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T14:31:08.000Z",
+            "id": "1297904278078619648",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T14:20:19.000Z",
+            "id": "1297901554645770241",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T12:45:57.000Z",
+            "id": "1297877805980618752",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T11:10:56.000Z",
+            "id": "1297853897143451649",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T11:10:34.000Z",
+            "id": "1297853805522976768",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T11:02:15.000Z",
+            "id": "1297851711118336001",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T11:01:33.000Z",
+            "id": "1297851536849199104",
+            "text": "RT @meow_then_roar: ! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9\u2026"
+        },
+        {
+            "created_at": "2020-08-24T11:00:50.000Z",
+            "id": "1297851354648641537",
+            "text": "! RT APPR\u00c9CI\u00c9S !\nEst-ce que quelqu'un a d\u00e9j\u00e0 eu recours \u00e0 un sevrage d'opio\u00efdes (m\u00e9dicaments d\u00e9riv\u00e9s de morphine, lior\u00e9sal etc...) ?"
+        },
+        {
+            "created_at": "2020-08-23T23:14:00.000Z",
+            "id": "1297673475390410758",
+            "text": "@afoca13 @Farmarato Disculpa que me meta en esta conversaci\u00f3n. Puedes decirme d\u00f3nde encontraron lioresal? Necesito urgente para mi mam\u00e1."
+        },
+        {
+            "created_at": "2020-08-21T11:43:38.000Z",
+            "id": "1296774963941249025",
+            "text": "@DonaMed_VE Hola buenos d\u00edas, estoy solicitando lioresal de 10mg, si sabe d\u00f3nde lo puedo conseguir se lo agradezco de ante mano muchas gracias."
+        },
+        {
+            "created_at": "2020-08-20T21:41:48.000Z",
+            "id": "1296563107377094661",
+            "text": "@TheNamesQ What the?!!!! How has she have so much neeve like a bad tooth say that she's lost anything like Johnny has????? I've seen her on Lioresal commercials, plus found out that she still will be in Aquaman 2, we all can go on and on....good grief \ud83d\ude44 \ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44\ud83d\ude44"
+        },
+        {
+            "created_at": "2020-08-20T13:58:57.000Z",
+            "id": "1296446627381747712",
+            "text": "Sin olvidar que tengo piernas, siempre digo que es mi silla de ruedas porque hace la misma funci\u00f3n. Un privilegio para los paral\u00edticos (con todas las letras) del s. XXI. Hace mi vida un poco m\u00e1s f\u00e1cil.\n\nVuelta a #Lioresal :(\n\nPD: El faro no es dorado. Es el pomo del armario ^_^ https://t.co/IiSmTo7aYJ"
+        },
+        {
+            "created_at": "2020-08-20T04:57:03.000Z",
+            "id": "1296310254544850944",
+            "text": "@LocatelVzla_ATC buenas noches tienen baclofeno 10mg en tabletas o Lioresal"
+        },
+        {
+            "created_at": "2020-08-20T04:54:46.000Z",
+            "id": "1296309678490746881",
+            "text": "@FundacionBADAN Buenas noches  tienen Lioresal 10mg ( baclofeno) en tabletas?"
+        },
+        {
+            "created_at": "2020-08-20T03:42:09.000Z",
+            "id": "1296291406655430656",
+            "text": "lioresal https://t.co/GiM5JlmZKg"
+        },
+        {
+            "created_at": "2020-08-14T22:32:25.000Z",
+            "id": "1294401518892982274",
+            "text": "The fake drug is B, chlorpenafen. There is no such drug. Antiflex (orphenadrine injection), Skelaxin (metaxalone), and Lioresal (baclofen intrathecal) are the real skeletal muscle relaxants. https://t.co/ss9pQhPOnL"
+        },
+        {
+            "created_at": "2020-08-04T21:14:28.000Z",
+            "id": "1290758024949309443",
+            "text": "@alexagomez2000  bella buenas tardes... si sabes d\u00f3nde conseguir baclofeno (lioresal) te agradezco... la necesito para mi hijo que tiene espasticidad en los miembros inferiores"
+        }
+    ],
+    "meta": {
+        "newest_id": "1300228695060344834",
+        "oldest_id": "1290758024949309443",
+        "result_count": 24
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

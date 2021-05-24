@@ -1,0 +1,294 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2018-12-31T15:45:20.000Z",
+            "id": "1079765456280604674",
+            "text": "Cheap Pharmacy Products \u2013 Order Cheap Lioresal Generic Online \u2013 Fast Order Delivery https://t.co/h7i1447Ni5"
+        },
+        {
+            "created_at": "2018-12-25T21:41:19.000Z",
+            "id": "1077680714328563720",
+            "text": "Best U.S. Online Pharmacy 10 mg Lioresal Safe Buy Trackable Delivery https://t.co/nW8OJMt88p"
+        },
+        {
+            "created_at": "2018-12-23T01:07:48.000Z",
+            "id": "1076645516325388288",
+            "text": "Les commandes priv\u00e9es et s\u00e9curis\u00e9es / Acheter Lioresal Pharmacie / Livraison express - https://t.co/xxuo9ydEfX https://t.co/GDL4ggtodh"
+        },
+        {
+            "created_at": "2018-12-18T09:25:34.000Z",
+            "id": "1074958840532267008",
+            "text": "bimbesquatters wrote a new post, Best Place To Purchase Lioresal :: Flexible Payment Options :: Fda Approved Pharmacy, on the site bimbesqu(A)tters https://t.co/uAdsYXDiZV"
+        },
+        {
+            "created_at": "2018-12-17T15:15:42.000Z",
+            "id": "1074684568408600576",
+            "text": "scheggia wrote a new post, Best Place To Buy Lioresal cheap - We Accept BTC, on the site scheggia https://t.co/iPN9Sed0gq"
+        },
+        {
+            "created_at": "2018-12-16T00:33:21.000Z",
+            "id": "1074100130872213506",
+            "text": "Baklofen pompas\u0131 &amp; Lioresal\n\n#Pazar\n#Medtronic https://t.co/fWnFiqPGlA"
+        },
+        {
+            "created_at": "2018-12-15T06:25:19.000Z",
+            "id": "1073826316775014401",
+            "text": "esotero wrote a new post, Soutien \u00e0 la client\u00e8le 24/7 - Acheter Du Lioresal 10 mg En Ligne, on the site esotero https://t.co/kmS0Ido02H"
+        },
+        {
+            "created_at": "2018-12-14T23:19:55.000Z",
+            "id": "1073719263133949952",
+            "text": "RT @spacey_queer: #cerebralpalsy and other #disabled folks who have taken baclofen/lioresal, how'd it go? what's it like? any tips?"
+        },
+        {
+            "created_at": "2018-12-13T18:01:40.000Z",
+            "id": "1073276782143528960",
+            "text": "@SOSmedicina Paciente con paraplejia esp\u00e1stica requiere con URGENCIA Pregabalina tab.150 o 300 mg. Clonazepam tab. 0.5 mg. LIORESAL tab. 10 o 25 mg. F\u00e9rulas Antiequinas. Contactar al 04144747128/04243011558."
+        },
+        {
+            "created_at": "2018-12-13T08:05:47.000Z",
+            "id": "1073126823133888513",
+            "text": "bimbesquatters wrote a new post, Acheter Lioresal France Pharmacie - Remise - Bonus Pill avec chaque commande, on the site bimbesqu(A)tters https://t.co/7rgDX1n2ti"
+        },
+        {
+            "created_at": "2018-12-11T14:47:20.000Z",
+            "id": "1072503104199905280",
+            "text": "RT @KenyerJK: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\u2026"
+        },
+        {
+            "created_at": "2018-12-11T13:05:19.000Z",
+            "id": "1072477429132877824",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-11T12:51:46.000Z",
+            "id": "1072474020115828738",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-11T11:32:43.000Z",
+            "id": "1072454127567937536",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-11T02:24:00.000Z",
+            "id": "1072316035477499904",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-11T01:39:10.000Z",
+            "id": "1072304752896155648",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-11T00:24:41.000Z",
+            "id": "1072286008429957126",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-11T00:17:14.000Z",
+            "id": "1072284133865463808",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-11T00:04:35.000Z",
+            "id": "1072280950103515136",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T23:17:29.000Z",
+            "id": "1072269097252077568",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T22:42:28.000Z",
+            "id": "1072260285602430981",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T22:33:54.000Z",
+            "id": "1072258130103418881",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T22:27:30.000Z",
+            "id": "1072256519926894593",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T22:10:52.000Z",
+            "id": "1072252335064342528",
+            "text": "Buenas tardes.  Uds tendran el medicamento baclofeno o Lioresal de 10 o 25 mg.  Gracias"
+        },
+        {
+            "created_at": "2018-12-10T21:56:23.000Z",
+            "id": "1072248689828212736",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T21:39:23.000Z",
+            "id": "1072244410803466246",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T21:08:39.000Z",
+            "id": "1072236675445665792",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:48:05.000Z",
+            "id": "1072231498777010176",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:47:28.000Z",
+            "id": "1072231344418316290",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:41:26.000Z",
+            "id": "1072229828957495297",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:38:26.000Z",
+            "id": "1072229070866391040",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:33:26.000Z",
+            "id": "1072227813623775235",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:33:15.000Z",
+            "id": "1072227768711213057",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:32:31.000Z",
+            "id": "1072227582542778368",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:28:04.000Z",
+            "id": "1072226464131702784",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:25:27.000Z",
+            "id": "1072225806527721472",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:25:25.000Z",
+            "id": "1072225795916083202",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:25:22.000Z",
+            "id": "1072225783576494081",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T20:25:17.000Z",
+            "id": "1072225763250847744",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T18:31:53.000Z",
+            "id": "1072197226728972288",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T18:09:00.000Z",
+            "id": "1072191465332326400",
+            "text": "RT @KenyerJK: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\u2026"
+        },
+        {
+            "created_at": "2018-12-10T17:38:01.000Z",
+            "id": "1072183669501149184",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T17:10:20.000Z",
+            "id": "1072176701126385666",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T17:09:59.000Z",
+            "id": "1072176613419298816",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T17:02:49.000Z",
+            "id": "1072174810694848513",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T17:00:47.000Z",
+            "id": "1072174297286918144",
+            "text": "RT @RCR750: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*T\u2026"
+        },
+        {
+            "created_at": "2018-12-10T16:55:29.000Z",
+            "id": "1072172964920082438",
+            "text": "RT @KenyerJK: #ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\u2026"
+        },
+        {
+            "created_at": "2018-12-10T16:53:42.000Z",
+            "id": "1072172515190034433",
+            "text": "#ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*Toxina Botulinica Inyeccion. Contacto: 0212 347.1886 / 0424 231.1427 / 0414 901.4098"
+        },
+        {
+            "created_at": "2018-12-10T16:53:37.000Z",
+            "id": "1072172493698420743",
+            "text": "#ServicioP\u00fablico Se requiere con urgencia para  Paciente con Paraplej\u00eda Esp\u00e1stica severa:\n*Baclofeno o Lioresal  pastillas .\n*Toxina Botulinica Inyeccion. Contacto: 0212 347.1886 / 0424 231.1427 / 0414 901.4098"
+        },
+        {
+            "created_at": "2018-12-05T09:18:13.000Z",
+            "id": "1070245950218743809",
+            "text": "bimbesquatters wrote a new post, Price 10 mg Lioresal - Fda Approved Drugs, on the site bimbesqu(A)tters https://t.co/QT65iSPmTh"
+        },
+        {
+            "created_at": "2018-12-05T08:08:16.000Z",
+            "id": "1070228345923780608",
+            "text": "bimbesquatters wrote a new post, Quanto costa Lioresal Baclofen In linea Liberano Corriere Consegna Online Pharmacy Cheap Overnight, on the site bimbesqu(A)tters https://t.co/89hOKk2QcI"
+        },
+        {
+            "created_at": "2018-12-04T13:39:20.000Z",
+            "id": "1069949273100480512",
+            "text": "Free Samples For All Orders * cheap Lioresal 25 mg Mail Order * No Prescription Pharmacy\u2026 https://t.co/eKpRDQhHFl"
+        },
+        {
+            "created_at": "2018-12-02T08:02:51.000Z",
+            "id": "1069139818397999104",
+            "text": "esotero wrote a new post, L\u00e5g Kostnad Lioresal 10 mg K\u00f6pa :: Gratis Worldwide frakt :: B\u00e4sta St\u00e4llet Att K\u00f6pa Generiska L\u00e4kemedel, on the site esotero https://t.co/z48c4Tx2jf"
+        }
+    ],
+    "meta": {
+        "newest_id": "1079765456280604674",
+        "oldest_id": "1069139818397999104",
+        "result_count": 53
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

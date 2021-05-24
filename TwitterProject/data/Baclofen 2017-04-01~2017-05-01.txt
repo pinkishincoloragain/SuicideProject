@@ -1,0 +1,519 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-04-30T18:30:24.000Z",
+            "id": "858750399662182401",
+            "text": "Hot Weekly Specials \u2013 K\u00f6pa P\u00e5 N\u00e4tet Lioresal 25 mg \u2013 Flygpost s\u00e4nda #seo#SEO https://t.co/PdSjqQG90h https://t.co/iDfYbvr9nL"
+        },
+        {
+            "created_at": "2017-04-30T05:57:16.000Z",
+            "id": "858560866748420096",
+            "text": "Hot Weekly Specials \u2013 K\u00f6pa P\u00e5 N\u00e4tet Lioresal 25 mg \u2013 Flygpost s\u00e4nda https://t.co/jU5hwJYKyy"
+        },
+        {
+            "created_at": "2017-04-30T03:21:29.000Z",
+            "id": "858521663452975104",
+            "text": "Hot Weekly Specials \u2013 K\u00f6pa P\u00e5 N\u00e4tet Lioresal 25 mg \u2013 Flygpost s\u00e4nda https://t.co/laVByI59iW #SEM #Marketing"
+        },
+        {
+            "created_at": "2017-04-29T23:39:07.000Z",
+            "id": "858465703325835265",
+            "text": "Pas De Pharmacie Sur Ordonnance * Ou Commander Lioresal * Livraison dans le\u2026 https://t.co/EyKnT3t8bk via @VideosPro"
+        },
+        {
+            "created_at": "2017-04-28T05:32:30.000Z",
+            "id": "857829856083574784",
+            "text": "Drugstore Pas Cher. Lioresal En Pharmacie Pas Cher. Les commandes priv\u00e9es et\u2026 https://t.co/ntBaY0ZnWD #BeritaWajo"
+        },
+        {
+            "created_at": "2017-04-28T04:59:36.000Z",
+            "id": "857821577617915906",
+            "text": "#Banner Pilules g\u00e9n\u00e9riques en ligne :: Achat Lioresal Pharmacie :: Livraison dans le monde ... Read Blog: https://t.co/EQfKK0X4i9"
+        },
+        {
+            "created_at": "2017-04-28T04:55:53.000Z",
+            "id": "857820644909633536",
+            "text": "#Banner Lioresal Costo 10 mg :: Fastest U.S. Shipping :: Best Deal On Generic Drugs. Read Blog: https://t.co/uV8UpCCqtl"
+        },
+        {
+            "created_at": "2017-04-27T02:51:05.000Z",
+            "id": "857426846807228416",
+            "text": "Fda Approved Medications \u2013 How Much Lioresal compare prices \u2013 Worldwide Delivery (3-7 Days) https://t.co/1UtKhaaIf9"
+        },
+        {
+            "created_at": "2017-04-26T18:00:37.000Z",
+            "id": "857293350294171649",
+            "text": "RT @FundaDistoniaVe: Para paciente con Diston\u00eda se necesita URGENTE LIORESAL - 0414 0121642 - 0212 8417982 https://t.co/r1AnWnsKWe"
+        },
+        {
+            "created_at": "2017-04-26T17:37:08.000Z",
+            "id": "857287441501343744",
+            "text": "RT @FundaDistoniaVe: Para paciente con Diston\u00eda se necesita URGENTE LIORESAL - 0414 0121642 - 0212 8417982 https://t.co/r1AnWnsKWe"
+        },
+        {
+            "created_at": "2017-04-26T13:16:43.000Z",
+            "id": "857221906184929280",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-25T20:50:44.000Z",
+            "id": "856973774830415872",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-25T20:45:35.000Z",
+            "id": "856972478832414726",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-25T19:56:00.000Z",
+            "id": "856960002506055680",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-25T13:36:41.000Z",
+            "id": "856864543611506688",
+            "text": "Cheapest Lioresal Generic Buy / Worldwide Shipping (1-3 Days) / Best Price And High Quality (WebSecurity IT) https://t.co/nmUNxq8WY3"
+        },
+        {
+            "created_at": "2017-04-24T23:03:28.000Z",
+            "id": "856644792620646401",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T22:15:38.000Z",
+            "id": "856632753550393344",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T22:05:24.000Z",
+            "id": "856630177123708929",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T19:53:53.000Z",
+            "id": "856597080768491521",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T19:38:30.000Z",
+            "id": "856593208557662208",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T19:20:05.000Z",
+            "id": "856588575885938689",
+            "text": "RT @FundaDistoniaVe: Para paciente con Diston\u00eda se necesita URGENTE LIORESAL - 0414 0121642 - 0212 8417982 https://t.co/r1AnWnsKWe"
+        },
+        {
+            "created_at": "2017-04-24T19:15:06.000Z",
+            "id": "856587319893209088",
+            "text": "RT @FundaDistoniaVe: Para paciente con Diston\u00eda se necesita URGENTE LIORESAL - 0414 0121642 - 0212 8417982 https://t.co/r1AnWnsKWe"
+        },
+        {
+            "created_at": "2017-04-24T19:09:16.000Z",
+            "id": "856585850825695233",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T19:03:39.000Z",
+            "id": "856584440822333442",
+            "text": "RT @FundaDistoniaVe: Para paciente con Diston\u00eda se necesita URGENTE LIORESAL - 0414 0121642 - 0212 8417982 https://t.co/r1AnWnsKWe"
+        },
+        {
+            "created_at": "2017-04-24T19:01:44.000Z",
+            "id": "856583956011024385",
+            "text": "RT @FundaDistoniaVe: Para paciente con Diston\u00eda se necesita URGENTE LIORESAL - 0414 0121642 - 0212 8417982 https://t.co/r1AnWnsKWe"
+        },
+        {
+            "created_at": "2017-04-24T19:00:52.000Z",
+            "id": "856583740465840128",
+            "text": "Para paciente con Diston\u00eda se necesita URGENTE LIORESAL - 0414 0121642 - 0212 8417982 https://t.co/r1AnWnsKWe"
+        },
+        {
+            "created_at": "2017-04-24T18:38:19.000Z",
+            "id": "856578063936696321",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T18:23:42.000Z",
+            "id": "856574385951576065",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T18:19:37.000Z",
+            "id": "856573356228915200",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T18:04:05.000Z",
+            "id": "856569448915972097",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T17:24:25.000Z",
+            "id": "856559466086621184",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T17:05:25.000Z",
+            "id": "856554683577638914",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T16:54:43.000Z",
+            "id": "856551993736925185",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T16:54:26.000Z",
+            "id": "856551922358243329",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T16:54:16.000Z",
+            "id": "856551879773433857",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T16:54:05.000Z",
+            "id": "856551831752802309",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T16:53:46.000Z",
+            "id": "856551750916091904",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T14:52:41.000Z",
+            "id": "856521281109458944",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T14:35:20.000Z",
+            "id": "856516914759303168",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T14:34:22.000Z",
+            "id": "856516672383066112",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T14:30:35.000Z",
+            "id": "856515721630801920",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T14:21:22.000Z",
+            "id": "856513398514831360",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T14:10:44.000Z",
+            "id": "856510725497507842",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T12:45:28.000Z",
+            "id": "856489268067405826",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T12:30:13.000Z",
+            "id": "856485429461299202",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T12:22:44.000Z",
+            "id": "856483544167845888",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T12:12:34.000Z",
+            "id": "856480987382939648",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T12:12:16.000Z",
+            "id": "856480912644730880",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T11:57:51.000Z",
+            "id": "856477284508684290",
+            "text": "[Tuntunan Islam]  Lioresal 25 mg Generique Pas Cher / Sans Rx / M\u00e9dicaments de bonne qualit\u00e9 https://t.co/u4cvXr23xL"
+        },
+        {
+            "created_at": "2017-04-24T11:14:18.000Z",
+            "id": "856466322192027648",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T11:09:25.000Z",
+            "id": "856465095123226624",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T11:02:03.000Z",
+            "id": "856463240309743617",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T09:57:46.000Z",
+            "id": "856447064556875777",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T09:54:49.000Z",
+            "id": "856446321582100485",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T07:57:16.000Z",
+            "id": "856416738929287168",
+            "text": "Lioresal 25 mg Generique Pas Cher / Sans Rx / M\u00e9dicaments de bonne qualit\u00e9 https://t.co/heIkHh8OuK https://t.co/vVrWYzLXJL"
+        },
+        {
+            "created_at": "2017-04-24T03:50:58.000Z",
+            "id": "856354755664375808",
+            "text": "RT @lixllym: Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @Fun\u2026"
+        },
+        {
+            "created_at": "2017-04-24T03:27:28.000Z",
+            "id": "856348842077421570",
+            "text": "Necesito Lioresal (Baclofen) en ampollas ay\u00fadenme a ubicarlo para paciente con dolor @DonaMed_VE @fundatiacruz @SanandoVE @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-22T01:26:26.000Z",
+            "id": "855593605423136768",
+            "text": "Se dona caja de lioresal 10mg"
+        },
+        {
+            "created_at": "2017-04-20T20:30:04.000Z",
+            "id": "855156634468921345",
+            "text": "Lioresal Overdose - Lioresal 10 - Lioresal Pump - 7,561 Completed ORDERS Today! #prescriptiondrugoverdose https://t.co/x4zuOLi1fJ"
+        },
+        {
+            "created_at": "2017-04-20T09:48:48.000Z",
+            "id": "854995252998000640",
+            "text": "New post: Buy Now And Safe Your Money Best Place To Buy 10 mg Lioresal compare prices  https://t.co/SuFmasuG5z"
+        },
+        {
+            "created_at": "2017-04-19T19:42:05.000Z",
+            "id": "854782172649013252",
+            "text": "B\u00e4sta Apotek F\u00f6r Att K\u00f6pa Generika :: Ink\u00f6p Billigaste Lioresal 25 mg :: Snabb V\u00e4rldsomsp\u00e4nnande s\u00e4ndnings https://t.co/lUWN7mnhkE"
+        },
+        {
+            "created_at": "2017-04-17T14:31:59.000Z",
+            "id": "853979354799394816",
+            "text": "Trending #Biotech topics include $FRF, $Lioresal, #Kamagra #stocks #invest See more https://t.co/EpbbdqDEG1"
+        },
+        {
+            "created_at": "2017-04-17T08:30:47.000Z",
+            "id": "853888458745499648",
+            "text": "Buy Lioresal online cod no preScription, cheapest generic Lioresal online price https://t.co/QBQ1zR0rl9"
+        },
+        {
+            "created_at": "2017-04-17T07:40:34.000Z",
+            "id": "853875819571269632",
+            "text": "Lioresal Multiple Sclerosis Cpr - https://t.co/880NBEV7oz #GoogleAlerts"
+        },
+        {
+            "created_at": "2017-04-13T10:44:28.000Z",
+            "id": "852472548327542784",
+            "text": "#Gymchalo Pas De Pharmacie Rx Acheter Lioresal En Ligne En Belgique Meilleurs Prix pour tous le... Read Blog: https://t.co/t0uJ4MmlB3"
+        },
+        {
+            "created_at": "2017-04-11T20:20:06.000Z",
+            "id": "851892634016763904",
+            "text": "HUCH!! Homeland Security im deutschem Internet????\n\nhttps://t.co/tX9x37lSiV"
+        },
+        {
+            "created_at": "2017-04-11T16:51:19.000Z",
+            "id": "851840093207834625",
+            "text": "Luogo sicuro per acquistare 25 mg Lioresal :: Drug negozio :: approccio Personal https://t.co/pgqZNHDtSP"
+        },
+        {
+            "created_at": "2017-04-10T14:56:03.000Z",
+            "id": "851448699872047106",
+            "text": "Buenos d\u00edas @Marialepowell tengo Baclofeno o Lioresal de 10 mg, si puede se comunica conmigo."
+        },
+        {
+            "created_at": "2017-04-09T16:38:48.000Z",
+            "id": "851112169500528644",
+            "text": "Certified Online Pharmacy \u2013 Lioresal Acquistare Generico \u2013 Consegna gratuita https://t.co/SlOdakdAwi"
+        },
+        {
+            "created_at": "2017-04-09T00:05:05.000Z",
+            "id": "850862090898329605",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ECalzadillaR @PrakritiMaduro\u2026"
+        },
+        {
+            "created_at": "2017-04-08T23:55:06.000Z",
+            "id": "850859577608478722",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @ECalzadillaR @PrakritiMaduro\u2026"
+        },
+        {
+            "created_at": "2017-04-08T18:38:38.000Z",
+            "id": "850779938932244480",
+            "text": "#Safebridgeofhelp.org Lioresal Conveniente Generico Consegna espressa Bonus pillola di ogni... Read Blog: https://t.co/2vRMN0vZBC"
+        },
+        {
+            "created_at": "2017-04-07T17:33:29.000Z",
+            "id": "850401153955352576",
+            "text": "2 inyectadoras de insulina a 1000C/u, 2 ristes de lioresal a 1000C/u, 4 tubos de muestra de sangre, 2 rojos 1 azul 1 morado a 500C/u,"
+        },
+        {
+            "created_at": "2017-04-07T16:09:51.000Z",
+            "id": "850380108988911616",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-06T23:34:20.000Z",
+            "id": "850129575321509888",
+            "text": "Buenas noches @Laraoccs por no usar tengo varias cajas de Lioresal de 10 mg,  cualquier cosa se comunica conmigo por privado."
+        },
+        {
+            "created_at": "2017-04-06T23:28:29.000Z",
+            "id": "850128105272471557",
+            "text": "Hola buenas tardes @danielaberletr por no usar tengo varias cajas de #Lioresal de 10 mg son de mi hijo con PCI pero no las pudo tomar mas."
+        },
+        {
+            "created_at": "2017-04-06T18:42:08.000Z",
+            "id": "850056042335678468",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-06T00:55:31.000Z",
+            "id": "849787618363678721",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-05T19:16:40.000Z",
+            "id": "849702345902612480",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-05T13:24:28.000Z",
+            "id": "849613713103609857",
+            "text": "Jaja que lio,,no lioresal"
+        },
+        {
+            "created_at": "2017-04-05T13:22:00.000Z",
+            "id": "849613088676564992",
+            "text": "Que lioresal en la compuu"
+        },
+        {
+            "created_at": "2017-04-05T00:28:34.000Z",
+            "id": "849418450120388609",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-05T00:13:54.000Z",
+            "id": "849414756914135043",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-04T12:01:34.000Z",
+            "id": "849230461582925824",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-03T22:22:42.000Z",
+            "id": "849024387437219845",
+            "text": "Moje drugo pitanje je prema resornim Ministarstvima. 28 marta sam pro\u010ditala u novinama da je bud\u017eetska godina... https://t.co/dkGzCUL7cd"
+        },
+        {
+            "created_at": "2017-04-03T15:08:13.000Z",
+            "id": "848915043622285313",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-04-03T10:29:03.000Z",
+            "id": "848844792167632896",
+            "text": "#RT #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal  50mg/20cc , 10mg/20cc  @FundacionBADAN #BaclofenIntratecal"
+        },
+        {
+            "created_at": "2017-04-02T05:13:40.000Z",
+            "id": "848403034556293120",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T17:43:20.000Z",
+            "id": "848229307889614849",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T17:21:38.000Z",
+            "id": "848223843688882180",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T15:55:24.000Z",
+            "id": "848202141454012417",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T15:52:48.000Z",
+            "id": "848201487524261890",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T15:51:48.000Z",
+            "id": "848201238118367236",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T15:50:55.000Z",
+            "id": "848201016633896960",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T15:50:24.000Z",
+            "id": "848200884878266368",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorI\u2026"
+        },
+        {
+            "created_at": "2017-04-01T15:49:38.000Z",
+            "id": "848200690958827520",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @fmonroy @majoestevez @HectorIndriago"
+        },
+        {
+            "created_at": "2017-04-01T03:51:02.000Z",
+            "id": "848019849557270528",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @PublServ  #BaclofenIntratecal"
+        },
+        {
+            "created_at": "2017-04-01T03:45:34.000Z",
+            "id": "848018473481535488",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 50mg/20cc , 10mg/20cc  @PublServ  #BaclofenIntratecal"
+        }
+    ],
+    "meta": {
+        "newest_id": "858750399662182401",
+        "oldest_id": "848018473481535488",
+        "result_count": 98
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

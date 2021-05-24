@@ -1,0 +1,454 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-02-23T13:39:24.000Z",
+            "id": "1231574280011382784",
+            "text": "https://t.co/4R9G0Az4pJ"
+        },
+        {
+            "created_at": "2020-02-22T02:47:14.000Z",
+            "id": "1231047768594165761",
+            "text": "Temas grales. \u2022 Lioresal Sans Ordonance Matfleext https://t.co/A9kUQCIHU1"
+        },
+        {
+            "created_at": "2020-02-20T19:14:01.000Z",
+            "id": "1230571324311031808",
+            "text": "@Boule_de_Chat Et pour les probl\u00e8mes spastiques le baclof\u00e8ne (Lior\u00e9sal\u00ae)."
+        },
+        {
+            "created_at": "2020-02-20T04:22:20.000Z",
+            "id": "1230346926895140865",
+            "text": "Uses: Lioresal is indicated for the relief of spasticity of voluntary muscle resulting from such disorders as: multiple sclerosis, other spinal lesions.#RSP #pharmaceuticaldistributor https://t.co/vH78Sa3Kck"
+        },
+        {
+            "created_at": "2020-02-19T19:03:57.000Z",
+            "id": "1230206402683195393",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T14:25:59.000Z",
+            "id": "1230136452224339969",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T13:29:24.000Z",
+            "id": "1230122209773047811",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T12:09:53.000Z",
+            "id": "1230102200761880577",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T11:48:45.000Z",
+            "id": "1230096883097460738",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T08:13:29.000Z",
+            "id": "1230042708858875904",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T04:00:48.000Z",
+            "id": "1229979119565332486",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T03:01:06.000Z",
+            "id": "1229964094456975360",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:55:10.000Z",
+            "id": "1229962602719129603",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:45:41.000Z",
+            "id": "1229960215593877505",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:36:10.000Z",
+            "id": "1229957819031531520",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:33:31.000Z",
+            "id": "1229957151730421760",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:22:07.000Z",
+            "id": "1229954282381889538",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:20:11.000Z",
+            "id": "1229953798849933312",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:18:16.000Z",
+            "id": "1229953315410079744",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T02:03:45.000Z",
+            "id": "1229949661429010433",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T01:57:15.000Z",
+            "id": "1229948026258644992",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T01:54:13.000Z",
+            "id": "1229947262287171584",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T01:52:49.000Z",
+            "id": "1229946910162726914",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T01:49:53.000Z",
+            "id": "1229946172787318784",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T01:48:55.000Z",
+            "id": "1229945928527810562",
+            "text": "RT @laprensalara: #ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-02-19T01:48:17.000Z",
+            "id": "1229945770926903298",
+            "text": "#ServicioP\u00fablico |\ud83d\udd35 Marianny Linares necesita con urgencia los siguientes medicamentos: \n\ud83d\udd39Amicacina 500mg Amp.\n\ud83d\udd39Lioresal 25mg (baclofeno)\n\ud83d\udd39Neurotin 600mg (gabapentina)\n\ud83d\udd39Liryca 150mg (pregabalina)\n\nPara colaboraciones o informaci\u00f3n comunicarse:\n\ud83d\udcf20424-5283444\n\ud83d\udcf20414-6191965 https://t.co/wWZaOMWFvQ"
+        },
+        {
+            "created_at": "2020-02-17T03:05:14.000Z",
+            "id": "1229240358590189570",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-17T01:41:41.000Z",
+            "id": "1229219332217065472",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-17T00:53:03.000Z",
+            "id": "1229207096350171137",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-17T00:49:21.000Z",
+            "id": "1229206162630991873",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T20:14:07.000Z",
+            "id": "1229136897378836480",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T19:42:36.000Z",
+            "id": "1229128966902026242",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T19:06:12.000Z",
+            "id": "1229119804545667073",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T18:57:50.000Z",
+            "id": "1229117700129075201",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T18:56:20.000Z",
+            "id": "1229117325070209024",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T18:51:31.000Z",
+            "id": "1229116112434016256",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T18:42:47.000Z",
+            "id": "1229113913930911744",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T17:37:08.000Z",
+            "id": "1229097391455903744",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T17:07:18.000Z",
+            "id": "1229089882619904000",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T17:02:09.000Z",
+            "id": "1229088587632779264",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T16:58:39.000Z",
+            "id": "1229087708426985472",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T16:51:24.000Z",
+            "id": "1229085881153261569",
+            "text": "RT @fundacionjesed: Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-16T16:51:18.000Z",
+            "id": "1229085856226566146",
+            "text": "@fundacionjesed Un paciente quiere contactarlos en Cuman\u00e1 por el Lioresal \u00bfCu\u00e1l es el procedimiento?"
+        },
+        {
+            "created_at": "2020-02-16T16:37:44.000Z",
+            "id": "1229082444021846018",
+            "text": "Se dona #lioresal #baclofen venci\u00f3 2018 https://t.co/bvz7KvB1eu"
+        },
+        {
+            "created_at": "2020-02-15T23:53:36.000Z",
+            "id": "1228829746437480448",
+            "text": "RT @munita0: Son mentiras, mi mam\u00e1 nunca dej\u00f3 de recibir los medicamentos gratis con Macro, toma 2 cajas de lioresal por mes, que al precio\u2026"
+        },
+        {
+            "created_at": "2020-02-15T22:46:18.000Z",
+            "id": "1228812806809640961",
+            "text": "Deja de mentir Kollmann, ya los remedios eran gratis, s\u00f3lo hab\u00eda que hacer un tr\u00e1mite para que te los otorguen, presentando la receta con el c\u00f3digo de barra te los daban gratis, mi mam\u00e1 toma dos cajas de lioresal por mes salen 2200 pesos...verso que no te los daban!!! https://t.co/0Ja21bJbXl"
+        },
+        {
+            "created_at": "2020-02-15T21:01:19.000Z",
+            "id": "1228786388839038979",
+            "text": "RT @munita0: Son mentiras, mi mam\u00e1 nunca dej\u00f3 de recibir los medicamentos gratis con Macro, toma 2 cajas de lioresal por mes, que al precio\u2026"
+        },
+        {
+            "created_at": "2020-02-15T12:58:12.000Z",
+            "id": "1228664809094307840",
+            "text": "RT @munita0: Son mentiras, mi mam\u00e1 nunca dej\u00f3 de recibir los medicamentos gratis con Macro, toma 2 cajas de lioresal por mes, que al precio\u2026"
+        },
+        {
+            "created_at": "2020-02-15T12:00:46.000Z",
+            "id": "1228650354671333376",
+            "text": "RT @munita0: Son mentiras, mi mam\u00e1 nunca dej\u00f3 de recibir los medicamentos gratis con Macro, toma 2 cajas de lioresal por mes, que al precio\u2026"
+        },
+        {
+            "created_at": "2020-02-15T05:48:32.000Z",
+            "id": "1228556680264323074",
+            "text": "RT @munita0: Son mentiras, mi mam\u00e1 nunca dej\u00f3 de recibir los medicamentos gratis con Macro, toma 2 cajas de lioresal por mes, que al precio\u2026"
+        },
+        {
+            "created_at": "2020-02-15T02:31:58.000Z",
+            "id": "1228507212424916992",
+            "text": "RT @munita0: Son mentiras, mi mam\u00e1 nunca dej\u00f3 de recibir los medicamentos gratis con Macro, toma 2 cajas de lioresal por mes, que al precio\u2026"
+        },
+        {
+            "created_at": "2020-02-15T02:30:22.000Z",
+            "id": "1228506807770939397",
+            "text": "Son mentiras, mi mam\u00e1 nunca dej\u00f3 de recibir los medicamentos gratis con Macro, toma 2 cajas de lioresal por mes, que al precio de hoy son 2200 pesos, dejen de mentir!!! Se les termin\u00f3 el relato ahora h\u00e1ganse cargooo!!!!! https://t.co/D07w9ebAUr"
+        },
+        {
+            "created_at": "2020-02-10T01:26:44.000Z",
+            "id": "1226678853927501825",
+            "text": "RT @mildredsalazar1: #URGENTE #Ccs #emergencia\nSe solicita para ni\u00f1a con condici\u00f3n de Par\u00e1lisis cerebral con cuadiplejia espastica y epilep\u2026"
+        },
+        {
+            "created_at": "2020-02-10T00:44:59.000Z",
+            "id": "1226668348722831360",
+            "text": "RT @mildredsalazar1: #URGENTE #Ccs #emergencia\nSe solicita para ni\u00f1a con condici\u00f3n de Par\u00e1lisis cerebral con cuadiplejia espastica y epilep\u2026"
+        },
+        {
+            "created_at": "2020-02-10T00:35:49.000Z",
+            "id": "1226666043453722625",
+            "text": "#URGENTE #Ccs #emergencia\nSe solicita para ni\u00f1a con condici\u00f3n de Par\u00e1lisis cerebral con cuadiplejia espastica y epilepsia generalizada LIORESAL (BACLOFENO), FRISIUM ( CLOBAZAM) por favor  si alguien posee la medicina y puede ayudar comunicarse al 04142091945/04147643975"
+        },
+        {
+            "created_at": "2020-02-06T22:16:08.000Z",
+            "id": "1225543724203114496",
+            "text": "@FarmaciaAhinoa buenas tardes andamos en la b\u00fasqueda de baclofeno o lioresal"
+        },
+        {
+            "created_at": "2020-02-06T17:40:18.000Z",
+            "id": "1225474309231169537",
+            "text": "lioresal https://t.co/uXF5a16YRO"
+        },
+        {
+            "created_at": "2020-02-05T19:21:38.000Z",
+            "id": "1225137425996972039",
+            "text": "@leslimovane Tu peux le combin\u00e9 avec du lioresal 10 mg, m\u00e9dicament g\u00e9n\u00e9rique le baclof\u00e8ne C'est un d\u00e9contractant musculaire Apr\u00e8s ce qui est bien aussi, c'est de le prendre avant de dormir, les muscles rel\u00e2chent mieux\ud83d\ude42"
+        },
+        {
+            "created_at": "2020-02-05T08:43:39.000Z",
+            "id": "1224976868698443776",
+            "text": "@AnitaBotwin Lioresal y valium como relajantes musculares, tras a\u00f1os de miorelax y miolastan hasta que los retiraron por los nefastos efectos secundarios, e Ibuprofeno y Paracetamol-codeina para los dolores."
+        },
+        {
+            "created_at": "2020-02-02T20:41:42.000Z",
+            "id": "1224070411270414346",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T20:40:30.000Z",
+            "id": "1224070109637021705",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T20:38:33.000Z",
+            "id": "1224069616252616704",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T16:34:27.000Z",
+            "id": "1224008187080298496",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T16:14:59.000Z",
+            "id": "1224003288066072578",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T16:12:37.000Z",
+            "id": "1224002690868555777",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T15:36:45.000Z",
+            "id": "1223993666974420994",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T15:28:45.000Z",
+            "id": "1223991654832594944",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T15:03:48.000Z",
+            "id": "1223985373547761664",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T14:55:21.000Z",
+            "id": "1223983247421513728",
+            "text": "RT @RBADUEL: Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a co\u2026"
+        },
+        {
+            "created_at": "2020-02-02T14:53:18.000Z",
+            "id": "1223982732197482496",
+            "text": "Mi querida negra, @MariannyVP , necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a controlar el dolor que le causa la espaticidad.\n\nSi saben d\u00f3nde conseguir, comunicarse: 0416-0539614. FAVOR COMPARTIR \u300b\u300b#ServicioPublico. https://t.co/dyYg32wuJB"
+        },
+        {
+            "created_at": "2020-02-02T12:34:38.000Z",
+            "id": "1223947835072184322",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-02T12:33:54.000Z",
+            "id": "1223947649998622720",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-02T10:58:31.000Z",
+            "id": "1223923645237669888",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-02T09:29:56.000Z",
+            "id": "1223901354948734976",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-02T08:58:45.000Z",
+            "id": "1223893507259228161",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-02T05:43:08.000Z",
+            "id": "1223844277240856576",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-02T05:34:15.000Z",
+            "id": "1223842043350474753",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-02T00:52:57.000Z",
+            "id": "1223771252126556161",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-02-01T17:57:39.000Z",
+            "id": "1223666737108996097",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-01T13:29:32.000Z",
+            "id": "1223599262212218880",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-02-01T11:56:03.000Z",
+            "id": "1223575735945789442",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-02-01T11:27:07.000Z",
+            "id": "1223568454629937152",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        },
+        {
+            "created_at": "2020-02-01T05:27:18.000Z",
+            "id": "1223477905700872192",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-01T04:20:59.000Z",
+            "id": "1223461217215356928",
+            "text": "RT @LuisSomaza: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a contro\u2026"
+        },
+        {
+            "created_at": "2020-02-01T02:07:31.000Z",
+            "id": "1223427627274395648",
+            "text": "RT @EmberMendoza4: Mi hermana, @MariannyVP, necesita con car\u00e1cter de urgencia Lioresal (Baclofeno) de 25mg. Este medicamento la ayuda a con\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1231574280011382784",
+        "oldest_id": "1223427627274395648",
+        "result_count": 85
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

@@ -1,0 +1,1514 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-05-31T23:23:51.000Z",
+            "id": "870058271645855744",
+            "text": "@medicinasmix hola necesito anticombulsivos, tendr\u00e1n, carbamazapina en tableta200mg, y fr\u00edsium , l\u00edoresal.. Gracias.."
+        },
+        {
+            "created_at": "2017-05-30T14:29:25.000Z",
+            "id": "869561390981361665",
+            "text": "@FundacionBADAN buenos dias tienen lioresal d 10 o 25 mg en pastillas???"
+        },
+        {
+            "created_at": "2017-05-30T10:44:08.000Z",
+            "id": "869504696762978305",
+            "text": "We Accept: Visa Mastercard, Amex, Echeck Acheter Lioresal 25 mg En Pharmacie https://t.co/t0rgkxOeLf"
+        },
+        {
+            "created_at": "2017-05-30T10:43:31.000Z",
+            "id": "869504539858268160",
+            "text": "We Accept: Visa Mastercard, Amex, Echeck Acheter Lioresal 25 mg En Pharmacie https://t.co/THqjJJbEuq"
+        },
+        {
+            "created_at": "2017-05-30T10:09:34.000Z",
+            "id": "869495993812865024",
+            "text": "Best Quality Drugs online purchase of Lioresal 25 mg cheap... #news #Milano https://t.co/MckbSf1e4t"
+        },
+        {
+            "created_at": "2017-05-30T05:36:43.000Z",
+            "id": "869427328870473728",
+            "text": "Dove comprare Lioresal - Farmacia approvato https://t.co/Ngebc9A07E https://t.co/8m2olJG8c9"
+        },
+        {
+            "created_at": "2017-05-29T04:35:38.000Z",
+            "id": "869049569287458816",
+            "text": "wh0cd760898 &lt;a href=https://t.co/wZ06Tr6xIE&gt;baclofen lioresal&lt;/a&gt;"
+        },
+        {
+            "created_at": "2017-05-28T21:55:35.000Z",
+            "id": "868948893219909632",
+            "text": "Generique Lioresal En France / Meilleurs Prix pour tous les clients / Livraison express https://t.co/Ld9RBfPUZX https://t.co/HwBQIVOBMh"
+        },
+        {
+            "created_at": "2017-05-28T02:39:23.000Z",
+            "id": "868657926231216129",
+            "text": "Trusted Pharmacy / Best Place To Order Lioresal compare prices / Save Money With Generics... #news #Milano https://t.co/UGh88UQehx"
+        },
+        {
+            "created_at": "2017-05-27T23:48:01.000Z",
+            "id": "868614801035055104",
+            "text": "Canadian Family Pharmacy \u2013 Cheap Lioresal Buy Online \u2013 Buy And Save Money https://t.co/z5yxHgRDBA"
+        },
+        {
+            "created_at": "2017-05-27T23:47:59.000Z",
+            "id": "868614795372658688",
+            "text": "Canadian Family Pharmacy \u2013 Cheap Lioresal Buy Online \u2013 Buy And Save Money https://t.co/N0PL1GgWE5"
+        },
+        {
+            "created_at": "2017-05-27T10:03:57.000Z",
+            "id": "868407417293467648",
+            "text": "Vente Lioresal En Ligne Canada :: Remise :: Exp\u00e9dition la plus rapide des Etats-Unis https://t.co/ra9H6SKp41 https://t.co/kXgkk4QPET"
+        },
+        {
+            "created_at": "2017-05-27T09:58:18.000Z",
+            "id": "868405994799366145",
+            "text": "Generic Lioresal Order Baclofen 10 mg - #bitcoin payment Is Available - Insane Visions https://t.co/jMshb88PfU https://t.co/NYgCBiVbLg"
+        },
+        {
+            "created_at": "2017-05-27T09:58:12.000Z",
+            "id": "868405971709825024",
+            "text": "Generic Lioresal Order Baclofen 10 mg - BitCoin payment Is Available: https://t.co/8D1euwjKH1 https://t.co/oigIIjY8Q0"
+        },
+        {
+            "created_at": "2017-05-26T19:19:17.000Z",
+            "id": "868184786153721856",
+            "text": "Achat Lioresal 25 mg Original / Exp\u00e9dition rapide -  https://t.co/3CICzlqe0M https://t.co/YQTekVlGM4"
+        },
+        {
+            "created_at": "2017-05-26T15:45:14.000Z",
+            "id": "868130918040571904",
+            "text": "#Pharmaceuticals LIORESAL 25 : Tablet : 25mg : Novartis Pharma AG, Switzerland : https://t.co/60SqnhLX7i #MarketResearch #Statistics"
+        },
+        {
+            "created_at": "2017-05-26T06:11:36.000Z",
+            "id": "867986559345111040",
+            "text": "Lioresal Baclofen A buon mercato In linea - Veloce ordine di consegna -  https://t.co/E3Zg8jmY5d https://t.co/H3VlJmZ6u7"
+        },
+        {
+            "created_at": "2017-05-25T22:25:34.000Z",
+            "id": "867869278246010880",
+            "text": "#LeadingByDesign BitCoin Accepted Purchase Cheapest Generic Lioresal Online. Read Blog: https://t.co/pXpZAEMAjA"
+        },
+        {
+            "created_at": "2017-05-25T22:05:11.000Z",
+            "id": "867864148511793152",
+            "text": "#Banner Best\u00e4lla Lioresal S\u00e4kert / B\u00e4sta Apotek F\u00f6r Att K\u00f6pa Generiska L\u00e4kemedel / Snabbast... Read Blog: https://t.co/xkPWjohXJb"
+        },
+        {
+            "created_at": "2017-05-25T04:32:35.000Z",
+            "id": "867599250036858880",
+            "text": "@1granitodeamorliked:\n@brandy1960:Urge lioresal/baclofeno medicamento pa matarbacteria tetanos panina d5 anosHCM dAragua pasu ayuda..."
+        },
+        {
+            "created_at": "2017-05-25T04:20:19.000Z",
+            "id": "867596164635537408",
+            "text": "RT @CesarObertein: #ServicioP\u00fablico Con #Urgencia se necesita Lioresal o Baclofeno para la peque\u00f1a Aleiber d 5 a\u00f1os 04144603470 04169467608\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:20:07.000Z",
+            "id": "867596116380057600",
+            "text": "RT @1granitodeamor: LIORESAL o Baclofeno .. Urgente!!!para ni\u00f1a de 5 a\u00f1os recluida en el HCM d Aragua. Venezuela.\n Asdr\u00fabal 04144603470 041\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:19:54.000Z",
+            "id": "867596061942173697",
+            "text": "RT @LilianMathison: @brandy1960:RT@nrodriguez7: Urge lioresal/baclofeno medicamento pa matarbacteria tetanos pani\u00f1a d5 anosHCM dAragua pasu\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:19:36.000Z",
+            "id": "867595986373410816",
+            "text": "RT @nrodriguez7: Urgente lioresal o baclofeno medicamento para matar bacteria t\u00e9tanos para salvar vida ni\u00f1a d 5 a\u00f1os HCM d Aragua para su a\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:17:36.000Z",
+            "id": "867595481119117312",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:13:27.000Z",
+            "id": "867594434753556481",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:13:22.000Z",
+            "id": "867594417649188864",
+            "text": "RT @nrodriguez7: Urgente lioresal o baclofeno medicamento para matar bacteria t\u00e9tanos para salvar vida ni\u00f1a d 5 a\u00f1os HCM d Aragua para su a\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:13:09.000Z",
+            "id": "867594359155429377",
+            "text": "RT @CesarObertein: #ServicioP\u00fablico Con #Urgencia se necesita Lioresal o Baclofeno para la peque\u00f1a Aleiber d 5 a\u00f1os 04144603470 04169467608\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:12:54.000Z",
+            "id": "867594299097186304",
+            "text": "RT @LilianMathison: @brandy1960:RT@nrodriguez7: Urge lioresal/baclofeno medicamento pa matarbacteria tetanos pani\u00f1a d5 anosHCM dAragua pasu\u2026"
+        },
+        {
+            "created_at": "2017-05-25T04:12:12.000Z",
+            "id": "867594121833316352",
+            "text": "LIORESAL o Baclofeno .. Urgente!!!para ni\u00f1a de 5 a\u00f1os recluida en el HCM d Aragua. Venezuela.\n Asdr\u00fabal 04144603470 04169467608"
+        },
+        {
+            "created_at": "2017-05-23T06:24:27.000Z",
+            "id": "866902626922889216",
+            "text": "Inget Recept Apotek P\u00e5 N\u00e4tet. Best\u00e4lla Lioresal 25 mg Belgien https://t.co/BrYhXbVpCP https://t.co/Xzqnrk2U5X"
+        },
+        {
+            "created_at": "2017-05-22T14:52:54.000Z",
+            "id": "866668194827825152",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-05-22T13:01:46.000Z",
+            "id": "866640226608963584",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-05-21T04:57:16.000Z",
+            "id": "866155913228554240",
+            "text": "Sconto sul riordino / Acquistare 10 mg Lioresal Generico / Esteri Online Pharmacy https://t.co/2HmntZZ2hU https://t.co/0cUCtLZiOs"
+        },
+        {
+            "created_at": "2017-05-21T01:53:19.000Z",
+            "id": "866109619000705026",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T01:27:08.000Z",
+            "id": "866103031645048832",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:21:56.000Z",
+            "id": "866086623032860672",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:19:01.000Z",
+            "id": "866085886383067136",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-21T00:18:46.000Z",
+            "id": "866085824592572416",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-21T00:14:49.000Z",
+            "id": "866084832446644227",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:14:19.000Z",
+            "id": "866084703438352384",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:13:08.000Z",
+            "id": "866084405802131456",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-21T00:12:39.000Z",
+            "id": "866084287120105475",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:12:18.000Z",
+            "id": "866084197223550976",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:11:16.000Z",
+            "id": "866083937155678208",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:10:49.000Z",
+            "id": "866083825608257537",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:09:59.000Z",
+            "id": "866083614924189696",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-21T00:09:08.000Z",
+            "id": "866083402843389953",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:08:41.000Z",
+            "id": "866083285839089664",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-21T00:08:08.000Z",
+            "id": "866083150878978048",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:07:27.000Z",
+            "id": "866082976303632385",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-21T00:07:24.000Z",
+            "id": "866082966036000768",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-21T00:07:00.000Z",
+            "id": "866082864026312704",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-20T20:31:35.000Z",
+            "id": "866028651581722625",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-20T16:46:35.000Z",
+            "id": "865972028687437824",
+            "text": "Mieux Que Le Lioresal 10 mg \u2013 Doctor Consultations gratuites https://t.co/sT0sbflnWs #seo"
+        },
+        {
+            "created_at": "2017-05-20T16:15:14.000Z",
+            "id": "865964139340058624",
+            "text": "@brandy1960:RT@nrodriguez7: Urge lioresal/baclofeno medicamento pa matarbacteria tetanos pani\u00f1a d5 anosHCM dAragua pasu ayuda..."
+        },
+        {
+            "created_at": "2017-05-20T14:10:59.000Z",
+            "id": "865932870304632832",
+            "text": "RT @CesarObertein: #ServicioP\u00fablico Con #Urgencia se necesita Lioresal o Baclofeno para la peque\u00f1a Aleiber d 5 a\u00f1os 04144603470 04169467608\u2026"
+        },
+        {
+            "created_at": "2017-05-20T14:08:39.000Z",
+            "id": "865932285752864769",
+            "text": "#ServicioP\u00fablico Con #Urgencia se necesita Lioresal o Baclofeno para la peque\u00f1a Aleiber d 5 a\u00f1os 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-05-20T05:34:39.000Z",
+            "id": "865802932188573696",
+            "text": "RT @nrodriguez7: Urgente lioresal o baclofeno medicamento para matar bacteria t\u00e9tanos para salvar vida ni\u00f1a d 5 a\u00f1os HCM d Aragua para su a\u2026"
+        },
+        {
+            "created_at": "2017-05-20T05:31:00.000Z",
+            "id": "865802015032594432",
+            "text": "RT @nrodriguez7: Urgente lioresal o baclofeno medicamento para matar bacteria t\u00e9tanos para salvar vida ni\u00f1a d 5 a\u00f1os HCM d Aragua para su a\u2026"
+        },
+        {
+            "created_at": "2017-05-20T02:35:52.000Z",
+            "id": "865757939021336576",
+            "text": "RT @aleidabaez: La cadena para la peque\u00f1a Aliber.( Lioresal). FALSA. LLeva a\u00f1os. Eso. @zizou7310 @AnonMundial @fundatiacruz @laventanita_vz\u2026"
+        },
+        {
+            "created_at": "2017-05-19T23:11:48.000Z",
+            "id": "865706585573687297",
+            "text": "Urgente lioresal o baclofeno medicamento para matar bacteria t\u00e9tanos para salvar vida ni\u00f1a d 5 a\u00f1os HCM d Aragua para su ayuda 04144603470."
+        },
+        {
+            "created_at": "2017-05-19T20:05:05.000Z",
+            "id": "865659595217223680",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T19:00:10.000Z",
+            "id": "865643260978446337",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T18:58:33.000Z",
+            "id": "865642853929598977",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:36:35.000Z",
+            "id": "865622223217872896",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:15:24.000Z",
+            "id": "865616895373791232",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:07:13.000Z",
+            "id": "865614834276216832",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:05:19.000Z",
+            "id": "865614356092002304",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:04:50.000Z",
+            "id": "865614234939535360",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:04:49.000Z",
+            "id": "865614229839261702",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:04:04.000Z",
+            "id": "865614043205251072",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:03:12.000Z",
+            "id": "865613825541890049",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:02:56.000Z",
+            "id": "865613758151917568",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T17:01:32.000Z",
+            "id": "865613404966457344",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamien\u2026"
+        },
+        {
+            "created_at": "2017-05-19T16:12:01.000Z",
+            "id": "865600940811988992",
+            "text": "@DonaMed_VE @fundatiacruz Solicito Medicamento Lioresal o Baclofen en Tabletas de 10mg...Dosis 0.8mg cada 8 horas. Tratamiento permanente. Ciudad Caracas"
+        },
+        {
+            "created_at": "2017-05-19T16:02:04.000Z",
+            "id": "865598439693930496",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-19T16:01:45.000Z",
+            "id": "865598361071755264",
+            "text": "@DonaMed_VE @fundatiacruz Lioresal o Baclofen Tabletas de 10mg Dosis 5mg c/12h. Caracas"
+        },
+        {
+            "created_at": "2017-05-19T02:50:21.000Z",
+            "id": "865399195389181952",
+            "text": "@LocatelVzla_ATC buenas ni\u00f1a de 5 a\u00f1os necesita urgente lioresal o baclofeno tf. 04144603470 revisen por favor en las muestras gratis"
+        },
+        {
+            "created_at": "2017-05-19T01:30:10.000Z",
+            "id": "865379018031468544",
+            "text": "La cadena para la peque\u00f1a Aliber.( Lioresal). FALSA. LLeva a\u00f1os. Eso. @zizou7310 @AnonMundial @fundatiacruz @laventanita_vzl No Rt. https://t.co/yDDKXJ7mnB"
+        },
+        {
+            "created_at": "2017-05-19T00:23:05.000Z",
+            "id": "865362136364724225",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:59:42.000Z",
+            "id": "865356253215772673",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:49:06.000Z",
+            "id": "865353583440646144",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:47:30.000Z",
+            "id": "865353182699978752",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:45:16.000Z",
+            "id": "865352620654952448",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:43:45.000Z",
+            "id": "865352236465098753",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:42:00.000Z",
+            "id": "865351797220794376",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:39:58.000Z",
+            "id": "865351284437725184",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:39:44.000Z",
+            "id": "865351226120171520",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:38:17.000Z",
+            "id": "865350863182811137",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:35:53.000Z",
+            "id": "865350257919614976",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:31:35.000Z",
+            "id": "865349177194229764",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:31:21.000Z",
+            "id": "865349114938175490",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:31:14.000Z",
+            "id": "865349087444512768",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:30:19.000Z",
+            "id": "865348856917233665",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:30:15.000Z",
+            "id": "865348841490591744",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T23:29:56.000Z",
+            "id": "865348758191706113",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-18T04:53:44.000Z",
+            "id": "865067857326907393",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T23:22:59.000Z",
+            "id": "864984622500900864",
+            "text": "RT @carbrica: soy Asdrubal Urgente  lioresal o baclofeno.esto podr\u00eda salvar la vida d mi peque\u00f1a Aleiber d 5 a\u00f1os x 04144603470 04169467608\u2026"
+        },
+        {
+            "created_at": "2017-05-17T17:18:41.000Z",
+            "id": "864892943668310016",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T16:04:41.000Z",
+            "id": "864874323089256449",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T15:55:50.000Z",
+            "id": "864872093183340545",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T14:04:35.000Z",
+            "id": "864844097844019201",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T06:18:59.000Z",
+            "id": "864726927000645636",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T05:39:36.000Z",
+            "id": "864717012123234304",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T05:19:41.000Z",
+            "id": "864712000844255232",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T04:07:52.000Z",
+            "id": "864693926845919232",
+            "text": "RT LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T04:07:46.000Z",
+            "id": "864693904678977536",
+            "text": "RT LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:57:12.000Z",
+            "id": "864691245301608452",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:55:59.000Z",
+            "id": "864690938496655361",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:54:38.000Z",
+            "id": "864690598590251008",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:32:09.000Z",
+            "id": "864684939568185346",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:31:45.000Z",
+            "id": "864684840062513154",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:21:11.000Z",
+            "id": "864682180097781760",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:20:25.000Z",
+            "id": "864681986690084864",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:18:07.000Z",
+            "id": "864681409344147457",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:15:38.000Z",
+            "id": "864680783646257152",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T03:13:30.000Z",
+            "id": "864680247861665792",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T02:54:09.000Z",
+            "id": "864675377364578308",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T02:54:02.000Z",
+            "id": "864675346767122434",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T02:42:26.000Z",
+            "id": "864672429121130497",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T02:36:08.000Z",
+            "id": "864670844949102592",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T02:09:56.000Z",
+            "id": "864664248126812160",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T02:03:45.000Z",
+            "id": "864662691805368322",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T02:02:00.000Z",
+            "id": "864662253446057984",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:59:10.000Z",
+            "id": "864661539118346240",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:58:22.000Z",
+            "id": "864661339205251072",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:57:12.000Z",
+            "id": "864661046832791552",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:53:02.000Z",
+            "id": "864659997963276289",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:45:39.000Z",
+            "id": "864658139655933952",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:27:15.000Z",
+            "id": "864653508485685248",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:27:11.000Z",
+            "id": "864653491071004673",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:26:40.000Z",
+            "id": "864653359365726208",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:22:15.000Z",
+            "id": "864652250391642114",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:21:44.000Z",
+            "id": "864652117935521792",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:19:29.000Z",
+            "id": "864651552845438976",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:16:36.000Z",
+            "id": "864650829449621504",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:14:54.000Z",
+            "id": "864650400925966336",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:14:05.000Z",
+            "id": "864650195568660487",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:13:45.000Z",
+            "id": "864650109480554496",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:13:30.000Z",
+            "id": "864650049661304832",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:12:13.000Z",
+            "id": "864649726209249280",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:12:08.000Z",
+            "id": "864649703115431936",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:11:42.000Z",
+            "id": "864649593514061824",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:11:34.000Z",
+            "id": "864649562182623232",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:10:25.000Z",
+            "id": "864649273127964672",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:08:59.000Z",
+            "id": "864648912858120192",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:08:12.000Z",
+            "id": "864648712215298052",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:07:55.000Z",
+            "id": "864648644011667458",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:07:03.000Z",
+            "id": "864648423567478785",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-)-"
+        },
+        {
+            "created_at": "2017-05-17T01:06:46.000Z",
+            "id": "864648354147561476",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-(-"
+        },
+        {
+            "created_at": "2017-05-17T01:05:53.000Z",
+            "id": "864648131232903168",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:05:38.000Z",
+            "id": "864648066678259712",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:05:35.000Z",
+            "id": "864648054451953665",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:05:31.000Z",
+            "id": "864648039054680064",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:05:28.000Z",
+            "id": "864648026366910464",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:05:04.000Z",
+            "id": "864647926076801025",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:04:21.000Z",
+            "id": "864647745457573888",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-\u20ac-"
+        },
+        {
+            "created_at": "2017-05-17T01:03:54.000Z",
+            "id": "864647633813610497",
+            "text": "RT @paquitovictor: Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 041694\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:03:35.000Z",
+            "id": "864647552435716096",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T01:03:15.000Z",
+            "id": "864647466439909377",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-/-"
+        },
+        {
+            "created_at": "2017-05-17T01:03:01.000Z",
+            "id": "864647407702814720",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-?-"
+        },
+        {
+            "created_at": "2017-05-17T01:02:32.000Z",
+            "id": "864647288756600836",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-'-"
+        },
+        {
+            "created_at": "2017-05-17T01:02:08.000Z",
+            "id": "864647187631878144",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-,-"
+        },
+        {
+            "created_at": "2017-05-17T01:01:48.000Z",
+            "id": "864647103930404864",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846-.-"
+        },
+        {
+            "created_at": "2017-05-17T01:01:28.000Z",
+            "id": "864647018676977666",
+            "text": "Urgente @dcabellor pa salvar vida d una ni\u00f1a se requiere lioresal o baclofeno cualquier presentaci\u00f3n  04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-05-17T01:01:20.000Z",
+            "id": "864646984728182784",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:57:21.000Z",
+            "id": "864645985468911616",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:56:40.000Z",
+            "id": "864645813112385537",
+            "text": "Urgente para salvar la vida de una ni\u00f1a se requiere lioresal o baclofeno en cualquier presentaci\u00f3n  04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-05-17T00:53:03.000Z",
+            "id": "864644902671482882",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:50:52.000Z",
+            "id": "864644350390796288",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:48:09.000Z",
+            "id": "864643668606689281",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:45:55.000Z",
+            "id": "864643106452500480",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:45:31.000Z",
+            "id": "864643004254040069",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:45:20.000Z",
+            "id": "864642958724919296",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:44:30.000Z",
+            "id": "864642748011491328",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:43:58.000Z",
+            "id": "864642614955528192",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:43:55.000Z",
+            "id": "864642603374960640",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:43:31.000Z",
+            "id": "864642502799892480",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:42:37.000Z",
+            "id": "864642276324241408",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:41:55.000Z",
+            "id": "864642101081976832",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:41:53.000Z",
+            "id": "864642090445230080",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:41:34.000Z",
+            "id": "864642010237485056",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:40:03.000Z",
+            "id": "864641631051501577",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:39:35.000Z",
+            "id": "864641512566648833",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:39:28.000Z",
+            "id": "864641483424575491",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:39:27.000Z",
+            "id": "864641478584406016",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:39:03.000Z",
+            "id": "864641378487324675",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:38:55.000Z",
+            "id": "864641344723091458",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:38:55.000Z",
+            "id": "864641343112564736",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:37:02.000Z",
+            "id": "864640871114977280",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:37:01.000Z",
+            "id": "864640867495227392",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:36:56.000Z",
+            "id": "864640844892176384",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:36:55.000Z",
+            "id": "864640840022601728",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:36:49.000Z",
+            "id": "864640815548727297",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:36:37.000Z",
+            "id": "864640765284278272",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:36:29.000Z",
+            "id": "864640733055258625",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:36:28.000Z",
+            "id": "864640728412147712",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:36:14.000Z",
+            "id": "864640671055040513",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:35:35.000Z",
+            "id": "864640506332151808",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:35:15.000Z",
+            "id": "864640423347855360",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:34:57.000Z",
+            "id": "864640347351261186",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:34:49.000Z",
+            "id": "864640314258190337",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:34:38.000Z",
+            "id": "864640267160363009",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:59.000Z",
+            "id": "864640101720219648",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:55.000Z",
+            "id": "864640084972367873",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:49.000Z",
+            "id": "864640062058790912",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:30.000Z",
+            "id": "864639982471970816",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:25.000Z",
+            "id": "864639961672364033",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:22.000Z",
+            "id": "864639946828763136",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:18.000Z",
+            "id": "864639932173877248",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:12.000Z",
+            "id": "864639904541806592",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:06.000Z",
+            "id": "864639882941145089",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:33:02.000Z",
+            "id": "864639862057652224",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:32:51.000Z",
+            "id": "864639818516529152",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:32:49.000Z",
+            "id": "864639809960243200",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-17T00:32:30.000Z",
+            "id": "864639730952138757",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-16T23:13:52.000Z",
+            "id": "864619940170653696",
+            "text": "@MARACAYACTIVA @diana_dagostino Urgente  lioresal o baclofeno urgente presentaci\u00f3n q sea una ni\u00f1a puede morir 04144603470 04169467608"
+        },
+        {
+            "created_at": "2017-05-16T17:47:24.000Z",
+            "id": "864537783708385280",
+            "text": "RT @eladior: URGENTE:Se requiere Lioresal o Baclofeno en cualquier presentaci\u00f3n para ni\u00f1a con tetano.Padre Asdrubal Gonzalez 04169467608 /\u2026"
+        },
+        {
+            "created_at": "2017-05-16T17:43:04.000Z",
+            "id": "864536692010754049",
+            "text": "URGENTE:Se requiere Lioresal o Baclofeno en cualquier presentaci\u00f3n para ni\u00f1a con tetano.Padre Asdrubal Gonzalez 04169467608 / 04144603470"
+        },
+        {
+            "created_at": "2017-05-16T17:04:33.000Z",
+            "id": "864527001398505472",
+            "text": "RT @papabonais: Es urgente Asdrubal Gonzalez necesita Lioresal o baclofeno en cualquier mlg y presentaci\u00f3n HCM Edo Aragua04144603470,041694\u2026"
+        },
+        {
+            "created_at": "2017-05-16T17:00:44.000Z",
+            "id": "864526038579261440",
+            "text": "RT @papabonais: Es urgente Asdrubal Gonzalez necesita Lioresal o baclofeno en cualquier mlg y presentaci\u00f3n HCM Edo Aragua04144603470,041694\u2026"
+        },
+        {
+            "created_at": "2017-05-16T16:17:43.000Z",
+            "id": "864515215215345668",
+            "text": "#ModianoDesign Best\u00e4lla 10 mg Lioresal L\u00e5g Kostnad * sp\u00e5rbar Leverans * B\u00e4sta Godk\u00e4nda P\u00e5 N... Read Blog: https://t.co/uyhVpNPM6i"
+        },
+        {
+            "created_at": "2017-05-16T15:35:10.000Z",
+            "id": "864504505857187841",
+            "text": "RT @papabonais: Es urgente Asdrubal Gonzalez necesita Lioresal o baclofeno en cualquier mlg y presentaci\u00f3n HCM Edo Aragua04144603470,041694\u2026"
+        },
+        {
+            "created_at": "2017-05-16T15:29:41.000Z",
+            "id": "864503123657859072",
+            "text": "Es urgente Asdrubal Gonzalez necesita Lioresal o baclofeno en cualquier mlg y presentaci\u00f3n HCM Edo Aragua04144603470,04169467608,04124452846"
+        },
+        {
+            "created_at": "2017-05-16T10:11:19.000Z",
+            "id": "864423005136408576",
+            "text": "#JuneWalker Les meilleurs m\u00e9dicaments de qualit\u00e9 * Lioresal En Ligne Suisse * Airmail Exp\u00e9d... Read Blog: https://t.co/u8HZV9AfLr"
+        },
+        {
+            "created_at": "2017-05-16T03:15:49.000Z",
+            "id": "864318441070768129",
+            "text": "@Farmatodo buenas noches donde consigo lioresal baclofen de 10 alg\u00fan almac\u00e9n de ustedes lo tendr\u00e1 por favor gracias"
+        },
+        {
+            "created_at": "2017-05-16T02:55:52.000Z",
+            "id": "864313420983791617",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-16T02:42:17.000Z",
+            "id": "864310003871645697",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-16T02:38:47.000Z",
+            "id": "864309121000099840",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-16T02:02:37.000Z",
+            "id": "864300018987139072",
+            "text": "RT @LorenaBernal_89: La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 041446\u2026"
+        },
+        {
+            "created_at": "2017-05-16T01:17:46.000Z",
+            "id": "864288735499882498",
+            "text": "La peque\u00f1a Aliber de 5 a\u00f1os recluida en el HCM de Aragua requiere URGENTE lioresal o baclofeno #ServicioPublico 04144603570"
+        },
+        {
+            "created_at": "2017-05-16T00:28:25.000Z",
+            "id": "864276313816879106",
+            "text": "soy Asdrubal Urgente  lioresal o baclofeno.esto podr\u00eda salvar la vida d mi peque\u00f1a Aleiber d 5 a\u00f1os x 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-05-15T16:11:11.000Z",
+            "id": "864151180129206272",
+            "text": "Soy Asdrubal Gonzales les solicito  Urgente  lioresal o baclofeno en la presentaci\u00f3n q sea   para su ayudar x el 04144603470 04169467608"
+        },
+        {
+            "created_at": "2017-05-15T15:36:27.000Z",
+            "id": "864142439870849024",
+            "text": "soy Asdrubal Gonzale,  desesperada solicito lioresal,mi hija pued morir,tiene 5 anitos, esta n HCM d Aragua,x favor 04144603470 04169467608"
+        },
+        {
+            "created_at": "2017-05-15T12:04:31.000Z",
+            "id": "864089104815935489",
+            "text": "RT @henrymartinez33: #SOS\nSe requiere con urgencia los medicamentos Lioresal o Baclofeno para ni\u00f1a de 6 As con T\u00e9tanos.\nFavor llamar al 041\u2026"
+        },
+        {
+            "created_at": "2017-05-15T11:28:32.000Z",
+            "id": "864080049758236673",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T11:08:14.000Z",
+            "id": "864074939846053888",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T09:25:12.000Z",
+            "id": "864049010448924672",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T08:25:09.000Z",
+            "id": "864033898942132224",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T05:50:40.000Z",
+            "id": "863995022756261888",
+            "text": "RT @henrymartinez33: #SOS\nSe requiere con urgencia los medicamentos Lioresal o Baclofeno para ni\u00f1a de 6 As con T\u00e9tanos.\nFavor llamar al 041\u2026"
+        },
+        {
+            "created_at": "2017-05-15T05:24:49.000Z",
+            "id": "863988517633970177",
+            "text": "RT @henrymartinez33: #SOS\nSe requiere con urgencia los medicamentos Lioresal o Baclofeno para ni\u00f1a de 6 As con T\u00e9tanos.\nFavor llamar al 041\u2026"
+        },
+        {
+            "created_at": "2017-05-15T05:22:53.000Z",
+            "id": "863988032676016128",
+            "text": "RT @henrymartinez33: #SOS\nSe requiere con urgencia los medicamentos Lioresal o Baclofeno para ni\u00f1a de 6 As con T\u00e9tanos.\nFavor llamar al 041\u2026"
+        },
+        {
+            "created_at": "2017-05-15T05:21:48.000Z",
+            "id": "863987760742506498",
+            "text": "#SOS\nSe requiere con urgencia los medicamentos Lioresal o Baclofeno para ni\u00f1a de 6 As con T\u00e9tanos.\nFavor llamar al 0414 460 3470.\nHCMaracay"
+        },
+        {
+            "created_at": "2017-05-15T03:32:42.000Z",
+            "id": "863960301452095488",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T03:32:18.000Z",
+            "id": "863960200486821888",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T02:43:46.000Z",
+            "id": "863947988820996096",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T02:38:41.000Z",
+            "id": "863946711210872833",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T02:32:18.000Z",
+            "id": "863945104091906048",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T02:31:59.000Z",
+            "id": "863945022219202560",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-15T02:31:50.000Z",
+            "id": "863944985745534977",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-14T03:28:46.000Z",
+            "id": "863596923491692545",
+            "text": "@ Fundatiacruz Urge  Lioresal o Baclofeno cualq ptaci\u00f3n ni\u00f1a 5  a HCM Mcy. Llame 0414 4603470  0412 4452846 0416 9467608 Asdr\u00fabal Gonz\u00e1lez"
+        },
+        {
+            "created_at": "2017-05-14T03:18:46.000Z",
+            "id": "863594408020725760",
+            "text": "RT @mireya_blan: @DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4\u2026"
+        },
+        {
+            "created_at": "2017-05-14T03:16:16.000Z",
+            "id": "863593777755299841",
+            "text": "@DonaMed_VE  Urge Lioresal o Baclofeno . Cualquier ptaci\u00f3n  ni\u00f1a 5 a\u00f1os c/t\u00e9tanos. HCM Mcy  Llame Asdr\u00fabal Gonz\u00e1lez 0414 4603470 04169467608"
+        },
+        {
+            "created_at": "2017-05-13T13:42:49.000Z",
+            "id": "863389067060314113",
+            "text": ". \n (MARACAY)   tenga lioresal o baclofeno... URGENTE!.. Aleiber  5 a\u00f1os recluida en el HCM d Aragua... 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-05-13T10:40:27.000Z",
+            "id": "863343175842357248",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-13T09:26:45.000Z",
+            "id": "863324625140412416",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-13T07:07:49.000Z",
+            "id": "863289661862678528",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-13T01:01:09.000Z",
+            "id": "863197386977538048",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-12T23:10:53.000Z",
+            "id": "863169637219004416",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-12T23:02:54.000Z",
+            "id": "863167630341021696",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-12T22:57:57.000Z",
+            "id": "863166384842448896",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-12T22:57:30.000Z",
+            "id": "863166271361355776",
+            "text": "RT @gracchhie: @DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg\u2026"
+        },
+        {
+            "created_at": "2017-05-12T16:40:33.000Z",
+            "id": "863071408032821248",
+            "text": "@DonaMed_VE @fundatiacruz ...saludos necesito ayuda con un Medicamento para un paciente Lioresal o Baclofen tabletas de 10mg..."
+        },
+        {
+            "created_at": "2017-05-12T15:56:57.000Z",
+            "id": "863060434362015744",
+            "text": "@FundacionBADAN buenas tardes me podrian informar si tienen LIORESAL DE 10 O 25MG gracias"
+        },
+        {
+            "created_at": "2017-05-12T09:21:03.000Z",
+            "id": "862960803980353536",
+            "text": "Buy Lioresal Online No rx needed Lioresal Cod Overnight Purchase Lioresal https://t.co/yaYyzJEljj"
+        },
+        {
+            "created_at": "2017-05-12T07:06:38.000Z",
+            "id": "862926978789199872",
+            "text": "Buy Lioresal Cheap No rx required Lioresal Cod Overnight https://t.co/pWMIgSR6Yp"
+        },
+        {
+            "created_at": "2017-05-12T01:28:07.000Z",
+            "id": "862841788821889024",
+            "text": "@EpilepsiaVzlaMG cambio lioresal de 10mg por lamotrigina de 100mg"
+        },
+        {
+            "created_at": "2017-05-12T00:10:04.000Z",
+            "id": "862822146183233536",
+            "text": "bas prix Acheter Lioresal 10 mg Levitra Sans Ordonnance https://t.co/A2dGU44Zvh https://t.co/tZahRr4RRW"
+        },
+        {
+            "created_at": "2017-05-11T21:04:04.000Z",
+            "id": "862775337020784640",
+            "text": "RT @vistacha: Desde octubre del 2016 estoy eperando informaci\u00f3n sobre el #Lioresal postear lo de saludindestructible suena a burla se ve qu\u2026"
+        },
+        {
+            "created_at": "2017-05-11T21:03:48.000Z",
+            "id": "862775269358260225",
+            "text": "RT @vistacha: Desde octubre del 2016 estoy eperando informaci\u00f3n sobre el #Lioresal postear lo de saludindestructible suena a burla se ve qu\u2026"
+        },
+        {
+            "created_at": "2017-05-11T21:02:57.000Z",
+            "id": "862775056203567104",
+            "text": "Desde octubre del 2016 estoy eperando informaci\u00f3n sobre el #Lioresal postear lo de saludindestructible suena a burla se ve que est\u00e1n gozando https://t.co/1CspSH6yL6"
+        },
+        {
+            "created_at": "2017-05-11T02:15:07.000Z",
+            "id": "862491226024669185",
+            "text": "Peut On Acheter Du Lioresal En Pharmacie. Livraison dans le monde entier (3-7 Jours) https://t.co/Q4ESGqFxfs https://t.co/QinFio8Q2C"
+        },
+        {
+            "created_at": "2017-05-10T20:12:34.000Z",
+            "id": "862399989884104704",
+            "text": "Mieux Que Le Lioresal 10 mg \u2013 Doctor Consultations gratuites https://t.co/P1f5keEe97 #SEM #Marketing"
+        },
+        {
+            "created_at": "2017-05-10T07:27:14.000Z",
+            "id": "862207387024842757",
+            "text": "#Banner prix le plus bas * Acheter Lioresal En Ligne France. Read Blog: https://t.co/24BcrED2UK"
+        },
+        {
+            "created_at": "2017-05-10T07:02:31.000Z",
+            "id": "862201165215404032",
+            "text": "Lioresal Acheter Sans Ordonnance \u2013 Payer Par Carte Visa https://t.co/tC6duJRUW0 #SEM #Marketing"
+        },
+        {
+            "created_at": "2017-05-08T11:05:18.000Z",
+            "id": "861537487717576704",
+            "text": "Baclofen (Lioresal) may be used to decrease spasticity in the client w/ multiple sclerosis."
+        },
+        {
+            "created_at": "2017-05-08T05:01:37.000Z",
+            "id": "861445962644037632",
+            "text": "Brand And Generic Products For Sale. generic Lioresal 10 mg Price. Safe Website To Buy Generics https://t.co/Ua80aFus6s #seo"
+        },
+        {
+            "created_at": "2017-05-08T01:57:21.000Z",
+            "id": "861399591287238656",
+            "text": "Best Rated Online Pharmacy * online purchase of 25 mg Lioresal cheapest... #news #Milano https://t.co/jSFXyF5Lf7"
+        },
+        {
+            "created_at": "2017-05-08T01:16:05.000Z",
+            "id": "861389206161170432",
+            "text": "@DonaMed_VE @DonanteSangreVE Necesito ayuda con el medicamento llamado Lioresal u Baclofen en tableta de 10mg para un paciente ...cualquier informaci\u00f3n agradecida"
+        },
+        {
+            "created_at": "2017-05-06T23:30:19.000Z",
+            "id": "861000202232221696",
+            "text": "Brand And Generic Products For Sale. generic Lioresal 10 mg Price. Safe Website To Buy Generics #seosnapshot https://t.co/k808opf4Un https://t.co/A7d1UrnbCP"
+        },
+        {
+            "created_at": "2017-05-06T23:28:28.000Z",
+            "id": "860999737301811200",
+            "text": "#Banner prix le plus bas * Acheter Lioresal En Ligne France. Read Blog: https://t.co/6qFXD6AMxf"
+        },
+        {
+            "created_at": "2017-05-06T16:02:10.000Z",
+            "id": "860887419612155904",
+            "text": "bas prix / Lioresal G\u00e9n\u00e9rique Prix / R\u00e9ductions et la livraison gratuite appliqu\u00e9e https://t.co/0IoPgSzPmk"
+        },
+        {
+            "created_at": "2017-05-06T15:34:13.000Z",
+            "id": "860880386280357889",
+            "text": "Brand And Generic Products For Sale. generic Lioresal 10 mg Price. Safe Website To Buy Generics https://t.co/2SkdWvMtlG #SEM #Marketing"
+        },
+        {
+            "created_at": "2017-05-06T06:24:33.000Z",
+            "id": "860742058318991360",
+            "text": "I migliori prezzi online - Generico 10 mg Lioresal A buon mercato - Posta Aerea consegna https://t.co/Ow9S011j8z https://t.co/kJpR7Whumq"
+        },
+        {
+            "created_at": "2017-05-06T06:18:19.000Z",
+            "id": "860740489020153856",
+            "text": "Cheapest Lioresal Purchase - Worldwide Delivery (1-3 Days) - Sales And Free Pills With Ever... https://t.co/coDFv6iwAK https://t.co/Qkmnb3uDGO"
+        },
+        {
+            "created_at": "2017-05-05T03:00:06.000Z",
+            "id": "860328220943540225",
+            "text": "How Much Cost Lioresal 10 mg generic. Hot Weekly Specials. Trackable Delivery https://t.co/M0sdQNfjqK"
+        },
+        {
+            "created_at": "2017-05-04T18:52:30.000Z",
+            "id": "860205510125137920",
+            "text": "#serviciopublico con urgencia necesito para mi hijo hospitalizado en el Perez carre\u00f1o lioresal de 10 mg baclofen 04129639632 Vicente rojas"
+        },
+        {
+            "created_at": "2017-05-04T11:11:07.000Z",
+            "id": "860089400855846917",
+            "text": "@globovision #salud con urgencia necesito lioresal 10 mg baclofen para ni\u00f1o hospitalizado en el hospital Perez carre\u00f1o 0426 0867330"
+        },
+        {
+            "created_at": "2017-05-04T11:06:25.000Z",
+            "id": "860088217122615296",
+            "text": "@noticierovv #salud necesit\u00f3 ayuda con medicamento Lioresal 10mg  baclofen para ni\u00f1o hospitalizado en el hospital Perez carre\u00f1o 0426 0867330"
+        },
+        {
+            "created_at": "2017-05-03T20:14:52.000Z",
+            "id": "859863852833542144",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-05-03T20:03:14.000Z",
+            "id": "859860926509568000",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-05-03T19:31:25.000Z",
+            "id": "859852919453167618",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-05-01T11:13:27.000Z",
+            "id": "859002822658072576",
+            "text": "RT @seosnapshot: Hot Weekly Specials \u2013 K\u00f6pa P\u00e5 N\u00e4tet Lioresal 25 mg \u2013 Flygpost s\u00e4nda #seo#SEO https://t.co/PdSjqQG90h https://t.co/iDfYbvr9\u2026"
+        },
+        {
+            "created_at": "2017-05-01T06:45:48.000Z",
+            "id": "858935467588431872",
+            "text": "Hot Weekly Specials \u2013 K\u00f6pa P\u00e5 N\u00e4tet Lioresal 25 mg \u2013 Flygpost s\u00e4nda https://t.co/khgHCyGcG1 #sem"
+        },
+        {
+            "created_at": "2017-05-01T00:33:59.000Z",
+            "id": "858841896164089856",
+            "text": "Vi accepterar: VISA, Mastercard , Amex, Echeck \u2013 Lioresal P\u00e5 N\u00e4tet Forum https://t.co/MlGZaSBLAp"
+        },
+        {
+            "created_at": "2017-05-01T00:33:43.000Z",
+            "id": "858841829113962496",
+            "text": "Vi accepterar: VISA, Mastercard , Amex, Echeck \u2013 Lioresal P\u00e5 N\u00e4tet Forum https://t.co/XwXtfuI1DJ https://t.co/ybYvyLXrQp"
+        }
+    ],
+    "meta": {
+        "newest_id": "870058271645855744",
+        "oldest_id": "858841829113962496",
+        "result_count": 297
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

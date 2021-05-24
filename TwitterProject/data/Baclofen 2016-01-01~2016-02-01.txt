@@ -1,0 +1,558 @@
+{
+    "data": [
+        {
+            "created_at": "2016-01-21T17:39:40.000Z",
+            "id": "690227274373685248",
+            "text": "https://t.co/3ymqTSCF35 #iAsk #\u85e5\u54c1 #\u91ab\u7642 #\u6210\u85e5 #\u61f7\u5b55 #\u5b55\u5a66 \u61f7\u5b55\u53ef\u4ee5\u4f7f\u7528BACLOSPAS TABLETS 5MG\u55ce\uff1f"
+        }
+    ],
+    "meta": {
+        "newest_id": "690227274373685248",
+        "oldest_id": "690227274373685248",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-01-30T19:35:34.000Z",
+            "id": "693517931225939970",
+            "text": "@wettel si ella tomaba Lioresal que la ayudaba con esos espasmos... pero ya no se consigue.... y ha logrado sobreponerse"
+        },
+        {
+            "created_at": "2016-01-30T02:18:29.000Z",
+            "id": "693256942140178432",
+            "text": "Lioresal | Orders ,Next Day No Prescription In Australia | Order Online Cheap Lioresal: Wholesale Lioresal Without\u2026"
+        },
+        {
+            "created_at": "2016-01-29T14:43:37.000Z",
+            "id": "693082074073448448",
+            "text": "@FundacionBADAN \u00bfTendr\u00e1n alguna presentaci\u00f3n de Baclofeno 10mg (Lioresal)? Para espasticidad por ACV"
+        },
+        {
+            "created_at": "2016-01-28T08:01:59.000Z",
+            "id": "692618609336528897",
+            "text": "Lioresal Label: We've got six Polar Plunges around the state that help raise funds for and awaren-USess of Lio... https://t.co/ny8RiijUML"
+        },
+        {
+            "created_at": "2016-01-28T02:08:28.000Z",
+            "id": "692529645804220416",
+            "text": "@ConElMazoDando la ni\u00f1a aleiber de 5 a\u00f1os esta complicada al parecer morir\u00e1 sin la medicamentos lioresal o baclofeno por favor ayudalos"
+        },
+        {
+            "created_at": "2016-01-27T16:32:07.000Z",
+            "id": "692384602946736128",
+            "text": "@LocatelVzla_ATC Buenas tardes, donde consigo Baclofeno o Lioresal de 10 o 25mg"
+        },
+        {
+            "created_at": "2016-01-26T18:36:49.000Z",
+            "id": "692053595592769536",
+            "text": "RT @FARMAXIMA: #Urgente #medicamento  lioresal o baclofeno para su ayuda x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2016-01-26T18:22:01.000Z",
+            "id": "692049870732001280",
+            "text": "RT @MariaDeJesusCG1: Soy Asdrubal Gonzalez, desesperadamente solicito: LIORESAL o BACLOFENO. Mi hija puede morir sin este medicamento. 0414\u2026"
+        },
+        {
+            "created_at": "2016-01-26T17:10:09.000Z",
+            "id": "692031786776444928",
+            "text": "@joseolivaresm #CrisisHumanitariaEnVenezuela no hay aprovel, arav\u00e1, daflon, valpron, benicar, olmetec, lioresal, madopar. Nos est\u00e1n matando"
+        },
+        {
+            "created_at": "2016-01-24T23:38:26.000Z",
+            "id": "691404725888118785",
+            "text": "#ServicioP\u00fablico RILUTEK 50 MG y LIORESAL 10MG. Paciente en estado delicado. Agradecida"
+        },
+        {
+            "created_at": "2016-01-24T17:34:54.000Z",
+            "id": "691313238055743488",
+            "text": "@fybeca tienen lioresal o baclofeno? Alguna forma de que empiece ayuden a conseguirlo? Tengo la receta. Es para mi nena con PCI"
+        },
+        {
+            "created_at": "2016-01-24T17:26:22.000Z",
+            "id": "691311088659533824",
+            "text": "@Pharma_Data i need to buy lioresal. can I buy it online since I'm from Ecuador? I need it urgently  4 my daughter they don't sell it here"
+        },
+        {
+            "created_at": "2016-01-23T03:42:06.000Z",
+            "id": "690741269686030336",
+            "text": "Me ayudan con RT? Necesito pastillas Baclofeno o lioresal de 10mg URG. Si alguien tiene info por favor avisenme"
+        },
+        {
+            "created_at": "2016-01-23T01:07:28.000Z",
+            "id": "690702356044988417",
+            "text": "#Pharmaceuticals LIORESAL 10 : Tablet : 10mg : Novartis Pharma AG, Switzerland : https://t.co/UtRNDTvRPs #MarketResearch #Statistics"
+        },
+        {
+            "created_at": "2016-01-22T21:03:49.000Z",
+            "id": "690641036658499584",
+            "text": "Order Baclofen 10 mg Low Price - How to Purchase Lioresal Fast Delivery https://t.co/UvF0qMiugn #medical #blog #health"
+        },
+        {
+            "created_at": "2016-01-22T17:52:32.000Z",
+            "id": "690592897666658304",
+            "text": "Forum Pompe Lioresal https://t.co/EjRTiUqleq"
+        },
+        {
+            "created_at": "2016-01-21T23:09:19.000Z",
+            "id": "690310233147711488",
+            "text": "URGENTE RT. se necesita BACLOFENO o LIORESAL en cualquier presentacion para ni\u00f1a d 5 a\u00f1os.Telf.0414-4603470. 0416-9467608. ASDRUBAL GONZALEZ"
+        },
+        {
+            "created_at": "2016-01-21T19:02:55.000Z",
+            "id": "690248222326046721",
+            "text": "@LaHojillaenTV camarada ayudame a conseguir el medicamento Lioresal de 10mg en tableta.(Baclofen) soy docente y estoy en silla.04167411458"
+        },
+        {
+            "created_at": "2016-01-21T15:31:46.000Z",
+            "id": "690195087846940672",
+            "text": "RT @nicolasgreige: LIORESAL o BACLOFENO URGENTE!!!..para ni\u00f1a 5 a\u00f1os recluida en el HCM d Aragua.Llamar al 04144603470 04169467608 04124452\u2026"
+        },
+        {
+            "created_at": "2016-01-21T15:31:35.000Z",
+            "id": "690195041323728896",
+            "text": "RT @mary2012f: @FLaPastillita Urgente  lioresal o baclofeno.en la presentaci\u00f3n q sea d los Ml q sea, la ni\u00f1a puede morir sin esta medicina.\u2026"
+        },
+        {
+            "created_at": "2016-01-21T15:31:29.000Z",
+            "id": "690195013276405760",
+            "text": "RT @Ascensaojose: (MARACAY) Amigos soy Asdrubal Gonzales,  les solicito Urgente  lioresal o baclofeno. Comunicarse 04144603470 04169467608 \u2026"
+        },
+        {
+            "created_at": "2016-01-21T14:52:00.000Z",
+            "id": "690185080019533826",
+            "text": "RT @Ascensaojose: (MARACAY) Amigos soy Asdrubal Gonzales,  les solicito Urgente  lioresal o baclofeno. Comunicarse 04144603470 04169467608 \u2026"
+        },
+        {
+            "created_at": "2016-01-20T13:57:52.000Z",
+            "id": "689809068316323840",
+            "text": "(MARACAY) Amigos soy Asdrubal Gonzales,  les solicito Urgente  lioresal o baclofeno. Comunicarse 04144603470 04169467608 04124452846 Urgent"
+        },
+        {
+            "created_at": "2016-01-20T13:34:40.000Z",
+            "id": "689803230566584320",
+            "text": "@FLaPastillita Urgente  lioresal o baclofeno.en la presentaci\u00f3n q sea d los Ml q sea, la ni\u00f1a puede morir sin esta medicina. 04144603470"
+        },
+        {
+            "created_at": "2016-01-20T13:32:33.000Z",
+            "id": "689802695448907776",
+            "text": "@FundacionBADAN Urgente  lioresal o baclofeno.en la presentaci\u00f3n q sea d los Ml q sea, la ni\u00f1a puede morir sin este medicina. 04144603470"
+        },
+        {
+            "created_at": "2016-01-20T06:10:28.000Z",
+            "id": "689691442801876992",
+            "text": "Where to Buy Baclofen (Lioresal) 10, 25\u00a0mg https://t.co/wN8eHtNvhe"
+        },
+        {
+            "created_at": "2016-01-20T02:47:58.000Z",
+            "id": "689640482939478016",
+            "text": "Urgente  lioresal o baclofeno matar bacteria t\u00e9tano.Aleiber d 5 a\u00f1os recluida HCM d Aragua04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2016-01-19T21:36:10.000Z",
+            "id": "689562016172904448",
+            "text": "LIORESAL o BACLOFENO URGENTE!!!..para ni\u00f1a 5 a\u00f1os recluida en el HCM d Aragua.Llamar al 04144603470 04169467608 04124452846\nURGENTE..!"
+        },
+        {
+            "created_at": "2016-01-18T00:38:24.000Z",
+            "id": "688883098164027393",
+            "text": "RT @Lakers2808Maria: URGENTE lioresal o baclofeno en la presentaci\u00f3n q sea llama:  04144603470 04169467608 04124452846 salva una vida d una\u2026"
+        },
+        {
+            "created_at": "2016-01-17T14:54:28.000Z",
+            "id": "688736148122914817",
+            "text": "#Pharmaceuticals LIORESAL 25 : Tablet : 25mg : Novartis Pharma AG, Switzerland : https://t.co/60SqnhLX7i #MarketResearch #Statistics"
+        },
+        {
+            "created_at": "2016-01-16T11:17:56.000Z",
+            "id": "688319265955561472",
+            "text": "#Pharmaceutical baclofen : Lioresal Intrathecal : https://t.co/eSCC4VuxIi #MRX #Surveys #MarketResearchReports #Forecasts #Marketing"
+        },
+        {
+            "created_at": "2016-01-15T22:39:21.000Z",
+            "id": "688128363144187904",
+            "text": "Baclofen 25mg buy - Where Can I Buy Lioresal  Online https://t.co/P6IMJb9ITd #medical #blog #health"
+        },
+        {
+            "created_at": "2016-01-14T02:12:10.000Z",
+            "id": "687457144749322240",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado #serviciopublico @LuisChat\u2026"
+        },
+        {
+            "created_at": "2016-01-14T02:05:10.000Z",
+            "id": "687455386069266433",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado #serviciopublico @LuisChat\u2026"
+        },
+        {
+            "created_at": "2016-01-13T21:46:11.000Z",
+            "id": "687390210150297601",
+            "text": "RT @ariadnerv: @Akiztapp @Donatumed @DonaMed_VE Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral! (\u2026"
+        },
+        {
+            "created_at": "2016-01-13T21:38:00.000Z",
+            "id": "687388148217843712",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T21:29:48.000Z",
+            "id": "687386085949845504",
+            "text": "RT @ariadnerv: @Akiztapp @Donatumed @DonaMed_VE Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral! (\u2026"
+        },
+        {
+            "created_at": "2016-01-13T21:25:11.000Z",
+            "id": "687384924287037440",
+            "text": "RT @Akiztapp: @ariadnerv @Donatumed @DonaMed_VE no disponib Lioresal en nuestras farmacias afiliadas"
+        },
+        {
+            "created_at": "2016-01-13T21:23:57.000Z",
+            "id": "687384614160220161",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado #serviciopublico @LuisChat\u2026"
+        },
+        {
+            "created_at": "2016-01-13T21:22:41.000Z",
+            "id": "687384293891543044",
+            "text": "RT @ariadnerv: @Akiztapp @Donatumed @DonaMed_VE Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral! (\u2026"
+        },
+        {
+            "created_at": "2016-01-13T21:21:22.000Z",
+            "id": "687383962889662465",
+            "text": "RT @ariadnerv: @Akiztapp @Donatumed @DonaMed_VE Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral! (\u2026"
+        },
+        {
+            "created_at": "2016-01-13T21:21:15.000Z",
+            "id": "687383935442141185",
+            "text": "@ariadnerv @Donatumed @DonaMed_VE no disponib Lioresal en nuestras farmacias afiliadas"
+        },
+        {
+            "created_at": "2016-01-13T20:57:15.000Z",
+            "id": "687377894029537284",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T20:35:01.000Z",
+            "id": "687372297968160769",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T20:24:33.000Z",
+            "id": "687369663655886848",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T20:23:55.000Z",
+            "id": "687369505232785408",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T20:09:28.000Z",
+            "id": "687365870197338114",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T20:07:58.000Z",
+            "id": "687365492890308614",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T20:06:22.000Z",
+            "id": "687365087817023488",
+            "text": "RT @martinezantia: \"@ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi herm\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:57:57.000Z",
+            "id": "687362972939894784",
+            "text": "RT @martinezantia: \"@ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi herm\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:55:37.000Z",
+            "id": "687362382713229316",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado #serviciopublico @LuisChat\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:54:29.000Z",
+            "id": "687362096544235520",
+            "text": "RT @martinezantia: \"@ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi herm\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:52:29.000Z",
+            "id": "687361594146291712",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:51:07.000Z",
+            "id": "687361252595789826",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado #serviciopublico @LuisChat\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:48:09.000Z",
+            "id": "687360505799917568",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:48:05.000Z",
+            "id": "687360488632659968",
+            "text": "@Akiztapp @Donatumed @DonaMed_VE Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral! (Se puede pagar)"
+        },
+        {
+            "created_at": "2016-01-13T19:46:58.000Z",
+            "id": "687360204925702144",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado #serviciopublico @LuisChat\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:44:42.000Z",
+            "id": "687359635578318848",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:36:04.000Z",
+            "id": "687357464157753344",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:34:58.000Z",
+            "id": "687357184880029697",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:33:19.000Z",
+            "id": "687356772844204032",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:32:49.000Z",
+            "id": "687356644083105792",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:31:34.000Z",
+            "id": "687356332886851587",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:31:04.000Z",
+            "id": "687356205715603456",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:29:51.000Z",
+            "id": "687355901142020096",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:28:58.000Z",
+            "id": "687355678382518273",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:27:57.000Z",
+            "id": "687355422559322112",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:27:41.000Z",
+            "id": "687355355546923008",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT\u2026"
+        },
+        {
+            "created_at": "2016-01-13T19:27:12.000Z",
+            "id": "687355233429811201",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:23:54.000Z",
+            "id": "687354402584293380",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:23:28.000Z",
+            "id": "687354293473677313",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:21:39.000Z",
+            "id": "687353835191451648",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:16:48.000Z",
+            "id": "687352615559139328",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:16:24.000Z",
+            "id": "687352513046142976",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:16:05.000Z",
+            "id": "687352436772737025",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:15:41.000Z",
+            "id": "687352335245389824",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:15:13.000Z",
+            "id": "687352217788125185",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:15:03.000Z",
+            "id": "687352173756289024",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:10:31.000Z",
+            "id": "687351033673158656",
+            "text": "Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado #serviciopublico @LuisChataing porfa Rt \ud83d\ude4f\ud83c\udffb"
+        },
+        {
+            "created_at": "2016-01-13T19:10:29.000Z",
+            "id": "687351024126980096",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:09:59.000Z",
+            "id": "687350897702236160",
+            "text": "RT @ariadnerv: Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:09:33.000Z",
+            "id": "687350790248370176",
+            "text": "Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado por favor Rt!! @CATERINAV"
+        },
+        {
+            "created_at": "2016-01-13T19:09:09.000Z",
+            "id": "687350690256154625",
+            "text": "Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para mi hermano con trauma cerebral delicado, por favor Rt!! @MelanioBar"
+        },
+        {
+            "created_at": "2016-01-13T19:08:21.000Z",
+            "id": "687350486740156416",
+            "text": "Se requiere LIORESAL comp 10 mg y RITALIN comp 10 mg para paciente con trauma cerebral delicado, es mi hermano! Por favor RT @ElNacionalWeb"
+        },
+        {
+            "created_at": "2016-01-13T16:21:18.000Z",
+            "id": "687308447826722816",
+            "text": "URGENTE lioresal o baclofeno en la presentaci\u00f3n q sea llama:  04144603470 04169467608 04124452846 salva una vida d una ni\u00f1a 5anos en el HCM"
+        },
+        {
+            "created_at": "2016-01-12T22:46:36.000Z",
+            "id": "687043023776165889",
+            "text": "RT @wikisext: sext: i carelessly strengthen my wrists while you carelessly take 40-80 mg of baclofen (lioresal) every day"
+        },
+        {
+            "created_at": "2016-01-12T15:43:05.000Z",
+            "id": "686936445261623296",
+            "text": "@TaniaGRM PARA MI SOBRINO DE 3 A\u00d1OS DE EDAD CON PARALISIS CEREBRAL NECESITO LIORESAL DE 10MG MI CEL 04245159501"
+        },
+        {
+            "created_at": "2016-01-12T15:42:42.000Z",
+            "id": "686936348532600832",
+            "text": "@TaniaGRM PARA MI SOBRINO DE 3 A\u00d1OS DE EDAD CON PARALISIS CEREBRAL NECESITO LIORESAL DE 10MG MI CEL 04245159501 DIOS TE SIGA BENDICIENDO"
+        },
+        {
+            "created_at": "2016-01-12T15:34:49.000Z",
+            "id": "686934364962295809",
+            "text": "@TaniaGRM saludos coraz\u00f3n me puedas ayudar mi sobrino de 3 a\u00f1os tiene Paralisis cerebral necesita lioresal de 10mg https://t.co/5JhuydygKL"
+        },
+        {
+            "created_at": "2016-01-11T16:01:48.000Z",
+            "id": "686578764554342400",
+            "text": "Lioresal o baclofeno para ni\u00f1a en HC de Mcy grave por t\u00e9tano se requiere urgente."
+        },
+        {
+            "created_at": "2016-01-11T14:08:38.000Z",
+            "id": "686550288539463680",
+            "text": "Buen d\u00eda @enfunbe BACLOFENO 10MG/20ML AMP LIORESAL INTRATE disponible en algunas sucursales, saludos"
+        },
+        {
+            "created_at": "2016-01-10T16:10:43.000Z",
+            "id": "686218622210064385",
+            "text": "Urgente LIORESAL o BACLOFENO. Paciente de 5 a\u00f1os HCM Maracay. CTC 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2016-01-10T14:36:32.000Z",
+            "id": "686194921766793216",
+            "text": "Buy Baclofen 25mg online - Where to Buy Lioresal Free Delivery https://t.co/ar52gUEw5m #medical #blog #health"
+        },
+        {
+            "created_at": "2016-01-09T01:18:35.000Z",
+            "id": "685631722281693184",
+            "text": "RT @RafaRyes: #ServicioP\u00fablico ni\u00f1a con tetano Maracay Urgente medicamento BACROFENO o LIORESAL 04169467608 04124442846  @Elangeologo @gilb\u2026"
+        },
+        {
+            "created_at": "2016-01-08T21:19:22.000Z",
+            "id": "685571521511841792",
+            "text": "@trafficLARA alguien q tenga Urgente  lioresal o baclofeno...urgente!!!."
+        },
+        {
+            "created_at": "2016-01-08T20:25:33.000Z",
+            "id": "685557976971800577",
+            "text": "@FundacionBADAN @lisdelvalle25 tendran lioresal"
+        },
+        {
+            "created_at": "2016-01-07T17:54:07.000Z",
+            "id": "685157479265615875",
+            "text": "sext: i carelessly strengthen my wrists while you carelessly take 40-80 mg of baclofen (lioresal) every day"
+        },
+        {
+            "created_at": "2016-01-07T03:31:51.000Z",
+            "id": "684940483999576065",
+            "text": "Esta ni\u00f1a solicita con urgencia: Lioresal o Baclofeno por favor comuniquese al 04144603470 04169467608 o 04124452846 por favor."
+        },
+        {
+            "created_at": "2016-01-06T08:13:33.000Z",
+            "id": "684648987190800384",
+            "text": "Baclofen 10mg order no rx. Can I Purchase Lioresal  Online https://t.co/oSa1CO0Ouy #medical #blog #health"
+        },
+        {
+            "created_at": "2016-01-05T19:55:03.000Z",
+            "id": "684463137651843073",
+            "text": "@LocatelVzla_ATC  necedito con urgencia lioresal o baclofeno   o su componente activo de 25 mg, gracias"
+        },
+        {
+            "created_at": "2016-01-04T11:46:46.000Z",
+            "id": "683977871526854656",
+            "text": "@noticierovv  @novartis @TelevenTV  urgente lioresal (baclofeno) 10mg su ayuda por favor mas de 2 meses buscando 04269923024"
+        },
+        {
+            "created_at": "2016-01-04T11:45:48.000Z",
+            "id": "683977627326115840",
+            "text": "Baclofen 25mg buy online. How to Order Lioresal  Online https://t.co/7vLJsx4q2M #medical #blog #health"
+        },
+        {
+            "created_at": "2016-01-04T11:39:21.000Z",
+            "id": "683976001542578177",
+            "text": "@Maby80 @danicabello11 @vwinstonv urgente lioresal (baclofeno) 10 mg 04269923024 mas de 2 meses busc\u00e1ndolo"
+        },
+        {
+            "created_at": "2016-01-04T11:38:03.000Z",
+            "id": "683975675984887809",
+            "text": "@ConElMazoDando @NicolasMaduro @ConCiliaFlores urgente lioresal (baclofeno) 10mg su ayuda por favor mas de 2 meses buscando 04269923024"
+        }
+    ],
+    "meta": {
+        "newest_id": "693517931225939970",
+        "oldest_id": "683975675984887809",
+        "result_count": 104
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

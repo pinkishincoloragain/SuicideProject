@@ -1,0 +1,483 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-09-12T17:27:35.000Z",
+            "id": "907656951504371712",
+            "text": "Gablofen (Baclofen Injection): Side Effects, Interactions, Warning, Dosage &amp; Uses https://t.co/NDE9LIsV3M"
+        }
+    ],
+    "meta": {
+        "newest_id": "907656951504371712",
+        "oldest_id": "907656951504371712",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-09-30T22:19:47.000Z",
+            "id": "914253466415099910",
+            "text": "RT @fundacionjesed: Lioresal 10mg. Disponible para donaci\u00f3n se requiere c\u00e9dula recipe e informe m\u00e9dico al correo\u2026 https://t.co/uVcgSF6TrM"
+        },
+        {
+            "created_at": "2017-09-30T22:02:54.000Z",
+            "id": "914249220219183104",
+            "text": "RT @fundacionjesed: Lioresal 10mg. Disponible para donaci\u00f3n se requiere c\u00e9dula recipe e informe m\u00e9dico al correo\u2026 https://t.co/uVcgSF6TrM"
+        },
+        {
+            "created_at": "2017-09-30T21:54:39.000Z",
+            "id": "914247141182320641",
+            "text": "RT @fundacionjesed: Lioresal 10mg. Disponible para donaci\u00f3n se requiere c\u00e9dula recipe e informe m\u00e9dico al correo\u2026 https://t.co/uVcgSF6TrM"
+        },
+        {
+            "created_at": "2017-09-30T21:44:57.000Z",
+            "id": "914244704232976384",
+            "text": "RT @fundacionjesed: Lioresal 10mg. Disponible para donaci\u00f3n se requiere c\u00e9dula recipe e informe m\u00e9dico al correo\u2026 https://t.co/uVcgSF6TrM"
+        },
+        {
+            "created_at": "2017-09-30T21:42:17.000Z",
+            "id": "914244032737562627",
+            "text": "RT @fundacionjesed: Lioresal 10mg. Disponible para donaci\u00f3n se requiere c\u00e9dula recipe e informe m\u00e9dico al correo\u2026 https://t.co/uVcgSF6TrM"
+        },
+        {
+            "created_at": "2017-09-30T21:28:46.000Z",
+            "id": "914240629139525632",
+            "text": "RT @fundacionjesed: Lioresal 10mg. Disponible para donaci\u00f3n se requiere c\u00e9dula recipe e informe m\u00e9dico al correo\u2026 https://t.co/uVcgSF6TrM"
+        },
+        {
+            "created_at": "2017-09-30T18:31:40.000Z",
+            "id": "914196059173265408",
+            "text": "Lioresal 10mg. Disponible para donaci\u00f3n se requiere c\u00e9dula recipe e informe m\u00e9dico al correo\u2026 https://t.co/uVcgSF6TrM"
+        },
+        {
+            "created_at": "2017-09-28T06:11:30.000Z",
+            "id": "913285015269765120",
+            "text": "@IoW_Sparky @ianmodmoore How about trying Lioresal ? Its not for that but it can help."
+        },
+        {
+            "created_at": "2017-09-20T20:47:29.000Z",
+            "id": "910606361309990913",
+            "text": "@FundacionBADAN tienen disponible lioresal en capsulas?"
+        },
+        {
+            "created_at": "2017-09-19T16:55:40.000Z",
+            "id": "910185636111450112",
+            "text": "@FundacionBADAN  por favor , tendr\u00e1n Lioresal o Baclofen en pastillas, de 10 o 25 mg. Gracias"
+        },
+        {
+            "created_at": "2017-09-18T22:01:29.000Z",
+            "id": "909900209869565954",
+            "text": "#MeeksBoutique Acquistare Lioresal Generico In linea - Liberano Corriere Consegna - Sconto ... Read Blog: https://t.co/Vp6ivqUPQM"
+        },
+        {
+            "created_at": "2017-09-18T15:25:24.000Z",
+            "id": "909800530763042816",
+            "text": "@FundacionBADAN Buenos d\u00edas, tendr\u00e1n Lioresal en la sucursal de maracaibo @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-09-17T18:31:43.000Z",
+            "id": "909485029998366721",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-09-16T21:33:33.000Z",
+            "id": "909168403897884672",
+            "text": "New post: Utan Recept 25 mg Lioresal Ink\u00f6p \u2013 B\u00e4st Betyg P\u00e5 N\u00e4tetapotek \u2013 24h P\u00e5 n\u00e4tet st\u00f6dtj\u00e4nsten https://t.co/nopa4sgaxN"
+        },
+        {
+            "created_at": "2017-09-16T21:31:49.000Z",
+            "id": "909167966356250624",
+            "text": "#Thememonstor Avec Prescription - M\u00e9dicament Lioresal 10 mg. Read Blog: https://t.co/fAFMUMj2aA"
+        },
+        {
+            "created_at": "2017-09-16T04:16:26.000Z",
+            "id": "908907402510065664",
+            "text": "Solely one hundred% High quality * Buy Low cost Lioresal On-line * Free Courier Supply https://t.co/0iaJ0MrNkG"
+        },
+        {
+            "created_at": "2017-09-15T20:16:31.000Z",
+            "id": "908786627694051328",
+            "text": "#GlobalStudyHelpersGlobalstudyhelpers Price Lioresal 25 mg cheap :: Best Place To Purchase ... Read Blog: https://t.co/5CwgMfbACI"
+        },
+        {
+            "created_at": "2017-09-15T10:21:35.000Z",
+            "id": "908636907403276289",
+            "text": "#MgrmPinnacleInternationalHighSchool Buy Cheap Lioresal Online :: Discount Pharmacy Online. Read Blog: https://t.co/0ksVG8FBKB"
+        },
+        {
+            "created_at": "2017-09-14T14:27:27.000Z",
+            "id": "908336394782875648",
+            "text": "Pharmacie Lioresal :: Meilleure offre sur les m\u00e9dicaments g\u00e9n\u00e9riques :: Internationale Pharmacie... #news #Milano https://t.co/FTx11ueyJ4"
+        },
+        {
+            "created_at": "2017-09-13T14:14:24.000Z",
+            "id": "907970725801287680",
+            "text": "RT @jarivs1: Buenos d\u00edas @FundacionBADAN quiero preguntar sobre estos medicamentos sirdalub 2 o 4 mg, lioresal 10 o 20 mg, muchas gracias"
+        },
+        {
+            "created_at": "2017-09-13T13:18:28.000Z",
+            "id": "907956647712014336",
+            "text": "Buenos d\u00edas @FundacionBADAN quiero preguntar sobre estos medicamentos sirdalub 2 o 4 mg, lioresal 10 o 20 mg, muchas gracias"
+        },
+        {
+            "created_at": "2017-09-12T22:44:23.000Z",
+            "id": "907736678168616960",
+            "text": "#Safebridgeofhelp.org 24/7 Customer Support Generic Lioresal Buy. Read Blog: https://t.co/9fSPft3c7M"
+        },
+        {
+            "created_at": "2017-09-12T20:19:03.000Z",
+            "id": "907700103653203968",
+            "text": "#GlobalStudyHelpersGlobalstudyhelpers Price Lioresal 25 mg cheap :: Best Place To Purchase ... Read Blog: https://t.co/eLbQzpUQKp"
+        },
+        {
+            "created_at": "2017-09-12T04:01:02.000Z",
+            "id": "907453975104049152",
+            "text": "Hey, es gibt Neuigkeiten bei WIE-ICH: Lioresal | Can I Purchase 5738E https://t.co/vPAp2RAgWD #wieich"
+        },
+        {
+            "created_at": "2017-09-11T12:31:19.000Z",
+            "id": "907220007758725124",
+            "text": "@FundacionBADAN Buenos d\u00edas tendr\u00e1n disponible Lamotrigina de 50 Lioresal de 10 y xarelto de 20"
+        },
+        {
+            "created_at": "2017-09-11T01:47:21.000Z",
+            "id": "907057945719955456",
+            "text": "Buy Baclofen Online (Lioresal): Don't Use for Skeletal... https://t.co/tEsDjFwEpa"
+        },
+        {
+            "created_at": "2017-09-10T13:09:45.000Z",
+            "id": "906867291698077696",
+            "text": "#TransformationalSchoolOfBusiness Cheap Pharmacy No Prescription cheapest Lioresal Best Pla... Read Blog: https://t.co/MO2xasKmWB"
+        },
+        {
+            "created_at": "2017-09-10T09:59:32.000Z",
+            "id": "906819420810444801",
+            "text": "#TransformationalSchoolOfBusiness Best Place To Order 10 mg Lioresal - BitCoin Accepted. Read Blog: https://t.co/tyDXtV7wfL"
+        },
+        {
+            "created_at": "2017-09-10T05:54:18.000Z",
+            "id": "906757707209650176",
+            "text": "#TransformationalSchoolOfBusiness Cheap Pharmacy Online Overnight - Generic Lioresal Over T... Read Blog: https://t.co/HSW2rUTvW8"
+        },
+        {
+            "created_at": "2017-09-09T21:39:19.000Z",
+            "id": "906633140843589632",
+            "text": "#GlobalStudyHelpersGlobalstudyhelpers La Morue Livraison Lioresal En Ligne Au Canada. Read Blog: https://t.co/aOxAd5cTRI"
+        },
+        {
+            "created_at": "2017-09-09T20:12:04.000Z",
+            "id": "906611181707841537",
+            "text": "Hey, es gibt Neuigkeiten bei WIE-ICH: Lioresal | Purchase Medication https://t.co/v5gRe95t6n #wieich"
+        },
+        {
+            "created_at": "2017-09-09T11:01:02.000Z",
+            "id": "906472509309984768",
+            "text": "#Safebridgeofhelp.org 24/7 Customer Support Generic Lioresal Buy. Read Blog: https://t.co/KDRbmynPlG"
+        },
+        {
+            "created_at": "2017-09-09T04:30:56.000Z",
+            "id": "906374336952508416",
+            "text": "#MeeksBoutique 25 mg Lioresal How Much / Licensed And Generic Products For Sale / Cheap Pha... Read Blog: https://t.co/esBrZwHW5r"
+        },
+        {
+            "created_at": "2017-09-07T00:59:25.000Z",
+            "id": "905596334442471428",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-06T18:06:11.000Z",
+            "id": "905492339472420864",
+            "text": "Buy Baclofen Online (Lioresal): Don't Use for Skeletal... https://t.co/TtJH8HQDlG"
+        },
+        {
+            "created_at": "2017-09-05T22:52:57.000Z",
+            "id": "905202117975187457",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-05T21:36:41.000Z",
+            "id": "905182926295502848",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-05T21:30:26.000Z",
+            "id": "905181351619514369",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-05T18:01:02.000Z",
+            "id": "905128653708775424",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-05T17:18:20.000Z",
+            "id": "905117908841488384",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-05T11:46:53.000Z",
+            "id": "905034495887323136",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-05T05:20:27.000Z",
+            "id": "904937247413239808",
+            "text": "New post: Acquista Generico Lioresal 25 mg In linea \u2013 Best Deal sui farmaci generici \u2013 In linea di droga negozio https://t.co/ZQflc6XTRh"
+        },
+        {
+            "created_at": "2017-09-04T23:02:26.000Z",
+            "id": "904842117192744960",
+            "text": "New post: Online Lioresal Purchase. Reliable, Fast And Secure https://t.co/6Fk2nIHvRS"
+        },
+        {
+            "created_at": "2017-09-04T19:05:31.000Z",
+            "id": "904782492904935424",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T18:41:16.000Z",
+            "id": "904776392633704448",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T17:48:58.000Z",
+            "id": "904763229565542400",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T12:34:28.000Z",
+            "id": "904684082172395520",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T10:38:40.000Z",
+            "id": "904654943570857986",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T03:51:32.000Z",
+            "id": "904552481954430976",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T03:45:43.000Z",
+            "id": "904551019362865152",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T02:07:48.000Z",
+            "id": "904526377256407040",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T02:04:41.000Z",
+            "id": "904525594309910528",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T02:03:33.000Z",
+            "id": "904525308203855872",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T02:02:18.000Z",
+            "id": "904524996067946496",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T01:29:02.000Z",
+            "id": "904516621938679809",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-04T00:39:53.000Z",
+            "id": "904504252084649988",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T23:29:02.000Z",
+            "id": "904486421188288512",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T23:08:42.000Z",
+            "id": "904481307262156801",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T23:08:03.000Z",
+            "id": "904481143059353600",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T23:05:40.000Z",
+            "id": "904480542720225284",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T23:04:19.000Z",
+            "id": "904480203686256643",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T22:54:56.000Z",
+            "id": "904477840464388096",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T22:54:35.000Z",
+            "id": "904477753143169029",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T22:54:20.000Z",
+            "id": "904477688659881984",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T22:52:00.000Z",
+            "id": "904477104087212032",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T22:50:07.000Z",
+            "id": "904476631624015872",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T22:44:32.000Z",
+            "id": "904475224737030145",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T22:09:50.000Z",
+            "id": "904466493617958912",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:46:17.000Z",
+            "id": "904445466078842880",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:38:10.000Z",
+            "id": "904443423389868032",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:37:54.000Z",
+            "id": "904443357774188544",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:30:39.000Z",
+            "id": "904441530072440832",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:28:42.000Z",
+            "id": "904441042824560642",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:28:12.000Z",
+            "id": "904440916211105792",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:22:38.000Z",
+            "id": "904439516164960256",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:22:33.000Z",
+            "id": "904439492114776066",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:17:32.000Z",
+            "id": "904438231797727233",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:08:04.000Z",
+            "id": "904435847356977152",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:05:53.000Z",
+            "id": "904435297437581316",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T20:04:48.000Z",
+            "id": "904435025218863104",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T19:42:10.000Z",
+            "id": "904429329098186753",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T18:54:21.000Z",
+            "id": "904417298961883136",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T18:51:16.000Z",
+            "id": "904416522164195328",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T18:47:55.000Z",
+            "id": "904415678328958976",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T18:42:31.000Z",
+            "id": "904414319110234112",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T18:29:05.000Z",
+            "id": "904410937129623554",
+            "text": "RT @MariannyVP: #ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\u2026"
+        },
+        {
+            "created_at": "2017-09-03T18:27:25.000Z",
+            "id": "904410520417075200",
+            "text": "#ServicioPublico Requiero con URGENCIA: Neurontin (gabapentina) 600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg @trafficLARA"
+        },
+        {
+            "created_at": "2017-09-03T01:15:27.000Z",
+            "id": "904150815664996352",
+            "text": "Comparateur Prix Lioresal Airmail Livraison Envoie Rapide: Comparateur Prix Lioresal\u2026 https://t.co/gL6DnUatM8"
+        },
+        {
+            "created_at": "2017-09-02T10:18:30.000Z",
+            "id": "903925090265554944",
+            "text": "Payer Par BTC \u2013 Lioresal Pas Cher En Pharmacie \u2013 Pilules g\u00e9n\u00e9riques en ligne: Lioresal Pas\u2026 https://t.co/38olwLCIjl"
+        }
+    ],
+    "meta": {
+        "newest_id": "914253466415099910",
+        "oldest_id": "903925090265554944",
+        "result_count": 89
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

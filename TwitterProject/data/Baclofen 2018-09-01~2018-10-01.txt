@@ -1,0 +1,279 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2018-09-28T13:49:00.000Z",
+            "id": "1045671721976631296",
+            "text": "Main uses:  A muscle relaxant and antispastic agent used in diseases such as multiple sclerosis and spinal cord disorders.\nhttps://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-09-23T09:55:53.000Z",
+            "id": "1043801114217451520",
+            "text": "Best\u00e4lla 10 mg Lioresal L\u00e4kemedel \u2013 FDA godk\u00e4nt Health Products \u2013 Hela v\u00e4rlden Frakt (3-7\u2026 https://t.co/P4g2EDgQRm"
+        },
+        {
+            "created_at": "2018-09-22T02:58:49.000Z",
+            "id": "1043333769636274176",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T13:25:55.000Z",
+            "id": "1043129198011969542",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T13:11:28.000Z",
+            "id": "1043125560866746369",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T12:59:04.000Z",
+            "id": "1043122438018662401",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T12:57:56.000Z",
+            "id": "1043122154575941633",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T12:55:58.000Z",
+            "id": "1043121660189175808",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T12:53:48.000Z",
+            "id": "1043121114107535360",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T12:51:33.000Z",
+            "id": "1043120546475634688",
+            "text": "RT @VPITV: #21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLior\u2026"
+        },
+        {
+            "created_at": "2018-09-21T12:50:10.000Z",
+            "id": "1043120199174639616",
+            "text": "#21Sep #ServicioP\u00fablico \n\nCedax 400mg\nLongacef 400mg\nFlugram 875mg \nNitrofuranto\u00edna 50 o 100mg\nNeurontin (gabapentina)600mg\nLioresal (baclofeno) 25mg\nLiryca (pregabalina) 150mg\n\nContacto: Marianny Linarez\n04160539614 https://t.co/iQ1kWy2vSB"
+        },
+        {
+            "created_at": "2018-09-19T14:46:30.000Z",
+            "id": "1042424698972192769",
+            "text": "@thabangtladi @maxkeiser @stacyherbert For addictions (any adictions) it might be worth looking at an out of patent muscle relaxant called Baclofen (Lioresal for Novartis brand name).  The idea is to keep doing what you're doing, until you don't really feel it's necessary anymore - scrub the receptors clean."
+        },
+        {
+            "created_at": "2018-09-18T18:41:29.000Z",
+            "id": "1042121447483887618",
+            "text": "Canadian Healthcare Online Pharmacy. Buy 10 mg Lioresal Online https://t.co/JA3hDENZNb"
+        },
+        {
+            "created_at": "2018-09-17T01:22:51.000Z",
+            "id": "1041497680948670464",
+            "text": "@Titimarenco Lioresal Baclofeno 10 miligramos y chapo 30mmm marca Colopat y bolsa colectora de orina ambulatoria de medio litro marca Colopat."
+        },
+        {
+            "created_at": "2018-09-16T15:03:59.000Z",
+            "id": "1041341938094497794",
+            "text": "@mayoon3 \u0639\u0632\u064a\u0632\u062a\u0646\u0627 \u0627\u0644\u0643\u0631\u064a\u0645\u0629\u060c \u0646\u0639\u0645 \u064a\u062a\u0648\u0641\u0631 \u0644\u062f\u064a\u0646\u0627 \nlioresal 10 mg tab\n\u0628\u0633\u0639\u0631 44.9\u0631\u064a\u0627\u0644.\n\u0648\u0623\u064a\u0636\u0627 \u064a\u062a\u0648\u0641\u0631 \nlioresal 25 mg tab\n\u0628\u0633\u0639\u063190.65\u0631\u064a\u0627\u0644.\n.\u0641\u064a \u0635\u064a\u062f\u0644\u064a\u0627\u062a \u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u0633\u0644\u064a\u0645\u0627\u0646 \u0627\u0644\u062d\u0628\u064a\u0628 \u0627\u0644\u0631\u064a\u0627\u0636(\u0627\u0644\u0639\u0644\u064a\u0627-\u0627\u0644\u0631\u064a\u0627\u0646)\u060c\u0648\u0623\u064a\u0636\u0627 \u0628\u0627\u0644\u0642\u0635\u064a\u0645."
+        },
+        {
+            "created_at": "2018-09-15T18:00:54.000Z",
+            "id": "1041024072082173953",
+            "text": "@VirginAtlantic Thanks Guys, next question...can we take 6 300ml glass bottles of Medication in our hand luggage? Last time it went in the hold they got smashed. Lioresal Liquid - Muscle Relaxant"
+        },
+        {
+            "created_at": "2018-09-14T09:04:52.000Z",
+            "id": "1040526786361094144",
+            "text": "Remise \u2013 Generique Lioresal \u2013 Livraison gratuite https://t.co/TX00aRwOn2"
+        },
+        {
+            "created_at": "2018-09-13T14:18:27.000Z",
+            "id": "1040243312677007360",
+            "text": "Buy lioresal 10mg https://t.co/vCiArtWTpG"
+        },
+        {
+            "created_at": "2018-09-12T17:11:51.000Z",
+            "id": "1039924561712766976",
+            "text": "@fundaparkca #Bronsal \u27a1\ufe0f Betametasona,Diprofilina, guaifenesina\ud83d\udc49 inyectable\n#Rupatadina\ud83d\udc49comprimidos\n#Cardyl \ud83d\udc49comprimidos \n#Lioresal\ud83d\udc49 comprimidos \n#Besitran \ud83d\udc49comprimidos"
+        },
+        {
+            "created_at": "2018-09-11T23:52:07.000Z",
+            "id": "1039662907015872514",
+            "text": "Post Edited: Purchase lioresal 10mg https://t.co/qW206zMQ7I"
+        },
+        {
+            "created_at": "2018-09-10T07:28:01.000Z",
+            "id": "1039052860623794177",
+            "text": "USES:\nLioresal 10 mg is used to treat spasticity caused by multiple sclerosis, spinal cord injuries, or spinal cord diseases. #Pharmaceuticalmedicine #RSP https://t.co/dRfPYCSLld"
+        },
+        {
+            "created_at": "2018-09-07T14:17:41.000Z",
+            "id": "1038068792323137536",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T12:54:17.000Z",
+            "id": "1038047806068600832",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T03:33:33.000Z",
+            "id": "1037906692548247552",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T03:13:02.000Z",
+            "id": "1037901530098229249",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T02:53:51.000Z",
+            "id": "1037896701040840704",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T02:27:25.000Z",
+            "id": "1037890051089358848",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T02:15:01.000Z",
+            "id": "1037886929537314816",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T02:07:58.000Z",
+            "id": "1037885156072345601",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T02:02:39.000Z",
+            "id": "1037883816050872320",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T01:10:38.000Z",
+            "id": "1037870726651498496",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T00:38:12.000Z",
+            "id": "1037862566163349504",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-07T00:20:41.000Z",
+            "id": "1037858156251172864",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T23:31:37.000Z",
+            "id": "1037845808568315905",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T22:33:37.000Z",
+            "id": "1037831210603560960",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T22:09:37.000Z",
+            "id": "1037825173695737857",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T21:55:17.000Z",
+            "id": "1037821566086733824",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T21:23:52.000Z",
+            "id": "1037813659320438784",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:43:08.000Z",
+            "id": "1037803409661931520",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:34:04.000Z",
+            "id": "1037801125674659841",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:12:20.000Z",
+            "id": "1037795656360976384",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:10:15.000Z",
+            "id": "1037795131091496968",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:08:26.000Z",
+            "id": "1037794677066530818",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:07:10.000Z",
+            "id": "1037794354830696449",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:07:07.000Z",
+            "id": "1037794343996809221",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:01:39.000Z",
+            "id": "1037792970047713282",
+            "text": "RT @gaabybast: Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO)\u2026"
+        },
+        {
+            "created_at": "2018-09-06T20:01:05.000Z",
+            "id": "1037792823595200513",
+            "text": "Gente necesito de su colaboraci\u00f3n!Necesito un medicamento que est\u00e1 imposible de conseguir (LIORESAL - la droga es BACLOFENO) es para mi primita, el que lo suplanta (Dantrolene) vale $18.000 y lo sacaron del mercado. Les mil agradezco la difusi\u00f3n! \ud83d\ude4c\ud83c\udffc\ud83d\ude4f"
+        },
+        {
+            "created_at": "2018-09-03T22:21:00.000Z",
+            "id": "1036740874900623363",
+            "text": "Achat Lioresal / Pas De M\u00e9dicaments Sur Ordonnance https://t.co/UPQivomssY"
+        },
+        {
+            "created_at": "2018-09-02T03:49:00.000Z",
+            "id": "1036098639972712448",
+            "text": "Main uses:  A muscle relaxant and antispastic agent used in diseases such as multiple sclerosis and spinal cord disorders.\nhttps://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-09-01T14:04:14.000Z",
+            "id": "1035891083958468608",
+            "text": "Discount Pharmacy Online \u2013 Lioresal kopen zonder recept in nederland \u2013 Worldwide Delivery (1-3 Days) https://t.co/K95Afyw95O"
+        }
+    ],
+    "meta": {
+        "newest_id": "1045671721976631296",
+        "oldest_id": "1035891083958468608",
+        "result_count": 50
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

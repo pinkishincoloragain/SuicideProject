@@ -1,0 +1,213 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-05-20T17:58:21.000Z",
+            "id": "733718518932201472",
+            "text": "Generic Baclofen: Generic Baclofen Baclofen Generic Baclofen 10 Mg Street Price Gablofen Baclofen Generic Nam... https://t.co/qDTqoj11MA"
+        }
+    ],
+    "meta": {
+        "newest_id": "733718518932201472",
+        "oldest_id": "733718518932201472",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-05-31T19:38:37.000Z",
+            "id": "737730018676113408",
+            "text": "lioresal 10 mg beipackzettel https://t.co/S2xQsqAP8s"
+        },
+        {
+            "created_at": "2016-05-31T01:24:49.000Z",
+            "id": "737454754733928448",
+            "text": "RT @FundaDistoniaVe: Necesitamos con URGENCIA  el medicamento LIORESAL ( Baclof\u00e9n ) 0414 0121642 - 0212 8417982 https://t.co/jKAFcXa8pX"
+        },
+        {
+            "created_at": "2016-05-31T01:15:40.000Z",
+            "id": "737452451087912964",
+            "text": "Necesitamos con URGENCIA  el medicamento LIORESAL ( Baclof\u00e9n ) 0414 0121642 - 0212 8417982 https://t.co/jKAFcXa8pX"
+        },
+        {
+            "created_at": "2016-05-30T15:42:38.000Z",
+            "id": "737308243194576896",
+            "text": "RT @drkevorkian_: @oscarvirues @DialogosCanal11 O q otro relanjante muscular potente\nEn Mexico no se encuentra ni Lioresal,Dantriun y menos\u2026"
+        },
+        {
+            "created_at": "2016-05-30T15:34:01.000Z",
+            "id": "737306076966735872",
+            "text": "RT @drkevorkian_: @oscarvirues @DialogosCanal11 O q otro relanjante muscular potente\nEn Mexico no se encuentra ni Lioresal,Dantriun y menos\u2026"
+        },
+        {
+            "created_at": "2016-05-30T15:26:47.000Z",
+            "id": "737304254747004928",
+            "text": "@oscarvirues @DialogosCanal11 O q otro relanjante muscular potente\nEn Mexico no se encuentra ni Lioresal,Dantriun y menos Satix(cannabis)"
+        },
+        {
+            "created_at": "2016-05-30T05:10:19.000Z",
+            "id": "737149114475892737",
+            "text": "lioresal fibromialgia: lioresal sovradosaggio - Ordine Lioresal comprare prescrizione acquista - lioresal fib... https://t.co/MGL9JfIMIJ"
+        },
+        {
+            "created_at": "2016-05-29T19:36:50.000Z",
+            "id": "737004794515193856",
+            "text": "\u0130smail istemd\u0131\u015f\u0131 asist yap\u0131yordu.\u00c7are Lioresal :)) \nHer \u00f6\u011f\u00fcnde 1 tane als\u0131n.Kaslar rahatlas\u0131n :))"
+        },
+        {
+            "created_at": "2016-05-27T23:43:46.000Z",
+            "id": "736342159310376968",
+            "text": "Necesitamos con URGENCIA medicamento LIORESAL  (Baclof\u00e9n) 10 o 20mg comprimidos. 0212 8417982 - 0414 0121642 https://t.co/nNsqh7qNS4"
+        },
+        {
+            "created_at": "2016-05-26T14:23:05.000Z",
+            "id": "735838674651217921",
+            "text": "Buy Lioresal Online - Lioresal online visa in East Bergholt: Cheap Lioresal Without Prescription Overnight De... https://t.co/9wZh7wYdTp"
+        },
+        {
+            "created_at": "2016-05-26T00:02:14.000Z",
+            "id": "735622031656521728",
+            "text": "@Floren somos muy ambiciosas, jaja.yo el lioresal tambi\u00e9n desde el principio,8 a\u00f1os, lyrica que se sustituy\u00f3 x tegretol, el flus flus...a la"
+        },
+        {
+            "created_at": "2016-05-25T23:59:54.000Z",
+            "id": "735621446467211264",
+            "text": "@angrywithlife eso he le\u00eddo, l lioresal forma parte de mi vida desde hace 10 a\u00f1os,  gabapentina no ten\u00eda suficiente y zebenix... Tampco jaja"
+        },
+        {
+            "created_at": "2016-05-25T23:50:02.000Z",
+            "id": "735618961526693888",
+            "text": "@Floren lioresal.esta fino el teclado, jajaja"
+        },
+        {
+            "created_at": "2016-05-25T23:46:09.000Z",
+            "id": "735617985235279877",
+            "text": "@angrywithlife bastante, l tengo controlada pq la trabajo y relajo mucho con soluciones caseras. Tomo  sativex y l max de lioresal"
+        },
+        {
+            "created_at": "2016-05-22T22:43:00.000Z",
+            "id": "734514930272088064",
+            "text": "^ https://t.co/4V0t4ASkUa | Glasgow Chat | Order Lioresal Online, Express lioresal canada, Lioresal canada cheap"
+        },
+        {
+            "created_at": "2016-05-20T05:16:49.000Z",
+            "id": "733526872932253697",
+            "text": "#Pharmaceuticals LIORESAL 10 : Tablet : 10mg : Novartis Pharma AG, Switzerland : https://t.co/UtRNDTNsH0 #MarketResearch #Statistics"
+        },
+        {
+            "created_at": "2016-05-20T02:31:51.000Z",
+            "id": "733485359946948608",
+            "text": "Lioresal Best\u00e4lla Billiga Utan Recept: Product name: Lioresal Active component\u2026 https://t.co/JZSzt5UHts #intermodal"
+        },
+        {
+            "created_at": "2016-05-19T15:01:22.000Z",
+            "id": "733311591999885314",
+            "text": "online drugstore atenolol: Buying Cheap inderal Pharmacy OnlinePrice lioresal Online AustraliaPharmacy motrin... https://t.co/WZGgiNJlFE"
+        },
+        {
+            "created_at": "2016-05-16T15:23:03.000Z",
+            "id": "732229883305312256",
+            "text": "@FundacionBADAN BUENOS D\u00cdAS ES PARA SABER SI TIENEN LOS SIGUIENTES MEDICAMENTOS DYPORT,TRILEPTAL600MG,TRITTICO50MG,PREGABALINA,LIORESAL 10MG"
+        },
+        {
+            "created_at": "2016-05-15T15:50:07.000Z",
+            "id": "731874307375173632",
+            "text": "canadian online pharmacy trustworthy: Purchasing alesse OnlineBuying Cheap lioresal Online AustraliaHow Can I... https://t.co/tqGp5ueEAn"
+        },
+        {
+            "created_at": "2016-05-14T02:06:38.000Z",
+            "id": "731304684535697408",
+            "text": "can become pharmacist online: Buy zofran DiscountPrice female No PrescriptionBuying Generic lioresal From Can... https://t.co/vyEAh7ZsOX"
+        },
+        {
+            "created_at": "2016-05-12T14:14:09.000Z",
+            "id": "730762993886171136",
+            "text": "RT @LucioQuincioC: Urgente se requiere lioresal o baclofeno (contra el Tetanos)para ni\u00f1a de 5 a\u00f1os en Aragua 04144603470 04169467608 A BUSC\u2026"
+        },
+        {
+            "created_at": "2016-05-11T21:32:36.000Z",
+            "id": "730510946297221123",
+            "text": "#Pharmaceuticals baclofen : Lioresal : https://t.co/zpOBE2wC2Z #MRX #Surveys #Statistics #MarketResearchReports #Forecast #Marketing"
+        },
+        {
+            "created_at": "2016-05-10T09:40:41.000Z",
+            "id": "729969400585986048",
+            "text": "lioresal 10 mg 50 tablets 84: ____ Osta LIORESAL verkossa ____  \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. ... https://t.co/b5ZPZBwxnT"
+        },
+        {
+            "created_at": "2016-05-10T09:29:25.000Z",
+            "id": "729966564213071873",
+            "text": "canadian online pharmacy 777: Purchase lioresal Without PrescriptionCheap elimite PriceDiscount zanaflex Onli... https://t.co/CppOR2aah7"
+        },
+        {
+            "created_at": "2016-05-07T16:44:11.000Z",
+            "id": "728988813750632448",
+            "text": "RT @rogersgarcia: @sesolicita se solicita el siguiente medicamento con carter de urgencia Lioresal de 10 o 25 mg."
+        },
+        {
+            "created_at": "2016-05-07T16:42:48.000Z",
+            "id": "728988465124286464",
+            "text": "RT @rogersgarcia: @sesolicita se solicita el siguiente medicamento con carter de urgencia Lioresal de 10 o 25 mg."
+        },
+        {
+            "created_at": "2016-05-07T13:36:43.000Z",
+            "id": "728941634063347712",
+            "text": "@sesolicita se solicita el siguiente medicamento con carter de urgencia Lioresal de 10 o 25 mg."
+        },
+        {
+            "created_at": "2016-05-05T15:08:05.000Z",
+            "id": "728239854287388672",
+            "text": "Some First Class stamps &lt;a href=\" https://t.co/1zitDk4ZGz \"&gt;... https://t.co/KdoKGDkZso"
+        },
+        {
+            "created_at": "2016-05-05T13:47:12.000Z",
+            "id": "728219496599695361",
+            "text": "#Pharmaceutical baclofen : Lioresal Intrathecal : https://t.co/eSCC4VuxIi #MRX #Surveys #MarketResearchReports #Forecasts #Marketing"
+        },
+        {
+            "created_at": "2016-05-03T09:34:42.000Z",
+            "id": "727431179129987072",
+            "text": "#Pharmaceuticals LIORESAL 25 : Tablet : 25mg : Novartis Pharma AG, Switzerland : https://t.co/60SqnhLX7i #MarketResearch #Statistics"
+        },
+        {
+            "created_at": "2016-05-02T16:47:04.000Z",
+            "id": "727177598468526080",
+            "text": "#unaayudaconlayubra necesito lioresal o baclofen 10 o 25 mg 0414 4337509 - 0412 6739450 robert sanchez ayundenme a difundirlo"
+        },
+        {
+            "created_at": "2016-05-02T15:08:07.000Z",
+            "id": "727152695904063488",
+            "text": "What part of  do you come from? &lt;a href=\" https://t.co/pBMnuA1ThK... https://t.co/zGw1Qd02n0"
+        },
+        {
+            "created_at": "2016-05-02T14:53:42.000Z",
+            "id": "727149067827089408",
+            "text": "Por favor si alguien  tiene lioresal o baclofen llamar al 04144337509 04126739430  mi nombre es robert sanchez"
+        },
+        {
+            "created_at": "2016-05-02T01:55:37.000Z",
+            "id": "726953259575943169",
+            "text": "@BlancoChitty aun tienes el lioresal??????"
+        }
+    ],
+    "meta": {
+        "newest_id": "737730018676113408",
+        "oldest_id": "726953259575943169",
+        "result_count": 35
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

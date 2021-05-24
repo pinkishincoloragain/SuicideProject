@@ -1,0 +1,131 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-04-22T19:47:19.000Z",
+            "id": "1253047752944160772",
+            "text": "RT @InsiyatifaRonak: Enetr\u00eek\u00ean xwe bigrin, pala xwe bidine m\u00eender \u00fb balg\u00eef\u00ean xwe \u00fb ji deng\u00ea hingiv\u00een \u00e7\u00eerok\u00ean p\u00eer \u00fb kalan guhdar\u00ee bikin.\n.\n.\u2026"
+        },
+        {
+            "created_at": "2020-04-22T12:12:48.000Z",
+            "id": "1252933370599915520",
+            "text": "RT @InsiyatifaRonak: Enetr\u00eek\u00ean xwe bigrin, pala xwe bidine m\u00eender \u00fb balg\u00eef\u00ean xwe \u00fb ji deng\u00ea hingiv\u00een \u00e7\u00eerok\u00ean p\u00eer \u00fb kalan guhdar\u00ee bikin.\n.\n.\u2026"
+        },
+        {
+            "created_at": "2020-04-22T11:37:13.000Z",
+            "id": "1252924416880603137",
+            "text": "RT @InsiyatifaRonak: Enetr\u00eek\u00ean xwe bigrin, pala xwe bidine m\u00eender \u00fb balg\u00eef\u00ean xwe \u00fb ji deng\u00ea hingiv\u00een \u00e7\u00eerok\u00ean p\u00eer \u00fb kalan guhdar\u00ee bikin.\n.\n.\u2026"
+        },
+        {
+            "created_at": "2020-04-22T10:36:45.000Z",
+            "id": "1252909197920030720",
+            "text": "Enetr\u00eek\u00ean xwe bigrin, pala xwe bidine m\u00eender \u00fb balg\u00eef\u00ean xwe \u00fb ji deng\u00ea hingiv\u00een \u00e7\u00eerok\u00ean p\u00eer \u00fb kalan guhdar\u00ee bikin.\n.\n.\n\u00ce\u015eEV NEH\u00ca \u015eEV\u00ca\n.\n.\n.\n@pirtukakurdi \ud83c\udf3a\n@ayhanerkmenn \ud83c\udf3a https://t.co/aO49ZbUpd8"
+        },
+        {
+            "created_at": "2020-04-20T07:17:05.000Z",
+            "id": "1252134173587968000",
+            "text": "@SerhadLordu V\u00ee dil\u00ea me y\u00ea bir\u00eendar gelo d\u00ea \u00e7ewa van b\u00fbyeran ji b\u00eer bike? Gelo d\u00ea rojek kurd j\u00ee ser\u00ea xwe bi rehet\u00ee deynin ser balg\u00eef\u00ean xwe?"
+        }
+    ],
+    "meta": {
+        "newest_id": "1253047752944160772",
+        "oldest_id": "1252134173587968000",
+        "result_count": 5
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-04-09T12:01:06.000Z",
+            "id": "1248219383119437826",
+            "text": "@77th_Omari @6thkidt @itz_beewhy @david_damkorr @dasilva_4 @evraaikay40 @AemyDr @Sports_Doctor2 @Dlaureate @kenechuqu @Krzysztof_Rx @Abiiike @IhuezeMD @Ifedapo47 @The_Kosilator @lotachiokafor @Mz_Stefni @DrTSquare @DrZobo @healthertainer @trending_medic @mzz_titi @dr_marvinn @UgwunnaEjikem @IzekorItohan @emmazaek @hamza_karkarna @Adewalezoe @tenden6 @nonepareil @olubunmi_hannah @toyosizubair @maleekb3 @abdallah_jauro @T3RSEER @dfiqree @Bigwigfx_II @sirhakeem Drug Name - Gablofen\nDrug Class - Skeletal Muscle Relaxant \nIndication - Multiple Sclerosis, Complex Regional Pain Syndrome. \n\n@ghermaine__\n@justaluckyboi\n@shOBIEzness\n@anyamew1\n@MadukaMillicent"
+        }
+    ],
+    "meta": {
+        "newest_id": "1248219383119437826",
+        "oldest_id": "1248219383119437826",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-04-09T19:45:19.000Z",
+            "id": "1248336206393458689",
+            "text": "@CashApp $kemstro"
+        }
+    ],
+    "meta": {
+        "newest_id": "1248336206393458689",
+        "oldest_id": "1248336206393458689",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-04-30T10:47:33.000Z",
+            "id": "1255811017428422663",
+            "text": "10 mg Lioresal x2 :( https://t.co/zSyT3U2ZXd"
+        },
+        {
+            "created_at": "2020-04-25T23:21:10.000Z",
+            "id": "1254188735396229122",
+            "text": "\ud83d\udc9b\ud83d\udc99\u2764 Entregamos gracias a nuestros amigos de la UNION CANARIO-VENEZOLANA @UCVE2009 en Tenerife los medicamentos TARDYFERON, LIORESAL y NEURONTIN y por la FUNDACION AMIGOS POR VENEZUELA ADIRO 100 MG para la paciente\u2026 https://t.co/w1j3CAXPKW"
+        },
+        {
+            "created_at": "2020-04-25T18:00:36.000Z",
+            "id": "1254108061888843776",
+            "text": "@memecihoca Dex- Forte i\u00e7tim Sirdalud sonuncuyu i\u00e7tim lioresal var bi de"
+        },
+        {
+            "created_at": "2020-04-16T12:54:06.000Z",
+            "id": "1250769437571121157",
+            "text": "@FundacionBADAN Buenos d\u00edas, tienen Lioresal o Baclofen? Gracias"
+        },
+        {
+            "created_at": "2020-04-16T12:19:59.000Z",
+            "id": "1250760849972576256",
+            "text": "@RahulKaswanMP  \u0930\u093e\u0939\u0941\u0932 \u091c\u0940 \u0915\u0943\u092a\u092f\u093e \u0926\u0935\u093e\u0908 \u092a\u0947\u0930\u0947\u0932\u093f\u0938\u093f\u0938 \u0915\u0947 \u092a\u0947\u0936\u0947\u0902\u091f \u0930\u093f\u0932\u0947\u091f\u093f\u0935 \u0915\u094b \u0909\u092a\u0932\u092c\u094d\u0927 \u0915\u0930\u093e\u0928\u0947 \u0915\u093e \u0915\u0938\u094d\u091f \u0915\u0930\u0947 , \u0907\u0928\u0915\u093e \u091c\u092f\u092a\u0941\u0930 \u0907\u0932\u093e\u091c \u091a\u0932\u0924\u093e \u0939\u0948 \u0914\u0930 \u0932\u094b\u0915\u0921\u093e\u0909\u0928 \u092e\u0947\u0902 \u0926\u0935\u093e\u0908 \u0916\u0924\u094d\u092e \u0939\u094b \u0917\u0908 \u0939\u0948 \nATORSAVE 20\nECOSPRIN AV 75/20\nREXIPRA 15\nLIORESAL 10\n\u0930\u093e\u092e \u0932\u093e\u0932 \u092a\u093e\u0930\u0940\u0915 9784372675 \u0935\u093f\u0932\u0947\u091c \u0932\u093f\u0916\u092e\u0928\u0938\u0930 , \u0938\u0941\u091c\u093e\u0928\u0917\u0922\u093c\n\u092e\u0947\u0930\u093e \u0928\u0902\u092c\u0930 9784978923"
+        },
+        {
+            "created_at": "2020-04-16T12:08:11.000Z",
+            "id": "1250757881118576640",
+            "text": "Hoy, primer d\u00eda sin drogarme con #Lioresal , considero que lo que necesito es una buena educaci\u00f3n postural. Se acab\u00f3 eso de llevar los pies por delante y bloquear las rodillas.\n\nY de realizar gastos est\u00fapidos por algo que puedo hacer en casa.\n\nO simplemente: estallar."
+        },
+        {
+            "created_at": "2020-04-15T16:43:53.000Z",
+            "id": "1250464877078089728",
+            "text": "@bulgardanasi Muscoflex, sirdalud, lioresal etc..."
+        },
+        {
+            "created_at": "2020-04-15T12:27:51.000Z",
+            "id": "1250400442049232896",
+            "text": "Hoy no me encuentro nada bien. Componente + psquicol\u00f3gico que f\u00edsico. He hecho las primeras series de ejercicios diarias. Queda pinchazo y he decidido decir adi\u00f3s a la \u00faltima toma de #Lioresal tras haberla bajado de forma pausada. De 5 a 0,5 pastillas.\n A seguir remando la vida!!"
+        },
+        {
+            "created_at": "2020-04-06T17:05:31.000Z",
+            "id": "1247208827856060418",
+            "text": "@ALNEMERK \u062f\u0643\u062a\u0648\u0631 \u0647\u0644 \u0625\u0633\u062a\u062e\u062f\u0627\u0645 Lioresal \u0644\u064a\u0648\u0631\u064a\u0632\u0627\u0644 (\u0645\u0631\u062e\u064a \u0639\u0636\u0644\u0627\u062a) \u064a\u0624\u062f\u064a \u0625\u0644\u0649 \u0642\u0635\u0648\u0631 \u062a\u0646\u0641\u0633\u064a\u061f"
+        },
+        {
+            "created_at": "2020-04-01T18:44:37.000Z",
+            "id": "1245421828887240705",
+            "text": "@LocatelVzla_ATC  buenas tardes tienen escitalopran 10mg?\nY lioresal 10mg ( baclofeno)"
+        },
+        {
+            "created_at": "2020-04-01T18:43:11.000Z",
+            "id": "1245421468432859144",
+            "text": "@FundacionBADAN Buenas tardes tienen Lioresal 10mg ( baclofeno)\nY escitalopran 10mg???"
+        }
+    ],
+    "meta": {
+        "newest_id": "1255811017428422663",
+        "oldest_id": "1245421468432859144",
+        "result_count": 11
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

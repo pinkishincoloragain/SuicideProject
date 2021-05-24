@@ -1,0 +1,1757 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-07-12T19:33:45.000Z",
+            "id": "1282397754090754048",
+            "text": "Kemstro : Uses, Side Effects, Interactions &amp;\u00a0More https://t.co/Y3tlOYgUpY"
+        }
+    ],
+    "meta": {
+        "newest_id": "1282397754090754048",
+        "oldest_id": "1282397754090754048",
+        "result_count": 1
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-07-25T19:23:05.000Z",
+            "id": "1287106114023292933",
+            "text": "RT @afoca13: @Farmarato buscando con urgencia este medicamento para un amigo LIORESAL o BACLOFENO lo tendr\u00e1n?"
+        },
+        {
+            "created_at": "2020-07-25T12:01:45.000Z",
+            "id": "1286995048811421697",
+            "text": "@LouAlaskapublic Alors je suis au t\u00e9l\u00e9phone avec ma copine donc : la pompe va te permettre de ne plus prendre le Lioresal et va te diffuser le produit en continu par contre \u00e7a fonctionne pas comme un antidouleur. Apr\u00e8s \u00e7a se pose sous intervention chirurgicale donc c'est contraignant"
+        },
+        {
+            "created_at": "2020-07-24T18:13:30.000Z",
+            "id": "1286726213629890565",
+            "text": "@1Starlord @Tio_Sudeck S\u00ed, claro y con Lioresal de 15 cada 8h"
+        },
+        {
+            "created_at": "2020-07-21T19:33:11.000Z",
+            "id": "1285659104585949184",
+            "text": "RT @Floralicianzola: #Ayudemos Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! C\u2026"
+        },
+        {
+            "created_at": "2020-07-21T03:27:35.000Z",
+            "id": "1285416102776823808",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T21:27:43.000Z",
+            "id": "1285325540099076096",
+            "text": "\ud83d\udc8a\u041b\u0438\u043e\u0440\u0435\u0437\u0430\u043b\u00ae / Lioresal\u00ae Filmtabl.\n\n\ud83c\udfea \u041f\u0420\u041e\u0418\u0417\u0412\u041e\u0414\u0418\u0422\u0415\u041b\u042c: NOVARTIS Pharma GmbH, \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f\n \n\ud83e\uddea \u0414\u041e\u0417\u0418\u0420\u041e\u0412\u041a\u0410: \u0438\u043d\u0442\u0440\u0430\u0442\u0435\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0441\u0442\u0432\u043e\u0440 \u0434\u043b\u044f \u0438\u043d\u044a\u0435\u043a\u0446\u0438\u0439 0,5\u043c\u0433/\u043c\u043b 20\u043c\u043b; 0.05\u043c\u0433/\u043c\u043b 1\u043c\u043b; 2\u043c\u0433/\u043c\u043b 5\u043c\u043b\n\u0442\u0430\u0431\u043b\u0435\u0442\u043a\u0438 5 \u043c\u0433, 10 \u043c\u0433, 25 \u043c\u0433\n\n\u267b\ufe0f \u0423\u041f\u0410\u041a\u041e\u0412\u041a\u0410:\u2026 https://t.co/sLRIOCQa3h"
+        },
+        {
+            "created_at": "2020-07-20T19:09:47.000Z",
+            "id": "1285290825832894470",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T14:36:39.000Z",
+            "id": "1285222091005014016",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T14:27:45.000Z",
+            "id": "1285219851460587524",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T13:41:59.000Z",
+            "id": "1285208335919316993",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T13:24:45.000Z",
+            "id": "1285203996228100096",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T12:51:21.000Z",
+            "id": "1285195591207792641",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T12:32:24.000Z",
+            "id": "1285190820921069575",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T12:09:10.000Z",
+            "id": "1285184973906087937",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T11:26:53.000Z",
+            "id": "1285174335343407112",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T09:48:20.000Z",
+            "id": "1285149533094268928",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T09:27:35.000Z",
+            "id": "1285144314146889728",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T09:14:57.000Z",
+            "id": "1285141131982966784",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T08:43:49.000Z",
+            "id": "1285133296515584000",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T06:50:10.000Z",
+            "id": "1285104694986264578",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T05:04:21.000Z",
+            "id": "1285078067493445632",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T04:19:05.000Z",
+            "id": "1285066675784646656",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T04:07:46.000Z",
+            "id": "1285063827449683970",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T03:44:50.000Z",
+            "id": "1285058055961481217",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T03:42:59.000Z",
+            "id": "1285057591228407808",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T03:13:02.000Z",
+            "id": "1285050054462648320",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T03:11:50.000Z",
+            "id": "1285049749805162499",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T03:09:44.000Z",
+            "id": "1285049221880700928",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T03:01:47.000Z",
+            "id": "1285047220618891265",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:46:19.000Z",
+            "id": "1285043331958034434",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:40:14.000Z",
+            "id": "1285041799543824385",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:30:01.000Z",
+            "id": "1285039228913627139",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:23:00.000Z",
+            "id": "1285037464126726145",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:17:08.000Z",
+            "id": "1285035985936449536",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:15:43.000Z",
+            "id": "1285035629965971458",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:13:14.000Z",
+            "id": "1285035002938499072",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:10:46.000Z",
+            "id": "1285034382424760320",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T02:02:25.000Z",
+            "id": "1285032281103650817",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:57:12.000Z",
+            "id": "1285030971457310720",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:55:31.000Z",
+            "id": "1285030544401547265",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:46:40.000Z",
+            "id": "1285028316790042626",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:46:30.000Z",
+            "id": "1285028277237800960",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:46:14.000Z",
+            "id": "1285028207817822209",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:34:32.000Z",
+            "id": "1285025263177347072",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:33:22.000Z",
+            "id": "1285024973518786560",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:25:59.000Z",
+            "id": "1285023115064627200",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:23:50.000Z",
+            "id": "1285022571684081666",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:21:43.000Z",
+            "id": "1285022040588726273",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:21:35.000Z",
+            "id": "1285022008280064002",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:18:59.000Z",
+            "id": "1285021352911667200",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:15:42.000Z",
+            "id": "1285020526629523456",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:15:30.000Z",
+            "id": "1285020475287113730",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T01:07:50.000Z",
+            "id": "1285018546242715649",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:51:10.000Z",
+            "id": "1285014351808692225",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:48:28.000Z",
+            "id": "1285013673149431813",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:44:23.000Z",
+            "id": "1285012643737206790",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:25:48.000Z",
+            "id": "1285007968619106304",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:25:10.000Z",
+            "id": "1285007809436844032",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:24:21.000Z",
+            "id": "1285007604259999745",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:23:53.000Z",
+            "id": "1285007485955452933",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:22:19.000Z",
+            "id": "1285007089337798656",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:21:25.000Z",
+            "id": "1285006865575956481",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:08:15.000Z",
+            "id": "1285003550993649665",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:08:12.000Z",
+            "id": "1285003539455123456",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:02:35.000Z",
+            "id": "1285002125785927681",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:01:38.000Z",
+            "id": "1285001886677049350",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-20T00:00:15.000Z",
+            "id": "1285001538059087872",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:56:56.000Z",
+            "id": "1285000701899309056",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:53:13.000Z",
+            "id": "1284999766615756801",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:48:53.000Z",
+            "id": "1284998676641918977",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:47:22.000Z",
+            "id": "1284998297384517632",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:46:46.000Z",
+            "id": "1284998144216961027",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:41:50.000Z",
+            "id": "1284996901759262722",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:40:40.000Z",
+            "id": "1284996608170565635",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:37:55.000Z",
+            "id": "1284995918861930498",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:34:56.000Z",
+            "id": "1284995164809891841",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:26:15.000Z",
+            "id": "1284992983058788355",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:21:47.000Z",
+            "id": "1284991859576709122",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:21:44.000Z",
+            "id": "1284991844238135297",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:14:32.000Z",
+            "id": "1284990032445607936",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:05:11.000Z",
+            "id": "1284987681244688384",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:04:19.000Z",
+            "id": "1284987463858098180",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:04:14.000Z",
+            "id": "1284987442102251529",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T23:01:35.000Z",
+            "id": "1284986773479849987",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:58:58.000Z",
+            "id": "1284986117394247681",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:58:54.000Z",
+            "id": "1284986100210114564",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:54:46.000Z",
+            "id": "1284985060635152385",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:51:18.000Z",
+            "id": "1284984187368374272",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:48:50.000Z",
+            "id": "1284983564061364224",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:41:21.000Z",
+            "id": "1284981682878193665",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:37:30.000Z",
+            "id": "1284980714132447233",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:30:10.000Z",
+            "id": "1284978867602694145",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:29:16.000Z",
+            "id": "1284978643136020485",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:28:34.000Z",
+            "id": "1284978464056123394",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:28:05.000Z",
+            "id": "1284978341930573827",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:26:39.000Z",
+            "id": "1284977982147366913",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:23:40.000Z",
+            "id": "1284977232356745219",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:23:30.000Z",
+            "id": "1284977188589178883",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:21:02.000Z",
+            "id": "1284976568998285312",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:18:34.000Z",
+            "id": "1284975947050033152",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:13:41.000Z",
+            "id": "1284974719373119492",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:13:32.000Z",
+            "id": "1284974682979131396",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:11:25.000Z",
+            "id": "1284974149480468480",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:10:21.000Z",
+            "id": "1284973881711890432",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:07:37.000Z",
+            "id": "1284973194877829120",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:06:22.000Z",
+            "id": "1284972879424229376",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:06:20.000Z",
+            "id": "1284972870842671104",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:05:51.000Z",
+            "id": "1284972746791948289",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:05:37.000Z",
+            "id": "1284972687849332736",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:05:08.000Z",
+            "id": "1284972566290018308",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:03:14.000Z",
+            "id": "1284972088332292096",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:02:07.000Z",
+            "id": "1284971807251091456",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T22:00:00.000Z",
+            "id": "1284971276487012352",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:59:32.000Z",
+            "id": "1284971159067471872",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:58:51.000Z",
+            "id": "1284970986849402880",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:57:24.000Z",
+            "id": "1284970622712451073",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:56:46.000Z",
+            "id": "1284970464394256387",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:56:25.000Z",
+            "id": "1284970375001104384",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:56:07.000Z",
+            "id": "1284970298459201538",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:55:48.000Z",
+            "id": "1284970221053378560",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:54:03.000Z",
+            "id": "1284969778742992897",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:53:52.000Z",
+            "id": "1284969733025144833",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:51:56.000Z",
+            "id": "1284969246351659011",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:51:50.000Z",
+            "id": "1284969220950941697",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:51:26.000Z",
+            "id": "1284969120325345280",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:50:49.000Z",
+            "id": "1284968963819163650",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:49:38.000Z",
+            "id": "1284968667462225921",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:48:57.000Z",
+            "id": "1284968495638360071",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:48:36.000Z",
+            "id": "1284968408371662849",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:48:16.000Z",
+            "id": "1284968323709571072",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:47:15.000Z",
+            "id": "1284968065894146049",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:46:32.000Z",
+            "id": "1284967888760307712",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:45:03.000Z",
+            "id": "1284967513021976577",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:45:00.000Z",
+            "id": "1284967499298148353",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:44:44.000Z",
+            "id": "1284967433996992513",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:44:35.000Z",
+            "id": "1284967398341251074",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:44:31.000Z",
+            "id": "1284967377675997185",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:43:26.000Z",
+            "id": "1284967107881467904",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:42:47.000Z",
+            "id": "1284966942126768128",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:41:48.000Z",
+            "id": "1284966695627558912",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:41:26.000Z",
+            "id": "1284966603331907584",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:40:48.000Z",
+            "id": "1284966444086824960",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:40:37.000Z",
+            "id": "1284966400126324736",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:39:47.000Z",
+            "id": "1284966190264221696",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:39:23.000Z",
+            "id": "1284966086014795776",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:38:15.000Z",
+            "id": "1284965801376849920",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:36:51.000Z",
+            "id": "1284965451840270337",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:36:07.000Z",
+            "id": "1284965266477260800",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:35:30.000Z",
+            "id": "1284965108905652226",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:35:22.000Z",
+            "id": "1284965074923335680",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:34:53.000Z",
+            "id": "1284964954181967872",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:34:28.000Z",
+            "id": "1284964850825932801",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:34:26.000Z",
+            "id": "1284964840252018689",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:34:10.000Z",
+            "id": "1284964775114481664",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:34:08.000Z",
+            "id": "1284964767917105152",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:33:49.000Z",
+            "id": "1284964688644775937",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:32:50.000Z",
+            "id": "1284964440023207936",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:31:48.000Z",
+            "id": "1284964181461159937",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:31:16.000Z",
+            "id": "1284964043434926082",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:30:57.000Z",
+            "id": "1284963964418494467",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:30:57.000Z",
+            "id": "1284963964166836224",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:29:31.000Z",
+            "id": "1284963602873622530",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:27:47.000Z",
+            "id": "1284963170642268160",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:27:25.000Z",
+            "id": "1284963074739511298",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:26:43.000Z",
+            "id": "1284962901833515011",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:25:19.000Z",
+            "id": "1284962548475994117",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:24:53.000Z",
+            "id": "1284962439092670468",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:24:06.000Z",
+            "id": "1284962241952002051",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:23:40.000Z",
+            "id": "1284962132216418304",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:22:08.000Z",
+            "id": "1284961746575396864",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:22:05.000Z",
+            "id": "1284961735577927680",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:21:48.000Z",
+            "id": "1284961664551587840",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:21:37.000Z",
+            "id": "1284961616992309252",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:21:24.000Z",
+            "id": "1284961563355615236",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:21:17.000Z",
+            "id": "1284961532619689984",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:20:49.000Z",
+            "id": "1284961415967707136",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:20:20.000Z",
+            "id": "1284961292873347072",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:19:52.000Z",
+            "id": "1284961175004950528",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:18:23.000Z",
+            "id": "1284960802479525890",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:18:20.000Z",
+            "id": "1284960788965457921",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:17:46.000Z",
+            "id": "1284960646786945030",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:17:32.000Z",
+            "id": "1284960588079280128",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:17:03.000Z",
+            "id": "1284960466763161601",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:16:59.000Z",
+            "id": "1284960452330557444",
+            "text": "RT @Floralicianzola: #Ayudemos Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! C\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:16:53.000Z",
+            "id": "1284960425520631813",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:16:28.000Z",
+            "id": "1284960319404740613",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:16:26.000Z",
+            "id": "1284960310584061952",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:15:55.000Z",
+            "id": "1284960180128686080",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:15:54.000Z",
+            "id": "1284960176148295680",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:15:41.000Z",
+            "id": "1284960125288173568",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:15:40.000Z",
+            "id": "1284960118208167939",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:15:38.000Z",
+            "id": "1284960109974740993",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:15:03.000Z",
+            "id": "1284959964415627264",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:15:00.000Z",
+            "id": "1284959953061584897",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:14:58.000Z",
+            "id": "1284959942898745347",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:14:36.000Z",
+            "id": "1284959852905877507",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:14:28.000Z",
+            "id": "1284959819309428737",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:14:21.000Z",
+            "id": "1284959789911609344",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:14:20.000Z",
+            "id": "1284959781980180481",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:14:14.000Z",
+            "id": "1284959759645511683",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:14:08.000Z",
+            "id": "1284959734320201729",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:37.000Z",
+            "id": "1284959602099007491",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:28.000Z",
+            "id": "1284959567454101508",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:27.000Z",
+            "id": "1284959562823598080",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:27.000Z",
+            "id": "1284959562559356929",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:23.000Z",
+            "id": "1284959545563979776",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:22.000Z",
+            "id": "1284959542254735362",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:21.000Z",
+            "id": "1284959535531208706",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:13:05.000Z",
+            "id": "1284959467122167810",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:12:47.000Z",
+            "id": "1284959394246139905",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:12:43.000Z",
+            "id": "1284959375048704007",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:12:24.000Z",
+            "id": "1284959298381021184",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:12:10.000Z",
+            "id": "1284959236569604098",
+            "text": "Hola!! Gente alguien que se pueda solidarizarse necesito de forma urgente un medicamento muy importante.. se llama Lioresal 10Mg Baclofeno  que no se consigue Cualquier cosa me avisan  por ac\u00e1 desde ya much\u00edsimas gracias saludos cordiales Patricia"
+        },
+        {
+            "created_at": "2020-07-19T21:11:43.000Z",
+            "id": "1284959123902210049",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:11:31.000Z",
+            "id": "1284959074241646593",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:11:31.000Z",
+            "id": "1284959074119974912",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:11:29.000Z",
+            "id": "1284959067425984513",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:11:25.000Z",
+            "id": "1284959051160399873",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:11:03.000Z",
+            "id": "1284958957174489094",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:10:48.000Z",
+            "id": "1284958895065178112",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:10:41.000Z",
+            "id": "1284958865126301697",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:10:39.000Z",
+            "id": "1284958855903027200",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:10:39.000Z",
+            "id": "1284958855026429954",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:10:26.000Z",
+            "id": "1284958804044587008",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:10:11.000Z",
+            "id": "1284958738626105344",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:10:10.000Z",
+            "id": "1284958736436666369",
+            "text": "RT @Floralicianzola: #Ayudemos Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! C\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:51.000Z",
+            "id": "1284958657474699264",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:50.000Z",
+            "id": "1284958651837485057",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:43.000Z",
+            "id": "1284958620770279426",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:23.000Z",
+            "id": "1284958537957945344",
+            "text": "RT @Floralicianzola: #Ayudemos Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! C\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:18.000Z",
+            "id": "1284958517703643140",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:14.000Z",
+            "id": "1284958501228417024",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:04.000Z",
+            "id": "1284958458958221320",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:09:03.000Z",
+            "id": "1284958454004809730",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:08:59.000Z",
+            "id": "1284958436791390209",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:08:30.000Z",
+            "id": "1284958317106823168",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:08:28.000Z",
+            "id": "1284958307589947395",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:08:18.000Z",
+            "id": "1284958265609265152",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:08:16.000Z",
+            "id": "1284958258973880321",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:08:13.000Z",
+            "id": "1284958243601690633",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:08:02.000Z",
+            "id": "1284958196214497281",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:56.000Z",
+            "id": "1284958174659977217",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:50.000Z",
+            "id": "1284958148550434816",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:42.000Z",
+            "id": "1284958113184059394",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:38.000Z",
+            "id": "1284958098390765569",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:34.000Z",
+            "id": "1284958080850186243",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:29.000Z",
+            "id": "1284958059270479872",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:24.000Z",
+            "id": "1284958037317496833",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:19.000Z",
+            "id": "1284958016186601480",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:13.000Z",
+            "id": "1284957993042432001",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:07:08.000Z",
+            "id": "1284957970271481856",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:06:53.000Z",
+            "id": "1284957906971111425",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:06:49.000Z",
+            "id": "1284957891368292352",
+            "text": "#Ayudemos Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informaci\u00f3n, al 04142907111"
+        },
+        {
+            "created_at": "2020-07-19T21:06:44.000Z",
+            "id": "1284957871055138816",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:06:40.000Z",
+            "id": "1284957855074918401",
+            "text": "RT @cmrondon: Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informac\u2026"
+        },
+        {
+            "created_at": "2020-07-19T21:06:19.000Z",
+            "id": "1284957767913091073",
+            "text": "Para paciente en Terapia intensiva se Solicita, con car\u00e1cter de urgencia Lioresal de 10 o 20 mgs. Urgente! Cualquier informaci\u00f3n , favor comunicarla al 04142907111"
+        },
+        {
+            "created_at": "2020-07-18T21:37:33.000Z",
+            "id": "1284603239938359297",
+            "text": "@Farmarato buscando con urgencia este medicamento para un amigo LIORESAL o BACLOFENO lo tendr\u00e1n?"
+        },
+        {
+            "created_at": "2020-07-18T16:16:00.000Z",
+            "id": "1284522319294148608",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-18T15:23:53.000Z",
+            "id": "1284509202417885185",
+            "text": "@HambreCero buen d\u00eda Sr Juan Carr, disculpe que lo moleste por este medio, pero quer\u00eda saber si me puede ayudar, necesito un remedio que es para mi mam\u00e1, ella tiene acv, tiene 74 a\u00f1os, y toma lioresal 10mg(baclofeno), y no consigo, si me pueden decir d\u00f3nde conseguirlo, Gracias!!"
+        },
+        {
+            "created_at": "2020-07-17T20:59:04.000Z",
+            "id": "1284231165185003523",
+            "text": "@DocBulle Ou lioresal"
+        },
+        {
+            "created_at": "2020-07-17T16:16:16.000Z",
+            "id": "1284159998780739585",
+            "text": "@DocBulle Lioresal  x3 / jour"
+        },
+        {
+            "created_at": "2020-07-13T19:07:36.000Z",
+            "id": "1282753564381569025",
+            "text": "#Unichem\n\n- Unichem Lab has received ANDA approval for its Baclofen Tablets from the USFDA to market a generic version of LIORESAL (Baclofen) Tablets,\n\n- \u2705 Positive."
+        },
+        {
+            "created_at": "2020-07-13T16:38:06.000Z",
+            "id": "1282715938555670528",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-13T05:29:44.000Z",
+            "id": "1282547741571387392",
+            "text": "@profnpicard Un petit Lior\u00e9sal......."
+        },
+        {
+            "created_at": "2020-07-13T03:19:11.000Z",
+            "id": "1282514885478211585",
+            "text": "Unichem Lab has received ANDA approval for its Baclofen Tablets from the USFDA to market a generic version of LIORESAL (Baclofen) Tablets. #MOMarketUpdates"
+        },
+        {
+            "created_at": "2020-07-12T19:36:37.000Z",
+            "id": "1282398478962843648",
+            "text": "Lioresal : Uses, Side Effects, Interactions &amp;\u00a0More https://t.co/fXwG6c3Bi3"
+        },
+        {
+            "created_at": "2020-07-12T12:36:18.000Z",
+            "id": "1282292702063796226",
+            "text": "Unichem Labs gets USFDA nod for generic Lioresal tablets\n #ANDA #GenericLioresaltablets #UnichemLab #USFDA https://t.co/vTrQYgwisK"
+        },
+        {
+            "created_at": "2020-07-12T12:35:27.000Z",
+            "id": "1282292489282637824",
+            "text": "Unichem Labs gets USFDA nod for generic Lioresal tablets\n #ANDA #GenericLioresaltablets #UnichemLab #USFDA https://t.co/7rOBfv4Zi3"
+        },
+        {
+            "created_at": "2020-07-12T00:20:11.000Z",
+            "id": "1282107453270822913",
+            "text": "RT @DHealthMaster: Unichem Labs gets USFDA nod for generic Lioresal tablets\n #ANDA #GenericLioresaltablets #UnichemLab #USFDA https://t.co/\u2026"
+        },
+        {
+            "created_at": "2020-07-12T00:11:19.000Z",
+            "id": "1282105221351702528",
+            "text": "Unichem Labs gets USFDA nod for generic Lioresal tablets\n #ANDA #GenericLioresaltablets #UnichemLab #USFDA https://t.co/7rOBfv4Zi3"
+        },
+        {
+            "created_at": "2020-07-11T23:35:17.000Z",
+            "id": "1282096151890624512",
+            "text": "Unichem Labs gets USFDA nod for generic Lioresal tablets\n #ANDA #GenericLioresaltablets #UnichemLab #USFDA https://t.co/FR3yivloX1"
+        },
+        {
+            "created_at": "2020-07-11T05:39:24.000Z",
+            "id": "1281825397768720385",
+            "text": "Unichem Labs gets USFDA nod to Baclofen Tablets for spasticity relief #unichemlabs #unichemlabsnews #usfda #baclofentablets #lioresal #novartis https://t.co/mNk4XaXpfX"
+        },
+        {
+            "created_at": "2020-07-10T20:27:53.000Z",
+            "id": "1281686602482356225",
+            "text": "Eres mi progesterona\nMi alpram\n\nMi lioresal.\n\nMi cefadoxilo\n\nMi insulina.\n\nY por ah\u00ed se van."
+        },
+        {
+            "created_at": "2020-07-10T09:47:14.000Z",
+            "id": "1281525379484844032",
+            "text": "Yesterday was a tough day, (Cymbalta, Lioresal) \u0628\u0633 \u0627\u0644\u062d\u0645\u062f\u0627\u0644\u0644\u0647 \u0639\u062f\u0649 \u0639\u0644\u0649 \u062e\u064a\u0631. \ud83d\ude2d\u2764\ufe0f"
+        },
+        {
+            "created_at": "2020-07-09T03:05:04.000Z",
+            "id": "1281061782136725506",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-08T23:10:24.000Z",
+            "id": "1281002725971542018",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-08T22:32:46.000Z",
+            "id": "1280993256378109952",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-08T21:31:00.000Z",
+            "id": "1280977710492205057",
+            "text": "#ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal de 10 o 25mg as\u00ed  est\u00e9n vencidas.\n\nInfo al 0414 1242476"
+        },
+        {
+            "created_at": "2020-07-08T11:11:50.000Z",
+            "id": "1280821893151494144",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2  o 4 gr y Baclofeno o Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T11:00:25.000Z",
+            "id": "1280819021911375872",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2  o 4 gr y Baclofeno o Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T10:11:53.000Z",
+            "id": "1280806807477370881",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o  Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T05:23:38.000Z",
+            "id": "1280734264150110208",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o  Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T03:31:00.000Z",
+            "id": "1280705919676866561",
+            "text": "#ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2  o 4 gr y Baclofeno o Lioresal de 10 o 25mg as\u00ed est\u00e9n vencidas.\n\nInfo al 0414 1242476"
+        },
+        {
+            "created_at": "2020-07-08T02:53:09.000Z",
+            "id": "1280696397420023808",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o  Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T02:28:34.000Z",
+            "id": "1280690207000530946",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o  Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T02:04:38.000Z",
+            "id": "1280684187666780162",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o  Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T01:35:39.000Z",
+            "id": "1280676893763743744",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o  Liore\u2026"
+        },
+        {
+            "created_at": "2020-07-08T01:31:00.000Z",
+            "id": "1280675720453410816",
+            "text": "#ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o  Lioresal de 10 o 25mg as\u00ed est\u00e9n vencidas.\n\nInfo al 0414 1242476"
+        },
+        {
+            "created_at": "2020-07-07T23:21:08.000Z",
+            "id": "1280643039699046400",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T22:56:21.000Z",
+            "id": "1280636802068594699",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T21:45:24.000Z",
+            "id": "1280618945612054529",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T21:45:14.000Z",
+            "id": "1280618906609233923",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T21:44:37.000Z",
+            "id": "1280618752355315717",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T21:20:04.000Z",
+            "id": "1280612572379713538",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T21:18:39.000Z",
+            "id": "1280612214899122177",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T20:41:53.000Z",
+            "id": "1280602961392078849",
+            "text": "RT @ElTequeno: #ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Liores\u2026"
+        },
+        {
+            "created_at": "2020-07-07T20:37:09.000Z",
+            "id": "1280601773678440450",
+            "text": "#ServicioP\u00fablico Se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal de 10 o 25mg as\u00ed est\u00e9n vencidas.\n\nInfo al 0414 1242476"
+        },
+        {
+            "created_at": "2020-07-07T17:02:36.000Z",
+            "id": "1280547777064235008",
+            "text": "Donaci\u00f3n de #Baclofeno #Lioresal para la ni\u00f1a #MaryibethPerez de 6 a\u00f1os\n\nGracias a donaciones an\u00f3nimas hemos podido ayudar a esta familia\n\nSeguimos en b\u00fasqueda de #Baclofeno o #Lioresal\n\n#YoSoyArepitaFeliz\u2026 https://t.co/dogsWruzFL"
+        },
+        {
+            "created_at": "2020-07-06T18:35:26.000Z",
+            "id": "1280208753917333506",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T14:32:05.000Z",
+            "id": "1280147511420862464",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T14:31:34.000Z",
+            "id": "1280147380223033346",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T11:09:52.000Z",
+            "id": "1280096624107233280",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T09:44:29.000Z",
+            "id": "1280075133105946626",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T03:32:42.000Z",
+            "id": "1279981574788993025",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-06T02:35:07.000Z",
+            "id": "1279967079882506249",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T02:31:07.000Z",
+            "id": "1279966074516226048",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T02:27:44.000Z",
+            "id": "1279965225354252288",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T01:22:52.000Z",
+            "id": "1279948897226567681",
+            "text": "RT @ElTequeno: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-06T01:06:11.000Z",
+            "id": "1279944699541884928",
+            "text": "#5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal de 10 o 25mg as\u00ed est\u00e9n vencidas.\n\nInfo al 0414 1242476"
+        },
+        {
+            "created_at": "2020-07-06T00:11:19.000Z",
+            "id": "1279930893453451266",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T23:44:41.000Z",
+            "id": "1279924190062219265",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T21:34:39.000Z",
+            "id": "1279891467792797697",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T21:14:36.000Z",
+            "id": "1279886421034139651",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T21:06:17.000Z",
+            "id": "1279884327380287488",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T21:03:49.000Z",
+            "id": "1279883707881406464",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:48:48.000Z",
+            "id": "1279879929463812104",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:48:43.000Z",
+            "id": "1279879908353814529",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:37:11.000Z",
+            "id": "1279877003706073093",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:37:02.000Z",
+            "id": "1279876967282638848",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:36:28.000Z",
+            "id": "1279876824575758344",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:26:26.000Z",
+            "id": "1279874297817858048",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:24:04.000Z",
+            "id": "1279873704823062528",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:18:33.000Z",
+            "id": "1279872313572425730",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:17:05.000Z",
+            "id": "1279871946692472839",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:17:04.000Z",
+            "id": "1279871942682644480",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:15:59.000Z",
+            "id": "1279871668366848000",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:14:36.000Z",
+            "id": "1279871323020374016",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:14:09.000Z",
+            "id": "1279871209396752384",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:12:11.000Z",
+            "id": "1279870714733002753",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:11:10.000Z",
+            "id": "1279870457391579136",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:11:08.000Z",
+            "id": "1279870449422348290",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:09:43.000Z",
+            "id": "1279870091576909824",
+            "text": "RT @ReporteYa: #5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:09:27.000Z",
+            "id": "1279870023251693573",
+            "text": "#5Jul #ServicioP\u00fablico\nSe requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal de 10 o 25mg as\u00ed est\u00e9n vencidas. \nInfo al 0414 1242476 - @dmurolo"
+        },
+        {
+            "created_at": "2020-07-05T20:09:08.000Z",
+            "id": "1279869944877010944",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:06:14.000Z",
+            "id": "1279869216330592256",
+            "text": "RT @dmurolo: #ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal\u2026"
+        },
+        {
+            "created_at": "2020-07-05T20:02:28.000Z",
+            "id": "1279868266148741121",
+            "text": "#ServicioPublico se requiere con urgencia los siguiente medicamentos: Biperideno o Akineton de 2 o 4 gr y Baclofeno o Lioresal de 10 o 25mg as\u00ed est\u00e9n vencidas. Info al 0414 1242476"
+        },
+        {
+            "created_at": "2020-07-04T09:08:37.000Z",
+            "id": "1279341334327963648",
+            "text": "@moreeurquiza @Dana_Galay12 Hola soy de Dolores, tengo un hno con microcefalia . Qe toma blacofeno lioresal.. hablame al MD"
+        },
+        {
+            "created_at": "2020-07-02T19:38:20.000Z",
+            "id": "1278775029967306752",
+            "text": "Best U.S. Online Pharmacy | Canadian Drugs Lioresal Generic | 100% Satisfaction Guaranteed https://t.co/aGntrslwgf"
+        },
+        {
+            "created_at": "2020-07-02T16:34:23.000Z",
+            "id": "1278728738453065728",
+            "text": "B https://t.co/O2rZSPU7od https://t.co/6laTgvlzhk"
+        },
+        {
+            "created_at": "2020-07-02T02:17:49.000Z",
+            "id": "1278513176494161921",
+            "text": "Skeletal muscle relaxants are approved for short-term treatment of muscle spasms and back pain. Examples of muscle relaxants include baclofen (Lioresal), carisoprodol (Soma), cyclobenzaprine (Fexmid) and tizanidine (Zanaflex). #backpain https://t.co/3lbKxPth3q"
+        },
+        {
+            "created_at": "2020-07-01T16:34:17.000Z",
+            "id": "1278366325853863936",
+            "text": "Guidelines lioresal https://t.co/BVDkyVbJDW"
+        }
+    ],
+    "meta": {
+        "newest_id": "1287106114023292933",
+        "oldest_id": "1278366325853863936",
+        "result_count": 341
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-07-25T15:23:30.000Z",
+            "id": "1287045822786478080",
+            "text": "OZOBAX Drug Profile, 2020 https://t.co/j0XoGmOQOm"
+        },
+        {
+            "created_at": "2020-07-12T19:39:19.000Z",
+            "id": "1282399158188597248",
+            "text": "Ozobax : Uses, Side Effects, Interactions &amp;\u00a0More https://t.co/ZMWbxHrbff"
+        }
+    ],
+    "meta": {
+        "newest_id": "1287045822786478080",
+        "oldest_id": "1282399158188597248",
+        "result_count": 2
+    }
+}

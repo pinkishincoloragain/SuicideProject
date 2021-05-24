@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-10-12T15:07:11.000Z",
+            "id": "1183036399252979719",
+            "text": "Does anybody know the difference (whether due to personal experience or medical background) between Flexeril (Cyclobenzaprine) and Baclofen (Lioresal,\u00a0Gablofen)? \n\nI've done a little research myself. But appreciate personal testimonies."
+        }
+    ],
+    "meta": {
+        "newest_id": "1183036399252979719",
+        "oldest_id": "1183036399252979719",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2019-10-14T14:02:38.000Z",
+            "id": "1183744928360423426",
+            "text": "RT @DraganaObrado20: @andrej_yugojazz je nedavno pitao za baklofenske pumpe.  One su ugra\u0111uju pacijentima sa jako izra\u017eenim spasticitetom,\u2026"
+        },
+        {
+            "created_at": "2019-10-14T13:47:56.000Z",
+            "id": "1183741227327467521",
+            "text": "RT @DraganaObrado20: @andrej_yugojazz je nedavno pitao za baklofenske pumpe.  One su ugra\u0111uju pacijentima sa jako izra\u017eenim spasticitetom,\u2026"
+        },
+        {
+            "created_at": "2019-10-14T13:24:04.000Z",
+            "id": "1183735222707347465",
+            "text": "@andrej_yugojazz je nedavno pitao za baklofenske pumpe.  One su ugra\u0111uju pacijentima sa jako izra\u017eenim spasticitetom, pri \u010demu sam pacijent mo\u017ee da reguli\u0161e koli\u010dinu baklofena (Lioresal) koja mu je potrebna u pojedinim delovima dana.\n#MultipleSclerosis https://t.co/s6MoZRzHOQ"
+        },
+        {
+            "created_at": "2019-10-12T15:07:11.000Z",
+            "id": "1183036399252979719",
+            "text": "Does anybody know the difference (whether due to personal experience or medical background) between Flexeril (Cyclobenzaprine) and Baclofen (Lioresal,\u00a0Gablofen)? \n\nI've done a little research myself. But appreciate personal testimonies."
+        },
+        {
+            "created_at": "2019-10-11T03:44:30.000Z",
+            "id": "1182502204873285632",
+            "text": "@rx5343 \u0641\u064a \u062d\u0628\u0648\u0628 \u062a\u0633\u0627\u0639\u062f \u0639 \u062a\u062e\u0641\u064a\u0641 \u0627\u0644\u0634\u062f \u0648 \u062a\u0631\u062e\u064a \u0627\u0644\u0639\u0636\u0644\u0627\u062a \u0627\u0633\u0645\u0647\u0627 ( Baclofen ) Lioresal \n\u0627\u0633\u062a\u0634\u064a\u0631\u064a \u0637\u0628\u064a\u0628\u0643 \u0644\u0635\u0631\u0641\u0647\u0627 \u060c\n\u0642\u062f\u0627\u0645\u0643 \u0627\u0644\u0639\u0627\u0641\u064a\u0647 \u064a\u0627\u0631\u0628 \u2026"
+        },
+        {
+            "created_at": "2019-10-10T17:25:21.000Z",
+            "id": "1182346392964141058",
+            "text": "RT @andrej_yugojazz: Baclofen tj. Lioresal, jedan pi\u0161ljivi mi\u0161i\u0107ni relaksant ali najefikasniji kod MS, ko\u0161ta oko 20 evra za 30 dana. Na lis\u2026"
+        },
+        {
+            "created_at": "2019-10-10T17:23:47.000Z",
+            "id": "1182345999798472704",
+            "text": "RT @andrej_yugojazz: Baclofen tj. Lioresal, jedan pi\u0161ljivi mi\u0161i\u0107ni relaksant ali najefikasniji kod MS, ko\u0161ta oko 20 evra za 30 dana. Na lis\u2026"
+        },
+        {
+            "created_at": "2019-10-10T17:22:21.000Z",
+            "id": "1182345638152953857",
+            "text": "Baclofen tj. Lioresal, jedan pi\u0161ljivi mi\u0161i\u0107ni relaksant ali najefikasniji kod MS, ko\u0161ta oko 20 evra za 30 dana. Na listi odobrenih lekova fonda za vojne osiguranike ali ne i RFZO. Ne daju \u010dak ni to."
+        },
+        {
+            "created_at": "2019-10-04T12:27:01.000Z",
+            "id": "1180096986533568512",
+            "text": "@FundacionBADAN hola, para paciente cuadraplejico se necesita Lioresal o Baclofen, con urgencia. Gracias"
+        }
+    ],
+    "meta": {
+        "newest_id": "1183744928360423426",
+        "oldest_id": "1180096986533568512",
+        "result_count": 9
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

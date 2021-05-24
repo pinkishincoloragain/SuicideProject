@@ -1,0 +1,702 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-11-09T07:05:58.000Z",
+            "id": "796247441926475776",
+            "text": "#RFP: MA -Injections GABLOFEN 500mcg/mL 2000mcg/ https://t.co/rAjBXKBAV1"
+        },
+        {
+            "created_at": "2016-11-07T17:44:36.000Z",
+            "id": "795683382403284992",
+            "text": "Gablofen (baclofen \u2013 intrathecal) - Multiple Sclerosis News Today https://t.co/JLI0FDVbiL"
+        }
+    ],
+    "meta": {
+        "newest_id": "796247441926475776",
+        "oldest_id": "795683382403284992",
+        "result_count": 2
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-11-29T18:25:31.000Z",
+            "id": "803666214782279680",
+            "text": "@Shirleyrovdc Tengo una ampolla de Lioresal. Le sirve?"
+        },
+        {
+            "created_at": "2016-11-28T17:34:51.000Z",
+            "id": "803291074005372928",
+            "text": "@elcitizen pueden rt a bertin q anexe Lioresal para lesionados medulares  gracias"
+        },
+        {
+            "created_at": "2016-11-26T22:08:14.000Z",
+            "id": "802635100043231233",
+            "text": "I work for myself &lt;a href=\" https://t.co/rZ9x42VYYt \"&gt;baclofen 10mg to get high&lt;/a&gt; ... https://t.co/chkMl02NUE"
+        },
+        {
+            "created_at": "2016-11-26T22:08:12.000Z",
+            "id": "802635090253619200",
+            "text": "Where are you calling from? &lt;a href=\" https://t.co/rZ9x43dzQ1 \"&gt;lioresal 10 mg price... https://t.co/zetHtK5l18"
+        },
+        {
+            "created_at": "2016-11-26T21:28:21.000Z",
+            "id": "802625062083796994",
+            "text": "@liliantintori @AsevedVanessa ayudemnos a traer a vzla LIORESAL DE 10 O 25 MG para lesionados de la medula gracias"
+        },
+        {
+            "created_at": "2016-11-26T21:25:13.000Z",
+            "id": "802624273751810048",
+            "text": "@QTTF @VenespAc @BertinOsborne @carlosbaute ayudemnos a traer a vzla el medicamento LIORESAL DE 10 O 25 MG para lesionados d la medula"
+        },
+        {
+            "created_at": "2016-11-25T21:14:41.000Z",
+            "id": "802259234549366784",
+            "text": "@saludvzlamadrid buenas tardes me podrian ayudar en esa lista LIORESAL 25 MG soy lesionado medular y en vzla desaparecio esta pastilla"
+        },
+        {
+            "created_at": "2016-11-24T21:08:42.000Z",
+            "id": "801895339179458560",
+            "text": "I quite like cooking &lt;a href=\" https://t.co/eUEjrbsa8W... https://t.co/iEUoOFiaUh"
+        },
+        {
+            "created_at": "2016-11-24T18:17:32.000Z",
+            "id": "801852267683004416",
+            "text": "Vi accepterar: VISA, Mastercard , Amex, Echeck - K\u00f6pa Lioresal L\u00e4kemedel\u2026 https://t.co/wU7ywVTk35 #intermodal"
+        },
+        {
+            "created_at": "2016-11-24T18:17:32.000Z",
+            "id": "801852266802270208",
+            "text": "Online Pill Store - Order Lioresal Generic Cheapest - Fastest U.S. Shipping\u2026 https://t.co/60VDqNBY7s #intermodal"
+        },
+        {
+            "created_at": "2016-11-24T14:08:01.000Z",
+            "id": "801789471989571584",
+            "text": "Cheap Medicines Online At Our Drugstore Price 25 mg Lioresal generic Express\u2026 https://t.co/83VS3XL2Ix #intermodal"
+        },
+        {
+            "created_at": "2016-11-22T14:30:37.000Z",
+            "id": "801070384959418368",
+            "text": "@LocatelVzla_ATC tendran lioresal de 10 o 25mg y pregabalina"
+        },
+        {
+            "created_at": "2016-11-22T13:47:53.000Z",
+            "id": "801059631040700416",
+            "text": "@liliantintori lilian busco el medicamento lioresal o baclofen 10 o 25 mg capsulas soy lesionado medular t agradezco ayuda para traerlo vzla"
+        },
+        {
+            "created_at": "2016-11-22T13:41:43.000Z",
+            "id": "801058076447178752",
+            "text": "@FundacionBADAN busco lioresal 10 o 25mg capsulas les habra llegado! Gracias"
+        },
+        {
+            "created_at": "2016-11-21T11:02:40.000Z",
+            "id": "800655665949798400",
+            "text": "Les \u00e9chantillons de Viagra gratuit :: Achete Lioresal Baclofen En Ligne Peu Couteux https://t.co/ZPchO0aYA6 https://t.co/Jvlak86ZpO"
+        },
+        {
+            "created_at": "2016-11-21T10:08:13.000Z",
+            "id": "800641962835472384",
+            "text": "I'm sorry, she's  &lt;a href=\" https://t.co/oci1GHEBXB... https://t.co/qhGiyodPQk"
+        },
+        {
+            "created_at": "2016-11-19T13:42:43.000Z",
+            "id": "799971166525886464",
+            "text": "Buy Cheapest Lioresal - Fast Worldwide Shipping - Cheap Online Pharmacy https://t.co/FrYz5fu3lo https://t.co/GDPYbdtALE"
+        },
+        {
+            "created_at": "2016-11-19T09:20:47.000Z",
+            "id": "799905250413056000",
+            "text": "Lioresal E Sclerosi Multipla Per Singhiozzo - https://t.co/23ZYJLnCt4 #GoogleAlerts"
+        },
+        {
+            "created_at": "2016-11-19T08:55:01.000Z",
+            "id": "799898763250831360",
+            "text": "Ink\u00f6p Nu Lioresal 25 mg - Billiga l\u00e4kemedel online p\u00e5 v\u00e5r apotek - Inget Recept Apotek P\u00e5 N... https://t.co/mxoxi6CBLl https://t.co/nkknjyp8sG"
+        },
+        {
+            "created_at": "2016-11-16T09:18:42.000Z",
+            "id": "798817562641301510",
+            "text": "Lioresal Sclerosi Multipla Scheda - https://t.co/CFELKu0lQI #GoogleAlerts"
+        },
+        {
+            "created_at": "2016-11-15T22:19:33.000Z",
+            "id": "798651679268687872",
+            "text": "Achat Lioresal En Ligne De Mire Vente Libre Espagne https://t.co/edXuiln3qm"
+        },
+        {
+            "created_at": "2016-11-12T01:18:08.000Z",
+            "id": "797247070101012480",
+            "text": "cFhixessifuL - I've got a full-time job lioresal 5 mg/5ml  Locker has not established himself as the QB of the present or future and Tenn..."
+        },
+        {
+            "created_at": "2016-11-11T14:24:45.000Z",
+            "id": "797082641858183168",
+            "text": "Coupon Edited: LIORESAL (baclofen) Coupons &amp; Discounts https://t.co/iWGfwH17nw"
+        },
+        {
+            "created_at": "2016-11-10T00:09:10.000Z",
+            "id": "796504940537647104",
+            "text": "Lioresal | Buy Online In\u00a0Usa https://t.co/Jniw9S9i9A"
+        },
+        {
+            "created_at": "2016-11-09T22:08:15.000Z",
+            "id": "796474509704298496",
+            "text": "I'm not working at the moment &lt;a href=\" https://t.co/VcUpFSzjmz... https://t.co/Ub5sk1Ag2K"
+        },
+        {
+            "created_at": "2016-11-09T21:24:56.000Z",
+            "id": "796463607731064832",
+            "text": "RT @AbiBuddComms: Lioresal (baclofen) for Muscle Spasms in #MultipleSclerosis https://t.co/UXy9WCvOJW"
+        },
+        {
+            "created_at": "2016-11-09T14:55:59.000Z",
+            "id": "796365726114312192",
+            "text": "Lioresal (baclofen) for Muscle Spasms in #MultipleSclerosis https://t.co/UXy9WCvOJW"
+        },
+        {
+            "created_at": "2016-11-09T12:38:44.000Z",
+            "id": "796331184586424320",
+            "text": "Lioresal | Best Price No Script: Looking for a lioresal? Not a problem! More info about\u2026 https://t.co/MttBOwbxdO"
+        },
+        {
+            "created_at": "2016-11-09T05:06:10.000Z",
+            "id": "796217293227364352",
+            "text": "Lioresal | Purchase Jahovahs\u00a0Witness https://t.co/s9gmnZ768p"
+        },
+        {
+            "created_at": "2016-11-09T03:04:46.000Z",
+            "id": "796186740738367490",
+            "text": "Lioresal | Order Pain\u00a0Generic https://t.co/C6sNiMl9rK"
+        },
+        {
+            "created_at": "2016-11-08T16:28:07.000Z",
+            "id": "796026525757771776",
+            "text": "Lioresal (baclofen) - Multiple Sclerosis News Today https://t.co/SzXyMsQg5T"
+        },
+        {
+            "created_at": "2016-11-08T04:12:17.000Z",
+            "id": "795841346183393280",
+            "text": "#Lioresal https://t.co/CiZ40WApeA"
+        },
+        {
+            "created_at": "2016-11-05T03:36:37.000Z",
+            "id": "794745208281796608",
+            "text": "Can I Buy Lioresal Online https://t.co/BURgIPVmBy"
+        },
+        {
+            "created_at": "2016-11-05T03:35:33.000Z",
+            "id": "794744938290356224",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-05T03:08:20.000Z",
+            "id": "794738087402184704",
+            "text": "I really like swimming &lt;a href=\" https://t.co/2H4Lk6RvHG \"&gt;lioresal... https://t.co/EytCCECcKd"
+        },
+        {
+            "created_at": "2016-11-05T00:08:14.000Z",
+            "id": "794692765326024704",
+            "text": "Have you got any ? &lt;a href=\" https://t.co/ZszYAWown0 \"&gt;intrathecal baclofen test d... https://t.co/a2zvPLt4FQ"
+        },
+        {
+            "created_at": "2016-11-04T20:35:00.000Z",
+            "id": "794639102436118528",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T18:27:05.000Z",
+            "id": "794606913216454656",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T18:05:35.000Z",
+            "id": "794601502736285696",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T17:47:18.000Z",
+            "id": "794596900045549568",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T17:02:36.000Z",
+            "id": "794585651287117824",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T17:00:31.000Z",
+            "id": "794585124558041088",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:54:39.000Z",
+            "id": "794583649777840128",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:53:53.000Z",
+            "id": "794583455522836483",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:53:28.000Z",
+            "id": "794583351948705792",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:52:17.000Z",
+            "id": "794583055658668032",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:51:31.000Z",
+            "id": "794582860971868161",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:50:24.000Z",
+            "id": "794582580330893312",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:49:29.000Z",
+            "id": "794582348792823809",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:15:20.000Z",
+            "id": "794573754995187712",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T16:14:34.000Z",
+            "id": "794573561398784000",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:33:16.000Z",
+            "id": "794563170098708480",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:30:33.000Z",
+            "id": "794562483717636101",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:29:26.000Z",
+            "id": "794562204532113408",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:17:52.000Z",
+            "id": "794559292720484358",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:16:31.000Z",
+            "id": "794558954768568320",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:15:09.000Z",
+            "id": "794558609174724609",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:10:23.000Z",
+            "id": "794557408928550912",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:06:18.000Z",
+            "id": "794556380959174660",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:04:56.000Z",
+            "id": "794556040767356928",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T15:04:33.000Z",
+            "id": "794555943975587840",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:57:10.000Z",
+            "id": "794554082497273856",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:53:14.000Z",
+            "id": "794553094566776832",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:51:26.000Z",
+            "id": "794552640856354816",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:46:16.000Z",
+            "id": "794551339686776834",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:46:07.000Z",
+            "id": "794551302655250432",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:45:08.000Z",
+            "id": "794551054423752708",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:44:24.000Z",
+            "id": "794550869698158592",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:44:01.000Z",
+            "id": "794550775582179328",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:43:45.000Z",
+            "id": "794550709895172100",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:43:08.000Z",
+            "id": "794550554315919360",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:41:38.000Z",
+            "id": "794550176824393733",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:38:26.000Z",
+            "id": "794549368988860416",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:36:50.000Z",
+            "id": "794548967371587585",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:34:24.000Z",
+            "id": "794548354353078273",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:33:09.000Z",
+            "id": "794548041936150530",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:27:15.000Z",
+            "id": "794546555067965442",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:25:42.000Z",
+            "id": "794546167644299264",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:18:53.000Z",
+            "id": "794544448684355585",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:18:24.000Z",
+            "id": "794544328194621440",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:15:26.000Z",
+            "id": "794543580056526848",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:13:02.000Z",
+            "id": "794542977012080640",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:12:49.000Z",
+            "id": "794542924293869568",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:11:16.000Z",
+            "id": "794542533695176704",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:08:58.000Z",
+            "id": "794541956135321600",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:06:25.000Z",
+            "id": "794541313463111681",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:01:01.000Z",
+            "id": "794539955833933826",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T14:00:16.000Z",
+            "id": "794539764720476161",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:59:07.000Z",
+            "id": "794539477456867328",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:58:59.000Z",
+            "id": "794539440895119361",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:56:08.000Z",
+            "id": "794538724361117697",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "803666214782279680",
+        "next_token": "1jzu9lk96gu5npw2yelvcb9kf72rewm8yrdqph7ttr3x",
+        "oldest_id": "794538724361117697",
+        "result_count": 91
+    }
+}{
+    "data": [
+        {
+            "created_at": "2016-11-04T13:55:22.000Z",
+            "id": "794538532467576833",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:54:55.000Z",
+            "id": "794538417455562752",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:54:47.000Z",
+            "id": "794538387038490624",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:54:40.000Z",
+            "id": "794538356508082178",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:54:01.000Z",
+            "id": "794538190564708353",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:53:15.000Z",
+            "id": "794537997626707968",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:53:12.000Z",
+            "id": "794537984720830464",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:52:38.000Z",
+            "id": "794537842164768768",
+            "text": "RT @MariMantilla: Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @\u2026"
+        },
+        {
+            "created_at": "2016-11-04T13:51:47.000Z",
+            "id": "794537630901923841",
+            "text": "Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @porlagoma"
+        },
+        {
+            "created_at": "2016-11-04T13:51:29.000Z",
+            "id": "794537556725604356",
+            "text": "Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @JeanMary_"
+        },
+        {
+            "created_at": "2016-11-04T13:51:16.000Z",
+            "id": "794537500975005696",
+            "text": "Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @LuisChataing"
+        },
+        {
+            "created_at": "2016-11-04T13:49:52.000Z",
+            "id": "794537149391577090",
+            "text": "Tienen alg\u00fan familiar epil\u00e9ptico que necesite  Lioresal Intrathecal de 10 mg/20ml? Estoy regalando una #ServicioPublico @TodoEsJoda"
+        },
+        {
+            "created_at": "2016-11-04T08:08:16.000Z",
+            "id": "794451181577699328",
+            "text": "I'd like a phonecard, please &lt;a href=\" https://t.co/X5QtahlfYY \"&gt;best place to ... https://t.co/KohuQPdhmG"
+        },
+        {
+            "created_at": "2016-11-04T01:44:42.000Z",
+            "id": "794354652087275520",
+            "text": "Generic Pills Online :: cheapest Lioresal Price :: #1 Online Drugstore https://t.co/Nbj6gXRAAN https://t.co/7WLI6bHpXv"
+        },
+        {
+            "created_at": "2016-11-04T00:08:12.000Z",
+            "id": "794330367318597632",
+            "text": "Accountant supermarket manager &lt;a href=\" https://t.co/yJzJo42wgX \"&gt;buy ba... https://t.co/jVRWXALkNG"
+        },
+        {
+            "created_at": "2016-11-02T18:08:16.000Z",
+            "id": "793877402422128641",
+            "text": "I'm sorry, he's  &lt;a href=\" https://t.co/eN6cswfpBP \"&gt;baclofen costa rica&lt;/... https://t.co/QI191ZbYxv"
+        },
+        {
+            "created_at": "2016-11-02T14:39:13.000Z",
+            "id": "793824793225261056",
+            "text": "RT @FundaDistoniaVe: Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL (Baclofen) 10mg o 20mg comprimidos.0212\u2026"
+        },
+        {
+            "created_at": "2016-11-02T13:27:16.000Z",
+            "id": "793806683625680896",
+            "text": "RT @FundaDistoniaVe: Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL (Baclofen) 10mg o 20mg comprimidos.0212\u2026"
+        },
+        {
+            "created_at": "2016-11-02T13:16:57.000Z",
+            "id": "793804087674318848",
+            "text": "RT @FundaDistoniaVe: Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL (Baclofen) 10mg o 20mg comprimidos.0212\u2026"
+        },
+        {
+            "created_at": "2016-11-02T13:06:19.000Z",
+            "id": "793801410383142912",
+            "text": "rvGdPOcVsBB - Sorry, I'm busy at the moment lioresal effect on speeches  The speaker of the US House of Representatives, John Boehner, a ..."
+        },
+        {
+            "created_at": "2016-11-02T10:45:47.000Z",
+            "id": "793766046050226178",
+            "text": "RT @FundaDistoniaVe: Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL (Baclofen) 10mg o 20mg comprimidos.0212\u2026"
+        },
+        {
+            "created_at": "2016-11-02T10:37:33.000Z",
+            "id": "793763974227619842",
+            "text": "Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL (Baclofen) 10mg o 20mg comprimidos.0212 8417982 - 0414 0121642 https://t.co/kDbHUYwuaY"
+        },
+        {
+            "created_at": "2016-11-02T04:10:21.000Z",
+            "id": "793666533419614208",
+            "text": "Marchio e dei prodotti generici per la vendita Generico Lioresal Baclofen Acquista https://t.co/BOD9Aa4MS0 https://t.co/Aah8LiB6Ow"
+        },
+        {
+            "created_at": "2016-11-02T01:21:52.000Z",
+            "id": "793624130058936320",
+            "text": "RT @fundatiacruz: LIORESAL  --&gt; aa_medical_valencia MEDICAMENTOS EN GENERAL Despacho a Domicilio Valencia..04127424230"
+        },
+        {
+            "created_at": "2016-11-02T00:55:01.000Z",
+            "id": "793617375111311360",
+            "text": "RT @fundatiacruz: LIORESAL  --&gt; aa_medical_valencia MEDICAMENTOS EN GENERAL Despacho a Domicilio Valencia..04127424230"
+        },
+        {
+            "created_at": "2016-11-02T00:50:01.000Z",
+            "id": "793616116547514368",
+            "text": "RT @fundatiacruz: LIORESAL  --&gt; aa_medical_valencia MEDICAMENTOS EN GENERAL Despacho a Domicilio Valencia..04127424230"
+        },
+        {
+            "created_at": "2016-11-02T00:47:39.000Z",
+            "id": "793615519484084224",
+            "text": "LIORESAL  --&gt; aa_medical_valencia MEDICAMENTOS EN GENERAL Despacho a Domicilio Valencia..04127424230"
+        },
+        {
+            "created_at": "2016-11-02T00:10:17.000Z",
+            "id": "793606117259698180",
+            "text": "@fundadistoniave Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL\u2026 https://t.co/ng3Xxqqj9a"
+        },
+        {
+            "created_at": "2016-11-01T23:29:34.000Z",
+            "id": "793595869908041732",
+            "text": "RT @aleidabaez: https://t.co/D9XEyiFq0m. Lioresal 10 mg. Tabletas. 04127424230. @fundatiacruz https://t.co/9NZ0FYs8wL"
+        },
+        {
+            "created_at": "2016-11-01T23:25:41.000Z",
+            "id": "793594892245172224",
+            "text": "RT @aleidabaez: https://t.co/D9XEyiFq0m. Lioresal 10 mg. Tabletas. 04127424230. @fundatiacruz https://t.co/9NZ0FYs8wL"
+        },
+        {
+            "created_at": "2016-11-01T23:19:46.000Z",
+            "id": "793593403879686144",
+            "text": "RT @aleidabaez: https://t.co/D9XEyiFq0m. Lioresal 10 mg. Tabletas. 04127424230. @fundatiacruz https://t.co/9NZ0FYs8wL"
+        },
+        {
+            "created_at": "2016-11-01T22:33:54.000Z",
+            "id": "793581862056783872",
+            "text": "https://t.co/D9XEyiFq0m. Lioresal 10 mg. Tabletas. 04127424230. @fundatiacruz https://t.co/9NZ0FYs8wL"
+        },
+        {
+            "created_at": "2016-11-01T20:33:51.000Z",
+            "id": "793551650673815553",
+            "text": "RT @FundaDistoniaVe: Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL (Baclofen) 10mg o 20mg comprimidos.0212\u2026"
+        },
+        {
+            "created_at": "2016-11-01T19:32:27.000Z",
+            "id": "793536199197589504",
+            "text": "Se necesita con URGENCIA para pacientes con Diston\u00eda del medicamento LIORESAL (Baclofen) 10mg o 20mg comprimidos.0212 8417982 - 0414 0121642 https://t.co/FhjYsrnaD4"
+        },
+        {
+            "created_at": "2016-11-01T13:53:55.000Z",
+            "id": "793451003056123904",
+            "text": "RT @hectorjosegp: @c_rotondaro Buenas tardes camarada. Mi sobrino requiere Lioresal 10mg (Baclofeno). No la conseguimos en ningun lado. 041\u2026"
+        },
+        {
+            "created_at": "2016-11-01T09:12:03.000Z",
+            "id": "793380070043844608",
+            "text": "Achat 10 mg Lioresal A Prix Reduit En Ligne. Marques Et Generics https://t.co/GxwvXULWzP https://t.co/W434FYAM1w"
+        },
+        {
+            "created_at": "2016-11-01T05:30:36.000Z",
+            "id": "793324340188221440",
+            "text": "NGlyZMHHfsO - Could I borrow your phone, please? medtronic lioresal kit  However, much of the global debate on this issue has become pola..."
+        },
+        {
+            "created_at": "2016-11-01T00:15:12.000Z",
+            "id": "793244966843711488",
+            "text": "RT @hectorjosegp: @c_rotondaro Buenas tardes camarada. Mi sobrino requiere Lioresal 10mg (Baclofeno). No la conseguimos en ningun lado. 041\u2026"
+        },
+        {
+            "created_at": "2016-11-01T00:13:56.000Z",
+            "id": "793244649590759424",
+            "text": "RT @hectorjosegp: @c_rotondaro Buenas tardes camarada. Mi sobrino requiere Lioresal 10mg (Baclofeno). No la conseguimos en ningun lado. 041\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "794538532467576833",
+        "oldest_id": "793244649590759424",
+        "result_count": 39
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

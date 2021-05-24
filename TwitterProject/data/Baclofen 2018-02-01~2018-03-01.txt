@@ -1,0 +1,3048 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2018-02-27T21:38:19.000Z",
+            "id": "968601211598458880",
+            "text": "Y si ud tuviera conocimiento. Supiera que lioresal se usa para el tetano."
+        },
+        {
+            "created_at": "2018-02-27T16:08:58.000Z",
+            "id": "968518328816877568",
+            "text": "RT @Puteri_wawa1: Neuromuscular agent \n-baclofen (lioresal)\n-cyclobenzaprine HCi (flexeril)\n-Dantrolene sodium(dantrium) \n- diazepam(valium\u2026"
+        },
+        {
+            "created_at": "2018-02-27T16:07:44.000Z",
+            "id": "968518019050741760",
+            "text": "Neuromuscular agent \n-baclofen (lioresal)\n-cyclobenzaprine HCi (flexeril)\n-Dantrolene sodium(dantrium) \n- diazepam(valium)\n-methocarbamol (roboxin)\n-suxamethonium (scoline)\n-orphenadrine (norflex) \nSalam bukan carutan tutup salam"
+        },
+        {
+            "created_at": "2018-02-27T09:55:39.000Z",
+            "id": "968424378890424326",
+            "text": "Asdrubal Gonzalez es Urgente  lioresal o baclofeno urgente en  la presentaci\u00f3n q sea para la bacteria del t\u00e9tano para mi hija Aleiber d 5 a\u00f1os recluida en el HCM d Aragua 04144603470 04169467608 y 0412445284."
+        },
+        {
+            "created_at": "2018-02-26T04:45:55.000Z",
+            "id": "967984047346548737",
+            "text": "RT @Tropocho: Difundan  Emergencia: (MARACAY) URGENTE  URGENTE Lioresal o baclofeno de Viida o muerte  Aleiber de 5 a\u00f1os recluida en el HCM\u2026"
+        },
+        {
+            "created_at": "2018-02-26T04:40:25.000Z",
+            "id": "967982663586996225",
+            "text": "Difundan  Emergencia: (MARACAY) URGENTE  URGENTE Lioresal o baclofeno de Viida o muerte  Aleiber de 5 a\u00f1os recluida en el HCM d Aragua, para su ayuda x favor  04144603470 04169467608 04124452846 quien pueda ayudar DIFUNDIR"
+        },
+        {
+            "created_at": "2018-02-24T18:32:00.000Z",
+            "id": "967467160246382593",
+            "text": "adderall: i guess i will read a book and do some math\npercocet: i can use my arm and draw with my hand \nlioresal: i function like a regular person what could go wrong"
+        },
+        {
+            "created_at": "2018-02-24T10:44:33.000Z",
+            "id": "967349521511600130",
+            "text": "How Much Does 25 mg Lioresal Cost - Best Approved Online Pharmacy - Money Back Guarantee\n\u0627\u0644\u0645\u0632\u064a\u062f \u0647\u0646\u0627..."
+        },
+        {
+            "created_at": "2018-02-23T13:49:00.000Z",
+            "id": "967033554575163392",
+            "text": "https://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-02-23T10:25:19.000Z",
+            "id": "966982296535556096",
+            "text": "RT @Noticiero52: Servicio de Noticiero 52 para nuestra audiencia: Se solicita #Baclofeno o #Lioresal https://t.co/Ogy2E17rlD #asdrubalgonza\u2026"
+        },
+        {
+            "created_at": "2018-02-23T10:20:18.000Z",
+            "id": "966981033915797505",
+            "text": "Servicio de Noticiero 52 para nuestra audiencia: Se solicita #Baclofeno o #Lioresal https://t.co/Ogy2E17rlD #asdrubalgonzales"
+        },
+        {
+            "created_at": "2018-02-23T04:51:54.000Z",
+            "id": "966898386648539136",
+            "text": "Servicio de Noticiero 52 para nuestra audiencia: Se solicita #Baclofeno o #Lioresal https://t.co/Ogy2E0PPX3 #asdrubalgonzales"
+        },
+        {
+            "created_at": "2018-02-23T01:54:31.000Z",
+            "id": "966853747212156929",
+            "text": "Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of LIORESAL INTRATHECAL cannot be reliably assessed in many cases. Nonetheless, many of the more commonly reported reactions\u2013like tweeting uncontrollably"
+        },
+        {
+            "created_at": "2018-02-23T01:44:47.000Z",
+            "id": "966851300368551937",
+            "text": "of very brief duration (up to three days of infusion) and involved only a total of 63 patients. The following events occurred among the 31 patients receiving LIORESAL INTRATHECAL (baclofen injection) in two randomized, placebo-controlled trials: hypotension (2), dizziness (2),"
+        },
+        {
+            "created_at": "2018-02-23T01:44:37.000Z",
+            "id": "966851258773622786",
+            "text": "Fatalities - See Warnings.\nIncidence in Controlled Trials \u2013 Experience with LIORESAL INTRATHECAL (baclofen injection) obtained in parallel, placebo-controlled, randomized studies provides only a limited basis for estimating the incidence of adverse events because the studies were"
+        },
+        {
+            "created_at": "2018-02-23T01:39:47.000Z",
+            "id": "966850041049698304",
+            "text": "There were 16 deaths reported among the 576 U.S. patients treated with LIORESAL INTRATHECAL (baclofen injection) in pre- and post-marketing studies evaluated as of December 1992. Because these patients were treated under uncontrolled clinical settings, it is impossible to determi"
+        },
+        {
+            "created_at": "2018-02-22T23:45:05.000Z",
+            "id": "966821173991542785",
+            "text": "Prix Du Lioresal 25 mg En Pharmacie France / BTC accept\u00e9 - https://t.co/4nahgzInNV https://t.co/MivwRlxSF6"
+        },
+        {
+            "created_at": "2018-02-22T21:22:16.000Z",
+            "id": "966785235328348161",
+            "text": "Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  urgente desesperadamente les solicito Urgente Lioresal  o Baclofeno urgente!!!...en cualquier presentaci\u00f3n   04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2018-02-22T21:20:33.000Z",
+            "id": "966784803260502016",
+            "text": "Servicio de Noticiero 52 para nuestra audiencia: Se solicita #Baclofeno o #Lioresal https://t.co/Ogy2E17rlD #asdrubalgonzales"
+        },
+        {
+            "created_at": "2018-02-22T21:09:29.000Z",
+            "id": "966782015206019073",
+            "text": "RT @Halenita_: Asdrubal Gonzales,  requiere desesperadamente  lioresal o baclofeno. Pac.     Aleiber d 5 a\u00f1os recluida en el HCM d Aragua..\u2026"
+        },
+        {
+            "created_at": "2018-02-22T07:03:11.000Z",
+            "id": "966569039286980610",
+            "text": "Herkese g\u00fcnayd\u0131n bana ferrum,lioresal,luminaletten,rivotril"
+        },
+        {
+            "created_at": "2018-02-22T02:24:06.000Z",
+            "id": "966498805976915968",
+            "text": "Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofeno...urgente!!!.."
+        },
+        {
+            "created_at": "2018-02-22T01:32:44.000Z",
+            "id": "966485879652016128",
+            "text": "Asdrubal Gonzales,  requiere desesperadamente  lioresal o baclofeno. Pac.     Aleiber d 5 a\u00f1os recluida en el HCM d Aragua...para su ayuda x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2018-02-21T23:54:14.000Z",
+            "id": "966461088530358274",
+            "text": "RT @verosaka: #Ayuda #urgete favor #RT. Para  #T\u00e9tanos  Lioresal o Baclofeno https://t.co/vdPCMNMOIr"
+        },
+        {
+            "created_at": "2018-02-21T23:02:25.000Z",
+            "id": "966448048082702337",
+            "text": "RT @verosaka: #Ayuda #urgete favor #RT. Para  #T\u00e9tanos  Lioresal o Baclofeno https://t.co/vdPCMNMOIr"
+        },
+        {
+            "created_at": "2018-02-21T02:27:32.000Z",
+            "id": "966137283358482434",
+            "text": "RT @verosaka: #Ayuda #urgete favor #RT. Para  #T\u00e9tanos  Lioresal o Baclofeno https://t.co/vdPCMNMOIr"
+        },
+        {
+            "created_at": "2018-02-21T02:21:15.000Z",
+            "id": "966135701946470400",
+            "text": "RT @fundatiacruz: LIORESAL &lt;--- Estamos en su busqueda en cualquier presentacion, si saben donde  ubicar esto en cualquier ciudad del pais,\u2026"
+        },
+        {
+            "created_at": "2018-02-21T02:00:56.000Z",
+            "id": "966130585176563712",
+            "text": "RT @fundatiacruz: LIORESAL &lt;--- Estamos en su busqueda en cualquier presentacion, si saben donde  ubicar esto en cualquier ciudad del pais,\u2026"
+        },
+        {
+            "created_at": "2018-02-21T01:56:57.000Z",
+            "id": "966129583820075008",
+            "text": "RT @fundatiacruz: LIORESAL &lt;--- Estamos en su busqueda en cualquier presentacion, si saben donde  ubicar esto en cualquier ciudad del pais,\u2026"
+        },
+        {
+            "created_at": "2018-02-21T01:56:01.000Z",
+            "id": "966129349647851521",
+            "text": "RT @fundatiacruz: LIORESAL &lt;--- Estamos en su busqueda en cualquier presentacion, si saben donde  ubicar esto en cualquier ciudad del pais,\u2026"
+        },
+        {
+            "created_at": "2018-02-21T01:55:36.000Z",
+            "id": "966129244630810625",
+            "text": "LIORESAL &lt;--- Estamos en su busqueda en cualquier presentacion, si saben donde  ubicar esto en cualquier ciudad del pais, avisar urgente."
+        },
+        {
+            "created_at": "2018-02-21T00:52:14.000Z",
+            "id": "966113296809119746",
+            "text": "#Ayuda #urgete favor #RT. Para  #T\u00e9tanos  Lioresal o Baclofeno https://t.co/vdPCMNMOIr"
+        },
+        {
+            "created_at": "2018-02-20T10:10:22.000Z",
+            "id": "965891368299180033",
+            "text": "Solicitud de Cotizacion MEDICAMENTOS Descarga informaci\u00f3n aqu\u00ed: https://t.co/Bsiq5dQh8J\nFecha hasta: 21/02/2018. Articulos: LIORESAL.\nContacto: https://t.co/9SCLv9vYZs https://t.co/Bsiq5dQh8J"
+        },
+        {
+            "created_at": "2018-02-20T05:13:10.000Z",
+            "id": "965816577143828481",
+            "text": "I migliori prezzi per tutti i clienti * Lioresal 25 mg Quanto costa Generico * Miglior farmacia per l\u2019acquisto di farmaci\u00a0generici https://t.co/oGOVpTiLdq https://t.co/36HiOPlWS3"
+        },
+        {
+            "created_at": "2018-02-19T02:30:19.000Z",
+            "id": "965413206599577601",
+            "text": "*Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofeno...urgente!!!...en la presentaci\u00f3n q sea d los Ml"
+        },
+        {
+            "created_at": "2018-02-18T22:13:21.000Z",
+            "id": "965348539202195456",
+            "text": "lioresal #PsychiatriseUnPeople"
+        },
+        {
+            "created_at": "2018-02-18T20:37:56.000Z",
+            "id": "965324525037654016",
+            "text": "RT @SocratesSerrano: Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Go\u2026"
+        },
+        {
+            "created_at": "2018-02-18T18:08:32.000Z",
+            "id": "965286930236805120",
+            "text": "100% Satisfaction garantie * Pilule De Lioresal 10 mg Prix https://t.co/Wwgr0mxYBO"
+        },
+        {
+            "created_at": "2018-02-17T23:56:44.000Z",
+            "id": "965012167341862912",
+            "text": "Piller Lioresal Best\u00e4lla :: Gratis frakt :: Billiga Apotek Store https://t.co/CiyFx9jLiS"
+        },
+        {
+            "created_at": "2018-02-17T19:15:37.000Z",
+            "id": "964941423496908801",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-17T18:10:42.000Z",
+            "id": "964925084417822720",
+            "text": "RT @SocratesSerrano: Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Go\u2026"
+        },
+        {
+            "created_at": "2018-02-17T16:53:00.000Z",
+            "id": "964905532560683009",
+            "text": "RT @SocratesSerrano: Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Go\u2026"
+        },
+        {
+            "created_at": "2018-02-17T16:48:20.000Z",
+            "id": "964904355777433600",
+            "text": "RT @SocratesSerrano: Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Go\u2026"
+        },
+        {
+            "created_at": "2018-02-17T16:44:15.000Z",
+            "id": "964903330039418881",
+            "text": "SocratesSerrano: Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Gonz\u00e1lez a los n\u00fameros 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2018-02-17T16:37:20.000Z",
+            "id": "964901590909030400",
+            "text": "RT @SocratesSerrano: Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Go\u2026"
+        },
+        {
+            "created_at": "2018-02-17T16:36:08.000Z",
+            "id": "964901287476322305",
+            "text": "RT @SocratesSerrano: Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Go\u2026"
+        },
+        {
+            "created_at": "2018-02-17T16:35:54.000Z",
+            "id": "964901227506094080",
+            "text": "Servicio P\u00fablico:\nSe requiere URGENTE para ni\u00f1a de 5 a\u00f1os el medicamento Lioresal \u00f3 Baclofeno. Contactar a Asdrubal Gonz\u00e1lez a los n\u00fameros 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2018-02-16T04:59:33.000Z",
+            "id": "964363596892323842",
+            "text": "Acheter Lioresal Pharmacie En Ligne :: livraison garantie https://t.co/Exb3ZazNzw"
+        },
+        {
+            "created_at": "2018-02-16T01:27:41.000Z",
+            "id": "964310282272231425",
+            "text": "#Pharmaceuticals LIORESAL 10 : Tablet : 10mg : Novartis Pharma AG, Switzerland : https://t.co/UtRNDTvRPs #mrx #CIO #MarketShare"
+        },
+        {
+            "created_at": "2018-02-15T21:22:51.000Z",
+            "id": "964248666197430272",
+            "text": "RT @MarwanBoshara: @hash_sudan @ahmed_azhari177 \u0639\u0646\u062f\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u062f\u064a \u0645\u0627 \u0645\u062d\u062a\u0627\u062c \u0644\u064a\u0647\u0627 \u0644\u0648 \u0627\u0645\u0643\u0646 \u0627\u062c\u064a\u0628\u0647\u0627 \u0644\u064a\u0643\u0645 :\nFeroglobin\nZinoximor\nFerose\nOsteocare\nP\u2026"
+        },
+        {
+            "created_at": "2018-02-15T21:01:40.000Z",
+            "id": "964243335534776320",
+            "text": "RT @MarwanBoshara: @hash_sudan @ahmed_azhari177 \u0639\u0646\u062f\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u062f\u064a \u0645\u0627 \u0645\u062d\u062a\u0627\u062c \u0644\u064a\u0647\u0627 \u0644\u0648 \u0627\u0645\u0643\u0646 \u0627\u062c\u064a\u0628\u0647\u0627 \u0644\u064a\u0643\u0645 :\nFeroglobin\nZinoximor\nFerose\nOsteocare\nP\u2026"
+        },
+        {
+            "created_at": "2018-02-15T20:59:54.000Z",
+            "id": "964242890972155905",
+            "text": "RT @MarwanBoshara: @hash_sudan @ahmed_azhari177 \u0639\u0646\u062f\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u062f\u064a \u0645\u0627 \u0645\u062d\u062a\u0627\u062c \u0644\u064a\u0647\u0627 \u0644\u0648 \u0627\u0645\u0643\u0646 \u0627\u062c\u064a\u0628\u0647\u0627 \u0644\u064a\u0643\u0645 :\nFeroglobin\nZinoximor\nFerose\nOsteocare\nP\u2026"
+        },
+        {
+            "created_at": "2018-02-15T20:59:31.000Z",
+            "id": "964242794536632320",
+            "text": "RT @MarwanBoshara: @hash_sudan @ahmed_azhari177 \u0639\u0646\u062f\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u062f\u064a \u0645\u0627 \u0645\u062d\u062a\u0627\u062c \u0644\u064a\u0647\u0627 \u0644\u0648 \u0627\u0645\u0643\u0646 \u0627\u062c\u064a\u0628\u0647\u0627 \u0644\u064a\u0643\u0645 :\nFeroglobin\nZinoximor\nFerose\nOsteocare\nP\u2026"
+        },
+        {
+            "created_at": "2018-02-15T20:57:09.000Z",
+            "id": "964242197779447808",
+            "text": "RT @MarwanBoshara: @hash_sudan @ahmed_azhari177 \u0639\u0646\u062f\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u062f\u064a \u0645\u0627 \u0645\u062d\u062a\u0627\u062c \u0644\u064a\u0647\u0627 \u0644\u0648 \u0627\u0645\u0643\u0646 \u0627\u062c\u064a\u0628\u0647\u0627 \u0644\u064a\u0643\u0645 :\nFeroglobin\nZinoximor\nFerose\nOsteocare\nP\u2026"
+        },
+        {
+            "created_at": "2018-02-15T19:45:28.000Z",
+            "id": "964224157180481538",
+            "text": "@hash_sudan @ahmed_azhari177 \u0639\u0646\u062f\u064a \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u062f\u064a \u0645\u0627 \u0645\u062d\u062a\u0627\u062c \u0644\u064a\u0647\u0627 \u0644\u0648 \u0627\u0645\u0643\u0646 \u0627\u062c\u064a\u0628\u0647\u0627 \u0644\u064a\u0643\u0645 :\nFeroglobin\nZinoximor\nFerose\nOsteocare\nPantozol\nVitamin b1 + b6+b12\nNeurobion\nNeo healar\nSodium bicarbonate\nLisino 10\nXefo 8 mg\nDulcolax\nThiotacid\nLioresal 25\nRelaxon\n\u062f\u0647 \u0631\u0642\u0645 \u062a\u0644\u0641\u0648\u0646\u064a : 0116460772 _ 0965532798"
+        },
+        {
+            "created_at": "2018-02-15T18:11:18.000Z",
+            "id": "964200459643899909",
+            "text": "Serv Pub. Se necesita Urgente  lioresal o baclofeno en cualquier presentaci\u00f3n esto podr\u00eda salvar la vida de la peque\u00f1a Aleiber d 5 a\u00f1os recluida en HCM  Aragua  0414-460.34.70 0416-946.76.08 0412-445.28.46"
+        },
+        {
+            "created_at": "2018-02-14T23:49:01.000Z",
+            "id": "963923060662374401",
+            "text": "https://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-02-13T14:34:45.000Z",
+            "id": "963421187849236481",
+            "text": "RT @JomarlyIgleciaC: #ServicioP\u00fablico: se solicita para ni\u00f1a de 5 a\u00f1os, hospitalizada en el HCM de Aragua, #Urgente Lioresal o Baclofeno. P\u2026"
+        },
+        {
+            "created_at": "2018-02-13T14:32:20.000Z",
+            "id": "963420580912476160",
+            "text": "RT @JomarlyIgleciaC: #ServicioP\u00fablico: se solicita para ni\u00f1a de 5 a\u00f1os, hospitalizada en el HCM de Aragua, #Urgente Lioresal o Baclofeno. P\u2026"
+        },
+        {
+            "created_at": "2018-02-13T14:23:47.000Z",
+            "id": "963418427166744577",
+            "text": "RT @JomarlyIgleciaC: #ServicioP\u00fablico: se solicita para ni\u00f1a de 5 a\u00f1os, hospitalizada en el HCM de Aragua, #Urgente Lioresal o Baclofeno. P\u2026"
+        },
+        {
+            "created_at": "2018-02-13T14:17:34.000Z",
+            "id": "963416863739916288",
+            "text": "#ServicioP\u00fablico: se solicita para ni\u00f1a de 5 a\u00f1os, hospitalizada en el HCM de Aragua, #Urgente Lioresal o Baclofeno. Por favor contactarse con Asdr\u00fabal Gonz\u00e1lez\n04144603470\n04169467608\n04124452846"
+        },
+        {
+            "created_at": "2018-02-13T04:56:18.000Z",
+            "id": "963275615746101248",
+            "text": "Livraison Gratuite - Pharmacie Lioresal 10 mg - \u00c9conomisez temps et argent\n\u0627\u0644\u0645\u0632\u064a\u062f \u0647\u0646\u0627..."
+        },
+        {
+            "created_at": "2018-02-13T00:01:22.000Z",
+            "id": "963201395309596672",
+            "text": "Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito  Urgente  lioresal o baclofeno...urgente!!!....esto podr\u00eda salvar la vida d mi peque\u00f1a Aleiber d 5 a\u00f1os recluida en el HCM d Aragua...para su ayuda x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2018-02-12T22:31:41.000Z",
+            "id": "963178823109005312",
+            "text": "K\u00f6pa Billig Baclofen Rabatt P\u00e5 omordnar - https://t.co/zMQtP5sVtG Baclofen\n\n    Generisk Lioresal\n    Var du kan k\u00f6pa billigaste Li... https://t.co/wVVJwrHlSG"
+        },
+        {
+            "created_at": "2018-02-12T18:48:38.000Z",
+            "id": "963122691715862528",
+            "text": "10 mg Lioresal Best Deal On. Bonus Free Shipping. Best Online\u00a0Drugstore https://t.co/DLPVyienrs https://t.co/RhBXcM31cw"
+        },
+        {
+            "created_at": "2018-02-12T08:10:10.000Z",
+            "id": "962962015609393152",
+            "text": "Order lioresal injection\u00a0medtronic https://t.co/Hti4XKqEHY https://t.co/g9mIr9BiBN"
+        },
+        {
+            "created_at": "2018-02-12T00:56:23.000Z",
+            "id": "962852851197280256",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-11T02:05:41.000Z",
+            "id": "962507904959025152",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-10T17:35:12.000Z",
+            "id": "962379438154543104",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-10T04:55:21.000Z",
+            "id": "962188213384249344",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-10T00:39:38.000Z",
+            "id": "962123862921146368",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-10T00:35:19.000Z",
+            "id": "962122772771155969",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-10T00:31:11.000Z",
+            "id": "962121734924140544",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T23:29:53.000Z",
+            "id": "962106309842821120",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T23:15:12.000Z",
+            "id": "962102613264273445",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T23:07:03.000Z",
+            "id": "962100559988871168",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T22:42:24.000Z",
+            "id": "962094358202855424",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T22:21:15.000Z",
+            "id": "962089036188971008",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T20:33:46.000Z",
+            "id": "962061984509259776",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T19:48:00.000Z",
+            "id": "962050470133952512",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T19:18:20.000Z",
+            "id": "962043004759416837",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T19:02:59.000Z",
+            "id": "962039139733417984",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T18:49:17.000Z",
+            "id": "962035693802237952",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T17:28:53.000Z",
+            "id": "962015458365878272",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T17:01:45.000Z",
+            "id": "962008630705799168",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T16:00:40.000Z",
+            "id": "961993257646469121",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T15:19:42.000Z",
+            "id": "961982948995207168",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T14:49:55.000Z",
+            "id": "961975454348533760",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T12:54:18.000Z",
+            "id": "961946358876909568",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T12:42:06.000Z",
+            "id": "961943286754807808",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T12:39:08.000Z",
+            "id": "961942541305307136",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T12:18:27.000Z",
+            "id": "961937337277173761",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T12:14:37.000Z",
+            "id": "961936369261170690",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T12:10:02.000Z",
+            "id": "961935218117574657",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T12:06:03.000Z",
+            "id": "961934217499332608",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T11:54:56.000Z",
+            "id": "961931419286155264",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-09T11:51:42.000Z",
+            "id": "961930604425203712",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T11:40:31.000Z",
+            "id": "961927787966705666",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T11:40:08.000Z",
+            "id": "961927693532106753",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2018-02-09T11:25:50.000Z",
+            "id": "961924092692705280",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T11:25:35.000Z",
+            "id": "961924032345051137",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T11:12:15.000Z",
+            "id": "961920675530330113",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T11:01:05.000Z",
+            "id": "961917867510960128",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T10:53:43.000Z",
+            "id": "961916013007851520",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T10:32:24.000Z",
+            "id": "961910646567825413",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T10:18:41.000Z",
+            "id": "961907196236910593",
+            "text": "RT @orozcorosam: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno)\u2026"
+        },
+        {
+            "created_at": "2018-02-09T10:16:59.000Z",
+            "id": "961906766123622400",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T10:09:29.000Z",
+            "id": "961904879957626880",
+            "text": "Solicitud de Cotizacion MEDICAMENTOS Descarga informaci\u00f3n aqu\u00ed: https://t.co/DGlUyhIglj\nFecha hasta: 10/02/2018. Articulos: LIORESAL.\nContacto: https://t.co/9SCLv9vYZs https://t.co/DGlUyhIglj"
+        },
+        {
+            "created_at": "2018-02-09T10:05:09.000Z",
+            "id": "961903791338553344",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T09:47:28.000Z",
+            "id": "961899340615872512",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T08:31:00.000Z",
+            "id": "961880097547530240",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T08:03:39.000Z",
+            "id": "961873213985734657",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T07:45:54.000Z",
+            "id": "961868745831473153",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T06:18:22.000Z",
+            "id": "961846717023903745",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T06:17:44.000Z",
+            "id": "961846558797869056",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T06:14:49.000Z",
+            "id": "961845825428013056",
+            "text": "RT @yuniorjose696: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno\u2026"
+        },
+        {
+            "created_at": "2018-02-09T06:14:11.000Z",
+            "id": "961845664232620032",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T06:07:38.000Z",
+            "id": "961844017825656832",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T06:05:08.000Z",
+            "id": "961843388143173632",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T05:57:23.000Z",
+            "id": "961841438571995136",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T05:34:14.000Z",
+            "id": "961835612851421184",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T05:09:54.000Z",
+            "id": "961829487737421824",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:57:15.000Z",
+            "id": "961826304847888384",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:52:24.000Z",
+            "id": "961825085068795907",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:48:57.000Z",
+            "id": "961824213907603456",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:48:15.000Z",
+            "id": "961824040913481728",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:42:06.000Z",
+            "id": "961822492925952001",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:35:20.000Z",
+            "id": "961820788557996035",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:34:23.000Z",
+            "id": "961820548522127360",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:32:47.000Z",
+            "id": "961820147177553921",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:28:37.000Z",
+            "id": "961819097146081280",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:27:43.000Z",
+            "id": "961818872645955584",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:25:50.000Z",
+            "id": "961818396856758273",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:15:38.000Z",
+            "id": "961815830878015488",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:14:22.000Z",
+            "id": "961815513780207617",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:07:25.000Z",
+            "id": "961813762083733505",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T04:02:25.000Z",
+            "id": "961812506757885952",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:51:29.000Z",
+            "id": "961809752819814401",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:42:49.000Z",
+            "id": "961807574482866176",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:41:38.000Z",
+            "id": "961807273424121856",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:41:10.000Z",
+            "id": "961807158152065031",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:38:46.000Z",
+            "id": "961806553933164544",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:24:48.000Z",
+            "id": "961803039110606848",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:23:49.000Z",
+            "id": "961802790703022080",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:22:45.000Z",
+            "id": "961802524377280512",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:17:34.000Z",
+            "id": "961801217553850368",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:16:53.000Z",
+            "id": "961801046770180096",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:16:27.000Z",
+            "id": "961800936610869248",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:16:04.000Z",
+            "id": "961800842192961541",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:15:23.000Z",
+            "id": "961800669387608065",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:14:57.000Z",
+            "id": "961800560155312130",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:14:31.000Z",
+            "id": "961800449157419008",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:11:19.000Z",
+            "id": "961799643381219329",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:10:04.000Z",
+            "id": "961799330536480768",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:06:50.000Z",
+            "id": "961798516573028353",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T03:04:11.000Z",
+            "id": "961797850316226560",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:58:30.000Z",
+            "id": "961796419412733953",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:58:28.000Z",
+            "id": "961796412458635264",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:58:08.000Z",
+            "id": "961796326479376389",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:57:04.000Z",
+            "id": "961796058476171266",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:55:35.000Z",
+            "id": "961795685971525632",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:55:02.000Z",
+            "id": "961795546477486082",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:54:26.000Z",
+            "id": "961795395109179392",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:53:17.000Z",
+            "id": "961795106713063424",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:52:14.000Z",
+            "id": "961794841414905856",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:50:35.000Z",
+            "id": "961794426938056705",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:48:17.000Z",
+            "id": "961793847192969217",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:46:38.000Z",
+            "id": "961793434850914304",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:46:21.000Z",
+            "id": "961793363631538176",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:45:33.000Z",
+            "id": "961793161411596289",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:44:55.000Z",
+            "id": "961793000950173699",
+            "text": "RT @orozcorosam: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno)\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:44:48.000Z",
+            "id": "961792970654699521",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:43:12.000Z",
+            "id": "961792571038199808",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:42:24.000Z",
+            "id": "961792368327487488",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:41:37.000Z",
+            "id": "961792169458716673",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:39:43.000Z",
+            "id": "961791694655062016",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:37:37.000Z",
+            "id": "961791162846797829",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:36:50.000Z",
+            "id": "961790966679130113",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:32:47.000Z",
+            "id": "961789947622711296",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:32:27.000Z",
+            "id": "961789864671932416",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:28:31.000Z",
+            "id": "961788875084566528",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:27:56.000Z",
+            "id": "961788725796704256",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:27:48.000Z",
+            "id": "961788695752986630",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:25:13.000Z",
+            "id": "961788045447049216",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:24:29.000Z",
+            "id": "961787857487716352",
+            "text": "RT @orozcorosam: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno)\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:24:02.000Z",
+            "id": "961787747303387137",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:23:29.000Z",
+            "id": "961787606664187905",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:22:46.000Z",
+            "id": "961787425621184512",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:22:11.000Z",
+            "id": "961787279839817729",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:20:21.000Z",
+            "id": "961786819414319104",
+            "text": "RT @orozcorosam: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno)\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:19:17.000Z",
+            "id": "961786550899150848",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:18:32.000Z",
+            "id": "961786363610910720",
+            "text": "RT @orozcorosam: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno)\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:18:28.000Z",
+            "id": "961786343478226944",
+            "text": "RT @orozcorosam: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno)\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:16:10.000Z",
+            "id": "961785764722900992",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:15:11.000Z",
+            "id": "961785518764838912",
+            "text": "RT @orozcorosam: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno)\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:14:54.000Z",
+            "id": "961785446895439872",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:13:18.000Z",
+            "id": "961785044493897729",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:13:02.000Z",
+            "id": "961784977854779397",
+            "text": "Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 25mg.\n\u221a Liryca (Pregabalina) 150mg.\nComunicar informaci\u00f3n quien la posea o pueda suministrar a .@Mariannyvp\n04160539614  #ServicioP\u00fablico"
+        },
+        {
+            "created_at": "2018-02-09T02:12:32.000Z",
+            "id": "961784852617093120",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:11:22.000Z",
+            "id": "961784557891670016",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:10:10.000Z",
+            "id": "961784258544185344",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:10:03.000Z",
+            "id": "961784226344554496",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:09:47.000Z",
+            "id": "961784159915204609",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:09:37.000Z",
+            "id": "961784118127316992",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:09:09.000Z",
+            "id": "961784002133872640",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:09:01.000Z",
+            "id": "961783967581179905",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:08:55.000Z",
+            "id": "961783942826414086",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:08:42.000Z",
+            "id": "961783888879202304",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:08:41.000Z",
+            "id": "961783881417592833",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:08:35.000Z",
+            "id": "961783857816264704",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:07:58.000Z",
+            "id": "961783700836012032",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:07:50.000Z",
+            "id": "961783667692654592",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:07:47.000Z",
+            "id": "961783655499780096",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:07:28.000Z",
+            "id": "961783576974020608",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:07:03.000Z",
+            "id": "961783472363851777",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:05:54.000Z",
+            "id": "961783184030621696",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:05:51.000Z",
+            "id": "961783170281680897",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:05:26.000Z",
+            "id": "961783065528893440",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:05:11.000Z",
+            "id": "961783000496295937",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:04:24.000Z",
+            "id": "961782803686830081",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:04:21.000Z",
+            "id": "961782794719514624",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:04:03.000Z",
+            "id": "961782717443698694",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:03:40.000Z",
+            "id": "961782621285044225",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:02:47.000Z",
+            "id": "961782400056512514",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:02:28.000Z",
+            "id": "961782319018315776",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:02:20.000Z",
+            "id": "961782286399262721",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:02:12.000Z",
+            "id": "961782253465604097",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:02:07.000Z",
+            "id": "961782232598876160",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:01:54.000Z",
+            "id": "961782174914613248",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:01:16.000Z",
+            "id": "961782016562860033",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:01:14.000Z",
+            "id": "961782009772331008",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:01:04.000Z",
+            "id": "961781968517115904",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:00:33.000Z",
+            "id": "961781836878897153",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:00:28.000Z",
+            "id": "961781816498769920",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:00:14.000Z",
+            "id": "961781758789406721",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:00:14.000Z",
+            "id": "961781756822282241",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T02:00:14.000Z",
+            "id": "961781755488489472",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:59:55.000Z",
+            "id": "961781678669795329",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:59:55.000Z",
+            "id": "961781677432418304",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:59:48.000Z",
+            "id": "961781647392890881",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:59:39.000Z",
+            "id": "961781610654978048",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:59:34.000Z",
+            "id": "961781590279032832",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:59:24.000Z",
+            "id": "961781548818288640",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:59:14.000Z",
+            "id": "961781505881182209",
+            "text": "RT @apichardob: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 2\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:58:51.000Z",
+            "id": "961781409059954688",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:58:29.000Z",
+            "id": "961781317569564672",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:58:19.000Z",
+            "id": "961781273269334018",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:58:11.000Z",
+            "id": "961781239253557248",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:58:00.000Z",
+            "id": "961781195032981504",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:57:58.000Z",
+            "id": "961781184631136256",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:57:47.000Z",
+            "id": "961781138816684033",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:57:31.000Z",
+            "id": "961781073234493440",
+            "text": "Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 25mg.\n\u221a Liryca (Pregabalina) 150mg.\nComunicar informaci\u00f3n quien la posea o pueda suministrar a .@Mariannyvp\n04160539614.\nAgradecemos este #ServicioP\u00fablico"
+        },
+        {
+            "created_at": "2018-02-09T01:57:29.000Z",
+            "id": "961781064405483520",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:56:55.000Z",
+            "id": "961780921744678912",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:56:41.000Z",
+            "id": "961780864899342337",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:56:38.000Z",
+            "id": "961780848679903232",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:55:50.000Z",
+            "id": "961780648330526727",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:53:37.000Z",
+            "id": "961780091230580737",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:52:23.000Z",
+            "id": "961779783175671808",
+            "text": "RT @yuniorjose696: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:49:12.000Z",
+            "id": "961778978980880384",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:49:05.000Z",
+            "id": "961778951860424704",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:48:15.000Z",
+            "id": "961778742619189248",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:48:02.000Z",
+            "id": "961778685899628549",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:45:01.000Z",
+            "id": "961777928467025920",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:43:34.000Z",
+            "id": "961777563013173248",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:42:55.000Z",
+            "id": "961777400106377216",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:42:46.000Z",
+            "id": "961777359115309056",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:42:03.000Z",
+            "id": "961777180085714944",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:41:44.000Z",
+            "id": "961777101304188929",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:39:13.000Z",
+            "id": "961776469516214275",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:37:11.000Z",
+            "id": "961775957269983232",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:36:34.000Z",
+            "id": "961775799463481344",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:34:44.000Z",
+            "id": "961775341223194624",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:33:27.000Z",
+            "id": "961775015300616193",
+            "text": "RT @yuniorjose696: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:32:06.000Z",
+            "id": "961774675750739969",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:30:56.000Z",
+            "id": "961774383961464833",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:30:48.000Z",
+            "id": "961774348129456128",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:30:44.000Z",
+            "id": "961774331926851585",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:29:02.000Z",
+            "id": "961773903701053440",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:27:51.000Z",
+            "id": "961773608661069825",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:27:46.000Z",
+            "id": "961773588159303680",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:26:19.000Z",
+            "id": "961773219756814336",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:24:22.000Z",
+            "id": "961772729434337281",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:22:20.000Z",
+            "id": "961772219134332933",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:19:14.000Z",
+            "id": "961771436858859521",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:17:02.000Z",
+            "id": "961770886444527616",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:16:52.000Z",
+            "id": "961770842916032512",
+            "text": "Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 25mg.\n\u221a Liryca (Pregabalina) 150mg.\nComunicar informaci\u00f3n quien la posea o pueda suministrar a .@Mariannyvp\n04160539614.\nAhgradecemos este #ServicioP\u00fablico"
+        },
+        {
+            "created_at": "2018-02-09T01:15:47.000Z",
+            "id": "961770568986046464",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:15:33.000Z",
+            "id": "961770513508061184",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:14:25.000Z",
+            "id": "961770224835006464",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:13:22.000Z",
+            "id": "961769961084604416",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:13:00.000Z",
+            "id": "961769869707444224",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:12:23.000Z",
+            "id": "961769715428405248",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:11:14.000Z",
+            "id": "961769424138244096",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:08:41.000Z",
+            "id": "961768784754302977",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:08:25.000Z",
+            "id": "961768717813239808",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:06:46.000Z",
+            "id": "961768300207276032",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:05:38.000Z",
+            "id": "961768016160714753",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:03:51.000Z",
+            "id": "961767566740992000",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:03:24.000Z",
+            "id": "961767454216282112",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:03:22.000Z",
+            "id": "961767444879761409",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:03:17.000Z",
+            "id": "961767425552408576",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:02:59.000Z",
+            "id": "961767347341135873",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:02:26.000Z",
+            "id": "961767211600924672",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:02:14.000Z",
+            "id": "961767158752694272",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:01:06.000Z",
+            "id": "961766873376452608",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:00:49.000Z",
+            "id": "961766803142774785",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T01:00:17.000Z",
+            "id": "961766671395491840",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:58:02.000Z",
+            "id": "961766103658713088",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:57:54.000Z",
+            "id": "961766071249391616",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:56:00.000Z",
+            "id": "961765593350275077",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:55:14.000Z",
+            "id": "961765398994661376",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:55:02.000Z",
+            "id": "961765349560672256",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:54:31.000Z",
+            "id": "961765218375389190",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:54:13.000Z",
+            "id": "961765144471752704",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:52:03.000Z",
+            "id": "961764599182831617",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:51:31.000Z",
+            "id": "961764463371341824",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:51:09.000Z",
+            "id": "961764370354200577",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:51:05.000Z",
+            "id": "961764356626231296",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:50:50.000Z",
+            "id": "961764291920760832",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:50:45.000Z",
+            "id": "961764269787439104",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:50:31.000Z",
+            "id": "961764213273309190",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:50:03.000Z",
+            "id": "961764096575238144",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:49:36.000Z",
+            "id": "961763979394723842",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:48:53.000Z",
+            "id": "961763800474116096",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:48:22.000Z",
+            "id": "961763669276315649",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:48:11.000Z",
+            "id": "961763622807629824",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:47:53.000Z",
+            "id": "961763551336718338",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:47:51.000Z",
+            "id": "961763541727531013",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:47:26.000Z",
+            "id": "961763434525179904",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:47:15.000Z",
+            "id": "961763391009447936",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:47:04.000Z",
+            "id": "961763342745505792",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:46:41.000Z",
+            "id": "961763248201654272",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:46:29.000Z",
+            "id": "961763197438119938",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:46:16.000Z",
+            "id": "961763142840832000",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:46:14.000Z",
+            "id": "961763133256806406",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:46:12.000Z",
+            "id": "961763124843110400",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:45:35.000Z",
+            "id": "961762970865995781",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:45:22.000Z",
+            "id": "961762915954118657",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:45:12.000Z",
+            "id": "961762875768422400",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:44:59.000Z",
+            "id": "961762817534824449",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:44:54.000Z",
+            "id": "961762799843250176",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:44:49.000Z",
+            "id": "961762775625359360",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:44:05.000Z",
+            "id": "961762592481054720",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:42:54.000Z",
+            "id": "961762293615943680",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:42:24.000Z",
+            "id": "961762169993007105",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:42:09.000Z",
+            "id": "961762105136427008",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:41:50.000Z",
+            "id": "961762024677085184",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:41:45.000Z",
+            "id": "961762006394171392",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:41:44.000Z",
+            "id": "961762002262781953",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:41:15.000Z",
+            "id": "961761880879624193",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:41:11.000Z",
+            "id": "961761862865031168",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:41:00.000Z",
+            "id": "961761815624634368",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:40:49.000Z",
+            "id": "961761768975450114",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:40:30.000Z",
+            "id": "961761689598349312",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:40:28.000Z",
+            "id": "961761683860545537",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:40:21.000Z",
+            "id": "961761651371454464",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:40:07.000Z",
+            "id": "961761592793812993",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:39:57.000Z",
+            "id": "961761554600521729",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:39:52.000Z",
+            "id": "961761530646851586",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:39:43.000Z",
+            "id": "961761494248587264",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:39:02.000Z",
+            "id": "961761323121086465",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:38:58.000Z",
+            "id": "961761304078962688",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:38:57.000Z",
+            "id": "961761301377765382",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:38:49.000Z",
+            "id": "961761268226019329",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:38:37.000Z",
+            "id": "961761219081392129",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:38:27.000Z",
+            "id": "961761174453800960",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:38:17.000Z",
+            "id": "961761134364823555",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:37:56.000Z",
+            "id": "961761046355677185",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:37:52.000Z",
+            "id": "961761026395004928",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:37:35.000Z",
+            "id": "961760956748632064",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:37:31.000Z",
+            "id": "961760940474724352",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:37:19.000Z",
+            "id": "961760889585242114",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:37:17.000Z",
+            "id": "961760880219344897",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:36:47.000Z",
+            "id": "961760755463880704",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:36:46.000Z",
+            "id": "961760749713534976",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:36:15.000Z",
+            "id": "961760619656568832",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:36:12.000Z",
+            "id": "961760607006593024",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:36:08.000Z",
+            "id": "961760592305541120",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:36:04.000Z",
+            "id": "961760575654187009",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:35:57.000Z",
+            "id": "961760547862609920",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:35:42.000Z",
+            "id": "961760481198460928",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:35:39.000Z",
+            "id": "961760470498758658",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:35:33.000Z",
+            "id": "961760446045925376",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:35:03.000Z",
+            "id": "961760319419928576",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:34:55.000Z",
+            "id": "961760285039190016",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:34:53.000Z",
+            "id": "961760278391197696",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:34:44.000Z",
+            "id": "961760241267470337",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:34:15.000Z",
+            "id": "961760119330607105",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:34:07.000Z",
+            "id": "961760084303982592",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:33:55.000Z",
+            "id": "961760036019204096",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:33:21.000Z",
+            "id": "961759891449962501",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:33:21.000Z",
+            "id": "961759890845913088",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:33:20.000Z",
+            "id": "961759886400016384",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:33:11.000Z",
+            "id": "961759849712414720",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:33:00.000Z",
+            "id": "961759802585223168",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:57.000Z",
+            "id": "961759789343825920",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:54.000Z",
+            "id": "961759779663351808",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:52.000Z",
+            "id": "961759770586861568",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:52.000Z",
+            "id": "961759769156612098",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:37.000Z",
+            "id": "961759709098397696",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:37.000Z",
+            "id": "961759707701612545",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:30.000Z",
+            "id": "961759679318822912",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:30.000Z",
+            "id": "961759676219215872",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:29.000Z",
+            "id": "961759674096898048",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:32:28.000Z",
+            "id": "961759668862373888",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:53.000Z",
+            "id": "961759522162397184",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:50.000Z",
+            "id": "961759508287705088",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:42.000Z",
+            "id": "961759476029251586",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:36.000Z",
+            "id": "961759451672907776",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:27.000Z",
+            "id": "961759414955991041",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:26.000Z",
+            "id": "961759409482489856",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:23.000Z",
+            "id": "961759398472421376",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:23.000Z",
+            "id": "961759397738373120",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:23.000Z",
+            "id": "961759396333223936",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:22.000Z",
+            "id": "961759392323506176",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:17.000Z",
+            "id": "961759373696651264",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:14.000Z",
+            "id": "961759359175970816",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:14.000Z",
+            "id": "961759358660104193",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:08.000Z",
+            "id": "961759332294643712",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:31:00.000Z",
+            "id": "961759298534760449",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:30:50.000Z",
+            "id": "961759259343155200",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:30:35.000Z",
+            "id": "961759197070315526",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:30:32.000Z",
+            "id": "961759182901915649",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:30:29.000Z",
+            "id": "961759169991905281",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:30:29.000Z",
+            "id": "961759169278857216",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:30:22.000Z",
+            "id": "961759141160259584",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:30:20.000Z",
+            "id": "961759130859040769",
+            "text": "RT @antonioriverog: Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofen\u2026"
+        },
+        {
+            "created_at": "2018-02-09T00:29:49.000Z",
+            "id": "961759003599663104",
+            "text": "Con caracter de URGENCIA! se requieren las siguientes medicinas: \n\u221a Neurontin (Gabepantina) 600mg.\n\u221a Lioresal (Baclofeno) 25mg.\n\u221a Liryca (Pregabalina) 150mg.\nComunicar informaci\u00f3n quien la posea o pueda suministrar a .@Mariannyvp\n04160539614.\nAhgradecemos este #ServicioP\u00fablico"
+        },
+        {
+            "created_at": "2018-02-08T21:45:28.000Z",
+            "id": "961717643836260354",
+            "text": "Nuevo Art\u00edculo AS3: Acheter Lioresal Sans Ordonnance \u2013 Pharmacie Internet Avis https://t.co/6KddkcgRS2"
+        },
+        {
+            "created_at": "2018-02-08T18:51:42.000Z",
+            "id": "961673911518875653",
+            "text": "Comprar Lioresal Online \u2013 Farmacia Su\u00a0Internet https://t.co/US7gK2vvyK https://t.co/LpT3yayOPh"
+        },
+        {
+            "created_at": "2018-02-08T17:08:38.000Z",
+            "id": "961647975549362178",
+            "text": "All Medications Are Certificated. Online Generic Lioresal Order. Free Courier\u2026 https://t.co/YXed26tz6a #BeritaWajo"
+        },
+        {
+            "created_at": "2018-02-08T14:08:22.000Z",
+            "id": "961602608166252544",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-08T13:38:43.000Z",
+            "id": "961595148307230720",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-08T03:44:09.000Z",
+            "id": "961445519737450496",
+            "text": "where to buy  Lioresal overseas with NO PRESCRIPTIONs ;Lioresal in UK - https://t.co/6sCbhh51kA"
+        },
+        {
+            "created_at": "2018-02-07T08:06:44.000Z",
+            "id": "961149214607794176",
+            "text": "Generico Lioresal Il costo di :: Migliore farmacia To Order farmaci generici :: Bonus pillola di ogni\u00a0ordine https://t.co/U0cg4rSb6s https://t.co/vCpani9zNQ"
+        },
+        {
+            "created_at": "2018-02-07T07:49:03.000Z",
+            "id": "961144761808838657",
+            "text": "https://t.co/9z1Yb7dfGj"
+        },
+        {
+            "created_at": "2018-02-07T01:08:33.000Z",
+            "id": "961043976538263554",
+            "text": "RT @neurotico74: Solicitan el medicamento LIORESAL o BACLOFENO en cualquier forma para ni\u00f1a en HC Maracay Tlf 04144603470.\n04124452846 \u00a1urg\u2026"
+        },
+        {
+            "created_at": "2018-02-07T00:51:16.000Z",
+            "id": "961039625094656000",
+            "text": "RT @DelgadoEttienne: Emergencia: (MARACAY) Asdrubal Gonzales,  les solicito tenga Urgente  lioresal o baclofeno...urgente!!!... Los  m\u00e9dico\u2026"
+        },
+        {
+            "created_at": "2018-02-07T00:50:26.000Z",
+            "id": "961039415446589440",
+            "text": "Emergencia: (MARACAY) Asdrubal Gonzales,  les solicito tenga Urgente  lioresal o baclofeno...urgente!!!... Los  m\u00e9dicos la entubaron"
+        },
+        {
+            "created_at": "2018-02-06T23:23:28.000Z",
+            "id": "961017531120209920",
+            "text": "RT @neurotico74: Solicitan el medicamento LIORESAL o BACLOFENO en cualquier forma para ni\u00f1a en HC Maracay Tlf 04144603470.\n04124452846 \u00a1urg\u2026"
+        },
+        {
+            "created_at": "2018-02-06T22:50:15.000Z",
+            "id": "961009170207125505",
+            "text": "RT @neurotico74: Solicitan el medicamento LIORESAL o BACLOFENO en cualquier forma para ni\u00f1a en HC Maracay Tlf 04144603470.\n04124452846 \u00a1urg\u2026"
+        },
+        {
+            "created_at": "2018-02-06T22:49:33.000Z",
+            "id": "961008994843348992",
+            "text": "RT @neurotico74: Solicitan el medicamento LIORESAL o BACLOFENO en cualquier forma para ni\u00f1a en HC Maracay Tlf 04144603470.\n04124452846 \u00a1urg\u2026"
+        },
+        {
+            "created_at": "2018-02-06T22:47:53.000Z",
+            "id": "961008574003666949",
+            "text": "RT @neurotico74: Solicitan el medicamento LIORESAL o BACLOFENO en cualquier forma para ni\u00f1a en HC Maracay Tlf 04144603470.\n04124452846 \u00a1urg\u2026"
+        },
+        {
+            "created_at": "2018-02-06T22:42:50.000Z",
+            "id": "961007304589168640",
+            "text": "Solicitan el medicamento LIORESAL o BACLOFENO en cualquier forma para ni\u00f1a en HC Maracay Tlf 04144603470.\n04124452846 \u00a1urgente!"
+        },
+        {
+            "created_at": "2018-02-06T20:49:34.000Z",
+            "id": "960978798224158721",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-06T12:25:48.000Z",
+            "id": "960852022743519232",
+            "text": "Nenad Orozovic ist ein freund von Dr Bozana Meinhardt Injac psychologie an der universitat Johannes Gutenberg Mainz. Nenad Orozovic erbliche spastische paraplegie drogen ohne den erflog Lioresal 25 mg, Sirdalud 2 mg, der botulinum injection Dysport ohne erflog. https://t.co/LrA6fm7y9R"
+        },
+        {
+            "created_at": "2018-02-06T01:21:01.000Z",
+            "id": "960684724460113920",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sir\u2026"
+        },
+        {
+            "created_at": "2018-02-06T01:03:07.000Z",
+            "id": "960680218917769216",
+            "text": "@trafficLARA se solicita urgente para ni\u00f1a grave de 5 a\u00f1os con t\u00e9tanos en hospital de Maracay,  Lioresal o Baclofeno cualquier presentaci\u00f3n. Comunicarse al 0414-4603470  y. 0416-9467608"
+        },
+        {
+            "created_at": "2018-02-05T22:28:21.000Z",
+            "id": "960641271520997377",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T22:25:27.000Z",
+            "id": "960640541485649920",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T22:17:17.000Z",
+            "id": "960638487849562112",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T22:16:06.000Z",
+            "id": "960638186333659137",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T22:01:11.000Z",
+            "id": "960634435459788800",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T21:39:08.000Z",
+            "id": "960628884151656448",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sir\u2026"
+        },
+        {
+            "created_at": "2018-02-05T21:38:01.000Z",
+            "id": "960628605842804741",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T21:32:32.000Z",
+            "id": "960627226214633474",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sir\u2026"
+        },
+        {
+            "created_at": "2018-02-05T21:26:38.000Z",
+            "id": "960625738348187648",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sir\u2026"
+        },
+        {
+            "created_at": "2018-02-05T21:25:26.000Z",
+            "id": "960625438728114176",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sir\u2026"
+        },
+        {
+            "created_at": "2018-02-05T21:18:16.000Z",
+            "id": "960623631893254145",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR! https://t.co/PDTWVjw1hb"
+        },
+        {
+            "created_at": "2018-02-05T21:17:36.000Z",
+            "id": "960623468172767234",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR! https://t.co/2Yk1ny6n53"
+        },
+        {
+            "created_at": "2018-02-05T21:16:57.000Z",
+            "id": "960623304066457600",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR! https://t.co/quR1Th61At"
+        },
+        {
+            "created_at": "2018-02-05T21:16:26.000Z",
+            "id": "960623172138819584",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR! https://t.co/4m9UEFe03L"
+        },
+        {
+            "created_at": "2018-02-05T21:15:58.000Z",
+            "id": "960623055889424384",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR! https://t.co/JhQt9Ewi46"
+        },
+        {
+            "created_at": "2018-02-05T21:14:23.000Z",
+            "id": "960622656579096576",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sir\u2026"
+        },
+        {
+            "created_at": "2018-02-05T21:13:24.000Z",
+            "id": "960622410415386625",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR! https://t.co/nN1b4pIS3c"
+        },
+        {
+            "created_at": "2018-02-05T21:12:31.000Z",
+            "id": "960622187249131521",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR! https://t.co/VhQ2ZuGaW9"
+        },
+        {
+            "created_at": "2018-02-05T21:11:47.000Z",
+            "id": "960622003635048448",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nAYUDA POR FAVOR!"
+        },
+        {
+            "created_at": "2018-02-05T21:11:03.000Z",
+            "id": "960621816019603456",
+            "text": "URGENTE!\nAsdrubal Gonzalez pide lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q le dan convulsiones, dolores.\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nPOR FAVOR AYUDA! https://t.co/J3AVZKK01R"
+        },
+        {
+            "created_at": "2018-02-05T21:09:08.000Z",
+            "id": "960621337176887298",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar la bacteria del t\u00e9tano q dan convulsiones, dolores\nAleiber (5 a\u00f1os) esta en HCM Aragua:\n04144603470 04169467608 04124452846 \nPOR FAVOR AYUDA!"
+        },
+        {
+            "created_at": "2018-02-05T19:39:40.000Z",
+            "id": "960598820412379138",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T17:52:26.000Z",
+            "id": "960571833446797312",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T16:47:33.000Z",
+            "id": "960555506988396545",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T16:44:31.000Z",
+            "id": "960554740919697408",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T16:41:47.000Z",
+            "id": "960554052605050881",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:37:37.000Z",
+            "id": "960553005211881472",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:37:29.000Z",
+            "id": "960552973028986881",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:34:58.000Z",
+            "id": "960552340154732553",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T16:25:14.000Z",
+            "id": "960549890953760768",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:21:35.000Z",
+            "id": "960548969083539456",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:18:01.000Z",
+            "id": "960548074606202880",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:16:04.000Z",
+            "id": "960547580827619328",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:13:45.000Z",
+            "id": "960546998159138824",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:13:10.000Z",
+            "id": "960546854827167744",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:12:51.000Z",
+            "id": "960546772350271488",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T16:08:35.000Z",
+            "id": "960545699208351744",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T16:06:35.000Z",
+            "id": "960545194973286401",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "968601211598458880",
+        "next_token": "1jzu9lk96gu5npw44qdimsmwsudc9ol7i6km4c7mju65",
+        "oldest_id": "960545194973286401",
+        "result_count": 487
+    }
+}{
+    "data": [
+        {
+            "created_at": "2018-02-05T16:02:52.000Z",
+            "id": "960544262789173250",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T16:02:05.000Z",
+            "id": "960544064159526912",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:56:25.000Z",
+            "id": "960542635877388288",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:50:04.000Z",
+            "id": "960541037834973184",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:47:10.000Z",
+            "id": "960540310433656832",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:46:45.000Z",
+            "id": "960540204472913920",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:42:54.000Z",
+            "id": "960539234984714241",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:38:00.000Z",
+            "id": "960538004011003905",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:36:18.000Z",
+            "id": "960537576942833665",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:30:05.000Z",
+            "id": "960536012417126400",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:29:20.000Z",
+            "id": "960535822901661696",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/OQz4K4wWS5"
+        },
+        {
+            "created_at": "2018-02-05T15:28:59.000Z",
+            "id": "960535733114167296",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/nQtAjlq8Ou"
+        },
+        {
+            "created_at": "2018-02-05T15:28:45.000Z",
+            "id": "960535673185939456",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/XAc8U3q9lN"
+        },
+        {
+            "created_at": "2018-02-05T15:28:25.000Z",
+            "id": "960535590801428481",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/Uv4IXWoIKR"
+        },
+        {
+            "created_at": "2018-02-05T15:28:10.000Z",
+            "id": "960535527530418178",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/3VZZcEBaiO"
+        },
+        {
+            "created_at": "2018-02-05T15:27:52.000Z",
+            "id": "960535454390145024",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/GQCeQeHdAE"
+        },
+        {
+            "created_at": "2018-02-05T15:27:35.000Z",
+            "id": "960535381988052992",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/D4hChM759r"
+        },
+        {
+            "created_at": "2018-02-05T15:27:09.000Z",
+            "id": "960535273951125504",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/5yYoZxInMi"
+        },
+        {
+            "created_at": "2018-02-05T15:26:55.000Z",
+            "id": "960535212907290625",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/tnV8tULQsP"
+        },
+        {
+            "created_at": "2018-02-05T15:26:41.000Z",
+            "id": "960535156229582849",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/tbU29o3FNf"
+        },
+        {
+            "created_at": "2018-02-05T15:26:23.000Z",
+            "id": "960535081281576960",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/9HIOACuZ6P"
+        },
+        {
+            "created_at": "2018-02-05T15:26:00.000Z",
+            "id": "960534981813702656",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/FGVKLOiLjm"
+        },
+        {
+            "created_at": "2018-02-05T15:25:39.000Z",
+            "id": "960534895683661824",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T15:25:23.000Z",
+            "id": "960534828482465792",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/jRrXow89oz"
+        },
+        {
+            "created_at": "2018-02-05T15:24:45.000Z",
+            "id": "960534668893413376",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tano q provoca convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA!"
+        },
+        {
+            "created_at": "2018-02-05T15:24:13.000Z",
+            "id": "960534532771471360",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/XlSzNY6G1E"
+        },
+        {
+            "created_at": "2018-02-05T15:23:50.000Z",
+            "id": "960534439020388352",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:23:48.000Z",
+            "id": "960534430224961536",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/TkP3i2Turw"
+        },
+        {
+            "created_at": "2018-02-05T15:23:22.000Z",
+            "id": "960534319365328897",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/mCmJaTZQDL"
+        },
+        {
+            "created_at": "2018-02-05T15:23:10.000Z",
+            "id": "960534270921109504",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/EkYvb1nIjB"
+        },
+        {
+            "created_at": "2018-02-05T15:23:03.000Z",
+            "id": "960534239702855682",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:23:00.000Z",
+            "id": "960534229770817537",
+            "text": "RT @educacionymas: URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto\u2026"
+        },
+        {
+            "created_at": "2018-02-05T15:22:53.000Z",
+            "id": "960534200297426944",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/X2FHlyM2O7"
+        },
+        {
+            "created_at": "2018-02-05T15:22:33.000Z",
+            "id": "960534116818186240",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/wEOLA1aALm"
+        },
+        {
+            "created_at": "2018-02-05T15:22:18.000Z",
+            "id": "960534051164651521",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/XhZJGQPSq8"
+        },
+        {
+            "created_at": "2018-02-05T15:22:02.000Z",
+            "id": "960533986924744705",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/AJ8oFBBHGB"
+        },
+        {
+            "created_at": "2018-02-05T15:21:55.000Z",
+            "id": "960533955249307651",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/41EVryRbmS"
+        },
+        {
+            "created_at": "2018-02-05T15:21:39.000Z",
+            "id": "960533889176522753",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/vAwiowyuWH"
+        },
+        {
+            "created_at": "2018-02-05T15:21:16.000Z",
+            "id": "960533790476075009",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/XUqtOwXY4K"
+        },
+        {
+            "created_at": "2018-02-05T15:20:53.000Z",
+            "id": "960533697266151424",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/kgqPKW7ggO"
+        },
+        {
+            "created_at": "2018-02-05T15:20:37.000Z",
+            "id": "960533626730549249",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/nM8DHFEpRy"
+        },
+        {
+            "created_at": "2018-02-05T15:20:14.000Z",
+            "id": "960533533046525952",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/yKBCAV8pTI"
+        },
+        {
+            "created_at": "2018-02-05T15:20:02.000Z",
+            "id": "960533482517729281",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/8pYSTfqXGF"
+        },
+        {
+            "created_at": "2018-02-05T15:19:49.000Z",
+            "id": "960533428696469509",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA! https://t.co/6X12Vkooup"
+        },
+        {
+            "created_at": "2018-02-05T15:19:23.000Z",
+            "id": "960533318763769856",
+            "text": "URGENTE!\nAsdrubal Gonzalez solicita lioresal o baclofeno presentaci\u00f3n q sea d los mml q sean, su hija puede morir y esto sirve para matar el t\u00e9tanos q provocan convulsiones y dolores.\nAleiber d 5 a\u00f1os esta en el HCM d Aragua:\n04144603470 04169467608 04124452846 POR FAVOR AYUDA!"
+        },
+        {
+            "created_at": "2018-02-05T15:03:47.000Z",
+            "id": "960529392387706880",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T15:01:13.000Z",
+            "id": "960528748054499329",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T14:59:32.000Z",
+            "id": "960528323309862912",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:58:36.000Z",
+            "id": "960528085769687040",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:58:31.000Z",
+            "id": "960528067784560640",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:58:13.000Z",
+            "id": "960527991175548928",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:57:41.000Z",
+            "id": "960527856798486530",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:55:57.000Z",
+            "id": "960527421433933824",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:54:56.000Z",
+            "id": "960527165291974656",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:52:33.000Z",
+            "id": "960526566164979712",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:51:55.000Z",
+            "id": "960526406978621440",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:51:45.000Z",
+            "id": "960526361768144897",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:51:21.000Z",
+            "id": "960526263776575489",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T14:50:50.000Z",
+            "id": "960526131077230592",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:50:23.000Z",
+            "id": "960526021912072192",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:49:46.000Z",
+            "id": "960525863212277762",
+            "text": "RT @ReporteYa: #5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:49:19.000Z",
+            "id": "960525750360264705",
+            "text": "#5Feb Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470 - \n@america890am"
+        },
+        {
+            "created_at": "2018-02-05T14:47:57.000Z",
+            "id": "960525405684985856",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T14:47:18.000Z",
+            "id": "960525243206045696",
+            "text": "RT @america890am: Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-05T13:22:17.000Z",
+            "id": "960503848434634752",
+            "text": "LIORESAL  O  BACLOFENO  SE  SOLICITA  RGENTE  0414-4603470\n0416-9467608   0412-4452846"
+        },
+        {
+            "created_at": "2018-02-05T13:18:30.000Z",
+            "id": "960502898651262977",
+            "text": "Urgente ayudar Ni\u00f1a 5 a\u00f1os Lioresal o Baclofeno llamar al 04144603470"
+        },
+        {
+            "created_at": "2018-02-04T13:22:44.000Z",
+            "id": "960141573135663105",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-03T18:50:17.000Z",
+            "id": "959861616354451459",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-03T14:35:55.000Z",
+            "id": "959797601754284032",
+            "text": "Meilleurs prix - Achat Lioresal En Europe - Livraison dans le monde entier - https://t.co/HydkIlI216 Lioresal En Europe\n\n    G\u00e9n\u00e9rique Li... https://t.co/xSvVFSe4T5"
+        },
+        {
+            "created_at": "2018-02-03T14:15:12.000Z",
+            "id": "959792391405363200",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-03T08:34:25.000Z",
+            "id": "959706628764336128",
+            "text": "RT @2626s37: @saludvzlamadrid por favor ayundenme a difundir en espa\u00f1a hay lioresal  baclofen traigan a vzla para pacientes con espasticida\u2026"
+        },
+        {
+            "created_at": "2018-02-03T07:13:53.000Z",
+            "id": "959686361329684480",
+            "text": "RT @2626s37: @saludvzlamadrid por favor ayundenme a difundir en espa\u00f1a hay lioresal  baclofen traigan a vzla para pacientes con espasticida\u2026"
+        },
+        {
+            "created_at": "2018-02-03T02:04:06.000Z",
+            "id": "959608402514251776",
+            "text": "@saludvzlamadrid por favor ayundenme a difundir en espa\u00f1a hay lioresal  baclofen traigan a vzla para pacientes con espasticidad 04126739430"
+        },
+        {
+            "created_at": "2018-02-02T02:10:08.000Z",
+            "id": "959247532806361089",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T23:36:53.000Z",
+            "id": "959208968420843521",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T23:22:50.000Z",
+            "id": "959205431666200577",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T23:18:41.000Z",
+            "id": "959204387330682880",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T22:44:39.000Z",
+            "id": "959195821353955328",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T22:33:22.000Z",
+            "id": "959192981273182208",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T22:29:12.000Z",
+            "id": "959191931988430848",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T21:00:08.000Z",
+            "id": "959169520635084805",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T16:12:15.000Z",
+            "id": "959097070421467136",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T15:53:03.000Z",
+            "id": "959092237215903750",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T15:24:28.000Z",
+            "id": "959085045007966208",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T15:13:27.000Z",
+            "id": "959082273739100160",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T15:12:06.000Z",
+            "id": "959081932649844736",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T15:06:10.000Z",
+            "id": "959080438345228289",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T12:31:52.000Z",
+            "id": "959041610234331136",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-01T11:09:54.000Z",
+            "id": "959020982378942465",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T11:02:48.000Z",
+            "id": "959019193915060224",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T10:10:10.000Z",
+            "id": "959005950660235264",
+            "text": "Solicitud de Cotizacion MEDICAMENTOS Descarga informaci\u00f3n aqu\u00ed: https://t.co/jcQcx4MTYx\nFecha hasta: 02/02/2018. Articulos: LIORESAL.\nContacto: https://t.co/9SCLv9vYZs https://t.co/jcQcx4MTYx"
+        },
+        {
+            "created_at": "2018-02-01T07:34:30.000Z",
+            "id": "958966774430564352",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T07:24:47.000Z",
+            "id": "958964328434143232",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T06:10:50.000Z",
+            "id": "958945721197170689",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-01T04:09:37.000Z",
+            "id": "958915215818657792",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T03:58:43.000Z",
+            "id": "958912469455572992",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T03:47:24.000Z",
+            "id": "958909622550704128",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T03:25:25.000Z",
+            "id": "958904090410569728",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T03:03:02.000Z",
+            "id": "958898458651496448",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T02:57:35.000Z",
+            "id": "958897087529267200",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T02:50:37.000Z",
+            "id": "958895331244199937",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T02:50:02.000Z",
+            "id": "958895187748585472",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T02:45:13.000Z",
+            "id": "958893974525218816",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T02:19:31.000Z",
+            "id": "958887507869011968",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-01T02:15:09.000Z",
+            "id": "958886407921197057",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T01:44:04.000Z",
+            "id": "958878585124777984",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T01:33:14.000Z",
+            "id": "958875858030288896",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-01T01:27:23.000Z",
+            "id": "958874385913401344",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-01T01:16:55.000Z",
+            "id": "958871750942580736",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T00:51:20.000Z",
+            "id": "958865314460168193",
+            "text": "RT @fundatiacruz: Esta corriendo la cadena de un Asdrubal Gonzales que desesperado necesita baclofeno, lioresal pa la hija que sepuede mori\u2026"
+        },
+        {
+            "created_at": "2018-02-01T00:48:12.000Z",
+            "id": "958864525524127745",
+            "text": "RT @noniguerra_: #URGENTE Asdrubal Gonzales,  desesperado solicita Lioresal o Baclofeno. Su hija puede morir, padece de graves convulsiones\u2026"
+        },
+        {
+            "created_at": "2018-02-01T00:28:23.000Z",
+            "id": "958859539310350336",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T00:26:32.000Z",
+            "id": "958859075323944960",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T00:26:19.000Z",
+            "id": "958859020546211840",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        },
+        {
+            "created_at": "2018-02-01T00:24:49.000Z",
+            "id": "958858641624444930",
+            "text": "RT @eduardo_semtei: Soy Asdrubal Gonzales,  desesperado solicito lioresal o baclofeno...urgente!!!....mi hija puede morir  t\u00e9tanos graves c\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "960544262789173250",
+        "oldest_id": "958858641624444930",
+        "result_count": 115
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

@@ -1,0 +1,2828 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-12-31T21:29:45.000Z",
+            "id": "947580559781490689",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-31T13:53:14.000Z",
+            "id": "947465674493956096",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-31T09:19:43.000Z",
+            "id": "947396840445620224",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-31T08:44:37.000Z",
+            "id": "947388010366230528",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-31T08:40:18.000Z",
+            "id": "947386921864564736",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-31T07:55:29.000Z",
+            "id": "947375643741839360",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T20:54:20.000Z",
+            "id": "947209260332707840",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T14:24:36.000Z",
+            "id": "947111179616509954",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T14:24:18.000Z",
+            "id": "947111103255007232",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T13:59:07.000Z",
+            "id": "947104765313511424",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T13:53:40.000Z",
+            "id": "947103394044530689",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T13:40:31.000Z",
+            "id": "947100086990929921",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T13:02:28.000Z",
+            "id": "947090511747219456",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T12:59:42.000Z",
+            "id": "947089814876250112",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T12:56:09.000Z",
+            "id": "947088920558358528",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T12:51:24.000Z",
+            "id": "947087726033203200",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T12:44:03.000Z",
+            "id": "947085877313966080",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T11:57:22.000Z",
+            "id": "947074125666930689",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T11:41:54.000Z",
+            "id": "947070236775321600",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T11:36:26.000Z",
+            "id": "947068860783611904",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T11:28:10.000Z",
+            "id": "947066780828258304",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T11:26:34.000Z",
+            "id": "947066377961181184",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T11:19:18.000Z",
+            "id": "947064548976152578",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T10:59:27.000Z",
+            "id": "947059553203519488",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T10:58:16.000Z",
+            "id": "947059255860965377",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T04:12:40.000Z",
+            "id": "946957183115198464",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T03:30:05.000Z",
+            "id": "946946464852381698",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-30T03:10:49.000Z",
+            "id": "946941615318487040",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T23:27:40.000Z",
+            "id": "946885460323946496",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T22:33:35.000Z",
+            "id": "946871848784072705",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T22:09:50.000Z",
+            "id": "946865873167486977",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T21:28:31.000Z",
+            "id": "946855476091932672",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T18:09:14.000Z",
+            "id": "946805321669865472",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T16:12:31.000Z",
+            "id": "946775950406144001",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T16:09:00.000Z",
+            "id": "946775066968317953",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T15:18:23.000Z",
+            "id": "946762326018887680",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T14:34:45.000Z",
+            "id": "946751345633234946",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T14:20:20.000Z",
+            "id": "946747720521396224",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T14:04:16.000Z",
+            "id": "946743674217615360",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T13:03:03.000Z",
+            "id": "946728270871105538",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T11:39:52.000Z",
+            "id": "946707336642617346",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T11:08:20.000Z",
+            "id": "946699402013544448",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T11:06:10.000Z",
+            "id": "946698854774267904",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T10:10:46.000Z",
+            "id": "946684915118231552",
+            "text": "Solicitud de Cotizacion MEDICAMENTOS FARMACIA Descarga informaci\u00f3n aqu\u00ed: https://t.co/M37fmUkqyE\nFecha hasta: 30/12/2017. Articulos: LIORESAL - comp.x 60 , SANCOR BEBE 3 (NUTRICION COMPLETA) - brick x 200 ml x 30 u., PLIDAN - 2 mg comp.rec.x 20, ROGASTR\u2026 https://t.co/M37fmUkqyE"
+        },
+        {
+            "created_at": "2017-12-29T10:03:10.000Z",
+            "id": "946682999592095744",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T09:13:41.000Z",
+            "id": "946670547102044160",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T09:11:41.000Z",
+            "id": "946670043592523781",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T08:24:21.000Z",
+            "id": "946658131962146816",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T08:14:12.000Z",
+            "id": "946655578037915648",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T07:51:08.000Z",
+            "id": "946649774320771073",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T07:42:48.000Z",
+            "id": "946647677286125568",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T05:11:11.000Z",
+            "id": "946609520167530496",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T05:09:38.000Z",
+            "id": "946609132215390208",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T05:08:42.000Z",
+            "id": "946608894406569984",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T04:49:39.000Z",
+            "id": "946604101281992705",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T04:47:07.000Z",
+            "id": "946603463315787776",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T04:46:53.000Z",
+            "id": "946603403765080064",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T04:23:21.000Z",
+            "id": "946597482242412544",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:56:49.000Z",
+            "id": "946590806202298373",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:52:01.000Z",
+            "id": "946589596019765248",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:30:25.000Z",
+            "id": "946584160197595137",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:22:40.000Z",
+            "id": "946582211016437761",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:18:09.000Z",
+            "id": "946581074452283392",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:13:58.000Z",
+            "id": "946580023712075778",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:10:11.000Z",
+            "id": "946579070367739905",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T03:06:12.000Z",
+            "id": "946578068747030528",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T02:50:01.000Z",
+            "id": "946573993644924928",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T02:21:15.000Z",
+            "id": "946566754289029122",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T02:18:27.000Z",
+            "id": "946566050744864768",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:58:10.000Z",
+            "id": "946560944712364032",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:48:00.000Z",
+            "id": "946558387910791170",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:47:00.000Z",
+            "id": "946558135195652097",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:42:39.000Z",
+            "id": "946557042008915969",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:41:25.000Z",
+            "id": "946556730451906560",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:40:18.000Z",
+            "id": "946556450045939717",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:35:07.000Z",
+            "id": "946555146590400512",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:33:27.000Z",
+            "id": "946554726119641089",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:31:03.000Z",
+            "id": "946554123259908096",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:29:42.000Z",
+            "id": "946553782787297280",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:28:34.000Z",
+            "id": "946553499038470145",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:24:03.000Z",
+            "id": "946552359156666369",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:22:43.000Z",
+            "id": "946552025181052928",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:20:34.000Z",
+            "id": "946551481955749893",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:18:20.000Z",
+            "id": "946550921349103616",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:17:41.000Z",
+            "id": "946550757809119237",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:17:36.000Z",
+            "id": "946550736502116352",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:17:05.000Z",
+            "id": "946550607271383040",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:16:53.000Z",
+            "id": "946550556822302720",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:14:34.000Z",
+            "id": "946549972631281664",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:13:09.000Z",
+            "id": "946549615695974400",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:09:29.000Z",
+            "id": "946548693330812938",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:07:48.000Z",
+            "id": "946548272843325440",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T01:03:02.000Z",
+            "id": "946547070902644736",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:44:10.000Z",
+            "id": "946542324879851520",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:35:50.000Z",
+            "id": "946540225370689537",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:32:57.000Z",
+            "id": "946539499173146625",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:30:48.000Z",
+            "id": "946538959055802369",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:27:14.000Z",
+            "id": "946538063433433088",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:23:42.000Z",
+            "id": "946537174677295111",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:23:33.000Z",
+            "id": "946537134617432067",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:22:47.000Z",
+            "id": "946536943051034624",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:21:01.000Z",
+            "id": "946536498278617088",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:20:28.000Z",
+            "id": "946536357941399552",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:19:47.000Z",
+            "id": "946536187170377728",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:17:16.000Z",
+            "id": "946535554019155969",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:16:26.000Z",
+            "id": "946535345042198528",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:11:27.000Z",
+            "id": "946534090240610305",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:10:30.000Z",
+            "id": "946533851333038081",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:10:00.000Z",
+            "id": "946533725403303938",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:09:32.000Z",
+            "id": "946533609363722240",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:09:29.000Z",
+            "id": "946533593752457216",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:08:58.000Z",
+            "id": "946533465582915584",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:08:07.000Z",
+            "id": "946533252935901184",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:05:43.000Z",
+            "id": "946532646447996931",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:05:35.000Z",
+            "id": "946532615527559168",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:05:28.000Z",
+            "id": "946532582946230272",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:04:50.000Z",
+            "id": "946532423243784198",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:02:29.000Z",
+            "id": "946531833365385217",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:01:31.000Z",
+            "id": "946531588816474112",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:01:29.000Z",
+            "id": "946531582411722757",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:00:35.000Z",
+            "id": "946531356493930498",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-29T00:00:11.000Z",
+            "id": "946531253771268096",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:59:50.000Z",
+            "id": "946531164810088448",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:57:53.000Z",
+            "id": "946530676584730625",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:56:53.000Z",
+            "id": "946530425790521344",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:56:13.000Z",
+            "id": "946530258374799360",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:55:49.000Z",
+            "id": "946530155148861442",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:55:33.000Z",
+            "id": "946530087134007296",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:54:28.000Z",
+            "id": "946529817587052544",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:53:19.000Z",
+            "id": "946529525445353472",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:52:31.000Z",
+            "id": "946529327306375168",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:52:27.000Z",
+            "id": "946529308826357760",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:50:03.000Z",
+            "id": "946528702824886272",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:49:52.000Z",
+            "id": "946528656884731904",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:49:48.000Z",
+            "id": "946528639922900994",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:49:12.000Z",
+            "id": "946528492006592512",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:48:15.000Z",
+            "id": "946528252797112322",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:48:11.000Z",
+            "id": "946528234354733056",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:47:37.000Z",
+            "id": "946528090800492544",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:47:20.000Z",
+            "id": "946528022873739269",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:47:11.000Z",
+            "id": "946527983061426176",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:46:44.000Z",
+            "id": "946527871983595520",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:45:47.000Z",
+            "id": "946527630492340224",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:45:15.000Z",
+            "id": "946527497440677890",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:44:13.000Z",
+            "id": "946527238274670593",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:44:07.000Z",
+            "id": "946527211330441216",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:44:05.000Z",
+            "id": "946527202111377413",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:44:02.000Z",
+            "id": "946527192565080064",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:43:52.000Z",
+            "id": "946527147329576960",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:43:44.000Z",
+            "id": "946527113519288320",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:43:30.000Z",
+            "id": "946527057802035200",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:43:21.000Z",
+            "id": "946527018526617600",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:43:14.000Z",
+            "id": "946526987262275584",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:43:06.000Z",
+            "id": "946526957474406403",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:42:50.000Z",
+            "id": "946526889564360710",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:42:41.000Z",
+            "id": "946526850830004225",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:42:39.000Z",
+            "id": "946526840860094466",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:42:13.000Z",
+            "id": "946526732395470849",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:42:11.000Z",
+            "id": "946526724803694592",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:41:55.000Z",
+            "id": "946526658902753281",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:41:39.000Z",
+            "id": "946526590653075457",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:41:23.000Z",
+            "id": "946526523896541188",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:41:18.000Z",
+            "id": "946526503172558848",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:41:11.000Z",
+            "id": "946526474072477697",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:41:06.000Z",
+            "id": "946526450290741248",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:41:02.000Z",
+            "id": "946526437166723073",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:40:34.000Z",
+            "id": "946526319667503104",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:39:22.000Z",
+            "id": "946526014099697664",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:37:58.000Z",
+            "id": "946525662499753985",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:36:59.000Z",
+            "id": "946525414662516736",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:32:39.000Z",
+            "id": "946524327456931841",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:27:46.000Z",
+            "id": "946523096990621696",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:25:38.000Z",
+            "id": "946522561323597824",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:08:44.000Z",
+            "id": "946518306995015685",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T23:01:10.000Z",
+            "id": "946516404605394946",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:56:06.000Z",
+            "id": "946515126991097856",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:52:56.000Z",
+            "id": "946514331386171393",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:40:36.000Z",
+            "id": "946511225860644865",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:37:33.000Z",
+            "id": "946510460249133056",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:25:36.000Z",
+            "id": "946507453771976704",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:23:28.000Z",
+            "id": "946506913566556160",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:23:09.000Z",
+            "id": "946506836399874048",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:22:46.000Z",
+            "id": "946506739129683974",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:20:35.000Z",
+            "id": "946506191269695488",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:13:56.000Z",
+            "id": "946504515892731905",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:12:26.000Z",
+            "id": "946504139856629761",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:09:48.000Z",
+            "id": "946503477190189057",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:05:58.000Z",
+            "id": "946502512248524800",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:04:43.000Z",
+            "id": "946502194601385990",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T22:01:38.000Z",
+            "id": "946501422601986048",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T21:51:42.000Z",
+            "id": "946498922318573569",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T21:33:14.000Z",
+            "id": "946494275075878912",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T21:31:32.000Z",
+            "id": "946493845130432512",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T21:13:56.000Z",
+            "id": "946489418629681152",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:57:23.000Z",
+            "id": "946485251815149568",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:52:36.000Z",
+            "id": "946484048435785729",
+            "text": "RT @Vale_dla: #ServicioP\u00fablico Se necesita con car\u00e1cter de URGENCIA Lioresal de 10 mg para el pap\u00e1 de una amiga. Contactar al 0414-8970831.\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:44:47.000Z",
+            "id": "946482082485800961",
+            "text": "RT @Vale_dla: #ServicioP\u00fablico Se necesita con car\u00e1cter de URGENCIA Lioresal de 10 mg para el pap\u00e1 de una amiga. Contactar al 0414-8970831.\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:26:13.000Z",
+            "id": "946477407220961280",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:15:22.000Z",
+            "id": "946474675961556992",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:14:36.000Z",
+            "id": "946474484562833408",
+            "text": "@trafficLARA Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de  10mg y AKINETON de 2mg llamar al +58 4244611239 mil gracias Miguel Angel Mirabal Tona"
+        },
+        {
+            "created_at": "2017-12-28T20:12:59.000Z",
+            "id": "946474079342727168",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:09:59.000Z",
+            "id": "946473321180344320",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:09:08.000Z",
+            "id": "946473108248186880",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:08:18.000Z",
+            "id": "946472897949954053",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:05:49.000Z",
+            "id": "946472275313938432",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T20:00:37.000Z",
+            "id": "946470967735439362",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:59:14.000Z",
+            "id": "946470617959862272",
+            "text": "#ServicioP\u00fablico Se necesita con car\u00e1cter de URGENCIA Lioresal de 10 mg para el pap\u00e1 de una amiga. Contactar al 0414-8970831. Por favor RT."
+        },
+        {
+            "created_at": "2017-12-28T19:56:50.000Z",
+            "id": "946470013288009734",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:52:06.000Z",
+            "id": "946468821254230022",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:51:23.000Z",
+            "id": "946468641821904898",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:47:08.000Z",
+            "id": "946467574728085504",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:45:05.000Z",
+            "id": "946467058195353600",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:41:52.000Z",
+            "id": "946466248736591872",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:35:08.000Z",
+            "id": "946464553222668288",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:31:11.000Z",
+            "id": "946463556639318016",
+            "text": "Retweeted Miguel Mirabal T. (@MirabalVALC):\n\nRequiero urgentemente para mi madre esta medicina LIORESAL O... https://t.co/2fCZcCNYx3"
+        },
+        {
+            "created_at": "2017-12-28T19:31:07.000Z",
+            "id": "946463542919811073",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:24:02.000Z",
+            "id": "946461761074425862",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:20:04.000Z",
+            "id": "946460761416781830",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:12:39.000Z",
+            "id": "946458896612450304",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T19:06:17.000Z",
+            "id": "946457293343854593",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:57:59.000Z",
+            "id": "946455202177142785",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:49:49.000Z",
+            "id": "946453146792087559",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:42:09.000Z",
+            "id": "946451218221629440",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:28:44.000Z",
+            "id": "946447841920200706",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:27:03.000Z",
+            "id": "946447418647875584",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:19:11.000Z",
+            "id": "946445438852485120",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:14:54.000Z",
+            "id": "946444362631860225",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:14:45.000Z",
+            "id": "946444321762529280",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:13:02.000Z",
+            "id": "946443890629988358",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:09:43.000Z",
+            "id": "946443058496851973",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:09:23.000Z",
+            "id": "946442971565699072",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:04:50.000Z",
+            "id": "946441828127182848",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:04:19.000Z",
+            "id": "946441699982761984",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:03:22.000Z",
+            "id": "946441458877370368",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T18:01:50.000Z",
+            "id": "946441071483027458",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:58:21.000Z",
+            "id": "946440194861002757",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:58:03.000Z",
+            "id": "946440120189767681",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:55:06.000Z",
+            "id": "946439379593187328",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:52:20.000Z",
+            "id": "946438680830533632",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:47:49.000Z",
+            "id": "946437545369448448",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:42:38.000Z",
+            "id": "946436240278216704",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:40:54.000Z",
+            "id": "946435802984312832",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:40:48.000Z",
+            "id": "946435780548980737",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:39:46.000Z",
+            "id": "946435520749604864",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:39:25.000Z",
+            "id": "946435430685298688",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:38:19.000Z",
+            "id": "946435156390408193",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:38:06.000Z",
+            "id": "946435101671542786",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:36:33.000Z",
+            "id": "946434709625720833",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:29:09.000Z",
+            "id": "946432849045086208",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:28:46.000Z",
+            "id": "946432750126616577",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:24:18.000Z",
+            "id": "946431628821319680",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:21:04.000Z",
+            "id": "946430813352194049",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:14:58.000Z",
+            "id": "946429278555648000",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:12:11.000Z",
+            "id": "946428576496267264",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:10:47.000Z",
+            "id": "946428227857403904",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:08:08.000Z",
+            "id": "946427557372624898",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:07:45.000Z",
+            "id": "946427461767716864",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:07:17.000Z",
+            "id": "946427346990649346",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:06:29.000Z",
+            "id": "946427143550111746",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:05:16.000Z",
+            "id": "946426838729023488",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T17:03:14.000Z",
+            "id": "946426326826696704",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:59:07.000Z",
+            "id": "946425291727130624",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:58:53.000Z",
+            "id": "946425230343499776",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:56:18.000Z",
+            "id": "946424579618213888",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:54:49.000Z",
+            "id": "946424207822475266",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:52:51.000Z",
+            "id": "946423713574113280",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:52:17.000Z",
+            "id": "946423570405654530",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:50:59.000Z",
+            "id": "946423241106776064",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:49:46.000Z",
+            "id": "946422935916548102",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:46:19.000Z",
+            "id": "946422068597411840",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:43:07.000Z",
+            "id": "946421261294555137",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:41:16.000Z",
+            "id": "946420796964122626",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:40:07.000Z",
+            "id": "946420508001800192",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:39:59.000Z",
+            "id": "946420476900970496",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:39:17.000Z",
+            "id": "946420296839462912",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:35:38.000Z",
+            "id": "946419380421844993",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:34:50.000Z",
+            "id": "946419179774726144",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:34:12.000Z",
+            "id": "946419019804037120",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:33:41.000Z",
+            "id": "946418890132910081",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:33:30.000Z",
+            "id": "946418841428557824",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:32:44.000Z",
+            "id": "946418650130546688",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:32:32.000Z",
+            "id": "946418599404728320",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:32:19.000Z",
+            "id": "946418546829090822",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:32:10.000Z",
+            "id": "946418508463857664",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:31:31.000Z",
+            "id": "946418343552208896",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:31:09.000Z",
+            "id": "946418252204462080",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:30:56.000Z",
+            "id": "946418195661033473",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:28:44.000Z",
+            "id": "946417644290428928",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:28:26.000Z",
+            "id": "946417567685414912",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:27:55.000Z",
+            "id": "946417437892907008",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:27:08.000Z",
+            "id": "946417239523254278",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:26:50.000Z",
+            "id": "946417164424241152",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:26:42.000Z",
+            "id": "946417132656648192",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:26:13.000Z",
+            "id": "946417012154228736",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:25:57.000Z",
+            "id": "946416942579142657",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:25:34.000Z",
+            "id": "946416844868653061",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:25:17.000Z",
+            "id": "946416774022647809",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:24:54.000Z",
+            "id": "946416678086303744",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:24:51.000Z",
+            "id": "946416667634085888",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:24:30.000Z",
+            "id": "946416577083088896",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:24:24.000Z",
+            "id": "946416553691664385",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:24:06.000Z",
+            "id": "946416476713611265",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:23:35.000Z",
+            "id": "946416345637441538",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:22:11.000Z",
+            "id": "946415995211665408",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:22:08.000Z",
+            "id": "946415982620348416",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:21:12.000Z",
+            "id": "946415747227619328",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:20:10.000Z",
+            "id": "946415487554121730",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:19:24.000Z",
+            "id": "946415295564075015",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:17:54.000Z",
+            "id": "946414916587720704",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:17:39.000Z",
+            "id": "946414855359287296",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:17:22.000Z",
+            "id": "946414784378896385",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:16:55.000Z",
+            "id": "946414669429952512",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:16:12.000Z",
+            "id": "946414490513440768",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:16:01.000Z",
+            "id": "946414444548063234",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:15:52.000Z",
+            "id": "946414405062971393",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:15:47.000Z",
+            "id": "946414385236455424",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:14:09.000Z",
+            "id": "946413974714798080",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:13:52.000Z",
+            "id": "946413902602080256",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:13:08.000Z",
+            "id": "946413719353024512",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:12:28.000Z",
+            "id": "946413552054820865",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:12:10.000Z",
+            "id": "946413476385361920",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:11:37.000Z",
+            "id": "946413334223622144",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:11:18.000Z",
+            "id": "946413256515702784",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:11:05.000Z",
+            "id": "946413201109012480",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:10:41.000Z",
+            "id": "946413102505086981",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:10:41.000Z",
+            "id": "946413099271311360",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:10:38.000Z",
+            "id": "946413087975923712",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:10:27.000Z",
+            "id": "946413040693587968",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:10:01.000Z",
+            "id": "946412934057611264",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:09:51.000Z",
+            "id": "946412892437516293",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:09:32.000Z",
+            "id": "946412812397633536",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:09:09.000Z",
+            "id": "946412713688920064",
+            "text": "RT MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:07:46.000Z",
+            "id": "946412367935692800",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:07:24.000Z",
+            "id": "946412275077873664",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:07:03.000Z",
+            "id": "946412185445650433",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:07:01.000Z",
+            "id": "946412177996636160",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:06:42.000Z",
+            "id": "946412097143009280",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:06:11.000Z",
+            "id": "946411968298143744",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:01:05.000Z",
+            "id": "946410685575127040",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T16:00:33.000Z",
+            "id": "946410549167968257",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:59:46.000Z",
+            "id": "946410352648032256",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:58:22.000Z",
+            "id": "946410002742464513",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:58:18.000Z",
+            "id": "946409983062704128",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:57:46.000Z",
+            "id": "946409850623418368",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:56:49.000Z",
+            "id": "946409609576660992",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:56:42.000Z",
+            "id": "946409584134107136",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:56:29.000Z",
+            "id": "946409526194003968",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:56:14.000Z",
+            "id": "946409464965541889",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:56:08.000Z",
+            "id": "946409440194023424",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:54:13.000Z",
+            "id": "946408957534498816",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:53:56.000Z",
+            "id": "946408887850360832",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:53:54.000Z",
+            "id": "946408875489624064",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:53:06.000Z",
+            "id": "946408676641902592",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:52:42.000Z",
+            "id": "946408574762323968",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:52:37.000Z",
+            "id": "946408554491273217",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:52:05.000Z",
+            "id": "946408422248992768",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:52:01.000Z",
+            "id": "946408404515508224",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:51:49.000Z",
+            "id": "946408352892030978",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:51:29.000Z",
+            "id": "946408267475021824",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:51:24.000Z",
+            "id": "946408249980608512",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:51:17.000Z",
+            "id": "946408220070961152",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:50:59.000Z",
+            "id": "946408144418279425",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:50:52.000Z",
+            "id": "946408112512294912",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:50:29.000Z",
+            "id": "946408016739553280",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:50:27.000Z",
+            "id": "946408009403641856",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:50:10.000Z",
+            "id": "946407936955383808",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:50:03.000Z",
+            "id": "946407908203429888",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:49:59.000Z",
+            "id": "946407891732520961",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:49:13.000Z",
+            "id": "946407699931156480",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:48:40.000Z",
+            "id": "946407562517336064",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:48:27.000Z",
+            "id": "946407504212316160",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:47:54.000Z",
+            "id": "946407367259951105",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:47:46.000Z",
+            "id": "946407332778594304",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:47:41.000Z",
+            "id": "946407312272568321",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:47:01.000Z",
+            "id": "946407146077421568",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:46:40.000Z",
+            "id": "946407057414131712",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:46:35.000Z",
+            "id": "946407038342582272",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:46:12.000Z",
+            "id": "946406941739405312",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:46:02.000Z",
+            "id": "946406898223517696",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:45:49.000Z",
+            "id": "946406844418977797",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:45:24.000Z",
+            "id": "946406739297165312",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:45:18.000Z",
+            "id": "946406713011433477",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:44:45.000Z",
+            "id": "946406574330974208",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:44:43.000Z",
+            "id": "946406567322312704",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:44:35.000Z",
+            "id": "946406534774390784",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:44:28.000Z",
+            "id": "946406502964908032",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:43:52.000Z",
+            "id": "946406354037755904",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:43:49.000Z",
+            "id": "946406339940700161",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:43:43.000Z",
+            "id": "946406312803491840",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:43:26.000Z",
+            "id": "946406242515333121",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:43:14.000Z",
+            "id": "946406194033451014",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:42:38.000Z",
+            "id": "946406043592155142",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:38:31.000Z",
+            "id": "946405005023694848",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:37:38.000Z",
+            "id": "946404783061192710",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:37:24.000Z",
+            "id": "946404726572240902",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:36:02.000Z",
+            "id": "946404379388768256",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:32:45.000Z",
+            "id": "946403556780838912",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:29:11.000Z",
+            "id": "946402658641948672",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:28:09.000Z",
+            "id": "946402396057620485",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:27:53.000Z",
+            "id": "946402330630606849",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:25:01.000Z",
+            "id": "946401606802837504",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:23:56.000Z",
+            "id": "946401335183839232",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:22:04.000Z",
+            "id": "946400865040130049",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:19:34.000Z",
+            "id": "946400239128338434",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:19:19.000Z",
+            "id": "946400174204702720",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:17:30.000Z",
+            "id": "946399718460067840",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:16:08.000Z",
+            "id": "946399374506102784",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:15:36.000Z",
+            "id": "946399240128991232",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:15:28.000Z",
+            "id": "946399203642740742",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:14:39.000Z",
+            "id": "946398998239371266",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:13:37.000Z",
+            "id": "946398739912101888",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:09:59.000Z",
+            "id": "946397825050570754",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:09:02.000Z",
+            "id": "946397585585131521",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:08:16.000Z",
+            "id": "946397394777858049",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:07:41.000Z",
+            "id": "946397245888397313",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:06:21.000Z",
+            "id": "946396912969756672",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:06:12.000Z",
+            "id": "946396875539800064",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:04:33.000Z",
+            "id": "946396456533090305",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:03:34.000Z",
+            "id": "946396212546166785",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:03:21.000Z",
+            "id": "946396156933890048",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:03:11.000Z",
+            "id": "946396114609156097",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:02:57.000Z",
+            "id": "946396055788249088",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:02:40.000Z",
+            "id": "946395982878597125",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:02:08.000Z",
+            "id": "946395850913337345",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:01:44.000Z",
+            "id": "946395749570502657",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:01:17.000Z",
+            "id": "946395638148812800",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:00:16.000Z",
+            "id": "946395381490995200",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T15:00:02.000Z",
+            "id": "946395320736415745",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:59:51.000Z",
+            "id": "946395277174460416",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:59:50.000Z",
+            "id": "946395271189225472",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:58:59.000Z",
+            "id": "946395058642747392",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:58:55.000Z",
+            "id": "946395042058461184",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:57:58.000Z",
+            "id": "946394801569779712",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:57:39.000Z",
+            "id": "946394722456784896",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:57:23.000Z",
+            "id": "946394652973944834",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:56:48.000Z",
+            "id": "946394506659811328",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:56:12.000Z",
+            "id": "946394356403105792",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:55:48.000Z",
+            "id": "946394255420985344",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:55:43.000Z",
+            "id": "946394234319441921",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:55:41.000Z",
+            "id": "946394228921454593",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:55:37.000Z",
+            "id": "946394209803800576",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:55:33.000Z",
+            "id": "946394192351244288",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:55:02.000Z",
+            "id": "946394063149895680",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:55:00.000Z",
+            "id": "946394054530686976",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:54:53.000Z",
+            "id": "946394026844020739",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:54:32.000Z",
+            "id": "946393936335077376",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:54:08.000Z",
+            "id": "946393836393246721",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:52:22.000Z",
+            "id": "946393393160228864",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:52:16.000Z",
+            "id": "946393365783941120",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:51:46.000Z",
+            "id": "946393240609181697",
+            "text": "Miguel Mirabal T. @MirabalVALC\nRequiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 mil gracias\n27m ago https://t.co/GH5f0fPWnM"
+        },
+        {
+            "created_at": "2017-12-28T14:51:19.000Z",
+            "id": "946393129342717954",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:50:22.000Z",
+            "id": "946392890909044737",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:50:00.000Z",
+            "id": "946392797623578626",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:49:53.000Z",
+            "id": "946392766636023813",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:49:50.000Z",
+            "id": "946392753746927617",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:49:48.000Z",
+            "id": "946392746260037632",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:49:32.000Z",
+            "id": "946392678228529152",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:49:22.000Z",
+            "id": "946392636964966400",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:49:02.000Z",
+            "id": "946392555079553026",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:47:53.000Z",
+            "id": "946392262371696640",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:47:45.000Z",
+            "id": "946392231409324032",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:47:21.000Z",
+            "id": "946392130544652289",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:47:15.000Z",
+            "id": "946392105039093760",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:46:57.000Z",
+            "id": "946392027603849217",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:46:33.000Z",
+            "id": "946391926713991168",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:46:05.000Z",
+            "id": "946391811689459712",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:46:00.000Z",
+            "id": "946391791170981889",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:45:46.000Z",
+            "id": "946391731053973504",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:45:44.000Z",
+            "id": "946391724154327040",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:45:35.000Z",
+            "id": "946391683322826752",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:45:34.000Z",
+            "id": "946391680516804608",
+            "text": "RT @ReporteYa: #28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg lla\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "947580559781490689",
+        "next_token": "1jzu9lk96gu5npw44kgho5xs4p7ibd5d2vi8hx57sinx",
+        "oldest_id": "946391680516804608",
+        "result_count": 471
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-12-28T14:45:13.000Z",
+            "id": "946391591882813440",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:45:09.000Z",
+            "id": "946391576607064064",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:45:05.000Z",
+            "id": "946391559813173248",
+            "text": "#28Dic #ServicioP\u00fablico Requiero urgentemente para mi madre esta medicina Lioresal o Baclofen  de 10mg y Akineton de 2mg llamar al +58 4244611239 mil gracias - @MirabalVALC"
+        },
+        {
+            "created_at": "2017-12-28T14:44:42.000Z",
+            "id": "946391461771333632",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:44:37.000Z",
+            "id": "946391440866861057",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:44:31.000Z",
+            "id": "946391415009042432",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:47.000Z",
+            "id": "946391233701859328",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:34.000Z",
+            "id": "946391178852921344",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:22.000Z",
+            "id": "946391127900545025",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:19.000Z",
+            "id": "946391112725553152",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:16.000Z",
+            "id": "946391100985626625",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:11.000Z",
+            "id": "946391082639781888",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:09.000Z",
+            "id": "946391072296656896",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:43:07.000Z",
+            "id": "946391066428755968",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:41:53.000Z",
+            "id": "946390754892701697",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:41:37.000Z",
+            "id": "946390685745328128",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:41:27.000Z",
+            "id": "946390646650261504",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:41:23.000Z",
+            "id": "946390627608010752",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:41:14.000Z",
+            "id": "946390591457329152",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:45.000Z",
+            "id": "946390466773348352",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:36.000Z",
+            "id": "946390431243390976",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:35.000Z",
+            "id": "946390427179061248",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:28.000Z",
+            "id": "946390399429562369",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:22.000Z",
+            "id": "946390370795081728",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:21.000Z",
+            "id": "946390367636684800",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:21.000Z",
+            "id": "946390366672052226",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:13.000Z",
+            "id": "946390334371745797",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:40:08.000Z",
+            "id": "946390314125754369",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:39:55.000Z",
+            "id": "946390261122453504",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:39:48.000Z",
+            "id": "946390230730452993",
+            "text": "RT @ReporteYa: #28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:39:37.000Z",
+            "id": "946390182265311232",
+            "text": "#28Dic Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 mil gracias -@MirabalVALC"
+        },
+        {
+            "created_at": "2017-12-28T14:38:46.000Z",
+            "id": "946389971379867648",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:38:42.000Z",
+            "id": "946389954325811201",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:38:23.000Z",
+            "id": "946389873925160960",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:37:30.000Z",
+            "id": "946389652700909568",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:35:55.000Z",
+            "id": "946389253331791872",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:35:18.000Z",
+            "id": "946389096833978368",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:35:07.000Z",
+            "id": "946389050671423488",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:34:05.000Z",
+            "id": "946388789957726208",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:34:00.000Z",
+            "id": "946388770705768448",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:33:01.000Z",
+            "id": "946388521375485952",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:32:14.000Z",
+            "id": "946388326076108800",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:31:34.000Z",
+            "id": "946388159155392513",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:31:25.000Z",
+            "id": "946388120039251975",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:30:06.000Z",
+            "id": "946387790132142088",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:29:45.000Z",
+            "id": "946387699631521792",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:29:35.000Z",
+            "id": "946387659487875072",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:29:24.000Z",
+            "id": "946387613447008256",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:28:32.000Z",
+            "id": "946387394433044480",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:28:11.000Z",
+            "id": "946387305329242112",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:27:19.000Z",
+            "id": "946387089435873280",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:27:13.000Z",
+            "id": "946387064731336705",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:27:00.000Z",
+            "id": "946387008573857798",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:26:53.000Z",
+            "id": "946386980128124928",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:26:44.000Z",
+            "id": "946386940647133184",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:26:22.000Z",
+            "id": "946386849521655808",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:26:20.000Z",
+            "id": "946386842093522945",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:26:08.000Z",
+            "id": "946386789790609408",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:25:02.000Z",
+            "id": "946386512257716224",
+            "text": "RT @MirabalVALC: Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 m\u2026"
+        },
+        {
+            "created_at": "2017-12-28T14:20:00.000Z",
+            "id": "946385246139944960",
+            "text": "Requiero urgentemente para mi madre esta medicina LIORESAL O BACLOFEN de 10mg y AKINETON de 2mg llamar al +58 4244611239 mil gracias"
+        },
+        {
+            "created_at": "2017-12-26T22:53:41.000Z",
+            "id": "945789742624452609",
+            "text": "@GrupoFarmarket Buscar lioresal"
+        },
+        {
+            "created_at": "2017-12-20T10:09:28.000Z",
+            "id": "943423093090979840",
+            "text": "Solicitud de Cotizacion MEDICAMENTOS Descarga informaci\u00f3n aqu\u00ed: https://t.co/NTUKZWHGHp\nFecha hasta: 21/12/2017. Articulos: LIORESAL.\nContacto: https://t.co/9SCLv9vYZs https://t.co/NTUKZWHGHp"
+        },
+        {
+            "created_at": "2017-12-19T04:20:01.000Z",
+            "id": "942972767355449344",
+            "text": "Brand: Lioresal\nGeneric: Baclofen\nClass: Muscle Relaxant, Antispastic"
+        },
+        {
+            "created_at": "2017-12-17T10:31:43.000Z",
+            "id": "942341530920071169",
+            "text": "Generic Lioresal|i want to buy |pay with mastercard,visa,ach,echeck https://t.co/BUZ2C3BP13"
+        },
+        {
+            "created_at": "2017-12-13T10:16:22.000Z",
+            "id": "940888114704343041",
+            "text": "Solicitud de Cotizacion MEDICAMENTOS Descarga informaci\u00f3n aqu\u00ed: https://t.co/BrTg0UxUVS\nFecha hasta: 14/12/2017. Articulos: LIORESAL.\nContacto: https://t.co/9SCLv9vYZs https://t.co/BrTg0UxUVS"
+        },
+        {
+            "created_at": "2017-12-13T00:16:44.000Z",
+            "id": "940737215335890944",
+            "text": "Garantie de remboursement - Acheter Lioresal En Ligne En Belgique - Livraison dans le monde (1-3 Jours) - https://t.co/rhgmS6opVC Lioresa... https://t.co/5QApuoV3l2"
+        },
+        {
+            "created_at": "2017-12-10T23:35:07.000Z",
+            "id": "940001965131616256",
+            "text": "Nuevo Art\u00edculo AS3: Lioresal 25Mg Pas Cher Livraison Gratuite \u2013 Pharmacie En Ligne Sans\u2026 https://t.co/qJOB7L42gx"
+        },
+        {
+            "created_at": "2017-12-10T22:49:36.000Z",
+            "id": "939990509577261056",
+            "text": "Prix Lioresal 10Mg Pharmacie Paris \u2013 Pharmacie En Ligne Sans Ordonnance https://t.co/Db5H8nR0N9 https://t.co/BLE6RcBGsV"
+        },
+        {
+            "created_at": "2017-12-10T03:28:10.000Z",
+            "id": "939698225489031169",
+            "text": "@RMarcoTorres Sr Gob.URGENTE ayude a esta Sra. *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofeno...urgente!!!..."
+        },
+        {
+            "created_at": "2017-12-10T01:39:44.000Z",
+            "id": "939670936382472193",
+            "text": "*Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  solicito Urgente  lioresal o baclofeno.URGENTISIMO ..en la presentaci\u00f3n q sea salvar la vida  Aleiber d 5 a\u00f1os recluida en el HCM d Aragua 04144603470"
+        },
+        {
+            "created_at": "2017-12-10T01:30:01.000Z",
+            "id": "939668490797092864",
+            "text": "New post: 25 mg Lioresal Quanto costa Generico \u2013 Consegna in tutto il mondo veloce \u2013 Best Place To Order Generics https://t.co/an6T4euuWc"
+        },
+        {
+            "created_at": "2017-12-10T00:33:10.000Z",
+            "id": "939654185003438080",
+            "text": "RT @BuscandoMedicin: Via @MARACAYACTIVA via LucinaMolina5: trafficARAGUA Funda_medicinas Farmatodo SOSmedicina  me urge lioresal o baclofen\u2026"
+        },
+        {
+            "created_at": "2017-12-09T21:30:27.000Z",
+            "id": "939608202106327043",
+            "text": "Via @LucinaMolina5 trafficARAGUA Funda_medicinas Farmatodo SOSmedicina MARACAYACTIVA  me urge lioresal o baclofeno #buscandoMedicinas"
+        },
+        {
+            "created_at": "2017-12-09T21:30:25.000Z",
+            "id": "939608193810001920",
+            "text": "Via @MARACAYACTIVA via LucinaMolina5: trafficARAGUA Funda_medicinas Farmatodo SOSmedicina  me urge lioresal o baclofeno #Maracay #BuscandoMedicinas"
+        },
+        {
+            "created_at": "2017-12-09T20:33:30.000Z",
+            "id": "939593871402598400",
+            "text": "@trafficARAGUA @Funda_medicinas @Farmatodo @SOSmedicina @MARACAYACTIVA @BuscandoMedicin  me urge lioresal o baclofeno"
+        },
+        {
+            "created_at": "2017-12-09T16:48:41.000Z",
+            "id": "939537293324496897",
+            "text": "MARACAYUrgente  lioresal o baclofeno cualquierpresentaci\u00f3n bacteria del t\u00e9tanos mi hija5  a\u00f1os graveHCM.04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-12-09T13:42:26.000Z",
+            "id": "939490423386583040",
+            "text": "Urgente  lioresal o baclofeno...urgente!!!..para salvar la vida ni\u00f1a Aleiber 5 a\u00f1os recluida en el HCM d Aragua...para su ayuda x favor x el 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-12-08T17:53:23.000Z",
+            "id": "939191188661383178",
+            "text": "Soy Asdrubal Gonzales Urgente  lioresal o baclofeno mi hija puede morir Aleiber d 5 a\u00f1os 04144603470 04169467608 04124452846"
+        },
+        {
+            "created_at": "2017-12-08T17:19:10.000Z",
+            "id": "939182578799710208",
+            "text": "RT @aleidabaez: No se hagan eco de la CADENA FALSA DE LA NI\u00d1A QUE NECESITA LIORESAL Y ESTA EN MARACAY. https://t.co/d6ZwTwPpf6"
+        },
+        {
+            "created_at": "2017-12-08T15:19:43.000Z",
+            "id": "939152518562697216",
+            "text": "No se hagan eco de la CADENA FALSA DE LA NI\u00d1A QUE NECESITA LIORESAL Y ESTA EN MARACAY. https://t.co/d6ZwTwPpf6"
+        },
+        {
+            "created_at": "2017-12-08T14:45:42.000Z",
+            "id": "939143956830580736",
+            "text": "@Locatelcol buen dia disponen de lioresal vivo en valencia-vzla y como es el proceso para comprar"
+        },
+        {
+            "created_at": "2017-12-07T23:51:32.000Z",
+            "id": "938918933788229633",
+            "text": "@fundabercdv #SeSolicia #URGENTE Ampollas  #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc @danielaberletr @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-12-07T00:25:25.000Z",
+            "id": "938565071705436160",
+            "text": "Lioresal o Baclofeno, medicamento contra el t\u00e9tano, es solicitado con verdadera urgencia desde Maracay por Asdr\u00fabal Gonz\u00e1lez para su hija de 5 a\u00f1os / 04144603470 - 04169467608 - 04124452846"
+        },
+        {
+            "created_at": "2017-12-06T22:30:57.000Z",
+            "id": "938536264285945856",
+            "text": "Urgente quien tenga LIORESAL O BACLOFENO para venta o donaci\u00f3n o venta es una ni\u00f1a, llamar 04144603470, 04169467608,04124452846 ella tiene la bacteria del t\u00e9tanos Dios le pague"
+        },
+        {
+            "created_at": "2017-12-05T18:17:19.000Z",
+            "id": "938110046684278784",
+            "text": "@Petroline_ Lioresal est un medicament \"anti parkinson\" \u00e7a soulage. C'est Dr Brissot qui m'avait donn\u00e9e \u00e7a."
+        },
+        {
+            "created_at": "2017-12-05T18:15:19.000Z",
+            "id": "938109546765090817",
+            "text": "@ChichouMandine Miels bio j'en ai tout un tas ^^\n\nLioresal? J'suis sous modopar, baclof\u00e8ne, zaditen, magn\u00e9sium, vitamine C et fer et injections. Mais comme mes muscles me l\u00e2chent les dystonies compensent m'a dit la Pr..."
+        },
+        {
+            "created_at": "2017-12-05T18:12:43.000Z",
+            "id": "938108890461458432",
+            "text": "@Petroline_ Tu utilises du bon miel? Ou du miel de grande surface?\nM\u00eame le lioresal ne te fait pas de bien?"
+        }
+    ],
+    "meta": {
+        "newest_id": "946391591882813440",
+        "oldest_id": "938108890461458432",
+        "result_count": 87
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

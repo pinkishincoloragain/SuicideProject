@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-03-05T15:02:36.000Z",
+            "id": "1235581485194846214",
+            "text": "@Ms_MessyGi \u062d\u0627\u0636\u0631 \ud83d\udeb6\n\u0627\u062f\u064a\u0646\u064a \u0647\u0631\u0648\u062d \u0627\u0647\u0648 ... \u0648\u062e\u062f\u064a Gablofen \u0648\u0647\u062a\u0628\u0642\u064a \u0643\u0648\u064a\u0633\u0629 \u2066\u2665\ufe0f\u2069"
+        }
+    ],
+    "meta": {
+        "newest_id": "1235581485194846214",
+        "oldest_id": "1235581485194846214",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2020-03-24T16:00:33.000Z",
+            "id": "1242481438936580098",
+            "text": "@Dr_Banderology Lipitor \nLasix\nLipicure \nLyrica\nLoras\nLora \nLorine \nLipanthyl\nLidocaine\nLorinase \nLohist \nLevox \nLevon \nLevozal\nLioresal \nLamifen\nLiblab"
+        },
+        {
+            "created_at": "2020-03-23T23:59:30.000Z",
+            "id": "1242239582021857280",
+            "text": "@Dr_Banderology Lioresal \u267f\ufe0f"
+        },
+        {
+            "created_at": "2020-03-23T23:15:03.000Z",
+            "id": "1242228396622569473",
+            "text": "@Dr_Banderology Lipitor \nLasix\nLipicure \nLyrica\nLoras\nLora \nLorine \nLipanthyl\nLidocaine\nLorinase \nLohist \nLevox \nLevon \nLevozal\nLioresal \nLamifen\nLiblab"
+        },
+        {
+            "created_at": "2020-03-23T21:44:39.000Z",
+            "id": "1242205646067466240",
+            "text": "Acquisto Online Generico Di Lioresal  - Sicuro E GARANTITO DI - Farmacia Trapani - https://t.co/tJqHTgvzq4"
+        },
+        {
+            "created_at": "2020-03-22T17:48:02.000Z",
+            "id": "1241783712670416899",
+            "text": "Que se puede esperar de gente. Que a\u00fan comparte cadenas falsas. \nAnda circulando la cadena de asdrubal. Que busca lioresal."
+        },
+        {
+            "created_at": "2020-03-21T19:55:08.000Z",
+            "id": "1241453307555647489",
+            "text": "@TraderAT12 @Abdulla19095039  kronik spastik paraparazi hastas\u0131y\u0131m fizik tedaviye gidiyordum yasak bizleri kaps\u0131yor mu ? Gaptin ve lioresal kullan\u0131yorum , sayg\u0131lar\u0131mla."
+        },
+        {
+            "created_at": "2020-03-20T15:44:32.000Z",
+            "id": "1241027854298726400",
+            "text": "4-Lioresal =   \u0635\u0631\u0641 \u0644\u064a \u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u0627\u0644\u062f\u0648\u0627\u0621 \u0648\u0642\u0627\u0644\u064a \u0627\u062e\u0630 \u062d\u0628\u0647 \u0642\u0628\u0644 \u0627\u0644\u0646\u0648\u0645 \u0648\u0628\u062f\u064a\u062a \u0627\u062e\u0630\u0647 \u0648\u0645\u0646 \u0627\u0648\u0644 \u064a\u0648\u0645 \u0644\u0627\u062d\u0638\u062a \u062f\u0648\u062e\u0629 \u0634\u062f\u064a\u062f\u0629 \u0644\u0645\u0627 \u0627\u0635\u062d\u0649 \u0645\u0646 \u0627\u0644\u0646\u0648\u0645 \u0641\u064a \u0627\u0644\u0628\u062f\u0627\u064a\u0647 \u0645\u0627\u0631\u0628\u0637\u062a \u0627\u0644\u0645\u0648\u0636\u0648\u0639 \u0628\u0627\u0644\u062f\u0648\u0627\u0621 \u0644\u0643\u0646 \u0645\u0639 \u0627\u0644\u062a\u0643\u0631\u0627\u0631 \u0644\u0627\u062d\u0638\u062a \u0627\u0646 \u0627\u0644\u0634\u064a\u0621 \u0627\u0644\u0648\u062d\u064a\u062f \u0627\u0644\u064a \u0645\u0645\u0643\u0646 \u064a\u0643\u0648\u0646 \u0633\u0628\u0628 \u0627\u0644\u062f\u0648\u062e\u0629 \u0647\u0630\u064a \u0647\u0648 \u0627\u0646\u064a \u0627\u062e\u0630 \u0627\u0644\u062f\u0648\u0627\u0621"
+        },
+        {
+            "created_at": "2020-03-20T11:10:20.000Z",
+            "id": "1240958851660333056",
+            "text": "Ayer saturaron los grupos de ws. Con la famosa cadenita. Del lioresal.\n\nHasta cu\u00e1ndo?. Eso circula desde el a\u00f1o 2014"
+        },
+        {
+            "created_at": "2020-03-20T06:01:42.000Z",
+            "id": "1240881181417263110",
+            "text": "RT @zabalazaj: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,\u2026"
+        },
+        {
+            "created_at": "2020-03-19T21:13:05.000Z",
+            "id": "1240748149624504328",
+            "text": "RT @zabalazaj: *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,\u2026"
+        },
+        {
+            "created_at": "2020-03-19T21:12:05.000Z",
+            "id": "1240747898708639751",
+            "text": "*Lo acaban de informar en el noticiero Venevision . Difundan por favor. Emergencia: (MARACAY) Amigos soy Asdrubal Gonzales,  desesperadamente les solicito x lo q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofeno...urgente!!!...en la presentaci\u00f3n q sea d los mi"
+        },
+        {
+            "created_at": "2020-03-19T19:14:03.000Z",
+            "id": "1240718193251028994",
+            "text": "RT @sandrabar7: .@noticierovv?PODRIAN UDS DECIR SI ES CIERTO ESTO Q RUEDA X REDES:  *Lo acaban de informar en el noticiero Venevision . Dif\u2026"
+        },
+        {
+            "created_at": "2020-03-19T19:10:16.000Z",
+            "id": "1240717241588625409",
+            "text": ".@noticierovv?PODRIAN UDS DECIR SI ES CIERTO ESTO Q RUEDA X REDES:  *Lo acaban de informar en el noticiero Venevision . Difundan por favor. Amigos soy Asdrubal Gonzales, les solicito x lo q mas quieran si saben d alguien q tenga Urgente  lioresal o baclofeno"
+        },
+        {
+            "created_at": "2020-03-15T09:38:05.000Z",
+            "id": "1239123694439538688",
+            "text": "@tabarefernandez @alferdez @CFKArgentina @H_Roggero @tanoproductor @gabrielsoglio @CharlyMdP79 @CalientaSol @jp_roldan @LaurentPilar @cordobesokk @mumimumi09 Relato = Mentira.  En Pami hace dos a\u00f1os. Desde el primer d\u00eda 5 remedios gratis\nLosartan, rosuvastatina, levodopa, lioresal, estocalm\nEsto es veraz, la an\u00e9cdota es \n\nINCOMPROBABLE...."
+        },
+        {
+            "created_at": "2020-03-13T12:49:08.000Z",
+            "id": "1238446997247528960",
+            "text": "@FundacionBADAN Buen d\u00eda. Disponibilidad de LIORESAL y TOXINA BOTUL\u00cdNICA ?"
+        },
+        {
+            "created_at": "2020-03-11T13:22:39.000Z",
+            "id": "1237730659759796224",
+            "text": "@FundacionBADAN Buen d\u00eda. Por favor me puede informar si tienen disponible Lioresal de 25 mg?"
+        },
+        {
+            "created_at": "2020-03-06T03:54:21.000Z",
+            "id": "1235775700973555720",
+            "text": "@fundafarmacia con Urgencia necesito LIORESAL (BACLOFENO) para ni\u00f1o con PCI"
+        },
+        {
+            "created_at": "2020-03-06T03:52:53.000Z",
+            "id": "1235775331174359040",
+            "text": "@DonaMed_VE con Urgencia necesito LIORESAL (BACLOFENO) para ni\u00f1o con PCI"
+        },
+        {
+            "created_at": "2020-03-06T03:51:10.000Z",
+            "id": "1235774900612276224",
+            "text": "@funbanmed @FundacionBADAN @fundacolibrive @FLaPastillita  con URGENCIA necesito LIORESAL (BACLOFENO) para ni\u00f1o con PCI"
+        }
+    ],
+    "meta": {
+        "newest_id": "1242481438936580098",
+        "oldest_id": "1235774900612276224",
+        "result_count": 19
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

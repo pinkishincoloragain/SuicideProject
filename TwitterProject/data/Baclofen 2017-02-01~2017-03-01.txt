@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-02-26T10:25:25.000Z",
+            "id": "835797911543873537",
+            "text": "#RiuHotelsAndResorts Visa, Mc, Amex \u00e4r tillg\u00e4nglig - Ink\u00f6p 10 mg Lioresal Generisk - sp\u00e5rba... Read Blog: https://t.co/UgfxpQT6nm"
+        },
+        {
+            "created_at": "2017-02-26T10:16:03.000Z",
+            "id": "835795555288657920",
+            "text": "#RiuHotelsAndResorts Visa, Mc, Amex \u00e4r tillg\u00e4nglig - Ink\u00f6p 10 mg Lioresal Generisk - sp\u00e5rba... Read Blog: https://t.co/pnm0vuVOuq"
+        },
+        {
+            "created_at": "2017-02-26T10:14:48.000Z",
+            "id": "835795241022062592",
+            "text": "#RiuHotelsAndResorts Visa, Mc, Amex \u00e4r tillg\u00e4nglig - Ink\u00f6p 10 mg Lioresal Generisk - sp\u00e5rba... Read Blog: https://t.co/gqDO9SaVcK"
+        },
+        {
+            "created_at": "2017-02-26T01:10:55.000Z",
+            "id": "835658368513638400",
+            "text": "Pas De M\u00e9dicaments Sur Ordonnance / Acheter Lioresal Suisse: Acheter Lioresal Suisse\u2026 https://t.co/gowGBJm4Ir"
+        },
+        {
+            "created_at": "2017-02-19T11:14:42.000Z",
+            "id": "833273600308293632",
+            "text": "Lioresal'e sayg\u0131 ku\u015fa\u011f\u0131m\u0131zda bug\u00fcn..."
+        },
+        {
+            "created_at": "2017-02-18T06:41:11.000Z",
+            "id": "832842380634107904",
+            "text": "https://t.co/23o9xibQNF\u2026 https://t.co/ALEStieKVs"
+        },
+        {
+            "created_at": "2017-02-17T15:18:04.000Z",
+            "id": "832610069921591296",
+            "text": "@FundacionBADAN buenos dias solicito lioresal estoy en valencia me informan por favor donde hay disponible!!"
+        },
+        {
+            "created_at": "2017-02-14T20:26:33.000Z",
+            "id": "831600538173239298",
+            "text": "Lioresal (Baclofen) 10mg https://t.co/Jwj78HVNsP"
+        },
+        {
+            "created_at": "2017-02-14T10:46:10.000Z",
+            "id": "831454481950920704",
+            "text": "https://t.co/BHGf5lowxd...: - licensed pharmacy Lioresal\u2026 https://t.co/TKqaPQnKvq"
+        },
+        {
+            "created_at": "2017-02-13T13:50:43.000Z",
+            "id": "831138534815842306",
+            "text": "https://t.co/YnsejGvaOW...: - lioresal prescriptions online\u2026 https://t.co/jAYVq0hsKP"
+        },
+        {
+            "created_at": "2017-02-13T04:45:19.000Z",
+            "id": "831001282311835648",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-02-13T04:39:42.000Z",
+            "id": "830999868730642432",
+            "text": "RT @rdguerrero2: Amigos requiero Urgente para familiar muy cercano el medicamento Baclofeno (Lioresal de 10 o 12,5 mg). Favor llamar al 042\u2026"
+        },
+        {
+            "created_at": "2017-02-10T15:15:18.000Z",
+            "id": "830072657630597122",
+            "text": "@rs26260101 HOLA TENGO DISPONIBLE 02 CAJAS DE LIORESAL DE 10MG SI ESTAS INTERESADO ESCRIBE AL 04243795940"
+        },
+        {
+            "created_at": "2017-02-09T13:11:17.000Z",
+            "id": "829679059521126400",
+            "text": "Buy cheapest [b]Lioresal...: in UK/GB, [/b] shipped with no prescription ; order cheap\u2026 https://t.co/AjXjsrqjG5"
+        },
+        {
+            "created_at": "2017-02-08T16:24:14.000Z",
+            "id": "829365229331107840",
+            "text": "@corazonymanos01 buenas tardes busco baclofen o lioresal y pregabalina me podrian ayudar si las tienen?"
+        },
+        {
+            "created_at": "2017-02-07T12:33:18.000Z",
+            "id": "828944727420448769",
+            "text": "RT @MayWardfeels: lioresal\n\n#PBBPADALUCKMAYWARD"
+        },
+        {
+            "created_at": "2017-02-07T11:47:36.000Z",
+            "id": "828933226492104705",
+            "text": "RT @MayWardfeels: lioresal\n\n#PBBPADALUCKMAYWARD"
+        },
+        {
+            "created_at": "2017-02-07T11:47:20.000Z",
+            "id": "828933158703738881",
+            "text": "RT @MayWardfeels: lioresal\n\n#PBBPADALUCKMAYWARD"
+        },
+        {
+            "created_at": "2017-02-07T11:46:36.000Z",
+            "id": "828932975211393024",
+            "text": "RT @MayWardfeels: lioresal\n\n#PBBPADALUCKMAYWARD"
+        },
+        {
+            "created_at": "2017-02-07T11:46:07.000Z",
+            "id": "828932852448235520",
+            "text": "lioresal\n\n#PBBPADALUCKMAYWARD"
+        },
+        {
+            "created_at": "2017-02-02T16:08:17.000Z",
+            "id": "827186890591789056",
+            "text": "How long have you lived here? &lt;a href=\" https://t.co/bJdVDKeyw8... https://t.co/J5FWj4EVjJ"
+        },
+        {
+            "created_at": "2017-02-02T14:08:13.000Z",
+            "id": "827156674083328002",
+            "text": "Could I borrow your phone, please? &lt;a href=\" https://t.co/HJbede9g2j \"&gt;cheap lioresa... https://t.co/kTF7Hl9OdF"
+        },
+        {
+            "created_at": "2017-02-02T13:38:08.000Z",
+            "id": "827149104962691073",
+            "text": "Jam9\u3010\u30b8\u30e3\u30e0\u30ca\u30a4\u30f3\u3011\uff1aOn another call &amp;lt;a href=&amp;quot; https://t.co/RV1gTgC7Bp &amp;quot;&amp;gt;lioresal tablets&amp;lt;/a...https://t.co/bOd0nBziJi"
+        },
+        {
+            "created_at": "2017-02-02T13:35:22.000Z",
+            "id": "827148407567376384",
+            "text": "Jam9\u3010\u30b8\u30e3\u30e0\u30ca\u30a4\u30f3\u3011\uff1aI&amp;#039;m not sure &amp;lt;a href=&amp;quot; https://t.co/mAApkUYUL0 &amp;quot;&amp;gt;buy lioresal\r&amp;lt;/a&amp;gt;  DAVO...https://t.co/bOd0nBziJi"
+        }
+    ],
+    "meta": {
+        "newest_id": "835797911543873537",
+        "oldest_id": "827148407567376384",
+        "result_count": 24
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

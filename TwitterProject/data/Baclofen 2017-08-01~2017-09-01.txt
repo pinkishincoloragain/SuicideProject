@@ -1,0 +1,623 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-08-29T08:45:38.000Z",
+            "id": "902452167574827008",
+            "text": "RT @PiramalGroup: Substantially completed the transition &amp; integration of Gablofen (acquired from Mallinckrodt in the US). #PELQ1FY18 https\u2026"
+        },
+        {
+            "created_at": "2017-08-02T10:22:49.000Z",
+            "id": "892692155415748608",
+            "text": "Substantially completed the transition &amp; integration of Gablofen (acquired from Mallinckrodt in the US). #PELQ1FY18 https://t.co/DdOenuPfJv"
+        }
+    ],
+    "meta": {
+        "newest_id": "902452167574827008",
+        "oldest_id": "892692155415748608",
+        "result_count": 2
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "created_at": "2017-08-31T16:20:46.000Z",
+            "id": "903291483419283457",
+            "text": "Hey, es gibt Neuigkeiten bei WIE-ICH: Lioresal | Purchase Medication https://t.co/lLcOAVzarz #wieich"
+        },
+        {
+            "created_at": "2017-08-30T02:20:54.000Z",
+            "id": "902717735838384129",
+            "text": "Hey, es gibt Neuigkeiten bei WIE-ICH: Lioresal | Buy Baclofen Canada https://t.co/JE5R5OnsoN #wieich"
+        },
+        {
+            "created_at": "2017-08-30T01:50:12.000Z",
+            "id": "902710010756653057",
+            "text": "New post: Achat Lioresal 10 mg Internet Meilleurs prix https://t.co/5mNDP5ANFT"
+        },
+        {
+            "created_at": "2017-08-30T00:09:17.000Z",
+            "id": "902684614787047424",
+            "text": "Gracias Romina nos dona una caja Lioresal  del medicamento para Danisa .vamos que podemos Gracias Dios por... https://t.co/voZG15cCsb"
+        },
+        {
+            "created_at": "2017-08-29T16:45:31.000Z",
+            "id": "902572933956042752",
+            "text": "#TransformationalSchoolOfBusiness Best Deal On Lioresal 25 mg generic. 24/7 Drugstore. Secu... Read Blog: https://t.co/B6t5VzOFDH"
+        },
+        {
+            "created_at": "2017-08-28T14:06:22.000Z",
+            "id": "902170496480845824",
+            "text": "Lioresal | Buy Online https://t.co/ACYlpY0WBN"
+        },
+        {
+            "created_at": "2017-08-27T23:49:53.000Z",
+            "id": "901954957028368384",
+            "text": "#KieselsteinLawFirm Free Doctor Consultations. Looking 25 mg Lioresal compare prices. 24/7 ... Read Blog: https://t.co/LWcJIt1ODj"
+        },
+        {
+            "created_at": "2017-08-27T16:35:52.000Z",
+            "id": "901845730914160641",
+            "text": "@trafficVALENCIA @mariamlopezv buco LIORESAL para la espasticidad! D 10 o 25mg si alguien tiene o donde conseguirlo. Gracias"
+        },
+        {
+            "created_at": "2017-08-27T14:19:12.000Z",
+            "id": "901811337692672000",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-27T05:14:09.000Z",
+            "id": "901674171423481857",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T23:54:35.000Z",
+            "id": "901593749880438784",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T23:36:15.000Z",
+            "id": "901589137869991936",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T23:30:56.000Z",
+            "id": "901587796976132096",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T20:25:14.000Z",
+            "id": "901541064665960449",
+            "text": "@trafficVALENCIA buenas tarde tengo para paciente de quimio microgotero,ondasentron, capetan,capacitabina,lioresal,ondasen04144272125"
+        },
+        {
+            "created_at": "2017-08-26T19:40:27.000Z",
+            "id": "901529795128950785",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T15:37:24.000Z",
+            "id": "901468628561924100",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T15:07:41.000Z",
+            "id": "901461152504438784",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T14:59:35.000Z",
+            "id": "901459112017494016",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T14:57:12.000Z",
+            "id": "901458512299130881",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T14:49:24.000Z",
+            "id": "901456551248093185",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-26T14:48:19.000Z",
+            "id": "901456278735728640",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-25T20:58:50.000Z",
+            "id": "901187133783912448",
+            "text": "Hey, es gibt Neuigkeiten bei WIE-ICH: Lioresal | Order Prospect https://t.co/sbuuQvrRaH #wieich"
+        },
+        {
+            "created_at": "2017-08-25T15:46:39.000Z",
+            "id": "901108568866344960",
+            "text": "@FundacionBADAN tienen disponible lioresal de 10 o 25mg vivo en valencia"
+        },
+        {
+            "created_at": "2017-08-25T15:40:41.000Z",
+            "id": "901107068312092672",
+            "text": "@fundatiacruz busco lioresal d 10 mg o 25mg y asaprol o coraspirina!! Vivo en valencia ayudenme por favor"
+        },
+        {
+            "created_at": "2017-08-25T15:37:08.000Z",
+            "id": "901106174518587392",
+            "text": "Buenos dias tienen disponible lioresal vivo en valencia!!"
+        },
+        {
+            "created_at": "2017-08-23T01:02:20.000Z",
+            "id": "900161248377147392",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-22T20:30:23.000Z",
+            "id": "900092811936096256",
+            "text": "DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt;... https://t.co/WQtwvUfp3b"
+        },
+        {
+            "created_at": "2017-08-22T20:30:17.000Z",
+            "id": "900092784673214464",
+            "text": "DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/K5SSqRb9EG."
+        },
+        {
+            "created_at": "2017-08-22T19:55:29.000Z",
+            "id": "900084028832927744",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-22T19:04:07.000Z",
+            "id": "900071101862211586",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-22T19:02:04.000Z",
+            "id": "900070585522417665",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-22T19:00:02.000Z",
+            "id": "900070072206733312",
+            "text": "LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-21T19:20:34.000Z",
+            "id": "899712853908877313",
+            "text": "@trafficVALENCIA @trafficTACHIRA Necesito Lioresal para paciente renal por favor si alguien sabe d\u00f3nde hay. Gracias"
+        },
+        {
+            "created_at": "2017-08-21T08:25:07.000Z",
+            "id": "899547902510551040",
+            "text": "Lioresal (baclofen) is used for treating muscle spasms caused by multiple sclerosis or other dise - https://t.co/rw1okejO9t #GoogleAlerts"
+        },
+        {
+            "created_at": "2017-08-21T08:24:46.000Z",
+            "id": "899547813733949440",
+            "text": "Lioresal (baclofen) is used for treating muscle spasms caused by multiple sclerosis or other dise - https://t.co/PY5YB2x7Fi #GoogleAlerts"
+        },
+        {
+            "created_at": "2017-08-19T04:16:25.000Z",
+            "id": "898760540608012288",
+            "text": "Lioresal (baclofen) is used for treating muscle spasms caused by multiple sclerosis or other dise - https://t.co/bRUGqM0R6u #GoogleAlerts"
+        },
+        {
+            "created_at": "2017-08-17T22:16:59.000Z",
+            "id": "898307697296232454",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-16T16:54:52.000Z",
+            "id": "897864246880612353",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-16T16:19:52.000Z",
+            "id": "897855436543729664",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-16T12:10:02.000Z",
+            "id": "897792566946607104",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-16T11:40:17.000Z",
+            "id": "897785079640076288",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-16T11:27:57.000Z",
+            "id": "897781976379396096",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-16T11:00:06.000Z",
+            "id": "897774968062304257",
+            "text": "LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-16T03:13:41.000Z",
+            "id": "897657588321579011",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T22:14:39.000Z",
+            "id": "897582336069566465",
+            "text": "RT @jucasato78: Se requiere URGENTE para paciente hospitalizado el medicamento: Lioresal (Baciofeno) tabletas de\u2026 https://t.co/L3xZ2AjFwz"
+        },
+        {
+            "created_at": "2017-08-15T22:01:09.000Z",
+            "id": "897578938247106563",
+            "text": "Se requiere URGENTE para paciente hospitalizado el medicamento: Lioresal (Baciofeno) tabletas de\u2026 https://t.co/L3xZ2AjFwz"
+        },
+        {
+            "created_at": "2017-08-15T20:29:40.000Z",
+            "id": "897555916765110273",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T20:27:34.000Z",
+            "id": "897555385908940800",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T20:14:58.000Z",
+            "id": "897552213362475008",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T20:11:34.000Z",
+            "id": "897551359045623808",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:59:55.000Z",
+            "id": "897548428833546241",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:55:11.000Z",
+            "id": "897547237873655808",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:54:50.000Z",
+            "id": "897547149851971584",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:51:35.000Z",
+            "id": "897546332616839168",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:51:21.000Z",
+            "id": "897546269979267072",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:51:00.000Z",
+            "id": "897546184344182786",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:50:56.000Z",
+            "id": "897546167927492608",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:50:09.000Z",
+            "id": "897545969293680640",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-505\u2026"
+        },
+        {
+            "created_at": "2017-08-15T19:49:44.000Z",
+            "id": "897545864234840064",
+            "text": "#DonaTusMedicamentos El rector de la @UCLAve necesita urgente Lioresal (Baciofeno) tabletas de 10mgs. Contacto: 0414-5054233"
+        },
+        {
+            "created_at": "2017-08-15T16:09:16.000Z",
+            "id": "897490382753320960",
+            "text": "@AniMartnez2 @GuanchoConquis No he probado sativex... He probado lioresal y lo dej\u00e9 porque con dosis muy bajas me agotaba much\u00edsimo y no me compensaba"
+        },
+        {
+            "created_at": "2017-08-15T15:53:43.000Z",
+            "id": "897486471661268992",
+            "text": "@incabot1 @AniMartnez2 @GuanchoConquis Yo prefer\u00ed dejar el lioresal porque me quitaba las energ\u00edas. Me ca\u00ed algunas veces sobre todo porque me fallan los tobillos y las rodillas"
+        },
+        {
+            "created_at": "2017-08-15T12:03:02.000Z",
+            "id": "897428418001874945",
+            "text": "#KieselsteinLawFirm Trusted Online Pharmacy - Buy Generic Lioresal Cheapest - Trackable Del... Read Blog: https://t.co/okH7vfrDcv"
+        },
+        {
+            "created_at": "2017-08-15T00:04:36.000Z",
+            "id": "897247616391684096",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-14T07:30:28.000Z",
+            "id": "896997434836078592",
+            "text": "Il miglior posto per l\u2019acquisto Lioresal Baclofen / Consegna espressa / Soddisfatti o rimborsati... #news #Milano https://t.co/WcX4llV4h4"
+        },
+        {
+            "created_at": "2017-08-13T17:52:23.000Z",
+            "id": "896791557885571072",
+            "text": "Hey, es gibt Neuigkeiten bei WIE-ICH: Lioresal | Buy Baclofen In Australia https://t.co/vtZnfrZOyQ #wieich"
+        },
+        {
+            "created_at": "2017-08-13T11:47:12.000Z",
+            "id": "896699655920033793",
+            "text": "#KieselsteinLawFirm Visa, MC, Amex \u00e8 disponibile - Basso costo Lioresal Baclofen In linea -... Read Blog: https://t.co/yOjN5i1fuQ"
+        },
+        {
+            "created_at": "2017-08-12T17:01:45.000Z",
+            "id": "896416428139585536",
+            "text": "#Thememonstor Achat Lioresal G\u00e9n\u00e9rique En Europe - Livraison dans le monde (1-3 Jours) - Me... Read Blog: https://t.co/R9LU0Di2UZ"
+        },
+        {
+            "created_at": "2017-08-12T17:00:28.000Z",
+            "id": "896416104951631872",
+            "text": "#Thememonstor Lioresal 25 mg Where To Buy - Approved Pharmacy. Read Blog: https://t.co/73nj1trCeP"
+        },
+        {
+            "created_at": "2017-08-12T11:59:17.000Z",
+            "id": "896340310371975173",
+            "text": "#KieselsteinLawFirm Trusted Online Pharmacy - Buy Generic Lioresal Cheapest - Trackable Del... Read Blog: https://t.co/etpCjtl9BA"
+        },
+        {
+            "created_at": "2017-08-10T21:29:44.000Z",
+            "id": "895759092974850048",
+            "text": "New post: Posologie Du Lioresal 10 mg :: Payer Par Mastercard :: Livraison gratuite dans le monde https://t.co/9nfQnvvXoO"
+        },
+        {
+            "created_at": "2017-08-10T15:30:14.000Z",
+            "id": "895668618565996544",
+            "text": "Botmedx:DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt;...... https://t.co/7e68FbKY2E"
+        },
+        {
+            "created_at": "2017-08-10T14:30:20.000Z",
+            "id": "895653544069562368",
+            "text": "Botmedx:DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt;... https://t.co/QT7avzazLH"
+        },
+        {
+            "created_at": "2017-08-10T09:30:23.000Z",
+            "id": "895578059696472064",
+            "text": "botmedx:DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/K5SSqRb9EG."
+        },
+        {
+            "created_at": "2017-08-10T06:44:53.000Z",
+            "id": "895536410991767552",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T06:30:18.000Z",
+            "id": "895532743521697792",
+            "text": "Botmedx:DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt;...... https://t.co/hKl34shkla"
+        },
+        {
+            "created_at": "2017-08-10T06:30:14.000Z",
+            "id": "895532722965426176",
+            "text": "Botmedx:DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt;... https://t.co/loTm30QUUr"
+        },
+        {
+            "created_at": "2017-08-10T04:30:25.000Z",
+            "id": "895502572559224832",
+            "text": "DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt;... https://t.co/wanWYFdUrJ"
+        },
+        {
+            "created_at": "2017-08-10T04:30:21.000Z",
+            "id": "895502554204971008",
+            "text": "DonaMed_VE:LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/K5SSqRb9EG."
+        },
+        {
+            "created_at": "2017-08-10T03:27:23.000Z",
+            "id": "895486707512086528",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T03:27:05.000Z",
+            "id": "895486634677997568",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:31:25.000Z",
+            "id": "895472625635520512",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:27:50.000Z",
+            "id": "895471723331682304",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:12:50.000Z",
+            "id": "895467947472429057",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:12:45.000Z",
+            "id": "895467926635065344",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:12:02.000Z",
+            "id": "895467746976313344",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:10:49.000Z",
+            "id": "895467440208920576",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:10:36.000Z",
+            "id": "895467386291142657",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:08:18.000Z",
+            "id": "895466808978792448",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:08:08.000Z",
+            "id": "895466764628373504",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:07:56.000Z",
+            "id": "895466715504676864",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:07:38.000Z",
+            "id": "895466638237106176",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:06:13.000Z",
+            "id": "895466284846006272",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:05:26.000Z",
+            "id": "895466084291289088",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:05:23.000Z",
+            "id": "895466073897783296",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:05:13.000Z",
+            "id": "895466030717337600",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T02:03:39.000Z",
+            "id": "895465636180230148",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:02:15.000Z",
+            "id": "895465283086729216",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T02:00:02.000Z",
+            "id": "895464725055627265",
+            "text": "LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4UXjw."
+        },
+        {
+            "created_at": "2017-08-10T01:58:13.000Z",
+            "id": "895464270028132352",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T01:57:07.000Z",
+            "id": "895463991719448581",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T01:55:36.000Z",
+            "id": "895463609618251776",
+            "text": "RT @DonaMed_VE: LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T01:54:54.000Z",
+            "id": "895463433809874944",
+            "text": "LIORESAL (baclofeno) Comprimidos 25Mg. en Miranda disponible para donaci\u00f3n en este link -&gt; https://t.co/gkyeG4DmrY."
+        },
+        {
+            "created_at": "2017-08-10T00:48:15.000Z",
+            "id": "895446663048773633",
+            "text": "RT @aleidabaez: sres la cadena de carboplatino. La de lioresal para la ni\u00f1a. Las ampollas de granocyte. HASTA CUANDO. MAS DE 2 A\u00d1OS EN LO M\u2026"
+        },
+        {
+            "created_at": "2017-08-10T00:16:48.000Z",
+            "id": "895438749395542016",
+            "text": "sres la cadena de carboplatino. La de lioresal para la ni\u00f1a. Las ampollas de granocyte. HASTA CUANDO. MAS DE 2 A\u00d1OS EN LO MISMO. https://t.co/hIVwaOXAGE"
+        },
+        {
+            "created_at": "2017-08-09T16:30:13.000Z",
+            "id": "895321328114294785",
+            "text": "RT @danielaberletr: #SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-09T16:18:00.000Z",
+            "id": "895318255161581568",
+            "text": "#SeSolicia #URGENTE Ampollas de #Blaclofen (#Lioresal) Intratecal 500mg/20cc , 10mg/20cc para mi persona @FundacionBADAN"
+        },
+        {
+            "created_at": "2017-08-05T03:28:00.000Z",
+            "id": "893674926368067585",
+            "text": "RT @jucasato78: #donatusmedicamentos Se requieren URGENTE los medicamentos: Amiodarona, Lioresal tabletas,\u2026 https://t.co/0AvmHKTJaV"
+        },
+        {
+            "created_at": "2017-08-05T03:14:32.000Z",
+            "id": "893671535306842113",
+            "text": "RT @jucasato78: #donatusmedicamentos Se requieren URGENTE los medicamentos: Amiodarona, Lioresal tabletas,\u2026 https://t.co/0AvmHKTJaV"
+        },
+        {
+            "created_at": "2017-08-05T03:09:08.000Z",
+            "id": "893670178671689732",
+            "text": "RT @jucasato78: #donatusmedicamentos Se requieren URGENTE los medicamentos: Amiodarona, Lioresal tabletas,\u2026 https://t.co/0AvmHKTJaV"
+        },
+        {
+            "created_at": "2017-08-05T03:07:41.000Z",
+            "id": "893669813880582145",
+            "text": "#donatusmedicamentos Se requieren URGENTE los medicamentos: Amiodarona, Lioresal tabletas,\u2026 https://t.co/0AvmHKTJaV"
+        },
+        {
+            "created_at": "2017-08-03T23:11:56.000Z",
+            "id": "893248094447554565",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos Paciente requiere Lioresal tabletas . Agradecen informaci\u00f3n al tlf 04145603622"
+        },
+        {
+            "created_at": "2017-08-03T21:56:50.000Z",
+            "id": "893229196604043264",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos Paciente requiere Lioresal tabletas . Agradecen informaci\u00f3n al tlf 04145603622"
+        },
+        {
+            "created_at": "2017-08-03T21:43:17.000Z",
+            "id": "893225788476141570",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos Paciente requiere Lioresal tabletas . Agradecen informaci\u00f3n al tlf 04145603622"
+        },
+        {
+            "created_at": "2017-08-03T21:41:26.000Z",
+            "id": "893225322711318528",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos Paciente requiere Lioresal tabletas . Agradecen informaci\u00f3n al tlf 04145603622"
+        },
+        {
+            "created_at": "2017-08-03T21:40:56.000Z",
+            "id": "893225195862974464",
+            "text": "RT @JoseLuisYepez: #DonaTusMedicamentos Paciente requiere Lioresal tabletas . Agradecen informaci\u00f3n al tlf 04145603622"
+        },
+        {
+            "created_at": "2017-08-03T21:40:00.000Z",
+            "id": "893224959316774912",
+            "text": "#DonaTusMedicamentos Paciente requiere Lioresal tabletas . Agradecen informaci\u00f3n al tlf 04145603622"
+        }
+    ],
+    "meta": {
+        "newest_id": "903291483419283457",
+        "oldest_id": "893224959316774912",
+        "result_count": 116
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}
