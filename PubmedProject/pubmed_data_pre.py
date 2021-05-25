@@ -15,12 +15,16 @@ if __name__ == '__main__':
                         if "Author information:" in item:
                             continue
                         # outfile.write(item)
+                        item.replace(" \n"," ")
                         item.replace("\n"," ")
                         item.replace("\r\n", " ")
-                        item.replace("\r", " ")
-                        dotsplit = list(item.split("."))
+                        item.replace(" \r", " ")
+                        dotsplit = list(item.split(". "))
                         for sen in dotsplit:
                             outfile.write(sen)
-                            # outfile.write('.')
-                            # outfile.write("\n")
+                            sen.replace("\n"," ")
+                            sen.replace("\n\n"," ")
+                            sen.replace("\r", " ")
+                            item.replace("\r\n", " ")
+
                         outfile.write('\n\n')
