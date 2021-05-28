@@ -2,12 +2,13 @@ import os
 import re
 
 start = re.compile(r"^\d*[.]")
+months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
 year = re.compile(r"20\d\d")
 n = re.compile(r"\n")
 
 year_pattern = re.compile
 if __name__ == '__main__':
-    path = 'data/'
+    path = 'data_transformed/'
     file_list = os.listdir(path)
     for i in range(len(file_list)):
         filename = file_list[i]
@@ -16,16 +17,17 @@ if __name__ == '__main__':
             with open('result2/'+filename +' result.txt',"w+",encoding='utf-8') as outfile:
                 temp = infile.read()
                 splitted = list(temp.split("\n\n"))
+                for i in range(len(splitted)):
+                    splitted[i] = splitted[i].strip()
                 for item in splitted:
                     item.strip()
-                    if 'doi' in item and year.search(item):
+                    print(item[0])
+                    if year.search(item) and item[0].isdigit():
                         item = re.sub(pattern=n,repl='',string=item)
                         outfile.write(item)
                         outfile.write('\n\n')
-                    # else: print("not!!!!!: ",item)
-
                     if len(item) > 200:
-                        if "Author information:" in item:
+                        if "Author information:" in item or "Collaborators:" in item:
                             continue
                         # outfile.write(item)
                         item = re.sub(pattern=n,repl='',string=item)
