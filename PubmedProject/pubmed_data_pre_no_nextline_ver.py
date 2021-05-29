@@ -22,7 +22,7 @@ if __name__ == '__main__':
                 for item in splitted:
                     item.strip()
                     print(item[0])
-                    if year.search(item) and item[0].isdigit():
+                    if year.search(item) and start.match(item):
                         item = re.sub(pattern=n,repl='',string=item)
                         outfile.write(item)
                         outfile.write('\n\n')

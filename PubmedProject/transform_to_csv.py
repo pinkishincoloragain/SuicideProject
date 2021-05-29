@@ -12,7 +12,21 @@ if __name__ == '__main__':
                 wr = csv.writer(outfile)
                 temp = infile.read()
                 splitted = list(temp.split("\n\n"))
-                cnt = 0
-                for i in range(0,len(splitted)-1,2):
-                    wr.writerow([i/2,splitted[i],splitted[i+1]])
+                idx = 0
+                abstract=""
+                subject=""
+                for k in range(0,len(splitted)-1):
+                    # print(splitted[k])
+                    if splitted[k][0].isdigit():
+                        # print("!!!!!!!!!!!!!!!")
+                        wr.writerow([idx, subject, abstract])
+                        idx += 1
+                        abstract = ""
+                        subject = ""
+                        subject = splitted[k]
+                    else:
+                        abstract = abstract + splitted[k]
+                        # print(abstract)
+                    # if idx > 10:
+                    #     break
 
