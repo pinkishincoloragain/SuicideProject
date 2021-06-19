@@ -45,5 +45,4 @@ https://drive.google.com/drive/folders/1V7X2q96OoPYncG7apONEtYnesoXy-V2O?usp=sha
 ## Acknowledgments
 
 * Prof. yksuh is the best professor of all-time
-* pinkishincoloragain
-* Lee ji-an
+* 
