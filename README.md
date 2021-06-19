@@ -39,8 +39,8 @@ https://drive.google.com/drive/folders/1V7X2q96OoPYncG7apONEtYnesoXy-V2O?usp=sha
 
 ## Built With
 
-* [pinkishincoloragain](https://github.com/pinkishincoloragain) :angry:/
-* [Lee ji-an](https://github.com/lee-ji-an) :pensive:/
+* [pinkishincoloragain](https://github.com/pinkishincoloragain) :angry:
+* [Lee ji-an](https://github.com/lee-ji-an) :pensive:
 
 ## Acknowledgments
 
