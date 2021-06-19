@@ -24,7 +24,7 @@ Twitter API key
 예시
 ``` -->
 
-### 코드 설명
+### Codes
 
 PubmedProject - Crawling data from https://pubmed.ncbi.nlm.nih.gov/
 
