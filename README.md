@@ -2,7 +2,7 @@
 -do not commit suicide !
 
 
-### Prerequisites / 선행 조건
+### Prerequisites
 
 아래 사항들을 사용합니다
 
@@ -39,12 +39,12 @@ WebCrawling - Twitter crawling API. Query datas originated from csv and xlsx fil
 https://drive.google.com/drive/folders/1V7X2q96OoPYncG7apONEtYnesoXy-V2O?usp=sharing
 
 
-## Built With / 누구랑 만들었나요?
+## Built With
 
 * [pinkishincoloragain](https://github.com/pinkishincoloragain) :angry:/
 * [Lee ji-an](https://github.com/lee-ji-an) :pensive:/
 
-## Acknowledgments / 감사의 말
+## Acknowledgments
 
 * Prof. yksuh is the best professor of all-time
 * pinkishincoloragain
