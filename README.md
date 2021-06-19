@@ -4,8 +4,6 @@
 
 ### Prerequisites
 
-아래 사항들을 사용합니다
-
 ```
 LIWC 2015
 Pycharm 2021.1.1
