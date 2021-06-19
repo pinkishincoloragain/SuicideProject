@@ -439,3 +439,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,pycharm
+/PubmedProject/result/
+/PubmedProject/result2/
+/PubmedProject/data_transformed/
+/PubmedProject/csv_transformed/
+/TwitterProject/result2/
