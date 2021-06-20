@@ -29,8 +29,8 @@ def write_file():
             else:
                 idx = 2
 
-            text = text.replace(drug,f"<e{idx}>{drug}<e{idx}>")
-            text = text.replace(ade, f"<e{3-idx}>{ade}<e{3-idx}>")
+            text = text.replace(drug,f"<e{idx}>{drug}</e{idx}>")
+            text = text.replace(ade, f"<e{3-idx}>{ade}</e{3-idx}>")
 
             # drug causes ADE!
             # if first found word is drug -> write Drug-ADE(e1,e2)
