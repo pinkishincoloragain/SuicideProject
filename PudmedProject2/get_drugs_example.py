@@ -1,22 +1,19 @@
 def from_excel(**kwargs):
     import pandas as pd
-    path=kwargs.get("path") # "drug_mapping_v2.xlsx"
+    path=kwargs.get("path") #"drug_mapping_v2.xlsx"
     drugs = pd.read_excel(path)
-    column = kwargs.get("column")
-
+    columns = kwargs.get("columns")
+    print(f"Getting druglist from {path}, using columns: { ''.join(columns)}")
     flat_list = []
-    if column is None:
+    if columns is None:
         for sublist in drugs.values.tolist():
             for item in sublist:
-                if type(item) is str:
-                    flat_list.append(item.replace("\u3000",""))
+                flat_list.append(item)
         return list(set(flat_list))
     else:
-        print(f"Getting druglist from {path}, using columns: {''.join(column)}")
-        for sublist in drugs.loc[:,column].values.tolist():
+        for sublist in drugs.loc[:,columns].values.tolist():
             for item in sublist:
-                if type(item) is str:
-                    flat_list.append(item.replace("\u3000",""))
+                flat_list.append(item)
         return list(set(flat_list))
     # return res.values.tolist()
 
