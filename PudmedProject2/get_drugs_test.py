@@ -63,7 +63,9 @@ def from_excel(**kwargs):
 
     return list(set(res))
 
+
     # return res.values.tolist()
+
 
 def from_csv(**kwargs):
     import csv

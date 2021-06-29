@@ -38,6 +38,11 @@ def from_excel(**kwargs):
             item = re.sub(pattern=pattern1,repl="",string=item)
             drop_exp.append(item.strip())
 
+        if "/" in item:
+            temp = item.split("/")
+            for i in range(len(temp)):
+                drop_exp.append(temp[i].strip())
+
         else:
             drop_exp.append(item.strip())
 

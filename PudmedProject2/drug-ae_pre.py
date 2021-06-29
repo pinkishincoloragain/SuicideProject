@@ -1,6 +1,8 @@
 import pandas as pd
 def write_file():
-    dfADE=pd.read_csv('DRUG-AE.rel', sep='|', names=['PMID','text','ADE','ADE_offsetfrom','ADE_offsetto', 'drug', 'drug_offsetfrom','drug_offsetto'])
+    dfADE=pd.read_csv('DRUG-AE.rel', sep='|',
+                      names=['PMID','text','ADE','ADE_offsetfrom','ADE_offsetto', 'drug', 'drug_offsetfrom','drug_offsetto']
+                      )
     ades = dfADE.loc[:,'ADE']
     drugs = dfADE.loc[:,'drug']
     texts = dfADE.loc[:,'text']
@@ -20,6 +22,9 @@ def write_file():
             text = text.replace(ade, f"<e{3-idx}>{ade}</e{3-idx}>")
             res = f'{i}\t"{text}"\nDRUG-ADE(e{idx},e{3-idx})\nComment: DRUG-AE\n\n'
             outfile.write(res)
+
+def get_training_set(**kwargs):
+    rel_types=["Other", "Cause-Effect","DRUG-ADE"], output_file="train01.txt"
 
 if __name__=="__main__":
     write_file()
