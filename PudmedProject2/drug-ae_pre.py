@@ -24,10 +24,54 @@ def write_file():
             outfile.write(res)
 
 def get_training_set(**kwargs):
-    rel_types=["Other", "Cause-Effect","DRUG-ADE"], output_file="train01.txt"
+    # rel_types=["Other", "Cause-Effect","DRUG-ADE"]
+    rel_types = kwargs.get("rel_types")
+    all_rel = False
+    idx = 0
+    if len(rel_types) == 0:
+        all_rel = True
+        rel_types = ['Instrument-Agency',
+                     'Entity-Origin',
+                     'Other',
+                     'Component-Whole',
+                     'Content-Container',
+                     'Member-Collection',
+                     'Cause-Effect',
+                     'Product-Producer',
+                     'Entity-Destination',
+                     'Product-Producer',
+                     'Message-Topic',
+                     'DRUG-ADE']
+
+    with open("train01.txt","w+") as outfile:
+        with open("TRAIN_FILE.TXT","r") as in1:
+            train_data = in1.read().strip()
+            for data in train_data.split("\n\n"):
+                lines = data.split("\n")
+                for rel in rel_types:
+                    if rel in lines[1]:
+                        text = lines[0].split("\t")[1]
+                        outfile.write(f"{idx}\t{text}\n{lines[1]}\n{lines[2]}\n\n")
+                        idx+=1
+                        break
+
+        with open("DRUG-AE_transformed.txt", "r") as in2:
+            drug_data = in2.read().strip()
+            for data in drug_data.split("\n\n"):
+                lines = data.split("\n")
+                for rel in rel_types:
+                    if rel in lines[1]:
+                        text = lines[0].split("\t")[1]
+                        outfile.write(f"{idx}\t{text}\n{lines[1]}\n{lines[2]}\n\n")
+                        idx += 1
+                        break
+
+    return
 
 if __name__=="__main__":
-    write_file()
-
+    # write_file()
+    get_training_set(rel_types=["Other", "Cause-Effect","DRUG-ADE"])
+    # get_training_set(rel_types=["DRUG-ADE"])
+    # get_training_set(rel_types=[])
 
 
