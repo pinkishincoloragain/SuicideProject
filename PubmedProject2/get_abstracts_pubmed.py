@@ -4,6 +4,7 @@ def pymed(args):
     :type case_report: bool
     """
 
+    # -*- coding: utf8 -*-
     from pymed import PubMed # pymed - PubMed에 대한 접근을 제공하는 라이브러리
     from tqdm import tqdm # 연속적인 작업(ex. for문 while문) 수행시 진행률을 알려주는 라이브러리
 
@@ -83,6 +84,7 @@ def main(**kwargs):
     abstracts = pymed(kwargs)
 
     return abstracts
+
 if __name__ == "__main__":
     import argparse
 
