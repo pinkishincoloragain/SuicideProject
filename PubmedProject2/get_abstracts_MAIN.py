@@ -2,7 +2,7 @@ import get_abstracts_pubmed
 import pandas as pd
 # abstracts, drugs, queries = get_abstracts_pubmed.main(email="???", druglist_path="../../data/Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
 #                                         max_results=100000, from_date="1990/01/01", to_date="2021/06/30", mesh=True, case_report=True)
-abstracts, drugs, queries = get_abstracts_pubmed.main(email="smb1103@gmail.com", druglist_path="Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
+abstracts, drugs, queries = get_abstracts_pubmed.main(email="smb1103@gmail.com", druglist_path="Drug_mapping_v2.csv", columns=["ingredient", "ingredient_1"],
                                         max_results=100000, from_date="1990/01/01", to_date="2021/06/30", mesh=True, case_report=True)
 
 output_file="PubMed_crawl_sui_casereports_210630.xlsx"

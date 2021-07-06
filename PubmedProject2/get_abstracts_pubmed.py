@@ -19,10 +19,10 @@ def pymed(args):
     query = "(" + " OR ".join([_ + "[Abstract]" for _ in args.get('drugs')]) + ")" \
             + " AND " \
             + f"({args.get('from_date')}[Date - Publication] : {args.get('to_date')}[Date - Publication])"
-# 'drug' : ['aspirin', 'vitamin', 'omega-3']
-# 'from_date' : 10/10/11, to_date : 11/08/10
-# query = ( aspirin[Abstract] OR vigamin[Abstract] OR ...)
-#          AND (10/10/11[Date - Publication] : 11/08/10[Date - Publication])
+    # 'drug' : ['aspirin', 'vitamin', 'omega-3']
+    # 'from_date' : 10/10/11, to_date : 11/08/10
+    # query = ( aspirin[Abstract] OR vigamin[Abstract] OR ...)
+    #          AND (10/10/11[Date - Publication] : 11/08/10[Date - Publication])
 
     if args.get('mesh'): # 키 'mesh'의 value가 true이면
         query = query + " AND " \
@@ -63,8 +63,6 @@ def main(**kwargs):
         f"Using drug list({kwargs.get('druglist_path') if kwargs.get('druglist_path') else 'input'}), crawling max {kwargs.get('max_results')}  abstracts for {kwargs.get('email')}. "
         f"Corresponding articles were published from {kwargs.get('from_date')} to {kwargs.get('to_date')} ")
 
-
-
     print(f"using MeSH" if kwargs.get('mesh') else 'no MeSH:')
     # 'mesh' value가 true이면 "using MeSH" 프린트
     #               false이면 "no MeSH:" 프린트
@@ -76,7 +74,7 @@ def main(**kwargs):
 
     if not isinstance(kwargs.get('drugs') , list):
         drugs = []
-        with open(kwargs.get('druglist_path'), newline='') as inputfile:
+        with open(kwargs.get('druglist_path'), newline='',encoding="UTF-8") as inputfile:
             for row in csv.reader(inputfile):
                 drugs.append(row[0])
         kwargs["drugs"]=drugs
