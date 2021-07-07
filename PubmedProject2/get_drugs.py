@@ -56,7 +56,7 @@ def from_excel(**kwargs):
             res.remove(item)
             res.append(replace_dict[item])
 
-    return list(set(res))
+    return sorted(list(set(res)))
     # return res.values.tolist()
 
 def from_csv(**kwargs):
