@@ -31,6 +31,7 @@ def get_training_set(**kwargs):
 
     print(f"Filtering {','.join(rel_types)} relationships from {','.join(input_files)}")
     idx = 0
+
     if len(rel_types) == 0: # relation 명시 안하면 다 뽑아버림. 이게 전체 relationship 종류.
         rel_types = ['Instrument-Agency',
                      'Entity-Origin',
@@ -55,6 +56,7 @@ def get_training_set(**kwargs):
                         text = lines[0].split("\t")[1]
                         outfile.write(f"{text}\n{lines[1]}\n{lines[2]}\n\n")
                         idx += 1
+
                         break
 
         with open(input_files[1], "r") as in2: # 두번째 파일. DRUG_ADE
@@ -75,48 +77,61 @@ def sep_files(**kwargs): # FULL_FILE 에서 분리하는 함수
     out_train = kwargs.get("OUTTRAIN") # TRAIN_FILE 출력할 곳.
     out_test = kwargs.get("OUTTEST") # TEST_FILE 출력할 곳.
     split_rate = kwargs.get("split_rate")  # TODO, in interval [0,1]
-
+    rel_types = kwargs.get("rel_types")
+    rel_cnt = [0] * len(rel_types)
 
     with open(full_file, "r") as infile:
         full = infile.read().strip()
-        writefile = open(out_train,"w+")
+        writefile_train = open(out_train,"w+")
+        writefile_test = open(out_test,"w+")
         idx = 1
-        file_changed = False # 다음 파일 쓰는 변수임
+        idx_test = 1
         items = full.split("\n\n")
-        next_file_idx = len(items) * float(split_rate)
-        for item in items:
-            writefile.write(f"{idx}\t{item}\n\n") # 인덱스 쓰고 아이템 씁니다
-            idx+=1
-            if idx > next_file_idx and not file_changed: # 다음 파일 쓰는 준비.
-                writefile.close()
-                writefile = open(out_test,"w+")
-                file_changed = True
-                idx = 1 # idx 초기화
-        writefile.close()
+        for item in items: #rel_types 각각 몇개씩 존재하는지 count
+            for i in range(len(rel_types)):
+                if rel_types[i] in item.split("\n")[1]:
+                    rel_cnt[i] += 1
+                    break
+        for i in range(len(rel_cnt)): # 몇 개 뽑아야하는지 계산
+            rel_cnt[i] = rel_cnt[i] * float(split_rate)
 
+        for item in items: # 뽑아서 train02.txt에 write 나머지는 test02.txt에 write
+            for i in range(len(rel_types)):
+                if rel_types[i] in item.split("\n")[1]:
+                    if rel_cnt[i] >0:
+                        writefile_train.write(f"{idx}\t{item}\n\n")  # 인덱스 쓰고 아이템 씁니다
+                        idx += 1
+                        rel_cnt[i] -= 1
+                        break
+                    else:
+                        writefile_test.write(f"{idx_test}\t{item}\n\n")  # 인덱스 쓰고 아이템 씁니다
+                        idx_test += 1
+        writefile_train.close()
+        writefile_test.close()
     return out_train, out_test, split_rate
 
 def main():
-    DRUGADEname=get_ADE(INF='../zzz/ADEdataset/ADE-Corpus-V2/DRUG-AE.rel', OUTF="DRUG-AE_transformed.txt")
-    # DRUGADEname=get_ADE(INF='DRUG-AE.rel', OUTF="DRUG-AE_transformed.txt")
+    #DRUGADEname=get_ADE(INF='../zzz/ADEdataset/ADE-Corpus-V2/DRUG-AE.rel', OUTF="DRUG-AE_transformed.txt")
+    DRUGADEname=get_ADE(INF='DRUG-AE.rel', OUTF="DRUG-AE_transformed.txt")
     print(f"{DRUGADEname} successfully created.")
-    output_full = get_training_set(
-        INF=
-        ['../RE_BERTs/data/SemEval2010_task8_all_data/SemEval2010_task8_training/TRAIN_FILE.txt',
-         "DRUG-AE_transformed.txt"],
-        rel_types=["Other", "Cause-Effect", "DRUG-ADE"],
-        OUTFULL="full_file.txt",
-        split_rate=0.9)
     # output_full = get_training_set(
-    #     INF=['TRAIN_FILE.txt', "DRUG-AE_transformed.txt"],
+    #     INF=
+    #     ['../RE_BERTs/data/SemEval2010_task8_all_data/SemEval2010_task8_training/TRAIN_FILE.txt',
+    #      "DRUG-AE_transformed.txt"],
     #     rel_types=["Other", "Cause-Effect", "DRUG-ADE"],
     #     OUTFULL="full_file.txt",
-    #     split_rate=0.9
-    # )
+    #     split_rate=0.9)
+    output_full = get_training_set(
+        INF=['TRAIN_FILE.txt', "DRUG-AE_transformed.txt"],
+        rel_types=["Other", "Cause-Effect", "DRUG-ADE"],
+        OUTFULL="full_file.txt",
+        split_rate=0.9
+    )
     trainsetname, testsetname, split_rate = \
         sep_files(FULLFILE="full_file.txt", # 이건 전체 파일에서 읽고
                   OUTTRAIN="train02.txt",
                   OUTTEST="test02.txt",
+                  rel_types = ["Other", "Cause-Effect", "DRUG-ADE"],
                   split_rate="0.9")
 
     print(f"Train {trainsetname} and Test {testsetname} sets with {str(split_rate)} split rate are successfully created.")
