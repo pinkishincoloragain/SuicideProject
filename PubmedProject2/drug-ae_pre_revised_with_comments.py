@@ -57,7 +57,7 @@ def get_training_set(**kwargs):
                         idx += 1
                         break
 
-        with open(input_files[1], "r") as in2: #두번째 파일. DRUG_ADE
+        with open(input_files[1], "r") as in2: # 두번째 파일. DRUG_ADE
             drug_data = in2.read().strip()
             for data in drug_data.split("\n\n"):
                 lines = data.split("\n")
@@ -123,3 +123,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
