@@ -26,9 +26,9 @@ Twitter API key
 
 ### Codes
 
-PubmedProject - Crawling data from https://pubmed.ncbi.nlm.nih.gov/
+PubmedProject - Crawling data from https://pubmed.ncbi.nlm.nih.gov/. Pre-processing data for machine learning.
 
-PubmedProject2 - Crawling data from https://pubmed.ncbi.nlm.nih.gov/ pre-processing scrapped data.
+PubmedProject2 - Crawling data from https://pubmed.ncbi.nlm.nih.gov/ pre-processing scrapped data. Now making CLI for pubmed data crawling.
 
 TwitterProject - Pre-processing data from WebCrawling result. pre.py and pre-temp.py mainly used for pre-processing
 
