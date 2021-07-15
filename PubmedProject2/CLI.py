@@ -3,6 +3,7 @@
 from __future__ import print_function, unicode_literals
 import regex
 import os
+from datetime import date
 
 from pprint import pprint
 from PyInquirer import style_from_dict, Token, prompt
@@ -75,32 +76,33 @@ print(f.renderText('* * * * * * * * *'))
 print("To stop in the process, press ctrl + c")
 print()
 
-
-
 questions = [
     {
         'type': 'input',
         'name': 'Email',
+        'default': "smb1103@gmail.com",
         'message': 'Input email.',
         'validate': EmailValidator
     },
     {
         'type': 'confirm',
         'name': 'drug_input_type',
-        'message': 'Will you write list of drugs by yourself?'
+        'message': 'Do you have file including list of drugs?'
     },
     {
         'type': 'input',
         'name': 'druglist_path',
         'message': 'Input druglist file path',
-        'when': lambda drug_input_type: not drug_input_type['drug_input_type'],
+        'default': "Drug_mapping_v2.xlsx",
+        'when': lambda drug_input_type: drug_input_type['drug_input_type'],
         'validate': FileValidator
     },
     {
         'type': 'input',
         'name': 'drugs',
+        'default': "Aspirin, Bupropion",
         'message': 'Input list of drugs',
-        'when': lambda drug_input_type: drug_input_type['drug_input_type']
+        'when': lambda drug_input_type: not drug_input_type['drug_input_type']
     },
     {
         'type': 'checkbox',
@@ -118,10 +120,12 @@ questions = [
                 'name': 'ingredient_num'
             },
             {
-                'name': 'ingredient'
+                'name': 'ingredient',
+                'checked': True
             },
             {
-                'name': 'ingredient_1'
+                'name': 'ingredient_1',
+                'checked': True
             },
             {
                 'name': 'atc code'
@@ -136,6 +140,7 @@ questions = [
         'type': 'input',
         'name': 'max_results',
         'message': 'Input max_results',
+        'default': "100",
         'validate': NumberValidator,
         'filter': lambda val: int(val)
     },
@@ -143,12 +148,14 @@ questions = [
         'type': 'input',
         'name': 'from_date',
         'message': 'Input from_date',
+        'default': "1990/01/01",
         'validate': DateValidator
     },
     {
         'type': 'input',
         'name': 'to_date',
         'message': 'Input to_date',
+        'default': date.today().strftime("%Y/%m/%d"),
         'validate': DateValidator
     },
     {
@@ -170,6 +177,29 @@ print('Order receipt:')
 
 pprint(answers)
 pprint(type(answers))
+#
+abstracts, drugs, queries = get_abstracts_pubmed.main(**answers)
 
-abstracts, drugs, queries = get_abstracts_pubmed.main(email="???",drugs=["aspirin", "acetaminophen"] ,druglist_path="data/Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
-                                                      max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
+output_file="PubMed_crawl_sui_casereports_210707)_1.xlsx"
+df=pd.DataFrame(abstracts)
+
+if not df.empty:
+
+    df['drugs']=df['drugs'].map(lambda x: ',\n'.join(x))
+    df['PMID'] = df['PMIDa'].map(lambda x: ',\n'.join(x))
+
+    df.drop(["PMIDa", "PMIDlist"], axis=1, inplace=True)
+    writer=pd.ExcelWriter(output_file, engine='openpyxl')
+    print(f"Length: {len(df)}")
+    df.to_excel(writer, sheet_name="result", index=False)
+
+    dfdrugs = pd.DataFrame({'Drugs': drugs})
+    dfdrugs.to_excel(writer, sheet_name="drugs", index=False)
+
+    dfq = pd.DataFrame({'Queries': queries})
+    dfq.to_excel(writer, sheet_name="queries", index=False)
+
+    writer.save()
+
+else:
+     print("Empty")

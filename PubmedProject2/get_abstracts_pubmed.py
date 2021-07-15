@@ -151,7 +151,6 @@ if __name__ == "__main__":
     parser.add_argument("--drugs", type= list , help="Array of drug names", default=[])
 
     temp = pymed(args_main.__dict__) # pymed에 넣어 줌. 지금은 예외처리 하나도 되지 않고 그냥 인자 받은 그대로 넘겨줌.
-    print("!!!!",args_main.email)
 
     # 실행 방법
     # 터미널창에 가서 \SuicideProject\PubmedProject2> 경로에 가서
@@ -161,8 +160,8 @@ if __name__ == "__main__":
     # 저걸 하나하나 가져오려면 args_main.(인자이름) 이렇게 가져오면 됨. 예를 들면 args_main.email 이렇게 
 
 
-    for article in temp: # 결과값 temp라는 곳에 저장했으니까 그 안에 article들이 max_num 갯수만큼 있는데
-        print(article) # 지금은 output 파일에 넣지 않고 그냥 출력함.
+    # for article in temp: # 결과값 temp라는 곳에 저장했으니까 그 안에 article들이 max_num 갯수만큼 있는데
+    #     print(article) # 지금은 output 파일에 넣지 않고 그냥 출력함.
 
 
     #python
