@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 실행 전 pip install -r requirements.txt
 
 from __future__ import print_function, unicode_literals
 import regex
