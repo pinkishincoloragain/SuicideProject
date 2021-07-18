@@ -3,6 +3,7 @@
 
 from __future__ import print_function, unicode_literals
 import regex
+import re
 import os
 from datetime import date
 
@@ -12,10 +13,10 @@ from PyInquirer import Validator, ValidationError
 
 from pyfiglet import Figlet
 
-
 import get_abstracts_pubmed
 import pandas as pd
 
+email_form = re.compile('^[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$')
 
 style = style_from_dict({
     Token.QuestionMark: '#E91E63 bold',
@@ -24,6 +25,7 @@ style = style_from_dict({
     Token.Answer: '#2196f3 bold',
     Token.Question: '',
 })
+
 
 class NumberValidator(Validator):
     def validate(self, document):
@@ -34,12 +36,14 @@ class NumberValidator(Validator):
                 message='Please enter a number',
                 cursor_position=len(document.text))  # Move cursor to end
 
+
 class EmailValidator(Validator):
     def validate(self, document):
-        if ('@' not in document.text) or ('.com' not in document.text):
+        if email_form.match(document.text) is None:
             raise ValidationError(
                 message='Please enter a email form',
                 cursor_position=len(document.text))  # Move cursor to end
+
 
 class FileValidator(Validator):
     def validate(self, document):
@@ -58,6 +62,7 @@ class FileValidator(Validator):
             raise ValidationError(
                 message='Pathname seems to be incorrect.',
                 cursor_position=len(document.text))
+
 
 class DateValidator(Validator):
     def validate(self, document):
@@ -110,31 +115,31 @@ questions = [
         'name': 'columns',
         'message': 'Input columns',
         'choices':
-        [
-            {
-                'name': 'concept_id'
-            },
-            {
-                'name': 'brand_name'
-            },
-            {
-                'name': 'ingredient_num'
-            },
-            {
-                'name': 'ingredient',
-                'checked': True
-            },
-            {
-                'name': 'ingredient_1',
-                'checked': True
-            },
-            {
-                'name': 'atc code'
-            },
-            {
-                'name': 'atc_level'
-            }
-        ],
+            [
+                {
+                    'name': 'concept_id'
+                },
+                {
+                    'name': 'brand_name'
+                },
+                {
+                    'name': 'ingredient_num'
+                },
+                {
+                    'name': 'ingredient',
+                    'checked': True
+                },
+                {
+                    'name': 'ingredient_1',
+                    'checked': True
+                },
+                {
+                    'name': 'atc code'
+                },
+                {
+                    'name': 'atc_level'
+                }
+            ],
         'when': lambda drug_input_type: drug_input_type['drug_input_type']
     },
     {
@@ -181,16 +186,16 @@ pprint(type(answers))
 #
 abstracts, drugs, queries = get_abstracts_pubmed.main(**answers)
 
-output_file="PubMed_crawl_sui_casereports_210707)_1.xlsx"
-df=pd.DataFrame(abstracts)
+output_file = "PubMed_crawl_sui_casereports_210707)_1.xlsx"
+df = pd.DataFrame(abstracts)
 
 if not df.empty:
 
-    df['drugs']=df['drugs'].map(lambda x: ',\n'.join(x))
+    df['drugs'] = df['drugs'].map(lambda x: ',\n'.join(x))
     df['PMID'] = df['PMIDa'].map(lambda x: ',\n'.join(x))
 
     df.drop(["PMIDa", "PMIDlist"], axis=1, inplace=True)
-    writer=pd.ExcelWriter(output_file, engine='openpyxl')
+    writer = pd.ExcelWriter(output_file, engine='openpyxl')
     print(f"Length: {len(df)}")
     df.to_excel(writer, sheet_name="result", index=False)
 
@@ -203,4 +208,4 @@ if not df.empty:
     writer.save()
 
 else:
-     print("Empty")
+    print("Empty")
