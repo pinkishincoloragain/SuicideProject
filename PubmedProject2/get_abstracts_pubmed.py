@@ -26,7 +26,8 @@ def post_processing(results, drugs, papers):
     """
     Post-processing
     """
-    for article in tqdm(results):
+    # for article in tqdm(results, disable=False):
+    for article in results:
         abstract = article.abstract
         # if abstract and any(drug in abstract for drug in drugs):
         if abstract:
@@ -62,7 +63,7 @@ def pymed(args):
     try:
         query=make_query(drugs=drugs,from_date=args.get('from_date'),to_date=args.get('to_date'),
                          mesh=args.get('mesh') , case_report=args.get('case_report'))
-        print(query)
+        # print(query)
         results = pubmed.query(query, max_results=args.get('max_results'))
         papers=post_processing(results, drugs, papers)
         queries.append(query)
@@ -89,9 +90,9 @@ def main(**kwargs):
     import get_drugs
     print(
         f"Using drug list({kwargs.get('druglist_path') if kwargs.get('druglist_path') else 'input'}), crawling max {kwargs.get('max_results')}  abstracts for {kwargs.get('email')}. "
-        f"Corresponding articles were published from {kwargs.get('from_date')} to {kwargs.get('to_date')} ")
+        f"Corresponding articles were published from {kwargs.get('from_date')} to {kwargs.get('to_date')} ", end="")
 
-    print(f"using MeSH" if kwargs.get('mesh') else 'no MeSH:')
+    print(f"using MeSH." if kwargs.get('mesh') else 'no MeSH.')
 
     print(f"case report filtering:" if kwargs.get('case_report') else 'no filtering:')
 

@@ -1,5 +1,8 @@
 import get_abstracts_pubmed
 import pandas as pd
+from datetime import date
+
+
 # abstracts, drugs, queries = get_abstracts_pubmed.main(email="???", druglist_path="../../data/Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
 #                                         max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
 # abstracts, drugs, queries = get_abstracts_pubmed.main(email="???", druglist_path="Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
@@ -8,7 +11,7 @@ import pandas as pd
 #                                                       max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
 abstracts, drugs, queries = get_abstracts_pubmed.main(email="???",drugs=["aspirin", "acetaminophen"] ,columns=["ingredient", "ingredient_1"],
                                                       max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
-output_file="PubMed_crawl_sui_casereports_210707)_1.xlsx"
+output_file="PubMed_crawl_sui_casereports_" +date.today().strftime("%Y/%m/%d") + "_1.xlsx"
 df=pd.DataFrame(abstracts)
 
 if not df.empty:
