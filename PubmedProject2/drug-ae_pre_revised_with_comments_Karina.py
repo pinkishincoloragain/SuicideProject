@@ -18,9 +18,12 @@ def get_ADE(**kwargs):
                 idx = 2
             text = text.replace(drug,f"<e{idx}>{drug}</e{idx}>") # 1 아니면 2 바꾸기
             text = text.replace(ade, f"<e{3-idx}>{ade}</e{3-idx}>") # 2 아니면 1 바꾸기
-            text = text.replace(">-", "> -")
+            text = text.replace(">-", "> - ")
             res = f'{i+1}\t"{text}"\nDRUG-ADE(e{idx},e{3-idx})\nComment: DRUG-AE\n\n'
+            if ("<e1>" not in res) or ("<e2>" not in res):
+                continue
             outfile.write(res)
+
     return kwargs.get("OUTF")
 
 def get_full_set(**kwargs):
@@ -55,9 +58,6 @@ def get_full_set(**kwargs):
                     if rel in lines[1]:
                         text = lines[0].split("\t")[1]
                         outfile.write(f"{idx}\t{text}\n{lines[1]}\n{lines[2]}\n\n")
-                        if ("<e1>" not in text) or ("<e2>" not in text):
-                            print(text)
-                            error_txt +=1
                         idx += 1
 
                         break
@@ -70,9 +70,6 @@ def get_full_set(**kwargs):
                     if rel in lines[1]:
                         text = lines[0].split("\t")[1]
                         outfile.write(f"{idx}\t{text}\n{lines[1]}\n{lines[2]}\n\n")
-                        if ("<e1>" not in text) or ("<e2>" not in text):
-                            print(text)
-                            error_txt +=1
                         idx += 1
                         break
 
@@ -106,7 +103,7 @@ def sep_files(**kwargs): # FULL_FILE 에서 분리하는 함수
         writefile_train = open(out_train,"w+")
         writefile_test = open(out_test,"w+")
         idx = 1
-        idx_test = 1
+        idx_test = 0
         items = full.split("\n\n")
         for item in items: #rel_types 각각 몇개씩 존재하는지 count
             for i in range(len(rel_types)):
@@ -114,20 +111,26 @@ def sep_files(**kwargs): # FULL_FILE 에서 분리하는 함수
                     rel_cnt[i] += 1
                     break
         for i in range(len(rel_cnt)): # 몇 개 뽑아야하는지 계산
-            rel_cnt[i] = rel_cnt[i] * split_rate
+            if rel_cnt[i] * split_rate > int(rel_cnt[i] * split_rate): # 소수점 있으면 올림
+                rel_cnt[i] = int(rel_cnt[i] * split_rate) + 1
+            else:
+                rel_cnt[i] = int(rel_cnt[i] * split_rate)
+
+            idx_test += rel_cnt[i]
+        idx_test += 1
 
         for item in items: # 뽑아서 train02.txt에 write 나머지는 test02.txt에 write
-            del_index = item.split(" ")[0]  # full_file.txt에서의 index 제거
+            del_index = item.split("\t")[0]  # full_file.txt에서의 index 제거
             item = item.strip(del_index)
             for i in range(len(rel_types)):
                 if rel_types[i] in item.split("\n")[1]:
                     if rel_cnt[i] >0:
-                        writefile_train.write(f"{idx}\t{item}\n\n")  # 인덱스 쓰고 아이템 씁니다
+                        writefile_train.write(f"{idx}{item}\n\n")  # 인덱스 쓰고 아이템 씁니다
                         idx += 1
                         rel_cnt[i] -= 1
                         break
                     else:
-                        writefile_test.write(f"{idx_test}\t{item}\n\n")  # 인덱스 쓰고 아이템 씁니다
+                        writefile_test.write(f"{idx_test}{item}\n\n")  # 인덱스 쓰고 아이템 씁니다
                         idx_test += 1
         writefile_train.close()
         writefile_test.close()
@@ -136,26 +139,23 @@ def sep_files(**kwargs): # FULL_FILE 에서 분리하는 함수
 def main():
     # DRUGADEname=get_ADE(INF='../zzz/ADEdataset/ADE-Corpus-V2/DRUG-AE.rel', OUTF="DRUG-AE_transformed.txt")
     # print(f"{DRUGADEname} successfully created.")
-    DRUGADEname=get_ADE(INF='DRUG-AE.rel', OUTF="DRUG-AE_transformed.txt")
-    print(f"{DRUGADEname} successfully created.")
+    # DRUGADEname=get_ADE(INF='DRUG-AE.rel', OUTF="DRUG-AE_transformed.txt")
+    # print(f"{DRUGADEname} successfully created.")
+
+    #TODO cut out the tail
 
     # output_full = get_full_set(
-    #     INF=['../RE_BERTs/data/SemEval2010_task8_all_data/SemEval2010_task8_training/TRAIN_FILE.txt', DRUGADEname],
+    #     INF=['../RE_BERTs/data/SemEval2010_task8_all_data/SemEval2010_task8_training/TRAIN_FILE.txt', "DRUG-AE_transformed.txt"],
     #     rel_types=["Other", "Cause-Effect", "DRUG-ADE"],
-    #     OUTFULL="rel_full.txt"
+    #     OUTFULL="rel_full3.txt"
     # )
-    output_full = get_full_set(
-        INF=['TRAIN_FILE.txt', DRUGADEname],
-        rel_types=["Other", "Cause-Effect", "DRUG-ADE"],
-        OUTFULL="rel_full.txt"
-    )
 
     trainsetname, testsetname, split_rate = \
-        sep_files(FULLFILE=output_full, # 이건 전체 파일에서 읽고
-                  OUTTRAIN="train06.txt",
-                  OUTTEST="test06.txt",
+        sep_files(FULLFILE="rel_full3.txt", # 이건 전체 파일에서 읽고
+                  OUTTRAIN="train3.txt",
+                  OUTTEST="test3.txt",
                   rel_types = ["Other", "Cause-Effect", "DRUG-ADE"],
-                  split_rate=0.8)
+                  split_rate=0.9)
 
     print(f"Train {trainsetname} and Test {testsetname} sets with {str(split_rate)} split rate are successfully created.")
 
