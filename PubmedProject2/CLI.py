@@ -179,10 +179,14 @@ questions = [
 ]
 
 answers = prompt(questions, style=style)
-print('Order receipt:')
 
+if not answers['drug_input_type']:
+    answers['drugs'] = answers['drugs'].split(", ")
+
+print('Order receipt:')
 pprint(answers)
 pprint(type(answers))
+
 #
 abstracts, drugs, queries = get_abstracts_pubmed.main(**answers)
 
