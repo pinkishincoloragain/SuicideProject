@@ -1,0 +1,128 @@
+import pandas as pd
+def get_ADE(**kwargs):
+    # output_file="DRUG-AE_transformed.txt"
+    kwargs.get("INF") : DRUG-AE.rel
+    dfADE = pd.read_csv(kwargs.get("INF"))
+    # col : PMID, text, ADE, ADE_offsetfrom, ADE_offsetto, drug, drug_offsetfrom, drug_offsetto
+
+    ades = dfADE의 'ADE'열 저장
+    drugs = dfADE의 'drug'열 저장
+    texts = dfADE의 'text'열 저장
+
+    open(kwargs.get("OUTF"), "w+") as outfile: # kwargs.get("OUTF") : "DRUG-AE_transformed.txt"
+        for i : 0 ~ range(len(dfADE)):
+            text = texts[i] # row: i, col: text
+            ade = ades[i]
+            drug = drugs[i]
+            drug_idx = drug index in text
+            ade_idx = ade index in text
+            if drug_idx < ade_idx:
+                text : [ drug , <e1> {drug} </e1> ] replace
+                text : [ ade , <e2> {ade} </e2> ] replace
+            else:
+                text : [ drug , <e2> {drug} </e2> ] replace
+                text : [ ade , <e1> {ade} </e1> ] replace
+
+            text = text.replace(">-", "> -")
+            res = f'{i+1}\t"{text}"\nDRUG-ADE(e{idx},e{3-idx})\nComment: DRUG-AE\n\n'
+                #Ex )
+                #1   {text}
+                #DRUG-ADE(e1, e2) or DRUG-ADE(e2, e1)
+                #Comment: DRUG-AE
+
+            outfile.write(res)
+
+    return kwargs.get("OUTF")
+
+def get_training_set(**kwargs):
+    rel_types = kwargs.get("rel_types") # 뽑아낼 relationship type
+    input_files=kwargs.get("INF") # 읽는 파일.
+    output_full=kwargs.get("OUTFULL") # 전체 데이터 다 있는거. index 없음
+
+    if rel_types argument 존재하지 않으면:
+        rel_types = [every relationship]
+
+    idx = 1
+
+    open(output_full,"w+") as outfile: # full_file.txt
+        open(input_files[0], "r") as in1: # TRAIN_FILE.txt
+            train_data = in1 전체 파일
+            for data : one of train_data.split("\n\n"):  # data : 문단 단위
+                lines = data : split("\n") # [text of data, relation of data, comment of data]
+                for rel : one of rel_types:
+                    if lines[1]값이 rel_types에 존재하면 :
+                        text = line[1]를 index 제거하고 저장
+                        outfile.write("
+                        {idx}   {text}
+                        {lines[1]}
+                        {lines[2]}
+
+                        ")
+                        idx += 1
+                        break
+
+        with open(input_files[1], "r") as in2: # DRUG-AE_transformed.txt
+            drug_data = in2 전체 파일
+            for data : one of drug_data.split("\n\n"): # data : 문단 단위
+                lines = data : split("\n") [text of data, relation of data, comment of data] # lines : data의 줄 단위
+                for rel : one of rel_types:
+                    if lines[1]값이 rel_types에 존재하면:
+                        text = text of data
+                        outfile.write("
+                        {idx}   {text}
+                        {lines[1]}
+                        {lines[2]}
+
+                        ")
+                        idx += 1
+                        break
+
+    return output_full
+
+def sep_files(**kwargs): # FULL_FILE 에서 분리하는 함수
+    full_file = kwargs.get("FULLFILE") # 전체 파일
+    out_train = kwargs.get("OUTTRAIN") # TRAIN_FILE 출력할 곳.
+    out_test = kwargs.get("OUTTEST") # TEST_FILE 출력할 곳.
+    split_rate = kwargs.get("split_rate")  # TODO, in interval [0,1]
+    rel_types = kwargs.get("rel_types")
+
+    if rel_types argument 존재하지 않으면:
+        rel_types = [every relationship]
+
+    rel_cnt = [0] * len(rel_types)
+
+    open(full_file, "r") as infile:
+        full = infile 전체 파일
+        writefile_train = open(out_train,"w+")
+        writefile_test = open(out_test,"w+")
+        idx = 1
+        idx_test = 1
+        items = full : split("\n\n") # items : 문단단위
+        for item : one of items: # rel_types 각각 몇개씩 존재하는지 count
+            if relation of item이 rel_types에 존재하면 :
+                rel_cnt[i] += 1
+                break
+
+        for i : 0 ~ len(rel_cnt): # 몇 개 뽑아야하는지 계산
+            rel_cnt[i] = rel_cnt[i] * split_rate
+
+        for item : one of items: # 뽑아서 train02.txt에 write 나머지는 test02.txt에 write
+            item : full_file.txt에서의 index 제거
+            if relation of 'item이 rel_types에 존재하면:
+                if rel_cnt[i] >0:
+                    writefile_train.write("
+                    {idx}{item}
+
+                    ")
+                    idx += 1
+                    rel_cnt[i] -= 1
+                    break
+                else:
+                    writefile_test.write("
+                    {idx_test}{item}
+
+                    ")
+                    idx_test += 1
+        writefile_train.close()
+        writefile_test.close()
+    return out_train, out_test, split_rate

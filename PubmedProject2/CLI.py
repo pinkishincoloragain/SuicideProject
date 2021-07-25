@@ -2,12 +2,13 @@
 # 실행 전 pip install -r requirements.txt
 
 from __future__ import print_function, unicode_literals
+
+import openpyxl
 import regex
 import re
 import os
 from datetime import date
 
-from pprint import pprint
 from PyInquirer import style_from_dict, Token, prompt
 from PyInquirer import Validator, ValidationError
 
@@ -85,7 +86,7 @@ print()
 questions = [
     {
         'type': 'input',
-        'name': 'Email',
+        'name': 'email',
         'default': "smb1103@gmail.com",
         'message': 'Input email.',
         'validate': EmailValidator
@@ -179,14 +180,17 @@ questions = [
 ]
 
 answers = prompt(questions, style=style)
-print('Order receipt:')
 
-pprint(answers)
-pprint(type(answers))
-#
+if not answers['drug_input_type']:
+    answers['drugs'] = answers['drugs'].split(", ")
+
 abstracts, drugs, queries = get_abstracts_pubmed.main(**answers)
 
-output_file = "PubMed_crawl_sui_casereports_210707)_1.xlsx"
+new_file_name = "PubMed_crawl_sui_casereports_" +date.today().strftime("%Y_%m_%d") + ".xlsx"
+f = open(new_file_name,"w")
+f.close()
+
+output_file=new_file_name
 df = pd.DataFrame(abstracts)
 
 if not df.empty:
@@ -195,7 +199,7 @@ if not df.empty:
     df['PMID'] = df['PMIDa'].map(lambda x: ',\n'.join(x))
 
     df.drop(["PMIDa", "PMIDlist"], axis=1, inplace=True)
-    writer = pd.ExcelWriter(output_file, engine='openpyxl')
+    writer = pd.ExcelWriter(output_file,mode="w", engine='openpyxl')
     print(f"Length: {len(df)}")
     df.to_excel(writer, sheet_name="result", index=False)
 

@@ -1,0 +1,2728 @@
+6139	"Caution with use of <e1>cimetidine</e1> in tolazoline induced <e2>upper gastrointestinal bleeding</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6140	"Caution with use of cimetidine in <e1>tolazoline</e1> induced <e2>upper gastrointestinal bleeding</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6141	"However, given the clinically significant result to the interaction between tolazoline and <e1>cimetidine</e1> we report, the use of <e1>cimetidine</e1> in tolazoline induced <e2>upper gastrointestinal hemorrhage</e2> should deserve more attention."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6142	"However, given the clinically significant result to the interaction between tolazoline and <e1>cimetidine</e1> we report, the use of <e1>cimetidine</e1> in tolazoline induced <e2>upper gastrointestinal hemorrhage</e2> should deserve more attention."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6143	"However, given the clinically significant result to the interaction between <e1>tolazoline</e1> and cimetidine we report, the use of cimetidine in <e1>tolazoline</e1> induced <e2>upper gastrointestinal hemorrhage</e2> should deserve more attention."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6144	"However, given the clinically significant result to the interaction between <e1>tolazoline</e1> and cimetidine we report, the use of cimetidine in <e1>tolazoline</e1> induced <e2>upper gastrointestinal hemorrhage</e2> should deserve more attention."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6145	"Hypoxemia improved during continuous <e1>tolazoline</e1> infusion, but <e2>gastrointestinal bleeding</e2> occurred."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6146	"Zolpidem (<e1>Ambien</e1>), a relatively new nonbenzodiazepine sedative-hypnotic, was involved in the <e2>death</e2> of a 39-year-old obese male who was being treated for depression and insomnia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6147	"<e1>Zolpidem</e1> (Ambien), a relatively new nonbenzodiazepine sedative-hypnotic, was involved in the <e2>death</e2> of a 39-year-old obese male who was being treated for depression and insomnia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6148	"Zolpidem tissue concentrations in a multiple drug related <e1>death</e1> involving <e2>Ambien</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6149	"<e1>Zolpidem</e1> tissue concentrations in a multiple drug related <e2>death</e2> involving Ambien."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6150	"Acute <e2>nitrite</e2> toxicity results from industrial exposure, accidental ingestion (e.g., abuse of organic <e2>nitrite</e2>s as an aphrodisiac, especially in the male homosexual population), and suicidal ingestion."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6151	"Infants are particularly susceptible to chronic <e1>nitrate</e1> -induced <e2>methemoglobinemia</e2> because of their low stomach acid production, large numbers of nitrite-reducing bacteria, and the relatively easy oxidation of fetal hemoglobin."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6152	"Acute <e2>esmolol</e2> toxicity may be self-limiting because of its extremely short half-life."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6153	"After induction of general anesthesia and administration of a standard dose of intravenous <e1>esmolol hydrochloride</e1>, her cardiac rhythm progressed to <e2>asystole</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6154	"<e1>Cardiac arrest</e1> after <e2>esmolol</e2> administration: a review of acute beta-blocker toxicity."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6155	"<e1>Atenolol</e1> induced <e2>memory impairment</e2>: a case report."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6156	"His <e1>impaired memory</e1> was found to be due to the <e2>atenolol</e2> he was on and he made a complete recovery on withdrawing the beta-blocker."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6157	"A potential role for renal and hepatic impairment in the observed protracted course of <e1>amiodarone</e1> -induced <e2>thyrotoxicosis</e2> is suggested."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6158	"Failure of plasmapheresis, corticosteroids and thionamides to ameliorate a case of protracted <e1>amiodarone</e1> -induced <e2>thyroiditis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6159	"We report a case of <e1>amiodarone</e1> -induced <e2>thyrotoxicosis</e2> of protracted duration, unresponsive to conventional thionamide therapy, with therapy limited by severe adverse drug reactions."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6160	"<e1>Psychotic disorder</e1> associated with <e2>isoniazid</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6161	"We evaluated a patient who developed a <e1>psychotic disorder</e1> after 4 months of <e2>isoniazid</e2> prophylaxis for a positive tuberculosis tine test."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6162	"A case report is presented concerning the administration of ketanserin in the treatment of <e1>pulmonary vasoconstriction</e1> and right ventricular failure following the infusion of <e2>protamine</e2> in a patient undergoing coronary artery bypass surgery and mitral valve replacement."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6163	"A case report is presented concerning the administration of ketanserin in the treatment of pulmonary vasoconstriction and <e1>right ventricular failure</e1> following the infusion of <e2>protamine</e2> in a patient undergoing coronary artery bypass surgery and mitral valve replacement."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6164	"Ketanserin in the treatment of <e1>protamine</e1> -induced <e2>pulmonary hypertension</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6165	"The reversal of heparin by <e1>protamine</e1> may cause severe hemodynamic deterioration, characterized by systemic hypotension, pulmonary hypertension, and <e2>bronchoconstriction</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6166	"The reversal of heparin by <e1>protamine</e1> may cause severe hemodynamic deterioration, characterized by systemic hypotension, <e2>pulmonary hypertension</e2>, and bronchoconstriction."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6167	"The reversal of heparin by <e1>protamine</e1> may cause <e2>severe hemodynamic deterioration</e2>, characterized by systemic hypotension, pulmonary hypertension, and bronchoconstriction."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6168	"The reversal of heparin by <e1>protamine</e1> may cause severe hemodynamic deterioration, characterized by <e2>systemic hypotension</e2>, pulmonary hypertension, and bronchoconstriction."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6169	"A drug addict with staphylococcal endocarditis treated with <e1>methicillin</e1>, who developed massive proteinuria and <e2>acute nephritic syndrome</e2> is described."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6170	"A drug addict with staphylococcal endocarditis treated with <e1>methicillin</e1>, who developed <e2>massive proteinuria</e2> and acute nephritic syndrome is described."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6171	"<e1>Focal glomerulonephritis</e1> and interstitial nephritis in <e2>methicillin</e2> -treated, heroin-related infective endocarditis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6172	"Focal glomerulonephritis and <e1>interstitial nephritis</e1> in <e2>methicillin</e2> -treated, heroin-related infective endocarditis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6173	"METHODS/RESULTS: This paper presents a new case of <e1>rifabutin</e1> <e2>uveitis</e2> and a review of the various published reports to date."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6174	"over the past 3 years there have been several reports of <e1>uveitis</e1> associated with <e2>rifabutin</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6175	"<e1>Uveitis</e1> associated with <e2>rifabutin</e2> therapy: a clinical alert."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6176	"CASE DESCRIPTION: A 59-year-old man with known neurocysticercosis developed a <e1>large cerebral infarction</e1> during <e2>praziquantel</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6177	"<e1>Large cerebral infarction</e1> during <e2>praziquantel</e2> therapy in neurocysticercosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6178	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., <e2>diarrhea</e2>, stomatitis, mucositis, myelosuppression, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6179	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., <e2>diarrhea</e2>, stomatitis, mucositis, myelosuppression, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6180	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, stomatitis, <e2>mucositis</e2>, myelosuppression, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6181	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, stomatitis, <e2>mucositis</e2>, myelosuppression, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6182	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, stomatitis, mucositis, <e2>myelosuppression</e2>, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6183	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, stomatitis, mucositis, <e2>myelosuppression</e2>, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6184	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, stomatitis, mucositis, myelosuppression, <e2>neurotoxicity</e2>) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6185	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, stomatitis, mucositis, myelosuppression, <e2>neurotoxicity</e2>) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6186	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, <e2>stomatitis</e2>, mucositis, myelosuppression, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6187	"DATA SYNTHESIS: Genetic deficiencies in DPD, the rate-limiting enzyme responsible for <e1>5-FU</e1> catabolism, may occur in 3% or more of patients with cancer putting them at increased risk for unusually severe adverse reactions (e.g., diarrhea, <e2>stomatitis</e2>, mucositis, myelosuppression, neurotoxicity) to standard doses of <e1>5-FU</e1>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6188	"Dihydropyrimidine dehydrogenase deficiency: a pharmacogenetic defect causing <e1>severe adverse reactions</e1> to <e2>5-fluorouracil</e2> -based chemotherapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6189	"PURPOSE/OBJECTIVES: To describe the pharmacogenetic syndrome of dihydropyrimidine dehydrogenase (DPD) deficiency, which predisposes patients with cancer to potentially <e1>lethal adverse reactions</e1> following <e2>5-fluorouracil</e2> (5-FU)-based chemotherapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6190	"PURPOSE/OBJECTIVES: To describe the pharmacogenetic syndrome of dihydropyrimidine dehydrogenase (DPD) deficiency, which predisposes patients with cancer to potentially <e1>lethal adverse reactions</e1> following 5-fluorouracil (<e2>5-FU</e2>)-based chemotherapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6191	"The principle treatment for DPD-deficient patients with severe acute <e1>5-FU</e1> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e1>5-FU</e1> -induced neurologic symptoms such as encephalopathy and <e2>coma</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6192	"The principle treatment for DPD-deficient patients with severe acute <e1>5-FU</e1> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e1>5-FU</e1> -induced neurologic symptoms such as encephalopathy and <e2>coma</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6193	"The principle treatment for DPD-deficient patients with severe acute <e1>5-FU</e1> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e1>5-FU</e1> -induced neurologic symptoms such as <e2>encephalopathy</e2> and coma."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6194	"The principle treatment for DPD-deficient patients with severe acute <e1>5-FU</e1> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e1>5-FU</e1> -induced neurologic symptoms such as <e2>encephalopathy</e2> and coma."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6195	"The principle treatment for DPD-deficient patients with severe acute <e1>5-FU</e1> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e1>5-FU</e1> -induced <e2>neurologic symptoms</e2> such as encephalopathy and coma."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6196	"The principle treatment for DPD-deficient patients with severe acute <e1>5-FU</e1> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e1>5-FU</e1> -induced <e2>neurologic symptoms</e2> such as encephalopathy and coma."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6197	"The principle treatment for DPD-deficient patients with severe acute <e2>5-FU</e2> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e2>5-FU</e2> -induced neurologic symptoms such as encephalopathy and coma."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6198	"The principle treatment for DPD-deficient patients with severe acute <e2>5-FU</e2> reactions is supportive care; however, the administration of thymidine potentially may reverse severe <e2>5-FU</e2> -induced neurologic symptoms such as encephalopathy and coma."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6199	"A 49-year-old man with Crohn's disease treated with prednisone and mesalamine (<e1>5-ASA</e1>) developed worsening respiratory distress and <e2>fever</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6200	"A 49-year-old man with Crohn's disease treated with prednisone and <e1>mesalamine</e1> (5-ASA) developed worsening respiratory distress and <e2>fever</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6201	"A 49-year-old man with Crohn's disease treated with <e1>prednisone</e1> and mesalamine (5-ASA) developed worsening respiratory distress and <e2>fever</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6202	"A 49-year-old man with Crohn's disease treated with prednisone and mesalamine (<e1>5-ASA</e1>) developed <e2>worsening respiratory distress</e2> and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6203	"A 49-year-old man with Crohn's disease treated with prednisone and <e1>mesalamine</e1> (5-ASA) developed <e2>worsening respiratory distress</e2> and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6204	"A 49-year-old man with Crohn's disease treated with <e1>prednisone</e1> and mesalamine (5-ASA) developed <e2>worsening respiratory distress</e2> and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6205	"<e1>Mesalamine</e1> -induced <e2>hypersensitivity pneumonitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6206	"<e1>Mesalamine</e1> may cause <e2>hypersensitivity pneumonitis</e2> in patients with Crohn's disease."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6207	"Immunosuppression elicited by the extensive administration of <e1>prednisolone</e1> was suspected for the initiation of the generalized <e2>mite infestation</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6208	"BACKGROUND: <e1>Colchicine</e1> has a known <e2>adverse effect on wound healing</e2> through its inhibitory effect on tubulin-dependent cell functions and through collagenase activation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6209	"BACKGROUND: <e1>Colchicine</e1> has a known adverse effect on wound healing through its inhibitory effect on tubulin-dependent cell functions and through <e2>collagenase activation</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6210	"CONCLUSION: The findings in these two patients suggest that <e1>colchicine</e1> may <e2>delay corneal wound healing</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6211	"<e1>Delay of corneal wound healing</e1> in patients treated with <e2>colchicine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6212	"The authors report on two patients with <e1>corneal ulcers refractory to conventional treatment</e1> while the patients were undergoing oral <e2>colchicine</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6213	"The authors suggest that in patients with <e1>corneal ulcers refractory to conventional treatment</e1> who are receiving <e2>colchicine</e2>, cessation of <e2>colchicine</e2> therapy should be considered."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6214	"<e1>Fulminant hepatic failure</e1> associated with <e2>bicalutamide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6215	"A 17-year-old female patient who had been taking oral <e1>minocycline</e1> (50 mg twice daily) for 3 weeks for acne developed an <e2>eruption</e2> that progressed to an exfoliative dermatitis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6216	"A 17-year-old female patient who had been taking oral <e1>minocycline</e1> (50 mg twice daily) for 3 weeks for acne developed an eruption that progressed to an <e2>exfoliative dermatitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6217	"Fever, lymphadenopathy, eosinophilia, lymphocytosis, hepatitis, and <e1>dermatitis</e1>: a severe adverse reaction to <e2>minocycline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6218	"Fever, lymphadenopathy, <e1>eosinophilia</e1>, lymphocytosis, hepatitis, and dermatitis: a severe adverse reaction to <e2>minocycline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6219	"<e1>Fever</e1>, lymphadenopathy, eosinophilia, lymphocytosis, hepatitis, and dermatitis: a severe adverse reaction to <e2>minocycline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6220	"Fever, lymphadenopathy, eosinophilia, lymphocytosis, <e1>hepatitis</e1>, and dermatitis: a severe adverse reaction to <e2>minocycline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6221	"Fever, <e1>lymphadenopathy</e1>, eosinophilia, lymphocytosis, hepatitis, and dermatitis: a severe adverse reaction to <e2>minocycline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6222	"Fever, lymphadenopathy, eosinophilia, <e1>lymphocytosis</e1>, hepatitis, and dermatitis: a severe adverse reaction to <e2>minocycline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6223	"This severe illness was likely caused by <e1>minocycline</e1>, and we speculate that <e1>minocycline</e1> may have acted as a superantigen, causing <e2>lymphocyte over-activation</e2> and massive cytokine release."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6224	"This severe illness was likely caused by <e1>minocycline</e1>, and we speculate that <e1>minocycline</e1> may have acted as a superantigen, causing lymphocyte over-activation and <e2>massive cytokine release</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6225	"This <e1>severe illness</e1> was likely caused by <e2>minocycline</e2>, and we speculate that <e2>minocycline</e2> may have acted as a superantigen, causing lymphocyte over-activation and massive cytokine release."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6226	"<e1>Delayed hypersensitivity</e1> to <e2>flurbiprofen</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6227	"<e1>Eye movement disorders</e1> in bone marrow transplant patients on <e2>cyclosporin</e2> and ganciclovir."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6228	"<e1>Eye movement disorders</e1> in bone marrow transplant patients on cyclosporin and <e2>ganciclovir</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6229	"One patient had <e1>MRI T2 abnormalities</e1> compatible with <e2>cyclosporin</e2> neurotoxicity."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6230	"One patient had MRI T2 abnormalities compatible with <e1>cyclosporin</e1> <e2>neurotoxicity</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6231	"We postulate that <e1>cyclosporin</e1>, possibly together with ganciclovir, can produce transient brain stem or neuromuscular dysfunction with <e2>eye movement abnormality</e2> in occasional patients."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6232	"We postulate that cyclosporin, possibly together with <e1>ganciclovir</e1>, can produce transient brain stem or neuromuscular dysfunction with <e2>eye movement abnormality</e2> in occasional patients."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6233	"We postulate that <e1>cyclosporin</e1>, possibly together with ganciclovir, can produce <e2>transient brain stem or neuromuscular dysfunction</e2> with eye movement abnormality in occasional patients."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6234	"We postulate that cyclosporin, possibly together with <e1>ganciclovir</e1>, can produce <e2>transient brain stem or neuromuscular dysfunction</e2> with eye movement abnormality in occasional patients."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6235	"CONCLUSION: While <e1>thrombosis</e1> has been reported with <e2>GnRH-a</e2> therapy in men with prostate cancer, its association with treatment in this benign case may have been a consequence of the massive tumor size."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6236	"The possible effects of <e1>tamoxifen</e1> upon the uterus are discussed in this article, in view of reports of <e1>tamoxifen</e1> associated with <e2>endometrial carcinoma</e2> and endometriosis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6237	"The possible effects of <e1>tamoxifen</e1> upon the uterus are discussed in this article, in view of reports of <e1>tamoxifen</e1> associated with endometrial carcinoma and <e2>endometriosis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6238	"Case study: <e1>adverse response</e1> to <e2>clonidine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6239	"Four cases of <e1>adverse experiences</e1> with <e2>clonidine</e2> are described."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6240	"In one instance a systemic hypoglycemic reaction resulting in head trauma and <e1>confusion</e1> ended in an emegency hospital admission following the substitution of <e2>acetohexamide</e2> for acetazolamide."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6241	"In one instance a systemic hypoglycemic reaction resulting in <e1>head trauma</e1> and confusion ended in an emegency hospital admission following the substitution of <e2>acetohexamide</e2> for acetazolamide."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6242	"In one instance a <e1>systemic hypoglycemic reaction</e1> resulting in head trauma and confusion ended in an emegency hospital admission following the substitution of <e2>acetohexamide</e2> for acetazolamide."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6243	"Discontinuation of the <e1>itraconazole</e1> caused resolution of the <e2>drug eruption</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6244	"Primary cutaneous coccidioidomycosis and subsequent <e1>drug eruption</e1> to <e2>itraconazole</e2> in a dog."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6245	"<e1>Primary cutaneous coccidioidomycosis</e1> and subsequent drug eruption to <e2>itraconazole</e2> in a dog."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6246	"Its overall toxicity is considerably less compared to standard induction chemotherapy; however, it is associated with a high incidence of a <e1>potentially fatal symptom</e1> complex referred to as "<e2>retinoic acid</e2> syndrome." This report describes a patient with APL who developed the syndrome a few weeks after initiating induction therapy with ATRA despite being treated for hyperleukocytosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6247	"Its overall toxicity is considerably less compared to standard induction chemotherapy; however, it is associated with a high incidence of a potentially fatal symptom complex referred to as "<e2>retinoic acid</e2> syndrome." This report describes a patient with APL who developed the syndrome a few weeks after initiating induction therapy with ATRA despite being treated for hyperleukocytosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6248	"Its overall <e1>toxicity</e1> is considerably less compared to standard induction chemotherapy; however, it is associated with a high incidence of a potentially fatal symptom complex referred to as "<e2>retinoic acid</e2> syndrome." This report describes a patient with APL who developed the syndrome a few weeks after initiating induction therapy with ATRA despite being treated for hyperleukocytosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6249	"Eleven days after initiation of therapy with <e1>amiodarone</e1>, the patient experienced syncope and was noted to have recurrent episodes of <e2>polymorphous ventricular tachycardia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6250	"Eleven days after initiation of therapy with <e1>amiodarone</e1>, the patient experienced <e2>syncope</e2> and was noted to have recurrent episodes of polymorphous ventricular tachycardia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6251	"<e1>Nonsustained polymorphous ventricular tachycardia</e1> during <e2>amiodarone</e2> therapy for atrial fibrillation complicating cardiomyopathy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6252	"The probable <e1>proarrhythmic</e1> action of <e2>amiodarone</e2>, although rare, is reviewed along with a discussion of the novel use of intravenous magnesium sulfate therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6253	"<e1>Acute asthma</e1> associated with sustained-release <e2>verapamil</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6254	"Although dyspnea associated with <e1>verapamil</e1> administration has been reported, this is the first report of an elderly asymptomatic asthmatic patient with hypertension who developed an <e2>acute asthma</e2> attack following sustained-release <e1>verapamil</e1> administration."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6255	"Although <e1>dyspnea</e1> associated with <e2>verapamil</e2> administration has been reported, this is the first report of an elderly asymptomatic asthmatic patient with hypertension who developed an acute asthma attack following sustained-release <e2>verapamil</e2> administration."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6256	"CONCLUSIONS: Sustained-release <e1>verapamil</e1> is thought to be the cause of the <e2>asthma attack</e2> in this patient because she was not taking any other preparations; the symptoms started with the administration of sustained-release <e1>verapamil</e1> and were relieved after its discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6257	"CONCLUSIONS: Sustained-release <e1>verapamil</e1> is thought to be the cause of the <e2>asthma attack</e2> in this patient because she was not taking any other preparations; the symptoms started with the administration of sustained-release <e1>verapamil</e1> and were relieved after its discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6258	"OBJECTIVE: To describe a patient with asymptomatic bronchial asthma and hypertension who developed an <e1>acute asthma</e1> attack after receiving sustained-release <e2>verapamil</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6259	"She continued taking <e1>verapamil</e1> for 6 months, then, on her own, stopped all medications including the sustained-release <e1>verapamil</e1>, and her <e2>asthma</e2> symptoms disappeared."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6260	"<e2>Cephalexin</e2> rash in infectious mononucleosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6261	"The <e2>ampicillin</e2> rash occurring in cases of infectious mononucleosis is well documented."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6262	"The case of a patient with infectious mononucleosis treated with <e1>cephalexin</e1> who later showed a <e2>rash</e2> is presented and the previous literature is reviewed."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6263	"The <e1>rash</e1> seen in this patient, who was treated with <e2>cephalexin</e2>, may be similar to the <e1>rash</e1> seen with ampicillin treatment of patients with infectious mononucleosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6264	"The <e1>rash</e1> seen in this patient, who was treated with cephalexin, may be similar to the <e1>rash</e1> seen with <e2>ampicillin</e2> treatment of patients with infectious mononucleosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6265	"A possible case of <e1>carbamazepine</e1> induced <e2>pancreatitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6266	"The authors report a case of acute <e1>pancreatitis</e1> (AP) occurring in a patient under treatment with <e2>carbamazepine</e2> (CBZ) for post-traumatic petit mal epilepsy, and review the current literature of drug-induced AP."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6267	"The authors report a case of acute <e1>pancreatitis</e1> (AP) occurring in a patient under treatment with carbamazepine (<e2>CBZ</e2>) for post-traumatic petit mal epilepsy, and review the current literature of drug-induced AP."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6268	"The evidence of high plasmatic levels of <e1>CBZ</e1> and the absence of other aetiologic factors lead the authors to conclude that the overdose of <e1>CBZ</e1> could have represented the precipitating of the episode of <e2>acute pancreatitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6269	"The evidence of high plasmatic levels of <e1>CBZ</e1> and the absence of other aetiologic factors lead the authors to conclude that the overdose of <e1>CBZ</e1> could have represented the precipitating of the episode of <e2>acute pancreatitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6270	"Although risk factors for <e1>MTX</e1> -induced pulmonary toxicity are poorly understood, the presence in 3 out of 5 of our patients of pre-existing lung disease, represented by diffuse interstitial changes on chest X-ray, and mild bronchial asthma in two RA patients and by pulmonary silicosis in the patient with PsA may account for a predisposition to the development of <e1>MTX</e1> <e2>pneumonitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6271	"Although risk factors for <e1>MTX</e1> -induced <e2>pulmonary toxicity</e2> are poorly understood, the presence in 3 out of 5 of our patients of pre-existing lung disease, represented by diffuse interstitial changes on chest X-ray, and mild bronchial asthma in two RA patients and by pulmonary silicosis in the patient with PsA may account for a predisposition to the development of <e1>MTX</e1> pneumonitis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6272	"<e1>Methotrexate</e1> -induced <e2>pneumonitis</e2> in patients with rheumatoid arthritis and psoriatic arthritis: report of five cases and review of the literature."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6273	"On the other hand, <e1>MTX</e1> -induced <e2>pneumonitis</e2> seems to be very rare in psoriatic arthritis (PsA)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6274	"Our review of 194 RA patients and 38 PsA patients receiving <e1>MTX</e1> has identified four RA patients and one PsA patient with <e1>MTX</e1> -induced <e2>pneumonitis</e2>, giving a prevalence of 2.1% and 0.03%, respectively."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6275	"<e1>Pneumonitis</e1> is emerging as one of the most unpredictable and potentially serious, adverse effects of treatment with <e2>MTX</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6276	"The presence of a lymphocyte alveolitis with a predominance of CD4+ T cells in 3 RA patients and CD8+ T cells with a concomitant increase in neutrophils in another case suggests that immunologically mediated reactions may be one damage mechanism in <e1>MTX</e1> -induced <e2>pneumonitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6277	"A retrospective epidemiological study of deaths from <e1>hepatic angiosarcoma</e1> (HAS) in the U.S. showed that during 1964--74 there were 168 such cases, of which 37 (22%) were associated with previously known causes (vinyl chloride, 'Thorotrast', and <e2>inorganic arsenic</e2>) and 4 (3.1%) of the remaining 131 cases with the use of androgenic-anabolic steroids."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6278	"A retrospective epidemiological study of deaths from <e1>hepatic angiosarcoma</e1> (HAS) in the U.S. showed that during 1964--74 there were 168 such cases, of which 37 (22%) were associated with previously known causes (vinyl chloride, '<e2>Thorotrast</e2>', and inorganic arsenic) and 4 (3.1%) of the remaining 131 cases with the use of androgenic-anabolic steroids."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6279	"A retrospective epidemiological study of deaths from <e1>hepatic angiosarcoma</e1> (HAS) in the U.S. showed that during 1964--74 there were 168 such cases, of which 37 (22%) were associated with previously known causes (<e2>vinyl chloride</e2>, 'Thorotrast', and inorganic arsenic) and 4 (3.1%) of the remaining 131 cases with the use of androgenic-anabolic steroids."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6280	"Recent studies have shown that under experimental conditions <e1>ferrous sulfate</e1> may <e2>reduce the gastrointestinal absorption of orally administered levothyroxine sodium</e2> in patients with primary hypothyroidism."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6281	"We describe a patient who became <e1>hypothyroid</e1> while taking <e2>ferrous sulfate</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6282	"However, as the use of <e1>hepatitis B vaccination</e1> is growing, adverse side effects, including <e2>mental nerve neuropathy</e2>, should be observed with an increased frequency."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6283	"<e1>Mental nerve neuropathy</e1> as a result of <e2>hepatitis B vaccination</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6284	"Although its side effects are few, <e1>tamoxifen</e1> increases the incidence of <e2>proliferative lesions of the endometrium</e2>, which theoretically should be preventable with progestational agents."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6285	"CASES: Two postmenopausal women treated with <e1>tamoxifen</e1> and progestational agents for breast carcinoma developed uterine enlargement and <e2>intermittent spotting</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6286	"CASES: Two postmenopausal women treated with <e1>tamoxifen</e1> and progestational agents for breast carcinoma developed <e2>uterine enlargement</e2> and intermittent spotting."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6287	"CONCLUSIONS: The value of multihormonal therapy in breast <e1>carcinoma</e1> is not established, and the addition of progestogens to <e2>tamoxifen</e2> may not reduce of developing endometrial lesions, including <e1>carcinoma</e1>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6288	"CONCLUSIONS: The value of multihormonal therapy in breast carcinoma is not established, and the addition of progestogens to <e1>tamoxifen</e1> may not reduce of developing <e2>endometrial lesions</e2>, including carcinoma."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6289	"<e1>Bleomycin</e1> and cyclophosphamide toxicity simulating <e2>metastatic nodules</e2> to the lungs in childhood cancer."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6290	"Bleomycin and <e1>cyclophosphamide</e1> toxicity simulating <e2>metastatic nodules</e2> to the lungs in childhood cancer."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6291	"Thoracoscopic biopsy to confirm metastasis revealed instead <e1>fibrotic lesions</e1> apparently attributable to <e2>bleomycin</e2> or cyclophosphamide."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6292	"Thoracoscopic biopsy to confirm metastasis revealed instead <e1>fibrotic lesions</e1> apparently attributable to bleomycin or <e2>cyclophosphamide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6293	"An elderly man with <e1>procainamide hydrochloride</e1> -induced <e2>lupus syndrome</e2> had a circulating anticoagulant against factor XI and a biologic false-positive (BFP) test result for syphilis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6294	"Circulating anticoagulant in the <e1>procainamide</e1> -induced <e2>lupus syndrome</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6295	"Clinical signs of <e1>hypermagnesemia</e1> are an uncommon complication following oral administration of <e2>magnesium sulfate</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6296	"Establishment of diuresis with fluids and IV administration of calcium may provide successful treatment of <e2>magnesium</e2> toxicosis in horses."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6297	"<e2>Magnesium</e2> toxicosis in two horses."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6298	"Overdose of <e1>magnesium</e1> sulfate in combination with renal insufficiency, hypocalcemia, or compromise of intestinal integrity may predispose horses to <e1>magnesium</e1> toxicosis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6299	"Overdose of <e1>magnesium sulfate</e1> in combination with renal insufficiency, hypocalcemia, or compromise of intestinal integrity may predispose horses to <e2>magnesium toxicosis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6300	"CASE SUMMARIES: In each case, the patients were treated over 5 years with <e1>lovastatin</e1> and developed <e2>rhabdomyolysis</e2> that coincided with the completion of a prescribed regimen of a newer macrolide antibiotic."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6301	"CONCLUSIONS: The risk of drug-induced <e1>rhabdomyolysis</e1> due to the potential interaction between lovastatin and <e2>azithromycin</e2> or clarithromycin should be considered before the concomitant use of these agents."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6302	"CONCLUSIONS: The risk of drug-induced <e1>rhabdomyolysis</e1> due to the potential interaction between lovastatin and azithromycin or <e2>clarithromycin</e2> should be considered before the concomitant use of these agents."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6303	"CONCLUSIONS: The risk of drug-induced <e1>rhabdomyolysis</e1> due to the potential interaction between <e2>lovastatin</e2> and azithromycin or clarithromycin should be considered before the concomitant use of these agents."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6304	"DISCUSSION: Rhabdomyolysis is a clinical syndrome resulting from the destruction of skeletal muscle that may progress to renal failure Several drugs have been associated with <e1>rhabdomyolysis</e1>, including <e2>lovastatin</e2>, a hydroxymethylglutaryl-coenzyme A reductase inhibitor."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6305	"<e1>Erythromycin</e1> is a macrolide antibiotic that may increase the risk of lovastatin-induced <e2>rhabdomyolysis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6306	"Erythromycin is a macrolide antibiotic that may increase the risk of <e1>lovastatin</e1> -induced <e2>rhabdomyolysis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6307	"Lovastatin-induced <e1>rhabdomyolysis</e1> possibly associated with clarithromycin and <e2>azithromycin</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6308	"Lovastatin-induced <e1>rhabdomyolysis</e1> possibly associated with <e2>clarithromycin</e2> and azithromycin."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6309	"<e1>Lovastatin</e1> -induced <e2>rhabdomyolysis</e2> possibly associated with clarithromycin and azithromycin."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6310	"OBJECTIVE: To describe two cases of <e1>rhabdomyolysis</e1> in patients taking lovastatin that were precipitated by the use of the newer macrolide antibiotics clarithromycin and <e2>azithromycin</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6311	"OBJECTIVE: To describe two cases of <e1>rhabdomyolysis</e1> in patients taking lovastatin that were precipitated by the use of the newer macrolide antibiotics <e2>clarithromycin</e2> and azithromycin."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6312	"OBJECTIVE: To describe two cases of <e1>rhabdomyolysis</e1> in patients taking <e2>lovastatin</e2> that were precipitated by the use of the newer macrolide antibiotics clarithromycin and azithromycin."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6313	"To our knowledge, these cases are the first published reports of lovastatin-induced <e1>rhabdomyolysis</e1> associated with <e2>azithromycin</e2> and clarithromycin."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6314	"To our knowledge, these cases are the first published reports of lovastatin-induced <e1>rhabdomyolysis</e1> associated with azithromycin and <e2>clarithromycin</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6315	"To our knowledge, these cases are the first published reports of <e1>lovastatin</e1> -induced <e2>rhabdomyolysis</e2> associated with azithromycin and clarithromycin."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6316	"These cases were considered unusual in light of the short delay of their onset after initiation of immunosuppressive therapy and their fulminant course: 3 of these patients <e1>died</e1> of PCP occurring during the first month of treatment with <e2>prednisone</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6317	"We report the specifics of 12 cases of <e1>severe hypertension</e1> after the intraoperative use of topical phenylephrine, submucosal <e2>epinephrine</e2>, or both."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6318	"We report the specifics of 12 cases of <e1>severe hypertension</e1> after the intraoperative use of topical <e2>phenylephrine</e2>, submucosal epinephrine, or both."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6319	"<e1>Acute leukaemia</e1> during <e2>tamoxifen</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6320	"<e1>Tamoxifen</e1> is suggested to be <e2>carcinogenic</e2> both through direct genotoxic and epigenetic mechanisms."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6321	"We report two cases that developed <e1>acute myeloid leukaemia</e1> (AML) during <e2>tamoxifen</e2> therapy for breast cancer."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6322	"We report two cases that developed acute myeloid leukaemia (<e1>AML</e1>) during <e2>tamoxifen</e2> therapy for breast cancer."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6323	"<e1>Relapse in the external auditory canal of acute promyelocytic leukemia</e1> after treatment with <e2>all-trans retinoic acid</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6324	"This case suggests the importance of careful observation for <e1>extramedullary relapse</e1> in patients who are treated with <e2>ATRA</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6325	"<e1>Cutaneous reactions</e1> to propylthiouracil and <e2>methimazole</e2> occur in 3%-5% of adults."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6326	"<e1>Cutaneous reactions</e1> to <e2>propylthiouracil</e2> and methimazole occur in 3%-5% of adults."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6327	"<e1>Generalized maculopapular and papular purpuric eruptions</e1> are perhaps the most common <e2>thionamide</e2> -induced reactions."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6328	"<e1>Propylthiouracil</e1> -induced <e2>cutaneous vasculitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6329	"The observation of <e1>cutaneous vasculitis</e1> during administration of <e2>propylthiouracil</e2> suggested that clinical awareness of this complication should be of considerable importance."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6330	"A 2-year-old mentally retarded boy with frontal lobe epilepsy presented with an episode that resembled <e1>heat stroke</e1> during the administration of <e2>zonisamide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6331	"Children receiving <e1>zonisamide</e1> should be monitored for oligohidrosis and the development of <e2>neurological symptoms</e2> associated with an elevation of body temperature."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6332	"Children receiving <e1>zonisamide</e1> should be monitored for <e2>oligohidrosis</e2> and the development of neurological symptoms associated with an elevation of body temperature."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6333	"<e1>Heat stroke-like episode</e1> in a child caused by <e2>zonisamide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6334	"The <e1>oligohidrosis</e1> caused by <e2>zonisamide</e2> was reversible in that the patient regained the ability to sweat within 2 weeks of the cessation of drug administration."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6335	"<e1>Acute renal failure</e1> in a patient receiving treatment with <e2>suramin</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6336	"Acute <e1>renal failure</e1> should be recognized as a potential complication of <e2>suramin</e2> treatment."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6337	"Other potential causes of <e1>renal failure</e1> were not present in our patient and his renal function gradually recovered with the cessation of <e2>suramin</e2> treatment."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6338	"We describe a patient with metastatic prostate cancer who developed <e1>nonoliguric renal failure</e1> during treatment with <e2>suramin</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6339	"<e1>Clozapine</e1> induced <e2>polyserositis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6340	"We report the case of a patient who developed polyserositis (<e1>pericardial effusion</e1>, pleural effusion, and pericarditis) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6341	"We report the case of a patient who developed polyserositis (<e1>pericardial effusion</e1>, pleural effusion, and pericarditis) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6342	"We report the case of a patient who developed polyserositis (pericardial effusion, pleural effusion, and <e1>pericarditis</e1>) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6343	"We report the case of a patient who developed polyserositis (pericardial effusion, pleural effusion, and <e1>pericarditis</e1>) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6344	"We report the case of a patient who developed polyserositis (pericardial effusion, <e1>pleural effusion</e1>, and pericarditis) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6345	"We report the case of a patient who developed polyserositis (pericardial effusion, <e1>pleural effusion</e1>, and pericarditis) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6346	"We report the case of a patient who developed <e1>polyserositis</e1> (pericardial effusion, pleural effusion, and pericarditis) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6347	"We report the case of a patient who developed <e1>polyserositis</e1> (pericardial effusion, pleural effusion, and pericarditis) after being started on <e2>clozapine</e2>, and whose symptoms remitted upon discontinuation of <e2>clozapine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6348	"When the disease recurred conventional <e1>amphotericin B</e1> was used again, but had to be stopped because of <e2>severe side effects</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6349	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, cytosine arabinoside (<e1>ARA-C</e1>); among them, along with myelosuppression, five experienced <e2>fever</e2>, infectious complications, gastrointestinal tract symptoms and severe myalgias."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6350	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, <e1>cytosine arabinoside</e1> (ARA-C); among them, along with myelosuppression, five experienced <e2>fever</e2>, infectious complications, gastrointestinal tract symptoms and severe myalgias."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6351	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, cytosine arabinoside (<e1>ARA-C</e1>); among them, along with myelosuppression, five experienced fever, infectious complications, <e2>gastrointestinal tract symptoms</e2> and severe myalgias."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6352	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, <e1>cytosine arabinoside</e1> (ARA-C); among them, along with myelosuppression, five experienced fever, infectious complications, <e2>gastrointestinal tract symptoms</e2> and severe myalgias."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6353	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, cytosine arabinoside (<e1>ARA-C</e1>); among them, along with myelosuppression, five experienced fever, <e2>infectious complications</e2>, gastrointestinal tract symptoms and severe myalgias."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6354	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, <e1>cytosine arabinoside</e1> (ARA-C); among them, along with myelosuppression, five experienced fever, <e2>infectious complications</e2>, gastrointestinal tract symptoms and severe myalgias."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6355	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, cytosine arabinoside (<e1>ARA-C</e1>); among them, along with myelosuppression, five experienced fever, infectious complications, gastrointestinal tract symptoms and <e2>severe myalgias</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6356	"Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, <e1>cytosine arabinoside</e1> (ARA-C); among them, along with myelosuppression, five experienced fever, infectious complications, gastrointestinal tract symptoms and <e2>severe myalgias</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6357	"CONCLUSION: We believe this to be the first reported case of <e1>rhGH</e1> -induced <e2>hypercalcemia</e2> in an HIV-infected patient."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6358	"<e1>Hypercalcemia</e1> in an AIDS patient treated with <e2>growth hormone</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6359	"The <e1>hypercalcemia</e1> responded to discontinuation of <e2>rhGH</e2> and a single dose of intravenous pamidronate disodium and has not recurred in 8 months of follow-up."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6360	"We report a male patient with advanced AIDS who developed <e1>hypercalcemia</e1> 2 weeks after institution of <e2>rhGH</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6361	"<e1>Hypersensitivity reactions</e1> to <e2>cisplatin</e2> following multiple uncomplicated courses: a report on two cases."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6362	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and hypotension; the other, involving intravenous infusion, manifested <e2>abdominal pain</e2>, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6363	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and hypotension; the other, involving intravenous infusion, manifested <e2>abdominal pain</e2>, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6364	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, <e2>dyspnea</e2>, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6365	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, <e2>dyspnea</e2>, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6366	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and <e2>fever</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6367	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and <e2>fever</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6368	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested <e2>general erythema</e2>, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, <e2>general erythema</e2>, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6369	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested <e2>general erythema</e2>, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, <e2>general erythema</e2>, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6370	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested <e2>general erythema</e2>, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, <e2>general erythema</e2>, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6371	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested <e2>general erythema</e2>, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, <e2>general erythema</e2>, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6372	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced <e2>hypersensitivity reactions</e2> to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6373	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced <e2>hypersensitivity reactions</e2> to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and hypotension; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6374	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and <e2>hypotension</e2>; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6375	"Two patients with ovarian cancer who had received multiple courses of <e1>cisplatin</e1> without complications experienced hypersensitivity reactions to <e1>cisplatin</e1>: one, involving intrahepatic artery infusion, manifested general erythema, dyspnea, and <e2>hypotension</e2>; the other, involving intravenous infusion, manifested abdominal pain, general erythema, and fever."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6376	"We report an unusually short lived and asymptomatic episode of severe <e1>cisplatin</e1> -induced <e2>renal tubular salt wasting</e2> in a fit 41-year-old patient with malignant teratoma."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6377	"Clinicians should include <e1>phenolphthalein</e1> in their list of possible causes of drug-induced <e2>TEN</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6378	"DISCUSSION: <e1>Phenolphthalein</e1> is the active ingredient in several over-the-counter laxative preparations and has only rarely been reported to cause <e2>TEN</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6379	"OBJECTIVE: To report a case of <e1>phenolphthalein</e1> -induced toxic epidermal necrolysis (<e2>TEN</e2>) in a patient maintained on several other medications more commonly known to be associated with <e2>TEN</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6380	"OBJECTIVE: To report a case of <e1>phenolphthalein</e1> -induced toxic epidermal necrolysis (<e2>TEN</e2>) in a patient maintained on several other medications more commonly known to be associated with <e2>TEN</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6381	"OBJECTIVE: To report a case of <e1>phenolphthalein</e1> -induced <e2>toxic epidermal necrolysis</e2> (TEN) in a patient maintained on several other medications more commonly known to be associated with TEN."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6382	"<e1>Phenolphthalein</e1> -induced <e2>toxic epidermal necrolysis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6383	"The patient's previous <e1>rash</e1> and the temporal relation of this event and the ingestion of <e2>phenolphthalein</e2>, as well as the similarity of this case to other reports, point to <e2>phenolphthalein</e2> as the cause of TEN in this patient."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6384	"The patient's previous rash and the temporal relation of this event and the ingestion of <e1>phenolphthalein</e1>, as well as the similarity of this case to other reports, point to <e1>phenolphthalein</e1> as the cause of <e2>TEN</e2> in this patient."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6385	"<e2>Carbamazepine</e2> toxicity induced by clarithromycin coadministration in psychiatric patients."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6386	"<e1>Carbamazepine toxicity</e1> induced by <e2>clarithromycin</e2> coadministration in psychiatric patients."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6387	"During clarithromycin coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of <e1>carbamazepine</e1>, such as drowsiness, dizziness, and <e2>ataxia</e2>, which resolved within 5 days after clarithromycin discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6388	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of carbamazepine, such as drowsiness, dizziness, and <e2>ataxia</e2>, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6389	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of carbamazepine, such as drowsiness, dizziness, and <e2>ataxia</e2>, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6390	"During clarithromycin coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of <e1>carbamazepine</e1>, such as drowsiness, <e2>dizziness</e2>, and ataxia, which resolved within 5 days after clarithromycin discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6391	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of carbamazepine, such as drowsiness, <e2>dizziness</e2>, and ataxia, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6392	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of carbamazepine, such as drowsiness, <e2>dizziness</e2>, and ataxia, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6393	"During clarithromycin coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of <e1>carbamazepine</e1>, such as <e2>drowsiness</e2>, dizziness, and ataxia, which resolved within 5 days after clarithromycin discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6394	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of carbamazepine, such as <e2>drowsiness</e2>, dizziness, and ataxia, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6395	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe toxic symptoms of carbamazepine, such as <e2>drowsiness</e2>, dizziness, and ataxia, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6396	"During clarithromycin coadministration, four out of the seven patients developed moderate-to-severe <e1>toxic symptoms</e1> of <e2>carbamazepine</e2>, such as drowsiness, dizziness, and ataxia, which resolved within 5 days after clarithromycin discontinuation."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6397	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe <e2>toxic symptoms</e2> of carbamazepine, such as drowsiness, dizziness, and ataxia, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6398	"During <e1>clarithromycin</e1> coadministration, four out of the seven patients developed moderate-to-severe <e2>toxic symptoms</e2> of carbamazepine, such as drowsiness, dizziness, and ataxia, which resolved within 5 days after <e1>clarithromycin</e1> discontinuation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6399	"The present report suggests that clarithromycin coadministration induces increased plasma <e1>carbamazepine</e1> concentrations, which may result in <e1>carbamazepine</e1> toxicity."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6400	"The present report suggests that clarithromycin coadministration induces increased plasma <e1>carbamazepine</e1> concentrations, which may result in <e1>carbamazepine</e1> toxicity."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6401	"The present report suggests that <e1>clarithromycin</e1> coadministration induces increased plasma carbamazepine concentrations, which may result in <e2>carbamazepine toxicity</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6402	"The present report suggests that clarithromycin coadministration induces increased plasma <e2>carbamazepine</e2> concentrations, which may result in <e2>carbamazepine</e2> toxicity."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6403	"The present report suggests that clarithromycin coadministration induces increased plasma <e2>carbamazepine</e2> concentrations, which may result in <e2>carbamazepine</e2> toxicity."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6404	"The present report suggests that <e1>clarithromycin</e1> coadministration induces <e2>increased plasma carbamazepine</e2> concentrations, which may result in carbamazepine toxicity."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6405	"Acute hemorrhagic gastritis associated with <e2>acetazolamide</e2> intoxication in a patient with chronic renal failure."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6406	"<e1>Acute hemorrhagic gastritis</e1> associated with <e2>acetazolamide</e2> intoxication in a patient with chronic renal failure."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6407	"As far as we know, this is the first case report of <e1>acute hemorrhagic gastritis</e1> associated with <e2>AZ</e2> intoxication."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6408	"As far as we know, this is the first case report of acute hemorrhagic gastritis associated with <e2>AZ</e2> intoxication."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6409	"She was thus diagnosed as having <e2>AZ</e2> intoxication."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6410	"We experienced a case of chronic renal failure in a patient suffering from <e1>acute hemorrhagic gastritis</e1> associated with <e2>AZ</e2> intoxication."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6411	"We experienced a case of chronic renal failure in a patient suffering from acute hemorrhagic gastritis associated with <e2>AZ</e2> intoxication."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6412	"We thus concluded that an excessive dose of <e1>AZ</e1> had probably <e2>destroyed the gastric mucosal barrier</e2> or thrombocytopenia due to bone marrow disorder and thus eventually led to the development of hemorrhagic gastritis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6413	"We thus concluded that an excessive dose of <e1>AZ</e1> had probably destroyed the gastric mucosal barrier or thrombocytopenia due to bone marrow disorder and thus eventually led to the development of <e2>hemorrhagic gastritis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6414	"We thus concluded that an excessive dose of <e1>AZ</e1> had probably destroyed the gastric mucosal barrier or <e2>thrombocytopenia due to bone marrow disorder</e2> and thus eventually led to the development of hemorrhagic gastritis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6415	"In association with this tocolysis, <e1>urinary calculus</e1> of <e2>magnesium ammonium phosphate</e2> occurred at 34 weeks gestation."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6416	"<e1>Magnesium</e1> tocolysis as the cause of <e2>urinary calculus</e2> during pregnancy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6417	"<e1>Danazol</e1> induced <e2>thrombocytopenia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6418	"On the next day, after a total dose of only 600 mg of <e1>danazol</e1>, <e2>gingival bleeding</e2> and purpura occurred."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6419	"On the next day, after a total dose of only 600 mg of <e1>danazol</e1>, gingival bleeding and <e2>purpura</e2> occurred."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6420	"We diagnosed this case as <e1>danazol</e1> induced <e2>thrombocytopenia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6421	"It occasionally accompanies the <e1>heparin</e1> -associated <e2>thrombocytopenia</e2> and thrombosis syndrome."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6422	"It occasionally accompanies the <e1>heparin</e1> -associated thrombocytopenia and <e2>thrombosis syndrome</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6423	"<e1>Skin necrosis</e1> is a rare complication of subcutaneous <e2>heparin</e2> therapy that usually occurs at injection sites."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6424	"<e1>Skin necrosis</e1> secondary to <e2>low-molecular weight heparin</e2> in a patient with antiphospholipid antibody syndrome."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6425	"We describe a patient with the antiphospholipid syndrome who had <e1>skin necrosis</e1> develop from <e2>low-molecular weight heparin</e2> therapy at sites distant from injection sites."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6426	"Finally, <e2>reserpine</e2> toxicity, in particular central nervous system (CNS) disturbances, was reported more frequently in patients also receiving barbiturates, suggesting additive CNS effects."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6427	"A case of <e1>contact dermatitis</e1> due to <e2>sodium bisulfite</e2> in an ophthalmic solution."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6428	"Therefore, we diagnosed her eruption as <e1>contact dermatitis</e1> due to <e2>sodium bisulfite</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6429	"Therefore, we diagnosed her <e1>eruption</e1> as contact dermatitis due to <e2>sodium bisulfite</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6430	"We report a case of <e1>contact dermatitis</e1> due to <e2>sodium bisulfite</e2> in Tathion eye drops."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6431	"<e1>Acute pancreatitis</e1> after long-term <e2>5-aminosalicylic acid</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6432	"<e1>Acute pancreatitis</e1> is a known, although rare, complication of <e2>mesalamine</e2> treatment."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6433	"A rechallenge, performed in both patients, confirmed the diagnosis of <e1>mesalamine</e1> -induced <e2>pancreatitis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6434	"These case reports provide evidence that <e1>5-aminosalicylic acid</e1> may induce <e2>acute pancreatitis</e2> after long term treatment."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6435	"We describe two cases of <e1>acute pancreatitis</e1> that occurred after long term <e2>mesalamine</e2> therapy for ulcerative colitis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6436	"A 35-year-old nephrotic man developed <e1>acute renal failure</e1> with serum creatinine to 1543 micromol/l after a month of therapy with <e2>enalapril</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6437	"<e1>Acute renal failure</e1> with severe tubulointerstitial changes in a patient with minimal change nephrotic syndrome treated with <e2>enalapril</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6438	"Acute renal failure with <e1>severe tubulointerstitial changes</e1> in a patient with minimal change nephrotic syndrome treated with <e2>enalapril</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6439	"Early <e1>ritonavir</e1> -induced <e2>maculopapular eruption</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6440	"<e1>Ritonavir</e1> should be added to the list of drugs that can induce <e2>adverse cutaneous reactions</e2> in HIV patients."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6441	"We report 2 cases of maculopapular eruption and <e1>fever</e1> in patients infected with human immunodeficiency virus (HIV) on the 2nd day of first administration of <e2>ritonavir</e2>, a protease inhibitor."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6442	"We report 2 cases of <e1>maculopapular eruption</e1> and fever in patients infected with human immunodeficiency virus (HIV) on the 2nd day of first administration of <e2>ritonavir</e2>, a protease inhibitor."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6443	"<e1>Nephropathy</e1> caused by <e2>methicillin</e2> therapy for staphylococcal septicemia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6444	"Review of the literature relating to <e1>methicillin</e1> -induced <e2>nephropathy</e2> suggests a hypersensitivity origin for this disorder, but immunologic and ultrastructural investigation to date has failed to elucidate pathogenesis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6445	"A 25-year-old woman sought medical attention because of iliocaval manifestations of <e1>retroperitoneal fibrosis</e1> while she was taking <e2>methysergide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6446	"<e1>Methysergide</e1> -induced <e2>retroperitoneal fibrosis</e2>: successful outcome and two new laboratory features."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6447	"<e1>Vitiligo</e1> associated with <e2>alpha-interferon</e2> in a patient with chronic active hepatitis C."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6448	"We report a case of <e1>vitiligo</e1> that occurred during the second month of <e2>interferon alpha 2a</e2> therapy for chronic active hepatitis C."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6449	"A case is reported of an elderly woman who developed <e1>febrile agranulocytosis</e1> several weeks after commencing <e2>ticlopidine</e2> but who had a favorable outcome after cessation of that drug and treatment with filgastrim."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6450	"<e1>Agranulocytosis</e1> associated with <e2>ticlopidine</e2>: a possible benefit with filgastim."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6451	"<e1>Ticlopidine</e1> is an oral antiplatelet agent frequently utilized in the treatment of cerebrovascular disease and is rarely associated with severe bone marrow suppression, typically <e2>aplastic anemia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6452	"<e1>Ticlopidine</e1> is an oral antiplatelet agent frequently utilized in the treatment of cerebrovascular disease and is rarely associated with <e2>severe bone marrow suppression</e2>, typically aplastic anemia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6453	"Hemodialysis was also shown to reverse <e1>ifosfamide</e1> -related <e2>neurotoxicity</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6454	"<e1>Ifosfamide</e1> -associated <e2>neurotoxicity</e2> was noted within hours of drug administration and improved rapidly following hemodialysis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6455	"PURPOSE: We evaluated the in vitro hemodialysis ratio and subsequent <e1>toxicity</e1> and pharmacokinetics of <e2>ifosfamide</e2> in an anephric patient with Wilms' tumor."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6456	"The <e1>toxicity</e1> and plasma concentrations of ifosfamide, chloroacetaldehyde, and <e2>4-hydroxyifosfamide</e2> were then determined over 24 h after a single 1.6 g/m2 dose of ifosfamide."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6457	"The <e1>toxicity</e1> and plasma concentrations of ifosfamide, <e2>chloroacetaldehyde</e2>, and 4-hydroxyifosfamide were then determined over 24 h after a single 1.6 g/m2 dose of ifosfamide."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6458	"The <e1>toxicity</e1> and plasma concentrations of <e2>ifosfamide</e2>, chloroacetaldehyde, and 4-hydroxy<e2>ifosfamide</e2> were then determined over 24 h after a single 1.6 g/m2 dose of <e2>ifosfamide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6459	"The <e1>toxicity</e1> and plasma concentrations of <e2>ifosfamide</e2>, chloroacetaldehyde, and 4-hydroxy<e2>ifosfamide</e2> were then determined over 24 h after a single 1.6 g/m2 dose of <e2>ifosfamide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6460	"<e1>Toxicity</e1>, pharmacokinetics, and in vitro hemodialysis clearance of <e2>ifosfamide</e2> and metabolites in an anephric pediatric patient with Wilms' tumor."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6461	"A 55-year-old woman developed symptoms suggestive of <e1>hepatitis</e1> 12 weeks after first receiving <e2>methyldopa</e2> for hypertension."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6462	"<e1>Methyldopa</e1> -induced <e2>liver injury</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6463	"Such a rapid and relentless progression of <e1>methyldopa</e1> -induced <e2>liver injury</e2> is undoubtedly rare, but it may be prevented by careful supervision of patients who exhibit liver function abnormalities early in the course of therapy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6464	"<e1>Acute respiratory depression</e1> as a complication of nebulised <e2>morphine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6465	"Approximately 15 min after the first administration of nebulised <e1>morphine</e1> the patient became markedly <e2>bradypneic</e2> (respiratory rate: 4-5 bpm), hypotensive (BP 70/40 mmHg), and responded only partially to command."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6466	"Approximately 15 min after the first administration of nebulised <e1>morphine</e1> the patient became markedly bradypneic (respiratory rate: 4-5 bpm), <e2>hypotensive</e2> (BP 70/40 mmHg), and responded only partially to command."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6467	"PURPOSE: To present a case of <e1>respiratory depression</e1> following the administration of nebulised <e2>morphine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6468	"<e1>Acute dystonia</e1> with thalamic and brainstem lesions after initial <e2>penicillamine</e2> treatment in Wilson's disease."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6469	"Acute dystonia with <e1>thalamic and brainstem lesions</e1> after initial <e2>penicillamine</e2> treatment in Wilson's disease."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6470	"From these data, <e1>acute generalized dystonia</e1> with brainstem and thalamic lesions may occur in WD patients after an initial <e2>d-penicillamine</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6471	"From these data, acute generalized dystonia with <e1>brainstem and thalamic lesions</e1> may occur in WD patients after an initial <e2>d-penicillamine</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6472	"We reported 3 patients who developed <e1>acute generalized dystonia</e1> and akinetic rigid syndrome following an initial therapy with <e2>d-penicillamine</e2> 125-500 mg daily."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6473	"We reported 3 patients who developed acute generalized dystonia and <e1>akinetic rigid syndrome</e1> following an initial therapy with <e2>d-penicillamine</e2> 125-500 mg daily."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6474	"<e1>Ballistic movements</e1> due to ischemic infarcts after intravenous <e2>heroin</e2> overdose: report of two cases."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6475	"Ballistic movements due to <e1>ischemic infarcts</e1> after intravenous <e2>heroin</e2> overdose: report of two cases."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6476	"Patient 1 presented <e1>bilateral ballism</e1> 1 week after intravenous <e2>heroin</e2> injection."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6477	"<e1>Stroke</e1> is an infrequent but recognized complication of <e2>heroin</e2> addiction."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6478	"Two <e1>heroin</e1> addicts, aged 34 and 19 years, developed <e2>ballistic movements</e2> after intravenous <e1>heroin</e1> overdose."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6479	"A MEDLINE search identified all the reported cases of <e1>hypersensitivity reactions</e1> to <e2>cyclosporine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6480	"<e1>Anaphylaxis</e1> to intravenous <e2>cyclosporine</e2> and tolerance to oral <e2>cyclosporine</e2>: case report and review."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6481	"BACKGROUND: <e1>Hypersensitivity reactions</e1> to <e2>cyclosporine</e2> are rare."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6482	"CONCLUSIONS: <e1>Hypersensitivity reactions</e1> to cyclosporine are due to <e2>Cremophor EL</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6483	"CONCLUSIONS: <e1>Hypersensitivity reactions</e1> to <e2>cyclosporine</e2> are due to Cremophor EL."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6484	"Fortunately, a <e1>hypersensitivity reaction</e1> to one formulation of <e2>cyclosporine</e2> does not preclude use of a different formulation."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6485	"METHODS: We report a patient who had an <e1>anaphylactic reaction</e1> during the intravenous infusion of <e2>cyclosporine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6486	"OBJECTIVE: To investigate the mechanisms involved in <e1>hypersensitivity reactions</e1> to <e2>cyclosporine</e2> and determine the feasibility of future <e2>cyclosporine</e2> use."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6487	"OBJECTIVE: To investigate the mechanisms involved in <e1>hypersensitivity reactions</e1> to <e2>cyclosporine</e2> and determine the feasibility of future <e2>cyclosporine</e2> use."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6488	"The literature search revealed 22 cases of <e1>hypersensitivity reaction</e1> to <e2>cyclosporine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6489	"<e1>Prothipendylhydrochloride</e1> -induced <e2>priapism</e2>: case report."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6490	"We present the first case of a patient with <e1>priapism</e1> after oral intake of the phenothiazine <e2>prothipendylhydrochloride</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6491	"The chemotherapeutics, including vincristine, <e1>actinomycin D</e1>, and epirubicin in case 1 and vincristine and <e1>actinomycin D</e1> in case 2, were given before the <e2>hepatotoxicity</e2> developed."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6492	"The chemotherapeutics, including vincristine, <e1>actinomycin D</e1>, and epirubicin in case 1 and vincristine and <e1>actinomycin D</e1> in case 2, were given before the <e2>hepatotoxicity</e2> developed."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6493	"The chemotherapeutics, including vincristine, actinomycin D, and <e1>epirubicin</e1> in case 1 and vincristine and actinomycin D in case 2, were given before the <e2>hepatotoxicity</e2> developed."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6494	"The chemotherapeutics, including <e1>vincristine</e1>, actinomycin D, and epirubicin in case 1 and <e1>vincristine</e1> and actinomycin D in case 2, were given before the <e2>hepatotoxicity</e2> developed."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6495	"The chemotherapeutics, including <e1>vincristine</e1>, actinomycin D, and epirubicin in case 1 and <e1>vincristine</e1> and actinomycin D in case 2, were given before the <e2>hepatotoxicity</e2> developed."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6496	"We conclude that vincristine and <e1>actinomycin D</e1> were the cause of this rare from of <e2>hepatotoxicity</e2> and that chemotherapy for the underlying malignant disease could be given safely after clinical recovery."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6497	"We conclude that <e1>vincristine</e1> and actinomycin D were the cause of this rare from of <e2>hepatotoxicity</e2> and that chemotherapy for the underlying malignant disease could be given safely after clinical recovery."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6498	"Because the combination of <e1>bleomycin</e1> and vinca alkaloids is commonly used for the treatment of AIDS-related Kaposi's sarcoma, clinicians should be aware of the risk of provoking <e2>acral necrosis</e2> in patients who develop Raynaud's phenomenon under chemotherapy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6499	"Because the combination of <e1>bleomycin</e1> and vinca alkaloids is commonly used for the treatment of AIDS-related Kaposi's sarcoma, clinicians should be aware of the risk of provoking acral necrosis in patients who develop <e2>Raynaud's phenomenon</e2> under chemotherapy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6500	"In this report, one patient who developed <e1>gangrene</e1> after <e2>bleomycin</e2> and vincristine/vinblastine chemotherapy for AIDS-related Kaposi's sarcoma and another HIV-infected patient who exhibited symptoms of severe Raynaud's phenomenon related to the same regimen are presented."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6501	"In this report, one patient who developed <e1>gangrene</e1> after bleomycin and vincristine/<e2>vinblastine</e2> chemotherapy for AIDS-related Kaposi's sarcoma and another HIV-infected patient who exhibited symptoms of severe Raynaud's phenomenon related to the same regimen are presented."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6502	"In this report, one patient who developed <e1>gangrene</e1> after bleomycin and <e2>vincristine</e2>/vinblastine chemotherapy for AIDS-related Kaposi's sarcoma and another HIV-infected patient who exhibited symptoms of severe Raynaud's phenomenon related to the same regimen are presented."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6503	"In this report, one patient who developed gangrene after <e1>bleomycin</e1> and vincristine/vinblastine chemotherapy for AIDS-related Kaposi's sarcoma and another HIV-infected patient who exhibited symptoms of <e2>severe Raynaud's phenomenon</e2> related to the same regimen are presented."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6504	"In this report, one patient who developed gangrene after bleomycin and vincristine/<e1>vinblastine</e1> chemotherapy for AIDS-related Kaposi's sarcoma and another HIV-infected patient who exhibited symptoms of <e2>severe Raynaud's phenomenon</e2> related to the same regimen are presented."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6505	"In this report, one patient who developed gangrene after bleomycin and <e1>vincristine</e1>/vinblastine chemotherapy for AIDS-related Kaposi's sarcoma and another HIV-infected patient who exhibited symptoms of <e2>severe Raynaud's phenomenon</e2> related to the same regimen are presented."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6506	"Development of essential <e1>thrombocythemia</e1> in a patient treated with <e2>interferon alfa</e2> and pentostatin for hairy cell leukemia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6507	"Development of essential <e1>thrombocythemia</e1> in a patient treated with interferon alfa and <e2>pentostatin</e2> for hairy cell leukemia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6508	"Second cancers including various types of <e1>hematological malignancy</e1> have been reported in patients with hairy cell leukemia treated with chemotherapy or <e2>interferon alfa</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6509	"<e1>Second cancers</e1> including various types of hematological malignancy have been reported in patients with hairy cell leukemia treated with chemotherapy or <e2>interferon alfa</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6510	"Effect of beta-blockade on symptomatic <e1>dexamethasone</e1> -induced <e2>hypertrophic obstructive cardiomyopathy</e2> in premature infants: three case reports and literature review."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6511	"One patient had a <e1>lower average heart rate</e1> and two patients had lower average mean blood pressure values during <e2>propranolol</e2> treatment, none of which was clinically significant."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6512	"One patient had a lower average heart rate and two patients had <e1>lower average mean blood pressure</e1> values during <e2>propranolol</e2> treatment, none of which was clinically significant."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6513	"STUDY DESIGN: Case reports are presented of three premature infants (mean gestational age 27 weeks) cared for in the intensive care nursery in whom clinically significant septal hypertrophy and <e1>left ventricular outflow tract obstruction</e1> developed during <e2>dexamethasone</e2> treatment for bronchopulmonary dysplasia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6514	"STUDY DESIGN: Case reports are presented of three premature infants (mean gestational age 27 weeks) cared for in the intensive care nursery in whom clinically significant <e1>septal hypertrophy</e1> and left ventricular outflow tract obstruction developed during <e2>dexamethasone</e2> treatment for bronchopulmonary dysplasia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6515	"CASE SUMMARY: A 25-year-old postpartum white woman developed multiple watery stools and <e1>abdominal cramping</e1> on day 6 of therapy with <e2>clindamycin</e2> vaginal cream for bacterial vaginosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6516	"CASE SUMMARY: A 25-year-old postpartum white woman developed <e1>multiple watery stools</e1> and abdominal cramping on day 6 of therapy with <e2>clindamycin</e2> vaginal cream for bacterial vaginosis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6517	"<e1>Clostridium difficile toxin-induced colitis</e1> after use of <e2>clindamycin phosphate</e2> vaginal cream."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6518	"CONCLUSIONS: This report indicates <e1>clindamycin</e1> phosphate vaginal cream as the most probable cause of <e2>CDIC</e2> due to the temporal relationship between the occurrence of diarrhea and <e1>clindamycin</e1> administration, lack of concomitant medications, and documentation of C. difficile toxin."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6519	"CONCLUSIONS: This report indicates <e1>clindamycin phosphate</e1> vaginal cream as the most probable cause of <e2>CDIC</e2> due to the temporal relationship between the occurrence of diarrhea and clindamycin administration, lack of concomitant medications, and documentation of C. difficile toxin."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6520	"CONCLUSIONS: This report indicates <e1>clindamycin</e1> phosphate vaginal cream as the most probable cause of CDIC due to the temporal relationship between the occurrence of diarrhea and <e1>clindamycin</e1> administration, lack of concomitant medications, and documentation of <e2>C. difficile toxin</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6521	"CONCLUSIONS: This report indicates <e1>clindamycin phosphate</e1> vaginal cream as the most probable cause of CDIC due to the temporal relationship between the occurrence of diarrhea and clindamycin administration, lack of concomitant medications, and documentation of <e2>C. difficile toxin</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6522	"CONCLUSIONS: This report indicates <e1>clindamycin</e1> phosphate vaginal cream as the most probable cause of CDIC due to the temporal relationship between the occurrence of <e2>diarrhea</e2> and <e1>clindamycin</e1> administration, lack of concomitant medications, and documentation of C. difficile toxin."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6523	"CONCLUSIONS: This report indicates <e1>clindamycin phosphate</e1> vaginal cream as the most probable cause of CDIC due to the temporal relationship between the occurrence of <e2>diarrhea</e2> and clindamycin administration, lack of concomitant medications, and documentation of C. difficile toxin."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6524	"DISCUSSION: No published clinical studies in patients receiving <e1>clindamycin</e1> vaginal cream for bacterial vaginosis have documented <e2>C. difficile toxin in stool</e2> samples of patients with diarrhea."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6525	"DISCUSSION: No published clinical studies in patients receiving <e1>clindamycin</e1> vaginal cream for bacterial vaginosis have documented C. difficile toxin in stool samples of patients with <e2>diarrhea</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6526	"OBJECTIVE: To report a case of <e1>toxin-positive Clostridium difficile-induced colitis</e1> (CDIC) after use of <e2>clindamycin phosphate</e2> vaginal cream."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6527	"A 54-year-old man developed <e1>TEN</e1> 4 weeks after beginning <e2>lamotrigine</e2> for complex partial seizures related to a glioblastoma multiforme brain tumor."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6528	"Administration of <e1>lamotrigine</e1>, especially in combination with valproic acid, may lead to the development of <e2>TEN</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6529	"Administration of lamotrigine, especially in combination with <e1>valproic acid</e1>, may lead to the development of <e2>TEN</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6530	"<e1>Fatal toxic epidermal necrolysis</e1> related to <e2>lamotrigine</e2> administration."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6531	"It was hypothesized that valproic acid may interfere with glucuronidation of <e1>lamotrigine</e1>, leading to increased serum <e1>lamotrigine</e1> levels, or perhaps alter the drug's metabolism, resulting in <e2>accumulation of a toxic intermediate metabolite</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6532	"It was hypothesized that <e1>valproic acid</e1> may interfere with glucuronidation of lamotrigine, leading to increased serum lamotrigine levels, or perhaps alter the drug's metabolism, resulting in <e2>accumulation of a toxic intermediate metabolite</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6533	"It was hypothesized that valproic acid may interfere with glucuronidation of <e1>lamotrigine</e1>, leading to increased serum <e1>lamotrigine</e1> levels, or perhaps alter the drug's metabolism, resulting in accumulation of a toxic intermediate metabolite."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6534	"It was hypothesized that <e1>valproic acid</e1> may interfere with glucuronidation of lamotrigine, leading to <e2>increased serum lamotrigine levels</e2>, or perhaps alter the drug's metabolism, resulting in accumulation of a toxic intermediate metabolite."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6535	"To date, eight cases of TEN and one of <e1>SJS</e1> related to <e2>lamotrigine</e2> administration have been reported in the literature."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6536	"To date, eight cases of <e1>TEN</e1> and one of SJS related to <e2>lamotrigine</e2> administration have been reported in the literature."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6537	"A <e1>syndrome of increased affect</e1> in response to <e2>risperidone</e2> among patients with schizophrenia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6538	"Six of 13 outpatients with schizophrenia who participated in a ten-week open trial of <e1>risperidone</e1> had an initial good response to the medication followed by development of intolerable affect, including feelings of agitation and <e2>depression</e2> and periods of crying and insomnia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6539	"Six of 13 outpatients with schizophrenia who participated in a ten-week open trial of <e1>risperidone</e1> had an initial good response to the medication followed by development of intolerable affect, including <e2>feelings of agitation</e2> and depression and periods of crying and insomnia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6540	"Six of 13 outpatients with schizophrenia who participated in a ten-week open trial of <e1>risperidone</e1> had an initial good response to the medication followed by development of intolerable affect, including feelings of agitation and depression and periods of crying and <e2>insomnia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6541	"Six of 13 outpatients with schizophrenia who participated in a ten-week open trial of <e1>risperidone</e1> had an initial good response to the medication followed by development of <e2>intolerable affect</e2>, including feelings of agitation and depression and periods of crying and insomnia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6542	"Six of 13 outpatients with schizophrenia who participated in a ten-week open trial of <e1>risperidone</e1> had an initial good response to the medication followed by development of intolerable affect, including feelings of agitation and depression and <e2>periods of crying</e2> and insomnia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6543	"The authors suggest that <e1>risperidone</e1> may <e2>increase affect</e2> in patients with schizophrenia and that some patients, especially those with anxiety, may have difficulty managing the increase."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6544	"<e1>Methanol</e1> toxicity can cause severe central nervous system insult in which a characteristic pattern of <e2>bilateral putaminal injury</e2> is noted on brain imaging studies."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6545	"<e2>Methanol</e2> toxicity can cause severe central nervous system insult in which a characteristic pattern of bilateral putaminal injury is noted on brain imaging studies."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6546	"<e1>Methanol</e1> toxicity can cause <e2>severe central nervous system insult</e2> in which a characteristic pattern of bilateral putaminal injury is noted on brain imaging studies."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6547	"Putaminal infarct in <e2>methanol</e2> intoxication: case report and role of brain imaging studies."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6548	"<e1>Putaminal infarct</e1> in <e2>methanol</e2> intoxication: case report and role of brain imaging studies."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6549	"Theoretical basal ganglia toxicologic mechanisms of <e2>methanol</e2> poisoning are reviewed, and the role of brain imaging studies will regard to diagnosis, prognosis and impact on management is discussed."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6550	"We present a fatal case of subacute <e1>methanol</e1> toxicity with associated diffuse brain involvement, including <e2>bilateral putaminal necrosis</e2> and cerebral edema with ventricular compression."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6551	"We present a fatal case of subacute <e1>methanol</e1> toxicity with associated diffuse brain involvement, including bilateral putaminal necrosis and <e2>cerebral edema</e2> with ventricular compression."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6552	"We present a fatal case of subacute <e1>methanol</e1> toxicity with associated <e2>diffuse brain involvement</e2>, including bilateral putaminal necrosis and cerebral edema with ventricular compression."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6553	"We present a <e1>fatal</e1> case of subacute <e2>methanol</e2> toxicity with associated diffuse brain involvement, including bilateral putaminal necrosis and cerebral edema with ventricular compression."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6554	"We present a fatal case of subacute <e2>methanol</e2> toxicity with associated diffuse brain involvement, including bilateral putaminal necrosis and cerebral edema with ventricular compression."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6555	"We present a fatal case of subacute <e1>methanol</e1> toxicity with associated diffuse brain involvement, including bilateral putaminal necrosis and cerebral edema with <e2>ventricular compression</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6556	"A 28 year old white schizophrenic male has been under <e1>risperidone</e1> monotherapy for about one year when he developed <e2>dyskinetic movements</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6557	"<e1>Risperidone</e1> -induced <e2>tardive dyskinesia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6558	"This report presents a potential case of <e1>risperidone</e1> -induced <e2>tardive dyskinesia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6559	"<e1>Increased ocular pressure</e1> in two patients with narrow angle glaucoma treated with <e2>venlafaxine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6560	"A 61-year-old man developed <e1>clinical lupus syndrome</e1> with positive antinuclear antibody, positive lupus erythematosus (LE) cell preparation, and diffuse proliferative glomerulonephritis following 26 months of <e2>procainamide</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6561	"A 61-year-old man developed clinical lupus syndrome with positive antinuclear antibody, positive lupus erythematosus (LE) cell preparation, and <e1>diffuse proliferative glomerulonephritis</e1> following 26 months of <e2>procainamide</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6562	"A 61-year-old man developed clinical lupus syndrome with positive antinuclear antibody, positive <e1>lupus erythematosus</e1> (LE) cell preparation, and diffuse proliferative glomerulonephritis following 26 months of <e2>procainamide</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6563	"<e1>Glomerulonephritis</e1> in <e2>procainamide</e2> induced lupus erythematosus: report of a case and review of the literature."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6564	"Glomerulonephritis in <e1>procainamide</e1> induced <e2>lupus erythematosus</e2>: report of a case and review of the literature."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6565	"We report a 76-year-old man who developed an <e1>acute blistering eruption</e1> following high-dose <e2>penicillin</e2> treatment for pneumococcal septicaemia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6566	"A case of prolonged <e1>suxamethonium</e1> <e2>apnoea</e2> successfully terminated by the infusion of a commercial preparation of serumcholinesterase is reported."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6567	"<e1>Suxamethonium</e1> <e2>apnoea</e2> terminated with commercial serumcholinesterase."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6568	"<e1>Cardiac arrest</e1> associated with <e2>sulprostone</e2> use during caesarean section."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6569	"We postulate that the bolus of <e1>sulprostone</e1> resulted in possible coronary spasm that resulted in <e2>cardiac arrest</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6570	"We postulate that the bolus of <e1>sulprostone</e1> resulted in possible <e2>coronary spasm</e2> that resulted in cardiac arrest."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6571	"In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and <e1>desmethylsertraline</e1> blood levels, resulted in a <e2>doubling of the lamotrigine blood level</e2> with symptoms of toxicity."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6572	"In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the <e2>lamotrigine</e2> blood level with symptoms of toxicity."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6573	"In case 1, a total daily dose of 25 mg <e1>sertraline</e1>, with nondetectable <e1>sertraline</e1> and desmethyl<e1>sertraline</e1> blood levels, resulted in a <e2>doubling of the lamotrigine blood level</e2> with symptoms of toxicity."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6574	"In case 1, a total daily dose of 25 mg <e1>sertraline</e1>, with nondetectable <e1>sertraline</e1> and desmethyl<e1>sertraline</e1> blood levels, resulted in a <e2>doubling of the lamotrigine blood level</e2> with symptoms of toxicity."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6575	"In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and <e1>desmethylsertraline</e1> blood levels, resulted in a doubling of the lamotrigine blood level with <e2>symptoms of toxicity</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6576	"In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the <e1>lamotrigine</e1> blood level with <e2>symptoms of toxicity</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6577	"In case 1, a total daily dose of 25 mg <e1>sertraline</e1>, with nondetectable <e1>sertraline</e1> and desmethyl<e1>sertraline</e1> blood levels, resulted in a doubling of the lamotrigine blood level with <e2>symptoms of toxicity</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6578	"In case 1, a total daily dose of 25 mg <e1>sertraline</e1>, with nondetectable <e1>sertraline</e1> and desmethyl<e1>sertraline</e1> blood levels, resulted in a doubling of the lamotrigine blood level with <e2>symptoms of toxicity</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6579	"<e2>Lamotrigine</e2> toxicity secondary to sertraline."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6580	"<e1>Lamotrigine toxicity</e1> secondary to <e2>sertraline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6581	"<e1>Flutamide</e1> withdrawal syndrome is characterized by a <e2>decrease in prostate-specific antigen</e2> (PSA) after flutamide withdrawal in a subset of patients with progressing metastatic carcinoma of the prostate."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6582	"Flutamide withdrawal syndrome is characterized by a <e1>decrease in prostate-specific antigen</e1> (PSA) after <e2>flutamide</e2> withdrawal in a subset of patients with progressing metastatic carcinoma of the prostate."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6583	"<e2>Flutamide</e2> withdrawal syndrome is characterized by a decrease in prostate-specific antigen (PSA) after flutamide withdrawal in a subset of patients with progressing metastatic carcinoma of the prostate."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6584	"<e1>Flutamide withdrawal syndrome</e1> is characterized by a decrease in prostate-specific antigen (PSA) after <e2>flutamide</e2> withdrawal in a subset of patients with progressing metastatic carcinoma of the prostate."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6585	"Prolonged prostate-specific antigen response in <e2>flutamide</e2> withdrawal syndrome despite disease progression."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6586	"<e1>Prolonged prostate-specific antigen response</e1> in <e2>flutamide</e2> withdrawal syndrome despite disease progression."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6587	"This case illustrates the potential <e1>decoupling of PSA response</e1> from disease status in <e2>flutamide</e2> withdrawal."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6588	"We describe a patient with androgen-independent prostate cancer in whom <e1>PSA continued to decrease</e1> for a period of 15 months after <e2>flutamide</e2> withdrawal."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6589	"<e1>Anaphylactic reaction</e1> to oral <e2>prednisone</e2>: a case report and review of the literature."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6590	"We describe the case of a nonatopic 17-year-old girl with bronchial asthma and aspirin intolerance who developed a dramatic <e1>anaphylactic reaction</e1> to oral <e2>prednisone</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6591	"Animals treated with <e1>HAL</e1> showed a highly <e2>significant 32%-46% loss of tyrosine hydroxylase (TH) immunoreactive neurons</e2> in the substantia nigra, and 20% contraction of the TH stained dendritic arbour."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6592	"METHODS: Double-blind, placebo-controlled titrated oral challenges with pancreatic enzymes resulted in definite <e1>vomiting</e1> within 1 to 1.5 hours after challenges with Viokase and <e2>Pancrease MT 16</e2>, but not with placebo."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6593	"METHODS: Double-blind, placebo-controlled titrated oral challenges with pancreatic enzymes resulted in definite <e1>vomiting</e1> within 1 to 1.5 hours after challenges with <e2>Viokase</e2> and Pancrease MT 16, but not with placebo."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6594	"She was treated with <e1>Pancrease MT 16</e1>, but had consistent <e2>vomiting</e2> 1 to 2 hours after administration of enzymes."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6595	"The <e1>vomiting</e1> occurred on switching to different pancreatic enzymes preparations, ie, <e2>Creon 10</e2>, Viokase, and Pancrease MT 16."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6596	"The <e1>vomiting</e1> occurred on switching to different pancreatic enzymes preparations, ie, Creon 10, Viokase, and <e2>Pancrease MT 16</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6597	"The <e1>vomiting</e1> occurred on switching to different pancreatic enzymes preparations, ie, Creon 10, <e2>Viokase</e2>, and Pancrease MT 16."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6598	"Acute <e1>valproate</e1> ingestion induces <e2>symptomatic methemoglobinemia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6599	"We report for the first time the development of <e1>symptomatic methemoglobinemia</e1> after an acute ingestion of divalproex sodium (<e2>Depakote</e2>), resulting in serum concentrations 10 times greater than the therapeutic range."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6600	"We report for the first time the development of <e1>symptomatic methemoglobinemia</e1> after an acute ingestion of <e2>divalproex sodium</e2> (Depakote), resulting in serum concentrations 10 times greater than the therapeutic range."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6601	"In rare cases <e1>mitomycin C</e1> (MMC) may induce cancer-associated hemolytic uremic syndrome, which is characterized by <e2>hemolytic anemia</e2>, thrombocytopenia and progressive renal failure."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6602	"In rare cases mitomycin C (<e1>MMC</e1>) may induce cancer-associated hemolytic uremic syndrome, which is characterized by <e2>hemolytic anemia</e2>, thrombocytopenia and progressive renal failure."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6603	"In rare cases <e1>mitomycin C</e1> (MMC) may induce cancer-associated <e2>hemolytic uremic syndrome</e2>, which is characterized by hemolytic anemia, thrombocytopenia and progressive renal failure."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6604	"In rare cases mitomycin C (<e1>MMC</e1>) may induce cancer-associated <e2>hemolytic uremic syndrome</e2>, which is characterized by hemolytic anemia, thrombocytopenia and progressive renal failure."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6605	"In rare cases <e1>mitomycin C</e1> (MMC) may induce cancer-associated hemolytic uremic syndrome, which is characterized by hemolytic anemia, thrombocytopenia and <e2>progressive renal failure</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6606	"In rare cases mitomycin C (<e1>MMC</e1>) may induce cancer-associated hemolytic uremic syndrome, which is characterized by hemolytic anemia, thrombocytopenia and <e2>progressive renal failure</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6607	"In rare cases <e1>mitomycin C</e1> (MMC) may induce cancer-associated hemolytic uremic syndrome, which is characterized by hemolytic anemia, <e2>thrombocytopenia</e2> and progressive renal failure."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6608	"In rare cases mitomycin C (<e1>MMC</e1>) may induce cancer-associated hemolytic uremic syndrome, which is characterized by hemolytic anemia, <e2>thrombocytopenia</e2> and progressive renal failure."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6609	"<e1>Mitomycin C</e1> -related <e2>hemolytic uremic syndrome</e2> in cancer patients."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6610	"We report a case of <e1>MMC</e1> -related <e2>hemolytic uremic syndrome</e2>, and discuss the etiologic parameters, clinical aspects, prognosis and treatment modalities of this severe syndrome."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6611	"<e1>CD4 T-lymphocyte depletion</e1>, myelosuppression, and subsequent severe infections are the major side effects of <e2>fludarabine phosphate</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6612	"CD4 T-lymphocyte depletion, <e1>myelosuppression</e1>, and subsequent severe infections are the major side effects of <e2>fludarabine phosphate</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6613	"CD4 T-lymphocyte depletion, myelosuppression, and subsequent <e1>severe infections</e1> are the major side effects of <e2>fludarabine phosphate</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6614	"<e1>Severe respiratory syncytial virus pulmonary infection</e1> in a patient treated with <e2>fludarabine</e2> for chronic lymphocytic leukemia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6615	"We report here on a heretofore undescribed <e1>respiratory syncytial virus (RSV) infection</e1> in a patient with a long-standing history of refractory CLL that was treated with <e2>fludarabine phosphate</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6616	"<e1>Serotonin syndrome</e1> induced by transitioning from <e2>phenelzine</e2> to venlafaxine: four patient reports."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6617	"<e1>Serotonin syndrome</e1> induced by transitioning from phenelzine to <e2>venlafaxine</e2>: four patient reports."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6618	"Although this <e1>G-CSF</e1> -driven <e2>leucocytosis</e2> was alarming it did not appear to have adversely affected the patient's prognosis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6619	"<e1>Leukaemoid monocytosis</e1> in M4 AML following chemotherapy and <e2>G-CSF</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6620	"We describe a patient with M4 AML treated with standard chemotherapy followed by <e1>G-CSF</e1> who developed marked <e2>monocytosis</e2> on day 8 of <e1>G-CSF</e1> therapy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6621	"We describe a patient with M4 AML treated with standard chemotherapy followed by <e1>G-CSF</e1> who developed marked <e2>monocytosis</e2> on day 8 of <e1>G-CSF</e1> therapy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6622	"Case 2 demonstrated after 40 months on <e1>chlorambucil</e1> the presence of a <e2>balanced translocation</e2>, t (1;5) (p36;q31) in 90% of the cells."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6623	"<e1>Chromosome abnormalities</e1> after <e2>chlorambucil</e2> therapy of polycythaemia vera."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6624	"Administration of steroid and decreasing the dose of <e1>PTU</e1> produced a good clinical response and the <e2>ANCA</e2> disappeared."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6625	"<e1>Antineutrophil cytoplasmic antibody-positive crescentic glomerulonephritis</e1> associated with <e2>propylthiouracil</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6626	"A teenage girl with crescentic glomerulonephritis had <e1>antineutrophil cytoplasmic antibody</e1> (ANCA) detected after she had received <e2>propylthiouracil</e2> (PTU) for hyperthyroidism without cutaneous vasculitis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6627	"A teenage girl with crescentic glomerulonephritis had <e1>antineutrophil cytoplasmic antibody</e1> (ANCA) detected after she had received propylthiouracil (<e2>PTU</e2>) for hyperthyroidism without cutaneous vasculitis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6628	"It was concluded that <e1>ANCA</e1> is closely related to the pathogenesis of crescentic glomerulonephritis and that treatment with <e2>PTU</e2> appeared to induce <e1>ANCA</e1>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6629	"It was concluded that <e1>ANCA</e1> is closely related to the pathogenesis of crescentic glomerulonephritis and that treatment with <e2>PTU</e2> appeared to induce <e1>ANCA</e1>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6630	"A <e1>drug interaction</e1> between zafirlukast and <e2>theophylline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6631	"A <e1>drug interaction</e1> between <e2>zafirlukast</e2> and theophylline."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6632	"Attempts were made to stop and then restart the <e1>theophylline</e1> therapy at progressively lower doses; however, with each attempt, the patient's <e2>reaction to the drug became more toxic</e2>, with serum <e1>theophylline</e1> levels ranging between 99.9 and 149.9 micromol/L (18 and 27 microg/mL)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6633	"Attempts were made to stop and then restart the <e1>theophylline</e1> therapy at progressively lower doses; however, with each attempt, the patient's <e2>reaction to the drug became more toxic</e2>, with serum <e1>theophylline</e1> levels ranging between 99.9 and 149.9 micromol/L (18 and 27 microg/mL)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6634	"One explanation for the noted increase in the <e2>theophylline</e2> level is that metabolism occurs mainly by cytochrome P450 (CYP 1A2), an enzyme that is known to be inhibited with high concentrations of zafirlukast."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6635	"One explanation for the noted <e1>increase in the theophylline level</e1> is that metabolism occurs mainly by cytochrome P450 (CYP 1A2), an enzyme that is known to be inhibited with high concentrations of <e2>zafirlukast</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6636	"Recently, her serum <e1>theophylline levels had increased to the toxic range</e1> (133.2 micromol/L [24 microg/mL]) shortly after the addition of zafirlukast (<e2>Accolate</e2>, Zeneca Pharmaceuticals, Wilmington, Del) to her regimen."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6637	"Recently, her serum <e2>theophylline</e2> levels had increased to the toxic range (133.2 micromol/L [24 microg/mL]) shortly after the addition of zafirlukast (Accolate, Zeneca Pharmaceuticals, Wilmington, Del) to her regimen."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6638	"Recently, her serum <e1>theophylline levels had increased to the toxic range</e1> (133.2 micromol/L [24 microg/mL]) shortly after the addition of <e2>zafirlukast</e2> (Accolate, Zeneca Pharmaceuticals, Wilmington, Del) to her regimen."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6639	"The noted increase in the <e2>theophylline</e2> level after zafirlukast administration is in contrast to the original reports by the manufacturer."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6640	"The noted <e1>increase in the theophylline level</e1> after <e2>zafirlukast</e2> administration is in contrast to the original reports by the manufacturer."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6641	"We present the first case (to our knowledge) of a potentially serious <e1>drug-drug interaction</e1> between zafirlukast and <e2>theophylline</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6642	"We present the first case (to our knowledge) of a potentially serious <e1>drug-drug interaction</e1> between <e2>zafirlukast</e2> and theophylline."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6643	"A 21-year-old patient developed <e1>rhabdomyolysis</e1> during his nineteenth week of treatment with <e2>clozapine</e2> for drug-resistant schizophrenia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6644	"<e1>Clozapine</e1> is speculated to cause <e2>rhabdomyolysis</e2> in patients with defective calcium-activated K+ channels."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6645	"<e1>Rhabdomyolysis</e1> associated with <e2>clozapine</e2> treatment in a patient with decreased calcium-dependent potassium permeability of cell membranes."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6646	"We describe children and adolescents with chronic hematologic and oncologic diseases who exhibited drug-seeking behavior or <e1>anticholinergic symptoms</e1> with the use of <e2>diphenhydramine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6647	"We describe children and adolescents with chronic hematologic and oncologic diseases who exhibited <e1>drug-seeking behavior</e1> or anticholinergic symptoms with the use of <e2>diphenhydramine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6648	"Excluding other causes, <e1>Pentasa</e1> -associated <e2>pancytopenia</e2> was considered."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6649	"He developed fever, nausea, <e1>diarrhea</e1>, and malaise and stopped taking on the third day after commencing <e2>Pentasa</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6650	"He developed <e1>fever</e1>, nausea, diarrhea, and malaise and stopped taking on the third day after commencing <e2>Pentasa</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6651	"He developed fever, nausea, diarrhea, and <e1>malaise</e1> and stopped taking on the third day after commencing <e2>Pentasa</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6652	"He developed fever, <e1>nausea</e1>, diarrhea, and malaise and stopped taking on the third day after commencing <e2>Pentasa</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6653	"<e1>Pancytopenia</e1> associated with <e2>5-aminosalicylic acid</e2> use in a patient with Crohn's disease."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6654	"We report a case of <e1>pancytopenia</e1> in a 23-year-old man with Crohn's disease who was treated with <e2>5-aminosalicylic acid</e2> (Pentasa; Nisshin, Tokyo, Japan) 3.0 g/day."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6655	"We report a case of <e1>pancytopenia</e1> in a 23-year-old man with Crohn's disease who was treated with 5-aminosalicylic acid (<e2>Pentasa</e2>; Nisshin, Tokyo, Japan) 3.0 g/day."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6656	"1. <e1>Changes in the plasma cortisol level</e1> were reported in a male patient with panic disorder during the period of low-dose <e2>alprazolam</e2> treatment (mean 0.62 +/- 0.15 mg/day) compared with during the period of high-dose period (mean 1.08 +/- 0.28 mg/day)."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6657	"3. Thus, the <e1>decreased plasma cortisol level</e1> during <e2>alprazolam</e2> treatment of panic disorder was suggested to be caused not by symptom alleviation due to <e2>alprazolam</e2> but by <e2>alprazolam</e2> administration itself."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6658	"<e1>Decreased plasma cortisol level</e1> during <e2>alprazolam</e2> treatment of panic disorder: a case report."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6659	"We describe a renal transplant recipient maintained on <e1>cyclosporine</e1> and prednisone developing <e2>Nocardia Asteroides brain abscess</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6660	"We describe a renal transplant recipient maintained on cyclosporine and <e1>prednisone</e1> developing <e2>Nocardia Asteroides brain abscess</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6661	"Young children undergoing <e1>cisplatin</e1> chemotherapy are known to be at risk for <e2>progressive sensorineural hearing loss</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6662	"A 47 year-old woman who had a 4-year history of intramuscular <e1>pentazocine</e1> injections in the lower extremities, developed <e2>gradual stiffness</e2> and weakness of the lower extremities."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6663	"A 47 year-old woman who had a 4-year history of intramuscular <e1>pentazocine</e1> injections in the lower extremities, developed gradual stiffness and <e2>weakness of the lower extremities</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6664	"Caution in longterm usage and early recognition of <e1>pentazocine</e1> toxicity as a neuromuscular complication are important in order to prevent irreversible drug-induced <e2>fibrous myopathy</e2> and localized neuropathy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6665	"Caution in longterm usage and early recognition of <e1>pentazocine</e1> toxicity as a <e2>neuromuscular complication</e2> are important in order to prevent irreversible drug-induced fibrous myopathy and localized neuropathy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6666	"Caution in longterm usage and early recognition of <e1>pentazocine</e1> toxicity as a neuromuscular complication are important in order to prevent irreversible drug-induced fibrous myopathy and localized <e2>neuropathy</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6667	"Caution in longterm usage and early recognition of <e2>pentazocine</e2> toxicity as a neuromuscular complication are important in order to prevent irreversible drug-induced fibrous myopathy and localized neuropathy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6668	"<e1>Pentazocine</e1> -induced <e2>fibrous myopathy</e2> and localized neuropathy."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6669	"<e1>Pentazocine</e1> -induced fibrous myopathy and localized <e2>neuropathy</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6670	"In two of these cases <e1>akathisia</e1> resolved after withdrawal of <e2>olanzapine</e2> and substitution by a classical or an atypical neuroleptic agent, respectively."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6671	"Like other atypical neuroleptics <e1>olanzapine</e1> is considered to show a reduced prevalence of <e2>extrapyramidal side effects</e2> when compared to classical neuroleptic drugs."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6672	"One should therefore be aware of possible <e1>extrapyramidal side effects</e1> with <e2>olanzapine</e2> that are reduced compared to classical neuroleptic drugs but not completely eliminated."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6673	"<e1>Severe akathisia</e1> during <e2>olanzapine</e2> treatment of acute schizophrenia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6674	"We report on three patients with acute schizophrenia, who developed <e1>severe akathisia</e1> during treatment with <e2>olanzapine</e2> (20-25 mg/d)."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6675	"<e1>Seizures</e1> occurred in two patients with probable Alzheimer's disease who were receiving long-term treatment with <e2>metrifonate</e2>, an irreversible acetylcholinesterase inhibitor."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6676	"However, 1 eye had <e1>vitreous hemorrhage</e1> after repeated injections of <e2>tPA</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6677	"However, repeated intracameral <e1>tPA</e1> injections may cause unwanted complications such as <e2>vitreous hemorrhage</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6678	"Although <e1>praziquantel</e1> administration may have been effective in killing the parasite in both patients, we are concerned about the production of marked <e2>inflammation</e2> as a result of treatment."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6679	"<e1>NMS</e1> is a drug-related response to various medications, such as <e2>Haloperidol</e2>, which the patient was receiving."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6680	"<e1>Methimazole</e1> -induced <e2>aplastic anemia</e2> in third exposure: successful treatment with recombinant human granulocyte colony-stimulating factor."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6681	"We present a case of a 58-year-old female patient with Graves' disease who developed <e1>AA</e1> in the third exposure to <e2>methimazole</e2> (MMI)."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6682	"<e1>FSGS</e1> induced by <e2>Adriamycin</e2> (Pharmacia & Upjohn, Columbus, OH) has been observed experimentally in rats."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6683	"The case demonstrates that hypersensitivity reaction to <e1>pranlukast</e1> and resultant <e2>ATIN</e2> is possible, and that periodic urine testing in patients receiving <e1>pranlukast</e1> should be considered."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6684	"The case demonstrates that hypersensitivity reaction to <e1>pranlukast</e1> and resultant <e2>ATIN</e2> is possible, and that periodic urine testing in patients receiving <e1>pranlukast</e1> should be considered."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6685	"The case demonstrates that <e1>hypersensitivity reaction</e1> to <e2>pranlukast</e2> and resultant ATIN is possible, and that periodic urine testing in patients receiving <e2>pranlukast</e2> should be considered."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6686	"The case demonstrates that <e1>hypersensitivity reaction</e1> to <e2>pranlukast</e2> and resultant ATIN is possible, and that periodic urine testing in patients receiving <e2>pranlukast</e2> should be considered."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6687	"<e1>Tubulointerstitial nephritis</e1> induced by the leukotriene receptor antagonist <e2>pranlukast</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6688	"Within 6 months of <e1>pranlukast</e1> withdrawal, <e2>anemia</e2> resolved and urinary sediment and renal function normalized."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6689	"A 65-year-old woman with angina pectoris presented with <e1>syncope</e1> after sublingual ingestion of <e2>isosorbide dinitrate</e2> (5 mg)."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6690	"Elderly patients for whom <e1>nitrate</e1> has been prescribed should be warned of the occurrence of <e2>hypotension</e2>, leading to unconsciousness."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6691	"Elderly patients for whom <e1>nitrate</e1> has been prescribed should be warned of the occurrence of hypotension, leading to <e2>unconsciousness</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6692	"In a postural challenge test after administration of <e1>isosorbide dinitrate</e1> (5 mg), <e2>blood pressure decreased</e2> from 120/67 to 65/35 mmHg, followed by syncope with a sudden decrease in pulse rate from 85 to 60 beats/min."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6693	"In a postural challenge test after administration of <e1>isosorbide dinitrate</e1> (5 mg), blood pressure decreased from 120/67 to 65/35 mmHg, followed by syncope with a <e2>sudden decrease in pulse rate</e2> from 85 to 60 beats/min."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6694	"In a postural challenge test after administration of <e1>isosorbide dinitrate</e1> (5 mg), blood pressure decreased from 120/67 to 65/35 mmHg, followed by <e2>syncope</e2> with a sudden decrease in pulse rate from 85 to 60 beats/min."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6695	"<e1>Syncope</e1> in a 65-year-old woman after <e2>nitrate</e2> ingestion."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6696	"Three diabetic cases of <e1>acute dizziness</e1> due to initial administration of <e2>voglibose</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6697	"We observed 3 diabetic patients with <e1>intolerable dizziness</e1> followed by nausea and vomiting immediately after an initial administration of the alpha-glucosidase inhibitor, <e2>voglibose</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6698	"We observed 3 diabetic patients with intolerable dizziness followed by <e1>nausea</e1> and vomiting immediately after an initial administration of the alpha-glucosidase inhibitor, <e2>voglibose</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6699	"We observed 3 diabetic patients with intolerable dizziness followed by nausea and <e1>vomiting</e1> immediately after an initial administration of the alpha-glucosidase inhibitor, <e2>voglibose</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6700	"<e1>Naproxen</e1> -associated <e2>sudden sensorineural hearing loss</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6701	"<e1>Naproxen</e1> is a commonly used nonsteroidal anti-inflammatory drug (NSAID) whose side effects include <e2>tinnitus</e2> and transient hearing loss."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6702	"<e1>Naproxen</e1> is a commonly used nonsteroidal anti-inflammatory drug (NSAID) whose side effects include tinnitus and <e2>transient hearing loss</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6703	"This article reports the case of an otherwise healthy patient who experienced permanent <e1>sensorineural hearing loss</e1> after a brief course of <e2>naproxen</e2> and reviews the literature on NSAID-related permanent <e1>sensorineural hearing loss</e1>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6704	"<e1>Dental and gingival pain</e1> as side effects of <e2>niacin</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6705	"The cause of these previously unreported side effects of <e1>niacin</e1> therapy is uncertain but may be related to prostaglandin-mediated vasodilatation, <e2>hyperalgesia of sensory nerve receptors</e2>, and potentiation of inflammation in the gingiva with referral of pain to the teeth."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6706	"The cause of these previously unreported side effects of <e1>niacin</e1> therapy is uncertain but may be related to prostaglandin-mediated vasodilatation, hyperalgesia of sensory nerve receptors, and potentiation of inflammation in the gingiva with referral of <e2>pain to the teeth</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6707	"The cause of these previously unreported side effects of <e1>niacin</e1> therapy is uncertain but may be related to prostaglandin-mediated vasodilatation, hyperalgesia of sensory nerve receptors, and <e2>potentiation of inflammation in the gingiva</e2> with referral of pain to the teeth."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6708	"The cause of these previously unreported side effects of <e1>niacin</e1> therapy is uncertain but may be related to <e2>prostaglandin-mediated vasodilatation</e2>, hyperalgesia of sensory nerve receptors, and potentiation of inflammation in the gingiva with referral of pain to the teeth."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6709	"Two 65-year-old white men with coronary heart disease, given <e1>niacin</e1> therapy for dyslipidemia for 5 months, developed <e2>intense dental and gingival pain</e2> that was associated with increases in dose and that was relieved with discontinuance of <e1>niacin</e1> treatment."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6710	"Two 65-year-old white men with coronary heart disease, given <e1>niacin</e1> therapy for dyslipidemia for 5 months, developed <e2>intense dental and gingival pain</e2> that was associated with increases in dose and that was relieved with discontinuance of <e1>niacin</e1> treatment."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6711	"Although major hazards of treatment of hypophosphatemic osteomalacia with phosphate and <e1>calcitriol</e1> are secondary hyperparathyroidism and vitamin D intoxication, <e2>potassium loss</e2> also should be kept in mind."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6712	"Although major hazards of treatment of hypo<e1>phosphate</e1>mic osteomalacia with <e1>phosphate</e1> and calcitriol are secondary hyperparathyroidism and vitamin D intoxication, <e2>potassium loss</e2> also should be kept in mind."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6713	"Although major hazards of treatment of hypophosphatemic osteomalacia with phosphate and <e1>calcitriol</e1> are <e2>secondary hyperparathyroidism</e2> and vitamin D intoxication, potassium loss also should be kept in mind."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6714	"Although major hazards of treatment of hypo<e1>phosphate</e1>mic osteomalacia with <e1>phosphate</e1> and calcitriol are <e2>secondary hyperparathyroidism</e2> and vitamin D intoxication, potassium loss also should be kept in mind."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6715	"Although major hazards of treatment of hypophosphatemic osteomalacia with phosphate and <e1>calcitriol</e1> are secondary hyperparathyroidism and <e2>vitamin D intoxication</e2>, potassium loss also should be kept in mind."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6716	"Although major hazards of treatment of hypo<e1>phosphate</e1>mic osteomalacia with <e1>phosphate</e1> and calcitriol are secondary hyperparathyroidism and <e2>vitamin D intoxication</e2>, potassium loss also should be kept in mind."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6717	"High-dose <e1>phosphate</e1> treatment leads to <e2>hypokalemia</e2> in hypo<e1>phosphate</e1>mic osteomalacia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6718	"It was concluded that potassium loss occurred by a non-renal (intestinal) route in <e1>phosphate</e1> -induced <e2>hypokalemia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6719	"It was concluded that <e1>potassium loss</e1> occurred by a non-renal (intestinal) route in <e2>phosphate</e2> -induced hypokalemia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6720	"<e1>Progressive hypokalemia</e1> developed during <e2>phosphate</e2> treatment."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6721	"The mechanism of the <e1>decrease in plasma potassium</e1> induced by <e2>phosphate</e2> treatment was investigated in a 24-year-old hypertensive patient with hypo<e2>phosphate</e2>mic osteomalacia, who was the youngest of four patients, belonging to a 23 number kindred of five generations."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6722	"<e1>Transtubular potassium gradient (TTKG) also decreased</e1> and an inverse correlation was found between TTKG and doses of <e2>phosphate</e2> (r = -0.37; p < 0.02; N = 38)."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6723	"<e1>Alveolar-interstitial pneumopathy</e1> after <e2>gold</e2> -salts compounds administration, requiring mechanical ventilation."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6724	"The <e1>pulmonary toxicity</e1> of <e2>gold</e2> salts is an uncommon cause of life-threatening respiratory failure."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6725	"The pulmonary toxicity of <e1>gold</e1> salts is an uncommon cause of life-threatening <e2>respiratory failure</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6726	"We report a case of severe <e1>respiratory failure</e1> due to <e2>gold</e2> salt toxicity in a patient suffering from rheumatoid arthritis requiring mechanical ventilation."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6727	"As this relapse coincided with development of a strong delayed-type <e1>hypersensitivity response</e1> to <e2>tuberculin</e2> and improved after treatment with the anti-inflammatory agent oxpentifylline, it was probably caused by restoration of pathogen-specific cellular immunity."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6728	"A patient with psoriasis is described who had an abnormal response to the glucose tolerance test without other evidence of diabetes and then developed postprandial hyperglycemia and <e1>glycosuria</e1> during a period of topical administration of a corticosteroid cream, <e2>halcinonide</e2> cream 0.1%, under occlusion."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6729	"A patient with psoriasis is described who had an abnormal response to the glucose tolerance test without other evidence of diabetes and then developed <e1>postprandial hyperglycemia</e1> and glycosuria during a period of topical administration of a corticosteroid cream, <e2>halcinonide</e2> cream 0.1%, under occlusion."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6730	"A second patient with a similar glucose tolerance test result showed <e1>postprandial hyperglycemia</e1> when treated similarly with <e2>betamethasone valerate</e2> cream 0.1%."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6731	"After 1 week of <e1>nefazodone</e1> therapy the patient experienced headache, <e2>confusion</e2>, and "gray areas" in her vision, without abnormal ophthalmologic findings."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6732	"After 1 week of <e1>nefazodone</e1> therapy the patient experienced headache, confusion, and "<e2>gray areas</e2>" in her vision, without abnormal ophthalmologic findings."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6733	"After 1 week of <e1>nefazodone</e1> therapy the patient experienced <e2>headache</e2>, confusion, and "gray areas" in her vision, without abnormal ophthalmologic findings."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6734	"Coadministration of antidepressant agents such as <e1>nefazodone</e1>, or any other drug that inhibits the CYP3A4 isoenzyme subfamily, should be anticipated to <e2>interfere with tacrolimus metabolism</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6735	"Coadministration of antidepressant agents such as nefazodone, or any other drug that inhibits the CYP3A4 isoenzyme subfamily, should be anticipated to interfere with <e2>tacrolimus</e2> metabolism."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6736	"<e1>Interaction</e1> between tacrolimus and <e2>nefazodone</e2> in a stable renal transplant recipient."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6737	"<e1>Interaction</e1> between <e2>tacrolimus</e2> and nefazodone in a stable renal transplant recipient."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6738	"We suspect that <e1>nefazodone</e1> <e2>inhibits metabolism of tacrolimus</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6739	"We suspect that nefazodone inhibits metabolism of <e2>tacrolimus</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6740	"We report the case of <e1>intoxication</e1> of a 41-year-old female patient suffering from major depression with <e2>mirtazapine</e2> complicated by severe hypothermia."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6741	"CONCLUSION: We report a case of the use of pamidronate for significant hypercalcemia secondary to acute <e2>vitamin D</e2> poisoning."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6742	"CONCLUSION: We report a case of the use of pamidronate for significant <e1>hypercalcemia</e1> secondary to acute <e2>vitamin D</e2> poisoning."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6743	"Pamidronate therapy should be considered in patients with hypercalcemia secondary to acute <e2>vitamin D</e2> poisoning."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6744	"Pamidronate therapy should be considered in patients with <e1>hypercalcemia</e1> secondary to acute <e2>vitamin D</e2> poisoning."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6745	"The patient was initially treated with hydration and <e1>furosemide</e1> but developed <e2>congestive heart failure</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6746	"The use of pamidronate for hypercalcemia secondary to acute <e2>vitamin D</e2> intoxication."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6747	"We report the use of pamidronate for acute, <e1>severe hypercalcemia</e1> secondary to iatrogenic <e2>vitamin D</e2> poisoning."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6748	"We report the use of pamidronate for acute, severe hypercalcemia secondary to iatrogenic <e2>vitamin D</e2> poisoning."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6749	"A 40-year-old man with a long standing history of rheumatoid arthritis was treated with <e1>MTX</e1> over a 6 month period and developed an <e2>overwhelming hepatic necrosis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6750	"<e1>Methotrexate</e1> -induced <e2>hepatic necrosis</e2> requiring liver transplantation in a patient with rheumatoid arthritis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6751	"<e1>MTX</e1> -induced <e2>hepatic injury</e2> and liver enzyme elevations have been demonstrated after treatment of leukemia, gestational disease and during treatment of psoriasis and rheumatoid arthritis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6752	"<e1>MTX</e1> -induced hepatic injury and <e2>liver enzyme elevations</e2> have been demonstrated after treatment of leukemia, gestational disease and during treatment of psoriasis and rheumatoid arthritis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6753	"Clinicians should be aware of the possibility that <e1>vinorelbine</e1> may cause SIADH and possibly <e2>hypokalemia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6754	"Clinicians should be aware of the possibility that <e1>vinorelbine</e1> may cause <e2>SIADH</e2> and possibly hypokalemia."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6755	"CONCLUSIONS: Because of its structural similarity to the other vinca alkaloids, <e1>vinorelbine</e1> is believed to be responsible for <e2>SIADH</e2> in our patient."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6756	"OBJECTIVE: To describe onset of syndrome of inappropriate antidiuretic hormone (<e1>SIADH</e1>) associated with <e2>vinorelbine</e2> therapy for advanced breast cancer."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6757	"OBJECTIVE: To describe onset of <e1>syndrome of inappropriate antidiuretic hormone</e1> (SIADH) associated with <e2>vinorelbine</e2> therapy for advanced breast cancer."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6758	"<e1>Syndrome of inappropriate antidiuretic hormone</e1> associated with <e2>vinorelbine</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6759	"<e1>Pirmenol hydrochloride</e1> -induced <e2>QT prolongation</e2> and T wave inversion on electrocardiogram during treatment for symptomatic atrial fibrillation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6760	"<e1>Pirmenol hydrochloride</e1> -induced QT prolongation and <e2>T wave inversion</e2> on electrocardiogram during treatment for symptomatic atrial fibrillation."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6761	"Thus, an immunological mechanism might be involved in the mechanism of <e1>pirmenol</e1> -induced <e2>QT prolongation</e2> and T wave inversion on the electrocardiogram."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6762	"Thus, an immunological mechanism might be involved in the mechanism of <e1>pirmenol</e1> -induced QT prolongation and <e2>T wave inversion</e2> on the electrocardiogram."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6763	"We report on a 56-year-old female who exhibited drug refractory paroxysmal atrial fibrillation, in which marked <e1>prolongation of the QT interval</e1> and T wave inversion on electrocardiogram was demonstrated reproducibly shortly after the administration of oral <e2>pirmenol</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6764	"We report on a 56-year-old female who exhibited drug refractory paroxysmal atrial fibrillation, in which marked prolongation of the QT interval and <e1>T wave inversion</e1> on electrocardiogram was demonstrated reproducibly shortly after the administration of oral <e2>pirmenol</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6765	"Disseminated muscular cysticercosis with <e1>myositis</e1> induced by <e2>praziquantel</e2> therapy."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6766	"We describe a case of disseminated muscular cysticercosis followed by myositis (fever, <e1>diffuse myalgia</e1>, weakness of the lower limbs, and inflammatory reaction around dying cysticerci) induced by <e2>praziquantel</e2> therapy, an event not described previously."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6767	"We describe a case of disseminated muscular cysticercosis followed by myositis (<e1>fever</e1>, diffuse myalgia, weakness of the lower limbs, and inflammatory reaction around dying cysticerci) induced by <e2>praziquantel</e2> therapy, an event not described previously."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6768	"We describe a case of disseminated muscular cysticercosis followed by myositis (fever, diffuse myalgia, weakness of the lower limbs, and <e1>inflammatory reaction around dying cysticerci</e1>) induced by <e2>praziquantel</e2> therapy, an event not described previously."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6769	"We describe a case of disseminated muscular cysticercosis followed by <e1>myositis</e1> (fever, diffuse myalgia, weakness of the lower limbs, and inflammatory reaction around dying cysticerci) induced by <e2>praziquantel</e2> therapy, an event not described previously."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6770	"We describe a case of disseminated muscular cysticercosis followed by myositis (fever, diffuse myalgia, <e1>weakness of the lower limbs</e1>, and inflammatory reaction around dying cysticerci) induced by <e2>praziquantel</e2> therapy, an event not described previously."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6771	"<e1>Massive subfascial hematoma</e1> after <e2>alteplase</e2> therapy for acute myocardial infarction."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6772	"Physicians should be aware of the possible association between the use of <e1>alteplase</e1> and the development of <e2>subfascial hemorrhage</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6773	"The authors report a case of a patient who received <e1>alteplase</e1> for acute myocardial infarction and developed spontaneous <e2>subfascial hematoma</e2> without any evidence of direct trauma."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6774	"The development of <e1>cutaneous ecchymosis</e1> associated with a sudden fall in hemoglobin after the administration of <e2>alteplase</e2> should strongly suggest the possibility of diffuse subfascial hematoma."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6775	"The development of cutaneous ecchymosis associated with a sudden fall in hemoglobin after the administration of <e1>alteplase</e1> should strongly suggest the possibility of <e2>diffuse subfascial hematoma</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6776	"The development of cutaneous ecchymosis associated with a <e1>sudden fall in hemoglobin</e1> after the administration of <e2>alteplase</e2> should strongly suggest the possibility of diffuse subfascial hematoma."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6777	"A <e1>fatal case of pancytopenia</e1> due to <e2>levomepromazine</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6778	"A <e1>fatal pancytopenia</e1> occurred in a patient with an history of depression with hypomanic rebounds, admitted for a manic episode and treated with levomepromazine, <e2>diazepam</e2> and lithium carbonate."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6779	"A <e1>fatal pancytopenia</e1> occurred in a patient with an history of depression with hypomanic rebounds, admitted for a manic episode and treated with <e2>levomepromazine</e2>, diazepam and lithium carbonate."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6780	"A <e1>fatal pancytopenia</e1> occurred in a patient with an history of depression with hypomanic rebounds, admitted for a manic episode and treated with levomepromazine, diazepam and <e2>lithium carbonate</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6781	"<e1>Amiodarone</e1> -induced <e2>thyrotoxicosis</e2> associated with thyrotropin receptor antibody."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6782	"<e1>Amiodarone</e1> -induced thyrotoxicosis associated with <e2>thyrotropin receptor antibody</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6783	"Among 12 thyrotoxic patients, a patient with arrhythmogenic right ventricular dysplasia, who had been taking <e1>amiodarone</e1> for 4 years, developed <e2>thyrotoxicosis</e2> with subacute onset, accompanied by transiently positive thyrotropin (TSH) receptor antibody (TRAb), or thyrotropin-binding inhibiting immunoglobulin (TBII)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6784	"Among 12 thyrotoxic patients, a patient with arrhythmogenic right ventricular dysplasia, who had been taking <e1>amiodarone</e1> for 4 years, developed thyrotoxicosis with subacute onset, accompanied by transiently positive thyrotropin (TSH) receptor antibody (TRAb), or <e2>thyrotropin-binding inhibiting immunoglobulin</e2> (TBII)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6785	"Among 12 thyrotoxic patients, a patient with arrhythmogenic right ventricular dysplasia, who had been taking <e1>amiodarone</e1> for 4 years, developed thyrotoxicosis with subacute onset, accompanied by <e2>transiently positive thyrotropin (TSH) receptor antibody</e2> (TRAb), or thyrotropin-binding inhibiting immunoglobulin (TBII)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6786	"Since <e1>amiodarone</e1> was first marketed in 1992 in Japan, the incidence of <e1>amiodarone</e1> -induced thyrotoxicosis (<e2>AIT</e2>) has been increasing."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6787	"Since <e1>amiodarone</e1> was first marketed in 1992 in Japan, the incidence of <e1>amiodarone</e1> -induced <e2>thyrotoxicosis</e2> (AIT) has been increasing."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6788	"These in vitro findings and clinical course suggest that TRAb/TBII without thyroid-stimulating activity may develop in patients with <e1>amiodarone</e1> -induced <e2>destructive thyroiditis</e2>, as reported in patients with <e2>destructive thyroiditis</e2>, such as subacute and silent thyroiditis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6789	"These in vitro findings and clinical course suggest that TRAb/TBII without thyroid-stimulating activity may develop in patients with <e1>amiodarone</e1> -induced <e2>destructive thyroiditis</e2>, as reported in patients with <e2>destructive thyroiditis</e2>, such as subacute and silent thyroiditis."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6790	"These in vitro findings and clinical course suggest that TRAb/TBII without thyroid-stimulating activity may develop in patients with <e1>amiodarone</e1> -induced destructive <e2>thyroiditis</e2>, as reported in patients with destructive <e2>thyroiditis</e2>, such as subacute and silent <e2>thyroiditis</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6791	"These in vitro findings and clinical course suggest that <e1>TRAb/TBII without thyroid-stimulating activity</e1> may develop in patients with <e2>amiodarone</e2> -induced destructive thyroiditis, as reported in patients with destructive thyroiditis, such as subacute and silent thyroiditis."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6792	"CONCLUSION: <e1>Lipoid pneumonia</e1> as a result of <e2>mineral oil</e2> aspiration still occurs in the pediatric population."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6793	"In patients with swallowing dysfunction and pneumonia, a history of <e1>mineral oil</e1> use should be obtained and a diagnosis of <e2>ELP</e2> should be considered in the differential diagnoses if <e1>mineral oil</e1> use has occurred."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6794	"In patients with swallowing dysfunction and pneumonia, a history of <e1>mineral oil</e1> use should be obtained and a diagnosis of <e2>ELP</e2> should be considered in the differential diagnoses if <e1>mineral oil</e1> use has occurred."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6795	"In patients with swallowing dysfunction and <e1>pneumonia</e1>, a history of <e2>mineral oil</e2> use should be obtained and a diagnosis of ELP should be considered in the differential diagnoses if <e2>mineral oil</e2> use has occurred."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6796	"In patients with swallowing dysfunction and <e1>pneumonia</e1>, a history of <e2>mineral oil</e2> use should be obtained and a diagnosis of ELP should be considered in the differential diagnoses if <e2>mineral oil</e2> use has occurred."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6797	"In patients with <e1>swallowing dysfunction</e1> and pneumonia, a history of <e2>mineral oil</e2> use should be obtained and a diagnosis of ELP should be considered in the differential diagnoses if <e2>mineral oil</e2> use has occurred."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6798	"In patients with <e1>swallowing dysfunction</e1> and pneumonia, a history of <e2>mineral oil</e2> use should be obtained and a diagnosis of ELP should be considered in the differential diagnoses if <e2>mineral oil</e2> use has occurred."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6799	"<e1>Lipoid pneumonia</e1>: a silent complication of <e2>mineral oil</e2> aspiration."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6800	"<e1>Mineral oil</e1>, a hydrocarbon, may not elicit a normal protective cough reflex and may <e2>impair mucociliary transport</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6801	"Our case points to the need for increased awareness by the general pediatricians of the <e1>potential hazards</e1> of <e2>mineral oil</e2> use for chronic constipation."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6802	"Treatment of <e1>ELP</e1> in children is generally supportive, with the symptoms and roentgenographic abnormalities resolving within months after stopping the use of <e2>mineral oil</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6803	"Treatment of ELP in children is generally supportive, with the symptoms and <e1>roentgenographic abnormalities</e1> resolving within months after stopping the use of <e2>mineral oil</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6804	"We report a case of a child with neurodevelopmental delay with chronic constipation and a history of chronic <e1>mineral oil</e1> ingestion presenting as asymptomatic exogenous lipoid pneumonia (<e2>ELP</e2>)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6805	"We report a case of a child with neurodevelopmental delay with chronic constipation and a history of chronic <e1>mineral oil</e1> ingestion presenting as asymptomatic <e2>exogenous lipoid pneumonia</e2> (ELP)."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6806	"An unusual cause of <e1>burn injury</e1>: unsupervised use of drugs that contain <e2>psoralens</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6807	"Because <e1>psoralens</e1> sensitize skin to ultraviolet A light, <e2>phototoxic reactions</e2> are the most frequent adverse effect of this treatment."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6808	"In this article, we present the case of a vitiligo patient who was admitted to our facility with an <e1>intense burn</e1> after the topical use of <e2>8-methoxypsoralen</e2> solution as a suntanning agent."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6809	"Sunburn may sometimes be a major injury in <e1>psoralen</e1> users because high doses or inappropriate use of the drug may render the <e2>skin extremely sensitive</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6810	"<e1>Sunburn</e1> may sometimes be a major injury in <e2>psoralen</e2> users because high doses or inappropriate use of the drug may render the skin extremely sensitive."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6811	"CONCLUSIONS: <e1>Metoclopramide</e1> may cause reversible <e2>nonthrombocytopenic vascular-type palpable purpura</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6812	"OBJECTIVE: To report a case of reversible <e1>nonthrombocytopenic palpable purpura</e1> associated with <e2>metoclopramide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6813	"Reversible <e1>nonthrombocytopenic palpable purpura</e1> associated with <e2>metoclopramide</e2>."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6814	"<e1>Lithium</e1> treatment was terminated in 1975 because of lithium intoxication with a <e2>diabetes insipidus-like syndrome</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6815	"Lithium treatment was terminated in 1975 because of <e1>lithium</e1> intoxication with a <e2>diabetes insipidus-like syndrome</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6816	"<e1>Lithium</e1> treatment was terminated in 1975 because of <e2>lithium intoxication</e2> with a diabetes insipidus-like syndrome."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
+6817	"Lithium treatment was terminated in 1975 because of <e2>lithium</e2> intoxication with a diabetes insipidus-like syndrome."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6818	"<e1>Eosinophilia</e1> caused by <e2>clozapine</e2> was observed in challenge, preceded by a faster neutrophil production and consecutive decrease (z = 2.27, p = 0.01)."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6819	"<e1>Eosinophilia</e1> has been encountered from 0.2 to 61.7% in <e2>clozapine</e2> -treated patients, mostly with a transient course and spontaneous remission."
+DRUG-ADE(e2,e1)
+Comment: DRUG-AE
+
+6820	"Successful challenge with <e1>clozapine</e1> in a history of <e2>eosinophilia</e2>."
+DRUG-ADE(e1,e2)
+Comment: DRUG-AE
+
