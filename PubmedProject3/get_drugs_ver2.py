@@ -14,6 +14,7 @@ def from_excel(**kwargs):
         "",
         " "
     ]
+
     path=kwargs.get("path") # "drug_mapping_v3_210726_2.xlsx"
     drugs = pd.read_excel(path)
     columns = kwargs.get("columns")
@@ -22,13 +23,13 @@ def from_excel(**kwargs):
     if columns is None:
         for sublist in drugs.values.tolist():
             for item in sublist:
-                if type(item) is str:
+                if type(item) is str and ("other" not in item) and not ("oil" in item and len(item) == 3):
                     flat_list.append(item.replace("\u3000"," ").strip())
     else:
         print(f"Getting druglist from {path}, using columns: {' '.join(columns)}")
         for sublist in drugs.loc[:,columns].values.tolist():
             for item in sublist:
-                if type(item) is str:
+                if type(item) is str and ("other" not in item) and not ("oil" in item and len(item) == 3):
                     flat_list.append(item.replace("\u3000"," ").strip())
 
     # drop_exp = []
@@ -73,5 +74,10 @@ def from_csv(**kwargs):
     return drugs
 
 if __name__ == "__main__":
-    temp = from_excel(path= "drug_mapping_v3_210726_2.xlsx", columns=["ingredient_1"])
-    print(temp)
+    columns = []
+    for i in range(9):
+        columns.append("ingredient_" + str(i+1))
+    temp = from_excel(path="drug_mapping_v3_210726_2.xlsx", columns=columns)
+    with open("test.txt","w+") as f:
+        for item in temp:
+            f.write(item + "\n")
