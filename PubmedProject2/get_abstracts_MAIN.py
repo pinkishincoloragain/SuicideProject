@@ -1,18 +1,17 @@
 import get_abstracts_pubmed
 import pandas as pd
-from datetime import date
 
+# abstracts, drugs, queries = get_abstracts_pubmed.main(email="???", drugs=["oseltamivir"] , max_results=100000, suicide_mesh=True,suicide_tw=True,  case_report=True)
 
-# abstracts, drugs, queries = get_abstracts_pubmed.main(email="???", druglist_path="../../data/Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
-#                                         max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
-# abstracts, drugs, queries = get_abstracts_pubmed.main(email="???", druglist_path="Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
-#                                         max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
-# abstracts, drugs, queries = get_abstracts_pubmed.main(email="???",drugs=["aspirin", "acetaminophen"] ,druglist_path="Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
-#                                                       max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
-abstracts, drugs, queries = get_abstracts_pubmed.main(email="???",drugs=["aspirin", "acetaminophen"] ,columns=["ingredient", "ingredient_1"],
-                                                      max_results=100000, from_date="1990/01/01", to_date="2021/07/07", mesh=True, case_report=True)
-output_file="PubMed_crawl_sui_casereports_" +date.today().strftime("%Y/%m/%d") + "_1.xlsx"
+abstracts, drugs, queries = get_abstracts_pubmed.main(email="???",druglist_path="data/Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
+                                                      max_results=100000,  suicide_mesh=True,suicide_tw=True, case_report=True)
+
+# abstracts, drugs, queries = get_abstracts_pubmed.main(email="???",druglist_path="data/Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
+#                                                       max_results=100000,  suicide_mesh=True,suicide_tw=True, case_report=True,  from_date="1990/01/01", to_date="2021/07/07",)
+
+output_file= "../PubmedProject3/crawled/sui.xlsx"
 df=pd.DataFrame(abstracts)
+
 
 if not df.empty:
 
@@ -31,6 +30,7 @@ if not df.empty:
     dfq.to_excel(writer, sheet_name="queries", index=False)
 
     writer.save()
+    print(f"Saved {output_file}")
 
 else:
      print("Empty")
