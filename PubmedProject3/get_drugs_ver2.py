@@ -59,7 +59,7 @@ def from_excel(**kwargs):
     #     if item in replace_dict.keys():
     #         res.remove(item)
     #         res.append(replace_dict[item])
-
+    print(sorted(list(set(x for x in flat_list if x in excp_dict))))
     return sorted(list(set(x for x in flat_list if x not in excp_dict)))
     # return sorted(list(set(res)))
     # return res.values.tolist()
