@@ -15,7 +15,7 @@ def from_excel(**kwargs):
         " ",
         "oil"
     ]
-
+    excepted_items = set()
     path=kwargs.get("path") # "drug_mapping_v3_210726_2.xlsx"
     drugs = pd.read_excel(path)
     columns = kwargs.get("columns")
@@ -26,12 +26,16 @@ def from_excel(**kwargs):
             for item in sublist:
                 if type(item) is str and ("other" not in item):
                     flat_list.append(item.replace("\u3000"," ").strip())
+                else:
+                    excepted_items.add(item)
     else:
         print(f"Getting druglist from {path}, using columns: {' '.join(columns)}")
         for sublist in drugs.loc[:,columns].values.tolist():
             for item in sublist:
                 if type(item) is str and ("other" not in item):
                     flat_list.append(item.replace("\u3000"," ").strip())
+                else:
+                    excepted_items.add(item)
 
     # drop_exp = []
     # for item in flat_list:
@@ -61,7 +65,11 @@ def from_excel(**kwargs):
     #     if item in replace_dict.keys():
     #         res.remove(item)
     #         res.append(replace_dict[item])
-    print(sorted(list(set(x for x in flat_list if x in excp_dict))))
+
+    excp_set = set(x for x in flat_list if x in excp_dict)
+    excepted_items.update(excp_set)
+    print(excepted_items)
+
     return sorted(list(set(x for x in flat_list if x not in excp_dict)))
     # return sorted(list(set(res)))
     # return res.values.tolist()
