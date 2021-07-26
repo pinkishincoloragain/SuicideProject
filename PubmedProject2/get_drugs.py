@@ -66,3 +66,6 @@ def from_csv(**kwargs):
         for row in csv.reader(inputfile):
             drugs.append(row[0])
     return drugs
+
+if __name__ == "__main__":
+    from_excel()
