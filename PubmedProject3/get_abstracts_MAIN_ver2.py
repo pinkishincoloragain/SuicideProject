@@ -17,7 +17,6 @@ abstracts, drugs, queries = get_abstracts_pubmed.main(email="smb1103@gmail.com",
                                                       max_results=100000, from_date="1990/01/01", to_date="2021/07/26", mesh=False, case_report=True)
 output_file = "data/abstracts_only_suicidal.xlsx"
 
-
 # Using only ingredients, no meSH
 # columns = ['ingredient_1', 'ingredient_2', 'ingredient_3', 'ingredient_4', 'ingredient_5', 'ingredient_6', 'ingredient_7', 'ingredient_8', 'ingredient_9']
 # abstracts, drugs, queries = get_abstracts_pubmed.main(email="smb1103@gmail.com", druglist_path="drug_mapping_v3_210726_2.xlsx", columns=columns,
