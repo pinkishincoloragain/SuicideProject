@@ -12,7 +12,8 @@ def from_excel(**kwargs):
         # "factor",
         "other",
         "",
-        " "
+        " ",
+        "oil"
     ]
 
     path=kwargs.get("path") # "drug_mapping_v3_210726_2.xlsx"
@@ -23,13 +24,13 @@ def from_excel(**kwargs):
     if columns is None:
         for sublist in drugs.values.tolist():
             for item in sublist:
-                if type(item) is str and ("other" not in item) and not ("oil" in item and len(item) == 3):
+                if type(item) is str and ("other" not in item):
                     flat_list.append(item.replace("\u3000"," ").strip())
     else:
         print(f"Getting druglist from {path}, using columns: {' '.join(columns)}")
         for sublist in drugs.loc[:,columns].values.tolist():
             for item in sublist:
-                if type(item) is str and ("other" not in item) and not ("oil" in item and len(item) == 3):
+                if type(item) is str and ("other" not in item):
                     flat_list.append(item.replace("\u3000"," ").strip())
 
     # drop_exp = []
