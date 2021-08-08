@@ -25,7 +25,8 @@
 #         else:
 #             SS_dict.update({"_semanticscholar": False})
 #     return SS_dict
-import pprint
+
+
 def make_query(**kwargs):
     from itertools import product
 
@@ -132,10 +133,13 @@ def main(**kwargs):
     print(
         f"Using drug list({kwargs.get('druglist_path') if kwargs.get('druglist_path') else 'input'}), crawling max {kwargs.get('max_results')}  abstracts for {kwargs.get('email')}. "
         f"Corresponding articles were published from {kwargs.get('from_date')} to {kwargs.get('to_date')} ")
-    print('*')
+
     print(f"using MeSH" if kwargs.get('mesh') else 'no MeSH:')
 
     print(f"case report filtering:" if kwargs.get('case_report') else 'no filtering:')
+
+
+
 
     if not isinstance(kwargs.get('drugs') , list):
         drugs = []
@@ -193,4 +197,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     #TODO
+
     # main(args)
+

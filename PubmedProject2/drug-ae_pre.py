@@ -66,7 +66,6 @@ def get_training_set(**kwargs):
                         outfile.write(f"{idx}\t{text}\n{lines[1]}\n{lines[2]}\n\n")
                         idx += 1
                         break
-
     return
 
 if __name__=="__main__":

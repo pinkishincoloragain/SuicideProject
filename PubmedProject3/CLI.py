@@ -15,6 +15,7 @@ from pyfiglet import Figlet
 
 import get_abstracts_pubmed
 import pandas as pd
+from datetime import date
 
 email_form = re.compile('^[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$')
 
@@ -204,8 +205,10 @@ pprint(type(answers))
 #
 abstracts, drugs, queries = get_abstracts_pubmed.main(**answers)
 
-output_file = "PubMed_crawl_sui_casereports_210707)_1.xlsx"
-output_file = "crawled/sui.xlsx"
+new_file_name = "PubMed_crawl_sui_casereports_" +date.today().strftime("%Y_%m_%d") + ".xlsx"
+f = open(new_file_name,"w")
+f.close()
+output_file = new_file_name
 
 df = pd.DataFrame(abstracts)
 
