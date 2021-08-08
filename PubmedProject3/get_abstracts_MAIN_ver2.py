@@ -1,6 +1,7 @@
 import get_abstracts_pubmed
 import pandas as pd
 from datetime import date
+import get_abstracts_pubmed_no_DB
 
 
 # abstracts, drugs, queries = get_abstracts_pubmed.main(email="???", druglist_path="../../data/Drug_mapping_v2.xlsx", columns=["ingredient", "ingredient_1"],
@@ -12,9 +13,10 @@ from datetime import date
 
 
 # Using suicidal terms as drugs, no meSH. suicide_terms = meshs + tws (at get_abstracts_pubmed.py)
+
 suicide_terms = ["Suicidal Ideation", "Suicide, Attempted", "Suicide, Completed", "Suicide","suicid", "suicidal", "suicidality", "suicidally", "suicidals", "suicide", "suicides", "suicide s", "suicided", "suiciders"]
-abstracts, drugs, queries = get_abstracts_pubmed.main(email="smb1103@gmail.com",drugs=suicide_terms ,columns="",
-                                                      max_results=100000, from_date="1990/01/01", to_date="2021/07/26", mesh=False, case_report=True)
+columns = ["ingredient_1"]
+abstracts, drugs, queries = get_abstracts_pubmed_no_DB.main(max_results="100",email="smb1103@gmail.com",druglist_path="drug_mapping_v3_210726_2.xlsx",from_date="1990/01/01",to_date="2021/08/08",suicide_mesh=True,suicide_tw="True",case_report="True",columns=columns)
 output_file = "data/abstracts_only_suicidal.xlsx"
 
 # Using only ingredients, no meSH

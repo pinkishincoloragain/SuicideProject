@@ -153,7 +153,8 @@ class PyMedCrawler:
                     "(" + " OR ".join([m + f"[{tag}]" for m, tag in product(tags, filter_tags)]) + ")"
                 )
 
-
+        temp = " AND ".join(filters)
+        print(temp)
         return " AND ".join(filters)
 
     def execute_query(self,Q, drug=None):
@@ -162,28 +163,9 @@ class PyMedCrawler:
         max_retries=10
 
         pubmed = PubMed(tool="KNU_DSA_PubMed_"+str(drug) if drug else "", email=self.email)
+        results = pubmed.query(Q,max_results=100)
 
-        for _ in range(max_retries):
-            try:
-                response = pubmed.query(Q, max_results=self.max_results) #TODO retry
-                break
-            except (TimeoutError, reqexc.ConnectionError, reqexc.ConnectionTimeout) as e:
-                pass
-
-        if response: #response OK
-            if drug:
-                result = [{"obj": item, "drug": drug} for item in response]
-            else:
-                result = [item for item in response]
-        else:
-            import warnings
-            warnings.warn(f"Connection failed for {drug if drug else  '_'} after {max_retries} retries")
-            if drug:
-                result = [{"obj": [], "drug": drug}]
-            else:
-                result = []
-
-        return result
+        return results
 
     def post_processing(self): #GROUP BY imitation with PMIDlist key to get an array of drug for each paper
         from tqdm import tqdm
@@ -304,7 +286,6 @@ def main(**kwargs):
 
     print(crawlerObj.utils(config="sentence_number"))
 
-
     return crawlerObj.papers, crawlerObj.drugs, crawlerObj.queries
 
 if __name__ == "__main__":
@@ -338,8 +319,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
 
-
     # max_results="100",email="smb1103@gmail.com"
-    main(args)
-    # main(max_results="100",email="smb1103@gmail.com",druglist_path="drug_mapping_v3_210726_2.xlsx",from_date="1990/01/01",to_date="2021/08/08",suicide_mesh=True,suicide_tw="True",case_report="True",columns="ingredient_1")
+    # main(args)
+    main(max_results="100",email="smb1103@gmail.com",druglist_path="drug_mapping_v3_210726_2.xlsx",from_date="1990/01/01",to_date="2021/08/08",suicide_mesh=True,suicide_tw="True",case_report="True",columns="ingredient_1")
 
