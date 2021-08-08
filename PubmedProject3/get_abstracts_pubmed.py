@@ -26,145 +26,286 @@
 #             SS_dict.update({"_semanticscholar": False})
 #     return SS_dict
 
+class PyMedCrawler:
 
-def make_query(**kwargs):
-    from itertools import product
+    def __init__(self, **kwargs):
+        import pandas as pd
+        for k, v in kwargs.items():
+            setattr(self, k, v)
 
-    suicide_meshs = ["Suicidal Ideation", "Suicide, Attempted", "Suicide, Completed", "Suicide"]
-    suicide_tws = ["suicid",  "suicidal",  "suicidality",  "suicidally",  "suicidals",  "suicide",  "suicides",  "suicide s",  "suicided",  "suiciders"]
-    # meshids=["D059020","D013406","D000081013"]
-    # suicide_tags=["Mesh", "TW"]
-    drug_tags=["Mesh", "Supplementary concept", "TW"]
-    # languages=["English"]
-    filters=[]
+        self.queries=[]
+        if hasattr(self, 'restore') : #TODO if none
+            import json
+            from tqdm import tqdm
+            print(f"Restoring from excel {self.restore}")
+            self.papers=pd.read_excel(self.restore, sheet_name="result", index_col=None).to_dict('records')
+            for _ in tqdm(self.papers):
+                _.update({"drugs": json.loads(_.get("drugs").replace("\'", "\""))})
+                _.update({"PMIDa":_.get("PMID").split(",")})
+                for attr in ["meshs", "filters"]:
+                    if hasattr(_, attr):
+                        del _[attr]
+            self.queries=pd.read_excel(self.restore, sheet_name="queries", index_col=None).to_dict('records')
+        else:
+            self.papers=[]
+            self.results=[]
+            print(
+            f"Using drug list {self.druglist_path if hasattr(self, 'druglist_path') else 'input'}, crawling max {self.max_results}  abstracts for {self.email}. "
+            f"Corresponding articles were published from {self.from_date if hasattr(self, 'from_date') else str(float('-inf'))} to {self.to_date if hasattr(self, 'to_date') else str(float('inf'))} ")
+            if hasattr(self, "sui_mesh"):
+                print(f"using suicide MeSH")
+            if hasattr(self,"case_report"):
+                print(f"case report filtering")
+        self.set_drugs()
+        self.n_drugs = len(self.drugs)
 
-    if kwargs.get("drugs"):
-        filters.append("(" + " OR ".join([drug + f"[{tag}]" for drug,tag in product(kwargs.get("drugs"), drug_tags)]) + ")")
+    def utils(self, config="sentence_number", entity="sentences", key=None):
 
-    if kwargs.get('suicide_mesh') != kwargs.get('suicide_tw'): #if one presents
-        if kwargs.get('suicide_mesh'):
-            filters.append("(" + " OR ".join([mesh + f"[{tag}]" for mesh, tag in product(suicide_meshs, ["Mesh"])]) + ")")
-        if kwargs.get('suicide_tw'):
-            filters.append("(" + " OR ".join([tw + f"[{tag}]" for tw, tag in product(suicide_tws, ["TW"])]) + ")")
-    elif kwargs.get('suicide_mesh') and kwargs.get('suicide_tw'): #two present
-            filters.append("("+
-                "(" + " OR ".join([mesh + f"[{tag}]" for mesh, tag in product(suicide_meshs, ["Mesh"])]) + ")"
-                           +" OR "
+        if config=="sentence_number":
+            return len(list(set([_.get("ID") for _ in [item for sublist in [ss.get('sentences') for ss in self.papers] for item in sublist]])))
+
+        if config=="delete_items" and key:
+            print(f"Dropping {key} items from {entity}...")
+            for paper in self.papers:
+                if entity=="papers":
+                    del paper[key]
+                if entity=="sentences":
+                    for s in paper.get(entity):
+                        del s[key]
+
+        if config=="wrong_parsing":
+            import re
+            aaa=[sublist.get('sentences') for sublist in self.papers]
+            return [item.get('sent') for sublist in aaa for item in sublist if re.findall(r'[!?.][A-Z]', item.get('sent')) and (item.get('drugs') if entity=="drugs" else True)]
+
+    def set_drugs(self):
+        import get_drugs
+        if not hasattr(self,'drugs'):
+            # if not isinstance(self.drugs, list):
+            drugs = []
+            if self.druglist_path:
+                if self.druglist_path.endswith('.xlsx') or self.druglist_path.endswith('.xls'):
+                    drugs = get_drugs.from_excel(path=self.druglist_path, columns=self.columns)
+                elif self.druglist_path.endswith('.csv'):
+                    drugs = get_drugs.from_csv(path=self.druglist_path)
+        else:
+            drugs=self.drugs
+        self.drugs = list(set(drugs))
+
+    def make_query(self, drug=None, check_tags=None, tags=None):
+        from itertools import product
+
+        suicide_meshs = ["Suicidal Ideation", "Suicide, Attempted", "Suicide, Completed", "Suicide"]
+        suicide_tws = ["suicid", "suicidal", "suicidality", "suicidally", "suicidals", "suicide", "suicides",
+                       "suicide s", "suicided", "suiciders"]
+        drug_tags = ["Mesh", "Supplementary concept", "TW"]
+
+        mesh_tags = ["MeSH Subheading", "MeSH"]
+        filter_tags=["Filter"]
+
+        filters = []
+
+        if drug:
+            filters.append(
+                "(" + " OR ".join([drug + f"[{tag}]" for tag in drug_tags]) + ")")
+
+        # if self.drugs:
+        #     filters.append(
+        #         "(" + " OR ".join([drug + f"[{tag}]" for drug, tag in product(kwargs.get("drugs"), drug_tags)]) + ")")
+
+        # if hasattr(self,'suicide_mesh')
+        if self.suicide_mesh != self.suicide_tw:  # if one presents
+            if self.suicide_mesh:
+                filters.append(
+                    "(" + " OR ".join([mesh + f"[{tag}]" for mesh, tag in product(suicide_meshs, ["Mesh"])]) + ")")
+            if self.suicide_tw:
+                filters.append("(" + " OR ".join([tw + f"[{tag}]" for tw, tag in product(suicide_tws, ["TW"])]) + ")")
+        elif self.suicide_mesh and self.suicide_tw:  # two present
+            filters.append("(" +
+                           "(" + " OR ".join(
+                [mesh + f"[{tag}]" for mesh, tag in product(suicide_meshs, ["Mesh"])]) + ")"
+                           + " OR "
                            + "(" + " OR ".join([tw + f"[{tag}]" for tw, tag in product(suicide_tws, ["TW"])]) + ")"
-                           +")"
+                           + ")"
                            )
 
-    if kwargs.get("from_date"): #start time is required by PubMed
-        filters.append(f"({kwargs.get('from_date')}[Date - Publication] : {kwargs.get('to_date') if kwargs.get('to_date') else str(3000)}[Date - Publication])")
+        if hasattr(self,'from_date'):
+            if self.from_date:# start time is required by PubMed
+                filters.append(
+                    f"({self.from_date}[Date - Publication] : {self.to_date if hasattr(self,'to_date') else str(3000)}[Date - Publication])")
 
-    if kwargs.get('case_report'):
-        filters.append("(" + "case reports" + "[Filter]" + ")") #[Title/Abstract]
+        if hasattr(self,'case_report'):
+            if self.case_report:
+                filters.append("(" + "case reports" + "[Filter]" + ")")  # [Title/Abstract]
 
-    if kwargs.get('lang'):
-        filters.append(
-            "(" + " OR ".join([l + f"[{tag}]" for l, tag in product(kwargs.get('lang'), ["Language"])]) + ")")
+        if hasattr(self,'lang'):
+            if self.lang:
+                filters.append(
+                    "(" + " OR ".join([l + f"[{tag}]" for l, tag in product(self.lang, ["Language"])]) + ")")
 
-    return " AND ".join(filters)
-
-def post_processing(results, drugs, papers):
-    from tqdm import tqdm
-    """
-    Post-processing
-    """
-    # for article in tqdm(results):
-    for article in results:
-        abstract = article.abstract
-        # if abstract and any(drug in abstract for drug in drugs):
-        if abstract:
-            drugsfound=[]
-            for drug in drugs:
-                if drug in abstract:
-                    drugsfound.append(drug)
-            if len(drugsfound) or (len(drugsfound)==0 and len(drugs)==0):
-                data={"abstract":abstract,  "drugs":drugsfound, "title":article.title[0] if isinstance(article.title, list) else article.title, "DOI": article.doi, "date": article.publication_date, "PMIDa":article.pubmed_id.splitlines(),"PMIDlist":article.pubmed_id}
-                if data not in papers:
-                    papers.append(data)
-    return papers
-
-def pymed(args):
-    """
-    :type mesh: bool
-    :type case_report: bool
-    """
-
-    from pymed import PubMed
-    from requests.exceptions import HTTPError
-    from itertools import chain
-    CHL=30 #
-
-    pubmed = PubMed(tool="MyTool", email=args.get('email'))
-
-    drugs = args.get('drugs')
-    papers = []
-    results=[]
-    queries=[]
-    try:
-        query=make_query(**args)
-        # print(query)
-        results = pubmed.query(query, max_results=args.get('max_results'))
-        post_processing(results, drugs, papers)
-        queries.append(query)
-    except HTTPError as e:
-        print("request is too long, chunking...")
-        chunks=[drugs[x:x+CHL] for x in range(0, len(drugs), CHL)]
-        for _ in chunks:
-            args['drugs']=_
-            query=make_query(**args)
-            # print(query)
-            subres = pubmed.query(query, max_results=args.get('max_results'))
-            results=chain(results,subres)
-            queries.append(query)
-
-    post_processing(results, drugs, papers)
+        if check_tags:
+            if check_tags=="mesh":
+                filters.append(
+                    "(" + " OR ".join([m + f"[{tag}]" for m, tag in product(tags, mesh_tags)]) + ")"
+                )
+            if check_tags == "filter":
+                filters.append(
+                    "(" + " OR ".join([m + f"[{tag}]" for m, tag in product(tags, filter_tags)]) + ")"
+                )
 
 
-    print(f"Total abstracts:{len(papers)}")
-    return papers, drugs, queries
+        return " AND ".join(filters)
+
+    def execute_query(self,Q, drug=None):
+        from pymed import PubMed
+        from requests import exceptions as reqexc
+        max_retries=10
+
+        pubmed = PubMed(tool="KNU_DSA_PubMed_"+str(drug) if drug else "", email=self.email)
+
+        for _ in range(max_retries):
+            try:
+                response = pubmed.query(Q, max_results=self.max_results) #TODO retry
+                break
+            except (TimeoutError, reqexc.ConnectionError, reqexc.ConnectionTimeout) as e:
+                pass
+
+        if response: #response OK
+            if drug:
+                result = [{"obj": item, "drug": drug} for item in response]
+            else:
+                result = [item for item in response]
+        else:
+            import warnings
+            warnings.warn(f"Connection failed for {drug if drug else  '_'} after {max_retries} retries")
+            if drug:
+                result = [{"obj": [], "drug": drug}]
+            else:
+                result = []
+
+        return result
+
+    def post_processing(self): #GROUP BY imitation with PMIDlist key to get an array of drug for each paper
+        from tqdm import tqdm
+        """
+        Post-processing
+        """
+        keys = ["PMIDlist"]
+        papers = []
+        print("Postprocessing...")
+        for article in tqdm(self.results):
+            obj = article.get("obj")
+            if obj.abstract:
+                data = {"abstract": obj.abstract, "drugs": [article.get("drug")],
+                        "title": obj.title[0] if isinstance(obj.title, list) else obj.title, "DOI": obj.doi,
+                        "date": obj.publication_date, "PMIDa": obj.pubmed_id.splitlines(),
+                        "PMIDlist": obj.pubmed_id}
+
+            iii = [i for i, x in enumerate(papers) if x["PMIDlist"] == data.get("PMIDlist")]  # if there are duplicate PMIDs
+            if iii: #YES, update
+                duplicatesdrug = data.get("drugs")
+                for d in iii:
+                    if papers[d].get("drugs")[0] not in duplicatesdrug:
+                        duplicatesdrug.extend(papers[d].get("drugs"))
+                data.update({"drugs": duplicatesdrug})
+                for i in iii:
+                    papers[i] = data
+            else: #NO, append
+                papers.append(data)
+        self.papers.extend(papers)
+
+    def harvest(self):
+        from multiprocessing import Pool, freeze_support
+        if __name__ == '__main__':
+            freeze_support()
+        import tqdm
+        drugs = self.drugs
+
+        # import os
+        # n_cpu = os.cpu_count()
+        # n_drugs=self.n_drugs
+        # with Pool(processes=min(n_drugs,n_cpu)) as p:
+        #     for res, req in tqdm.tqdm(p.imap_unordered(self.execute_query, drugs), total=n_drugs,
+        #                               colour='white'):  # TODO multiprocessing lib initializes duplicated task which leads to Error 429 : to many requests
+        #         self.queries.append(req)
+        #         if res:
+        #             # print(_)
+        #             self.results.extend(res)
+        #             pass
+
+        for drug in tqdm.tqdm(drugs): #temporary workaround: 1 process
+            query=self.make_query(drug)
+            res = self.execute_query(drug=drug, Q=query)
+            self.queries.append(query)
+            self.results.extend(res)
+
+    def split_to_sents(self,classify=False, keywords=False):
+        print("Getting sentences...")
+        from tqdm import tqdm
+        import nltk.data
+        sui_keywords=["suicid"]
+        exc_sents=["(ABSTRACT TRUNCATED AT 250 WORDS)"]
+        tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+
+        if classify:
+            from transformers import pipeline
+            sui_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+            candidate_labels = ["suicide", "non-suicide"]
+
+        x = 0 #cross-paper sentence counter
+        for paper in tqdm(self.papers):
+            ss = tokenizer.tokenize(paper['abstract']) #TODO tokenizers???
+            list = []
+            #TODO is "is_suicidal": " ", "ADE": " ", sui_keywords, sui_classifier for title
+            for s in ss:
+                if s not in exc_sents:
+                    sdict={"ID": "s" + str(x), "PMID":paper["PMIDa"],"sent": s, "is_suicidal": " ", "ADE": " ",
+                                 "drugs": [drug for drug in paper['drugs'] if drug in s]}
+                    if keywords:
+                        suiskw=[kw for kw in sui_keywords if kw in s]
+                        if suiskw:
+                            sdict.update({"sui_keywords":suiskw})
+
+                    if classify:
+                        k = sui_classifier(s, candidate_labels)
+                        sdict.update({"sui_classifier": k.get("labels")[k.get("scores").index(max(k.get("scores")))]})
+                        #TODO provide suicide probability instead of
+
+                    list.append(sdict)
+                x += 1
+            paper.update({"sentences": list})
+
+    def check_tags(self, type="mesh", list=None):
+        from tqdm import tqdm
+        """type: mesh or filter
+        list: list of instances"""
+        if type in ["mesh", "filter"] and list:
+            print(f"Checking {','.join(list)} {type}s:") #
+
+            for _ in list:
+                query=self.make_query(check_tags=type,tags=list)
+                res=self.execute_query(Q=query)
+                PMIDA = [_.pubmed_id.splitlines() for _ in res]
+                PMIDA = [item for sublist in PMIDA for item in sublist] #papers with those PMIDs has the mesh/filter
+                for paper in tqdm(self.papers):
+                    if set(paper.get("PMIDa")).intersection(PMIDA):
+                        paper.update({
+                            type+"s":list(set(paper.get(type+"s").append(_))) if hasattr(paper,type+"s")
+                                      else [_]})
 
 def main(**kwargs):
+    crawlerObj = PyMedCrawler(**kwargs)
 
-    import get_drugs
+    crawlerObj.harvest()
+    crawlerObj.post_processing()
+    crawlerObj.check_tags(type="filter", list=["case reports"])
+    crawlerObj.check_tags(type="mesh", list=["adverse effects"])
+    crawlerObj.split_to_sents(keywords=True, classify=False) #classifying takes some time
 
-    print(
-        f"Using drug list({kwargs.get('druglist_path') if kwargs.get('druglist_path') else 'input'}), crawling max {kwargs.get('max_results')}  abstracts for {kwargs.get('email')}. "
-        f"Corresponding articles were published from {kwargs.get('from_date')} to {kwargs.get('to_date')} ")
-
-    print(f"using MeSH" if kwargs.get('mesh') else 'no MeSH:')
-
-    print(f"case report filtering:" if kwargs.get('case_report') else 'no filtering:')
-
+    print(crawlerObj.utils(config="sentence_number"))
 
 
-
-    if not isinstance(kwargs.get('drugs') , list):
-        drugs = []
-        if kwargs.get('druglist_path'):
-            if kwargs.get('druglist_path').endswith('.xlsx') or kwargs.get('druglist_path').endswith('.xls'):
-                drugs=get_drugs.from_excel(path=kwargs.get('druglist_path'), columns=kwargs.get('columns'))
-            elif kwargs.get('druglist_path').endswith('.csv'):
-                drugs=get_drugs.from_csv(path=kwargs.get('druglist_path'))
-        kwargs["drugs"]=drugs
-
-    papers,drugs, queries= pymed(kwargs)
-
-    # for _ in papers:
-    #     doi=_.get("DOI")
-    #     if doi is not None:
-    #         SSdata=get_API_SS(doi,["abstract"])
-    #         _.update({'SS_abstract':SSdata.get("abstract"), 'SS_topic':SSdata.get("topic")})
-    #     else:
-    #         doi=get_DOI_crossref(_.get("title"))
-    #         _.update({'DOI': doi,
-    #                   "crossref_doi":1}) #debug
-
-    print("OK")
-
-    return papers, drugs, queries
+    return crawlerObj.papers, crawlerObj.drugs, crawlerObj.queries
 
 if __name__ == "__main__":
     import argparse
@@ -196,7 +337,5 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    #TODO
 
-    # main(args)
-
+    main(args)
