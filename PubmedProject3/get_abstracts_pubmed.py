@@ -298,9 +298,9 @@ def main(**kwargs):
 
     crawlerObj.harvest()
     crawlerObj.post_processing()
-    crawlerObj.check_tags(type="filter", list=["case reports"])
-    crawlerObj.check_tags(type="mesh", list=["adverse effects"])
-    crawlerObj.split_to_sents(keywords=True, classify=False) #classifying takes some time
+    # crawlerObj.check_tags(type="filter", list=["case reports"])
+    # crawlerObj.check_tags(type="mesh", list=["adverse effects"])
+    # crawlerObj.split_to_sents(keywords=True, classify=False) #classifying takes some time
 
     print(crawlerObj.utils(config="sentence_number"))
 
