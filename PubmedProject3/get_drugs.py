@@ -30,6 +30,7 @@ def from_excel(**kwargs):
         print(f"Getting druglist from {path}, using columns: {' '.join(columns)}")
         for sublist in drugs.loc[:,columns].values.tolist():
             for item in sublist:
+
                 if type(item) is str and ("other" not in item):
                     flat_list.append(item.replace("\u3000"," ").strip())
 
@@ -72,6 +73,7 @@ def from_csv(**kwargs):
     with open(kwargs.get('path'), newline='') as inputfile:
         for row in csv.reader(inputfile):
             drugs.append(row[0])
+
     return drugs
 
 if __name__ == "__main__":

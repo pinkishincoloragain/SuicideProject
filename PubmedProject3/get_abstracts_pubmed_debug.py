@@ -29,7 +29,7 @@
 
 
 ####### 읽는 순서 ########
-# harvest -> make_qeury -> 
+# harvest -> make_qeury ->
 
 class PyMedCrawler:
 
