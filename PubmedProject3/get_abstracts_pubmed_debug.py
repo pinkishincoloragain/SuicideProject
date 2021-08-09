@@ -29,7 +29,7 @@
 
 
 ####### 읽는 순서 ########
-# harvest -> make_qeury ->
+# harvest -> make_query -> execute_query -> post_processing -> check_tags
 
 class PyMedCrawler:
 
@@ -73,7 +73,7 @@ class PyMedCrawler:
         self.set_drugs()
         self.n_drugs = len(self.drugs)
 
-    # 지금 안 씀.
+    # 지금은 안 씀.
     def utils(self, config="sentence_number", entity="sentences", key=None):
         if config=="sentence_number":
             return len(list(set([_.get("ID") for _ in [item for sublist in [ss.get('sentences') for ss in self.papers] for item in sublist]])))
@@ -218,13 +218,16 @@ class PyMedCrawler:
         # dict 안에는 pubmed 객체랑 약물 들어 있음.
         return result
 
-    # 데이터 쿼리 던지고
+    # 이제 execute_query까지 해서 객체에 result 모임이 저장되어 있으니까
+    # result 가지고 있는 것들 가지고 후처리 진행
     def post_processing(self): #GROUP BY imitation with PMID key to get an array of drug for each paper
         from tqdm import tqdm
         """
         Post-processing
         """
         #keys = ["PMIDlist"]
+
+        # 지금 객체가 갖고 있는 result 중에서 갖고와서 검사 하고 나서 이 객체가 가진 paper에 넣을 거임.
         papers = []
         print("Postprocessing...")
         for article in tqdm(self.results):
@@ -248,17 +251,26 @@ class PyMedCrawler:
             raw_abstract = obj.abstract
             raw_drugs = data['drugs']
 
-            # print(f"{raw_abstract}; {raw_drugs}")
+
+            # 여기는 내가 짠 부분. abstract에서 약물이 있는 부분 인덱스 찾고 가져와서 그 뒤 1개 단어 가져옴.
+            # 가져오는 이유는 calcium만 갖고 오는데 calcium gluconate도 같이 가져와 버려서..
+            # 뒤에 어떤 단어들이 붙는지 찾고 나서 그 그 단어들을 저장. -> next_word_analysis에서 사용.
+
+            raw_abstract = obj.abstract
+            raw_drugs = data['drugs']
+            res = []
             if raw_abstract is not None:
                 for item in raw_drugs:
                     tokens = raw_abstract.split()
                     if item in tokens:
                         drug_idx = tokens.index(item)
-                        for idx in range(drug_idx, drug_idx+2):
-                            print(tokens[idx], end=" ")
-                        print()
+                        res.append(tokens[drug_idx] + " " + tokens[drug_idx+1] + "\n")
 
+            with open("post_processing/temp.txt", "a+") as f:
+                for item in res:
+                    f.write(item)
 
+        # 이 객체가 가진 papers에 추가.
         self.papers.extend(papers)
         # for paper in self.papers:
         #     del paper["PMIDlist"]
@@ -303,6 +315,7 @@ class PyMedCrawler:
         exc_sents=["(ABSTRACT TRUNCATED AT 250 WORDS)"]
         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
+        # 분류하는거. 지금 안씀.
         if classify:
             from transformers import pipeline
             sui_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
@@ -322,7 +335,7 @@ class PyMedCrawler:
                             k = sui_classifier(paper.get("title"), candidate_labels)
                             paper.update({"sui_clasifier": k.get("scores")[k.get("labels").index("suicide")]})  # score for suicide
                             # sdict.update({"sui_classifier": k.get("labels")[k.get("scores").index(max(k.get("scores")))]}) #a label
-
+            # 잘라서 문장 단위로 넣어줌.
             for s in ss:
                 if s not in exc_sents:
                     sdict={"ID": "s" + str(x), "sent": s, "is_suicidal": "", "ADE": "",
@@ -338,8 +351,10 @@ class PyMedCrawler:
                         # sdict.update({"sui_classifier": k.get("labels")[k.get("scores").index(max(k.get("scores")))]}) #a label
                     list.append(sdict)
                 x += 1
+            # paper에 업데이트해주고.. 그리고 뭐 안하는듯..?
             paper.update({"sentences": list})
 
+    # 이것도 지금은 안 씀.
     def check_tags(self, type="mesh", list=None):
         from tqdm import tqdm
         """type: mesh or filter
