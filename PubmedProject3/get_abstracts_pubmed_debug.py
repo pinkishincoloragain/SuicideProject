@@ -26,14 +26,23 @@
 #             SS_dict.update({"_semanticscholar": False})
 #     return SS_dict
 
+
+
+####### 읽는 순서 ########
+# harvest -> make_qeury -> 
+
 class PyMedCrawler:
 
     def __init__(self, **kwargs):
         import pandas as pd
+        # 입력받은 인자에 attribute 붙여 주는 부분
         for k, v in kwargs.items():
             setattr(self, k, v)
 
+        # 쿼리 선언
         self.queries=[]
+
+        # 이건 지금 안 씀.
         if hasattr(self, 'restore') : #TODO if none
             import json
             from tqdm import tqdm
@@ -46,12 +55,17 @@ class PyMedCrawler:
                     if hasattr(_, attr):
                         del _[attr]
             self.queries=pd.read_excel(self.restore, sheet_name="queries", index_col=None).to_dict('records')
+
+        # 객체에 papers, results를 부여
+        # papers에는
         else:
             self.papers=[]
             self.results=[]
             print(
             f"Using drug list {self.druglist_path if hasattr(self, 'druglist_path') else 'input'}, crawling max {self.max_results}  abstracts for {self.email}. "
             f"Corresponding articles were published from {self.from_date if hasattr(self, 'from_date') else str(float('-inf'))} to {self.to_date if hasattr(self, 'to_date') else str(float('inf'))} ")
+
+            # 이것도 입력받은거 attr 붙여 주는거. 쿼리 생성할 확인하면서 씀
             if hasattr(self, "sui_mesh"):
                 print(f"using suicide MeSH")
             if hasattr(self,"case_report"):
@@ -59,8 +73,8 @@ class PyMedCrawler:
         self.set_drugs()
         self.n_drugs = len(self.drugs)
 
+    # 지금 안 씀.
     def utils(self, config="sentence_number", entity="sentences", key=None):
-
         if config=="sentence_number":
             return len(list(set([_.get("ID") for _ in [item for sublist in [ss.get('sentences') for ss in self.papers] for item in sublist]])))
 
@@ -78,6 +92,7 @@ class PyMedCrawler:
             aaa=[sublist.get('sentences') for sublist in self.papers]
             return [item.get('sent') for sublist in aaa for item in sublist if re.findall(r'[!?.][A-Z]', item.get('sent')) and (item.get('drugs') if entity=="drugs" else True)]
 
+    # 이것도 그냥 druglist 생성해 주는 코드. get_drugs랑 똑같음.
     def set_drugs(self):
         import get_drugs
         if not hasattr(self,'drugs'):
@@ -92,9 +107,11 @@ class PyMedCrawler:
             drugs=self.drugs
         self.drugs = list(set(drugs))
 
+    # 쿼리 생성 부분
     def make_query(self, drug=None, check_tags=None, tags=None):
         from itertools import product
 
+        # mesh, tw, tag 사용. 필터랑 mesh 어떻게 쓰는 태그 지정해주는듯.
         suicide_meshs = ["Suicidal Ideation", "Suicide, Attempted", "Suicide, Completed", "Suicide"]
         suicide_tws = ["suicid", "suicidal", "suicidality", "suicidally", "suicidals", "suicide", "suicides",
                        "suicide s", "suicided", "suiciders"]
@@ -105,6 +122,7 @@ class PyMedCrawler:
 
         filters = []
 
+        # druglist 쓸 지 drug 쓸 지 고르는거.
         if drug:
             filters.append(
                 "(" + " OR ".join([drug + f"[{tag}]" for tag in drug_tags]) + ")")
@@ -114,6 +132,8 @@ class PyMedCrawler:
         #         "(" + " OR ".join([drug + f"[{tag}]" for drug, tag in product(kwargs.get("drugs"), drug_tags)]) + ")")
 
         # if hasattr(self,'suicide_mesh')
+
+        # 쿼리 생성 부분. if문 읽으면 이해할 수 있을듯. 이전 거랑 거의 차이 없는데 setatter 써서 확인하는 차이.
         if self.suicide_mesh != self.suicide_tw:  # if one presents
             if self.suicide_mesh:
                 filters.append(
@@ -156,27 +176,36 @@ class PyMedCrawler:
 
         return " AND ".join(filters)
 
+    # 쿼리 실행 부분
     def execute_query(self,Q, drug=None):
         from pymed import PubMed
         from time import sleep
         max_retries=50
         import requests.exceptions
 
+        # 펍메드 크롤링 객체 생성
         pubmed = PubMed(tool="KNU_DSA_PubMed_"+str(drug) if drug else "", email=self.email)
 
+        # 쿼리를 펍메드 DB에 던지는 부분. retry 50번까지.
         for _ in range(max_retries):
+
+            # response 받음. response에는 쿼리 실행해서 나온 pubmed 객체 꼴임.
             try:
                 response = pubmed.query(Q, max_results=self.max_results)
                 break
+            # Timeout이랑 Type는 언제 생성되는지 모르겠는데
+            # requests.exceptions.HTTPError은 DB에 쿼리를 너무 빠르게 많이 던지면 Pubmed 서버가 화내면서 요청 안 받아줌. 오류 던짐.
             except (TimeoutError, TypeError, requests.exceptions.HTTPError) as e:
                 sleep(2)
                 pass
-
+        # 만약 OK면
         if response: #response OK
+            # result에 저장하는 부분, druglist인지 drug인지 판별
             if drug:
                 result = [{"obj": item, "drug": drug} for item in response]
             else:
                 result = [item for item in response]
+        # 크롤링 과정에서 오류 뜨면 warning
         else:
             import warnings
             warnings.warn(f"Connection failed for {drug if drug else  '_'} after {max_retries} retries")
@@ -185,8 +214,11 @@ class PyMedCrawler:
             else:
                 result = []
 
+        # result 모양이 리스트 안에 dict가 들어 있는 모양.
+        # dict 안에는 pubmed 객체랑 약물 들어 있음.
         return result
 
+    # 데이터 쿼리 던지고
     def post_processing(self): #GROUP BY imitation with PMID key to get an array of drug for each paper
         from tqdm import tqdm
         """
@@ -201,7 +233,7 @@ class PyMedCrawler:
                 data = {"abstract": obj.abstract, "drugs": [article.get("drug")],
                         "title": obj.title[0] if isinstance(obj.title, list) else obj.title, "DOI": obj.doi,
                         "date": obj.publication_date, "PMIDa": obj.pubmed_id.splitlines()}
-
+                # for debugging
             iii = [i for i, x in enumerate(papers) if x["PMIDa"] == data.get("PMIDa")]  # if there are duplicate PMIDs
             if iii: #YES, update
                 duplicatesdrug = data.get("drugs")
@@ -213,10 +245,25 @@ class PyMedCrawler:
                     papers[i] = data
             else: #NO, append
                 papers.append(data)
+            raw_abstract = obj.abstract
+            raw_drugs = data['drugs']
+
+            # print(f"{raw_abstract}; {raw_drugs}")
+            if raw_abstract is not None:
+                for item in raw_drugs:
+                    tokens = raw_abstract.split()
+                    if item in tokens:
+                        drug_idx = tokens.index(item)
+                        for idx in range(drug_idx, drug_idx+2):
+                            print(tokens[idx], end=" ")
+                        print()
+
+
         self.papers.extend(papers)
         # for paper in self.papers:
         #     del paper["PMIDlist"]
 
+    # 쿼리 실행하고 객체에 저장.
     def harvest(self):
         from multiprocessing import Pool, freeze_support
         if __name__ == '__main__':
@@ -236,12 +283,18 @@ class PyMedCrawler:
         #             self.results.extend(res)
         #             pass
 
+        #
         for drug in tqdm.tqdm(drugs): #temporary workaround: 1 process
+            # 쿼리 만들어주고
             query=self.make_query(drug)
+            # 쿼리 실행해서 아까 그 list 안 dictionary 꼴인 result 받고
             res = self.execute_query(drug=drug, Q=query)
+
+            # 쿼리들, result들에 추가.
             self.queries.append(query)
             self.results.extend(res)
 
+    # 결과 안에 있는 abstract를 문장 단위로 자름.
     def split_to_sents(self,classify=False, keywords=False, titles=False):
         print("Getting sentences...")
         from tqdm import tqdm
