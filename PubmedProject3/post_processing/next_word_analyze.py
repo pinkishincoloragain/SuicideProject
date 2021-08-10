@@ -12,11 +12,20 @@ if __name__ == "__main__":
                 target, next_word = temp[i].split()
                 if target not in next_words.keys():
                     next_words[target] = set()
-                print(next_words)
+                next_words[target].add(target + " " + next_word)
+
+            for i in next_words["calcium"]:
                 print(i)
-                next_words[target].add(next_word)
 
-            print(next_words)
-
-
+# calcium chloride
+# calcium salts
+# calcium boluses
+# calcium gluconate
+# calcium channels
+# calcium chloride
+# calcium gluconate
+# calcium oxalate
+# calcium ion
+# calcium polysulfide
+# calcium EDTA
 
