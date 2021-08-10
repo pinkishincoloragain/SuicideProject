@@ -1,10 +1,14 @@
 from get_abstracts_pubmed_debug import PyMedCrawler
 
+# amiodarone
+# amfetamine
+# fluoxetine
+
 crawlerObj = PyMedCrawler(
     email="??",
     druglist_path="data/drug_mapping_v3_210726_2.xlsx",
     columns=["ingredient_1","ingredient_2", "ingredient_3","ingredient_4","ingredient_5", "ingredient_6","ingredient_7","ingredient_8", "ingredient_9"],
-    drugs=["calcium", "calcium gluconate"],
+    drugs=["amfetamine"],
     max_results=100000,
     suicide_mesh=True,
     suicide_tw=True,case_report=True,lang=["English"],

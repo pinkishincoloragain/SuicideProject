@@ -185,6 +185,7 @@ class PyMedCrawler:
 
         # 펍메드 크롤링 객체 생성
         pubmed = PubMed(tool="KNU_DSA_PubMed_"+str(drug) if drug else "", email=self.email)
+        print(Q)
 
         # 쿼리를 펍메드 DB에 던지는 부분. retry 50번까지.
         for _ in range(max_retries):
@@ -232,11 +233,16 @@ class PyMedCrawler:
         print("Postprocessing...")
         for article in tqdm(self.results):
             obj = article.get("obj")
+            # data = {"abstract": None, "drugs": None,
+            #         "title": None, "DOI": None,
+            #         "date": None, "PMIDa": None}
             if obj.abstract:
                 data = {"abstract": obj.abstract, "drugs": [article.get("drug")],
                         "title": obj.title[0] if isinstance(obj.title, list) else obj.title, "DOI": obj.doi,
                         "date": obj.publication_date, "PMIDa": obj.pubmed_id.splitlines()}
-                # for debugging
+            else:
+                continue
+
             iii = [i for i, x in enumerate(papers) if x["PMIDa"] == data.get("PMIDa")]  # if there are duplicate PMIDs
             if iii: #YES, update
                 duplicatesdrug = data.get("drugs")
@@ -248,27 +254,39 @@ class PyMedCrawler:
                     papers[i] = data
             else: #NO, append
                 papers.append(data)
-            raw_abstract = obj.abstract
-            raw_drugs = data['drugs']
+
+
+            # raw_abstract = obj.abstract
+            # raw_drugs = data['drugs']
 
 
             # 여기는 내가 짠 부분. abstract에서 약물이 있는 부분 인덱스 찾고 가져와서 그 뒤 1개 단어 가져옴.
             # 가져오는 이유는 calcium만 갖고 오는데 calcium gluconate도 같이 가져와 버려서..
             # 뒤에 어떤 단어들이 붙는지 찾고 나서 그 그 단어들을 저장. -> next_word_analysis에서 사용.
 
+            # raw_abstract = obj.abstract
+            # raw_drugs = data['drugs']
+            # res = []
+            # if raw_abstract is not None:
+            #     for item in raw_drugs:
+            #         tokens = raw_abstract.split()
+            #         if item in tokens:
+            #             drug_idx = tokens.index(item)
+            #             res.append(tokens[drug_idx] + " " + tokens[drug_idx+1] + "\n")
+            #
+            # with open(f"post_processing/temp.csv", "a+") as f:
+            #     for item in res:
+            #         f.write(item)
+
+
+            # 이건 대웅좌가 시킨 거 -
             raw_abstract = obj.abstract
             raw_drugs = data['drugs']
             res = []
             if raw_abstract is not None:
-                for item in raw_drugs:
-                    tokens = raw_abstract.split()
-                    if item in tokens:
-                        drug_idx = tokens.index(item)
-                        res.append(tokens[drug_idx] + " " + tokens[drug_idx+1] + "\n")
-
-            with open("post_processing/temp.txt", "a+") as f:
-                for item in res:
-                    f.write(item)
+                with open(f"post_processing/{data['drugs']}.csv", "a+",encoding='UTF8') as f:
+                    f.write("Abstract: " + data['abstract'] + "\n")
+                    f.write("Date: "+ str(data['date']) + "\n\n")
 
         # 이 객체가 가진 papers에 추가.
         self.papers.extend(papers)

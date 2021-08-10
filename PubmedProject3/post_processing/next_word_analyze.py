@@ -14,8 +14,10 @@ if __name__ == "__main__":
                     next_words[target] = set()
                 next_words[target].add(target + " " + next_word)
 
-            for i in next_words["calcium"]:
-                print(i)
+            for drugs in next_words.keys():
+                for words in next_words[drugs]:
+                    print(words)
+            print(next_words)
 
 # calcium chloride
 # calcium salts
