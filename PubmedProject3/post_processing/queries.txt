@@ -1,0 +1,19 @@
+사용한 쿼리 :
+
+amiodaron_sui
+(amiodarone[Mesh] OR amiodarone[Supplementary concept] OR amiodarone[TW]) AND ((Suicidal Ideation[Mesh] OR Suicide, Attempted[Mesh] OR Suicide, Completed[Mesh] OR Suicide[Mesh]) OR (suicid[TW] OR suicidal[TW] OR suicidality[TW] OR suicidally[TW] OR suicidals[TW] OR suicide[TW] OR suicides[TW] OR suicide s[TW] OR suicided[TW] OR suiciders[TW])) AND (case reports[Filter]) AND (English[Language])
+
+amiodaron_no_sui
+(amiodarone[Mesh] OR amiodarone[Supplementary concept] OR amiodarone[TW]) AND (case reports[Filter]) AND (English[Language])
+
+amfetamine_sui
+(amfetamine[Mesh] OR amfetamine[Supplementary concept] OR amfetamine[TW]) AND ((Suicidal Ideation[Mesh] OR Suicide, Attempted[Mesh] OR Suicide, Completed[Mesh] OR Suicide[Mesh]) OR (suicid[TW] OR suicidal[TW] OR suicidality[TW] OR suicidally[TW] OR suicidals[TW] OR suicide[TW] OR suicides[TW] OR suicide s[TW] OR suicided[TW] OR suiciders[TW])) AND (case reports[Filter]) AND (English[Language])
+
+amfetamine_no_sui
+(amfetamine[Mesh] OR amfetamine[Supplementary concept] OR amfetamine[TW]) AND (case reports[Filter]) AND (English[Language])
+
+fluoxetine_sui
+(fluoxetine[Mesh] OR fluoxetine[Supplementary concept] OR fluoxetine[TW]) AND ((Suicidal Ideation[Mesh] OR Suicide, Attempted[Mesh] OR Suicide, Completed[Mesh] OR Suicide[Mesh]) OR (suicid[TW] OR suicidal[TW] OR suicidality[TW] OR suicidally[TW] OR suicidals[TW] OR suicide[TW] OR suicides[TW] OR suicide s[TW] OR suicided[TW] OR suiciders[TW])) AND (case reports[Filter]) AND (English[Language])
+
+fluoxetine_no_sui
+(fluoxetine[Mesh] OR fluoxetine[Supplementary concept] OR fluoxetine[TW]) AND (case reports[Filter]) AND (English[Language])
