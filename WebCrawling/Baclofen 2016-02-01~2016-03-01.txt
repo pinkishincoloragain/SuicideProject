@@ -1,0 +1,719 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "author_id": "3030698296",
+            "created_at": "2016-02-14T09:42:35.000Z",
+            "id": "698804521603096576",
+            "lang": "en",
+            "text": "Alien-tree sacrum? My assumption is Acute Disseminated Encephalomyelitis. You need to try Gablofen. https://t.co/hde6mqM05J"
+        }
+    ],
+    "meta": {
+        "newest_id": "698804521603096576",
+        "oldest_id": "698804521603096576",
+        "result_count": 1
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "author_id": "2757287975",
+            "created_at": "2016-02-29T17:40:28.000Z",
+            "id": "704360601099829248",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "2421224446",
+            "created_at": "2016-02-29T16:29:16.000Z",
+            "id": "704342682483687424",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "145883337",
+            "created_at": "2016-02-29T16:28:18.000Z",
+            "id": "704342439763550208",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "2382631950",
+            "created_at": "2016-02-29T16:23:05.000Z",
+            "id": "704341127814586368",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "2428217970",
+            "created_at": "2016-02-29T16:09:06.000Z",
+            "id": "704337606516064256",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "932950560",
+            "created_at": "2016-02-29T16:08:57.000Z",
+            "id": "704337572735143937",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "147754424",
+            "created_at": "2016-02-29T15:42:18.000Z",
+            "id": "704330865128640512",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "53697555",
+            "created_at": "2016-02-29T15:40:52.000Z",
+            "id": "704330502434594816",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "299345369",
+            "created_at": "2016-02-29T15:39:05.000Z",
+            "id": "704330055229566977",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "109156158",
+            "created_at": "2016-02-29T15:33:37.000Z",
+            "id": "704328677778202625",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "722125711",
+            "created_at": "2016-02-29T15:30:25.000Z",
+            "id": "704327874963251201",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "3179312673",
+            "created_at": "2016-02-29T15:30:08.000Z",
+            "id": "704327804083683329",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "2830281837",
+            "created_at": "2016-02-29T15:29:04.000Z",
+            "id": "704327534503133185",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "2885689829",
+            "created_at": "2016-02-29T15:29:00.000Z",
+            "id": "704327517356859395",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "169324286",
+            "created_at": "2016-02-29T15:28:09.000Z",
+            "id": "704327304781164544",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "1707790350",
+            "created_at": "2016-02-29T15:27:42.000Z",
+            "id": "704327188431183872",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "559899411",
+            "created_at": "2016-02-29T15:27:36.000Z",
+            "id": "704327166847295490",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "418380245",
+            "created_at": "2016-02-29T15:27:17.000Z",
+            "id": "704327084315901952",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "78041871",
+            "created_at": "2016-02-29T15:27:06.000Z",
+            "id": "704327039910879233",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "2350346382",
+            "created_at": "2016-02-29T15:26:42.000Z",
+            "id": "704326938161254404",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "875417305",
+            "created_at": "2016-02-29T15:26:27.000Z",
+            "id": "704326876911820800",
+            "lang": "es",
+            "text": "RT @Pr1meroJusticia: Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #Servici\u2026"
+        },
+        {
+            "author_id": "144164028",
+            "created_at": "2016-02-29T15:25:21.000Z",
+            "id": "704326597453684736",
+            "lang": "es",
+            "text": "Se necesita: Neurotin o Gabapantina de 400mg \u00f3 800mg /Lioresal o  Baclofen 25mg. Contacto: rebroin@gmail.com. #ServicioP\u00fablico"
+        },
+        {
+            "author_id": "4785401841",
+            "created_at": "2016-02-29T00:16:00.000Z",
+            "id": "704097754059051008",
+            "lang": "en",
+            "text": "Lioresal where buy online, Lioresal generic https://t.co/OOd45Td3be Order Lioresal NOW and get free pills!!!Buy Lioresal!\nOur goal is to p\u2026"
+        },
+        {
+            "author_id": "4785401841",
+            "created_at": "2016-02-28T22:15:19.000Z",
+            "id": "704067384097816576",
+            "lang": "en",
+            "text": "buy brand Lioresal, Lioresal cr rx https://t.co/R8e4X0yKxT Buy generic Lioresal onlineBuy Lioresal!\nOur goal is to provide medications at \u2026"
+        },
+        {
+            "author_id": "23383698",
+            "created_at": "2016-02-26T19:56:40.000Z",
+            "id": "703307715645460480",
+            "lang": "ca",
+            "text": "@ComandoSB lioresal es imposible de conseguir"
+        },
+        {
+            "author_id": "500005585",
+            "created_at": "2016-02-25T01:16:02.000Z",
+            "id": "702663307455565825",
+            "lang": "es",
+            "text": "RT anaarauz: layubraska  Para tratamiento contra espasticidad por Edema Cerebral solicito Lioresal de 10 o 20 mg #Caracas #RT V\u00eda layubraska"
+        },
+        {
+            "author_id": "4799731348",
+            "created_at": "2016-02-25T00:51:55.000Z",
+            "id": "702657239652409344",
+            "lang": "es",
+            "text": "RT anaarauz: layubraska  Para tratamiento contra espasticidad por Edema Cerebral solicito Lioresal de 10 o 20 mg #Caracas #RT"
+        },
+        {
+            "author_id": "182049577",
+            "created_at": "2016-02-25T00:04:39.000Z",
+            "id": "702645345940013056",
+            "lang": "es",
+            "text": "@anaarauz: Para tratamiento contra espasticidad por Edema Cerebral solicito Lioresal de 10 o 20 mg #Caracas #RT\""
+        },
+        {
+            "author_id": "1263350886",
+            "created_at": "2016-02-24T17:04:20.000Z",
+            "id": "702539571242930176",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "173930123",
+            "created_at": "2016-02-24T16:57:55.000Z",
+            "id": "702537954837684224",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T16:57:02.000Z",
+            "id": "702537730056556544",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/PQSQaoFiE2"
+        },
+        {
+            "author_id": "780387025",
+            "created_at": "2016-02-24T15:00:20.000Z",
+            "id": "702508365600133120",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T14:56:03.000Z",
+            "id": "702507287638732800",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/FY3kL65iBV"
+        },
+        {
+            "author_id": "4048023225",
+            "created_at": "2016-02-24T14:35:58.000Z",
+            "id": "702502229396365313",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "1556884045",
+            "created_at": "2016-02-24T13:20:46.000Z",
+            "id": "702483304839290880",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "4251096004",
+            "created_at": "2016-02-24T13:01:36.000Z",
+            "id": "702478485084880896",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "2345332434",
+            "created_at": "2016-02-24T13:01:02.000Z",
+            "id": "702478338712018944",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T12:53:03.000Z",
+            "id": "702476333595537409",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/y7ZdYrMKVi"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T10:56:03.000Z",
+            "id": "702446887975018496",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T06:16:03.000Z",
+            "id": "702376423923691520",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/eWsOJ3kyMY"
+        },
+        {
+            "author_id": "780387025",
+            "created_at": "2016-02-24T04:03:54.000Z",
+            "id": "702343168059174913",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "173930123",
+            "created_at": "2016-02-24T03:58:42.000Z",
+            "id": "702341857439674368",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "723195564",
+            "created_at": "2016-02-24T03:58:32.000Z",
+            "id": "702341817921052673",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T03:55:06.000Z",
+            "id": "702340952459866112",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/I6j0dXSHHm"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T02:53:03.000Z",
+            "id": "702325336092995585",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642"
+        },
+        {
+            "author_id": "108578232",
+            "created_at": "2016-02-24T01:11:53.000Z",
+            "id": "702299878630821889",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "108120414",
+            "created_at": "2016-02-24T01:02:01.000Z",
+            "id": "702297394944331778",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "1340714064",
+            "created_at": "2016-02-24T00:57:38.000Z",
+            "id": "702296289476812801",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-24T00:51:03.000Z",
+            "id": "702294633754161152",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/PzecBJUyfR"
+        },
+        {
+            "author_id": "311596285",
+            "created_at": "2016-02-23T22:53:02.000Z",
+            "id": "702264933321457664",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-23T22:51:06.000Z",
+            "id": "702264448010973184",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/PgclW7qInk"
+        },
+        {
+            "author_id": "780387025",
+            "created_at": "2016-02-23T20:45:12.000Z",
+            "id": "702232765232713730",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "173442851",
+            "created_at": "2016-02-23T20:40:19.000Z",
+            "id": "702231536662409216",
+            "lang": "es",
+            "text": "RT @CCNesnoticias: Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://\u2026"
+        },
+        {
+            "author_id": "3523960827",
+            "created_at": "2016-02-23T20:39:03.000Z",
+            "id": "702231215894474752",
+            "lang": "es",
+            "text": "Se solicita con URGENCIA Lioresal (Blacof\u00e9n). Comunicarse a los siguientes n\u00fameros: 0212.841.8982\n0414.012.1642 https://t.co/rUC4BeYMx4"
+        },
+        {
+            "author_id": "320518908",
+            "created_at": "2016-02-23T17:43:36.000Z",
+            "id": "702187064444506112",
+            "lang": "es",
+            "text": "RT @FundaDistoniaVe: URGENTE pacientes con Diston\u00edas Generalizadas necesita con del medicamento LIORESAL(Baclof\u00e9n)10mg,25mg 212-8417982 htt\u2026"
+        },
+        {
+            "author_id": "2202181565",
+            "created_at": "2016-02-23T16:40:48.000Z",
+            "id": "702171257253584896",
+            "lang": "es",
+            "text": "URGENTE pacientes con Diston\u00edas Generalizadas necesita con del medicamento LIORESAL(Baclof\u00e9n)10mg,25mg 212-8417982 https://t.co/ps2SwMdXRe"
+        },
+        {
+            "author_id": "3029496150",
+            "created_at": "2016-02-22T08:05:04.000Z",
+            "id": "701679083202203648",
+            "lang": "en",
+            "text": "Buy lioresal baclofen online at https://t.co/YzH2jJwnGg #nimotop #nimodipine\nfriS22e"
+        },
+        {
+            "author_id": "3029496150",
+            "created_at": "2016-02-22T07:32:02.000Z",
+            "id": "701670770532032512",
+            "lang": "de",
+            "text": "Buy gleevec imatinib online at https://t.co/guoMRxcquV #lioresal #baclofen\nn6ZKFzs"
+        },
+        {
+            "author_id": "1722874729",
+            "created_at": "2016-02-20T22:41:15.000Z",
+            "id": "701174805681274880",
+            "lang": "fr",
+            "text": "@milouln40 je prend  lioresal et je subit des interventions chirurgicale"
+        },
+        {
+            "author_id": "624203025",
+            "created_at": "2016-02-20T10:24:46.000Z",
+            "id": "700989464336842752",
+            "lang": "ar",
+            "text": "@DrAAB1987 \n\u062f\u0643\u062a\u0648\u0631 \u0647\u0644 \u0645\u0631\u062e\u064a\u0627\u062a \u0627\u0644\u0639\u0636\u0644\u0627\u062a \u0645\u0645\u0643\u0646 \u062a\u0624\u062b\u0631 \u0639\u0644\u0649 \u0627\u0644\u0642\u0644\u0628 \u0648\u062a\u0631\u062e\u064a \u0639\u0636\u0644\u0627\u062a\u0647 \n\u0645\u062b\u0644 Relaxon \u0648 Lioresal 10mg"
+        },
+        {
+            "author_id": "905658679",
+            "created_at": "2016-02-19T22:21:32.000Z",
+            "id": "700807457031983105",
+            "lang": "es",
+            "text": "@trafficLARA.Por cambio de tratamiento ofrezco LIORESAL 10mg x 50 2 cajas vence sept 2017 Barquisimeto inf.x MD\n https://t.co/WtA7IHTqWd"
+        },
+        {
+            "author_id": "905658679",
+            "created_at": "2016-02-19T15:31:13.000Z",
+            "id": "700704194987220992",
+            "lang": "es",
+            "text": "lioresal 10 mg x cambio de tratamiento. tengo dos frascos informo por MD."
+        },
+        {
+            "author_id": "147002081",
+            "created_at": "2016-02-19T12:22:44.000Z",
+            "id": "700656764581244928",
+            "lang": "it",
+            "text": "Recensione - Lioresal: Finalmente! https://t.co/Q0IS7CtyLr"
+        },
+        {
+            "author_id": "147002081",
+            "created_at": "2016-02-19T12:22:44.000Z",
+            "id": "700656764048506880",
+            "lang": "it",
+            "text": "Recensione - Lioresal: Sindrome dei muscoli elevatori https://t.co/0UowD2rDvV"
+        },
+        {
+            "author_id": "147002081",
+            "created_at": "2016-02-19T12:22:44.000Z",
+            "id": "700656763411021824",
+            "lang": "it",
+            "text": "Recensione - Lioresal: Mandato dal cielo https://t.co/GZGOlEfznv"
+        },
+        {
+            "author_id": "4099742236",
+            "created_at": "2016-02-18T22:36:06.000Z",
+            "id": "700448732916092928",
+            "lang": "en",
+            "text": "New: 34m asking for #Snapchat #Sexting : Best Site Good Work https://t.co/iUTKBqT38D -&gt; https://t.co/tQPNEyKiqZ #sext"
+        },
+        {
+            "author_id": "4099742236",
+            "created_at": "2016-02-17T07:44:41.000Z",
+            "id": "699862013485453312",
+            "lang": "en",
+            "text": "New: 40f asking for #Snapchat #Sexting : I quite like cooking https://t.co/FiNCFyvRiD -&gt; https://t.co/G5AVqu1Vnk #sext"
+        },
+        {
+            "author_id": "4491742936",
+            "created_at": "2016-02-16T15:44:39.000Z",
+            "id": "699620414754938880",
+            "lang": "ca",
+            "text": "lioresal fibromialgia: lioresal fibromialgia :: Forum | ForumSalute.it - 11/02/06 - Banco: lioresal fibromialg... https://t.co/wnCFy2rBiF"
+        },
+        {
+            "author_id": "4491742936",
+            "created_at": "2016-02-16T07:08:40.000Z",
+            "id": "699490560348848128",
+            "lang": "it",
+            "text": "lioresal e fibromialgia: lioresal farmaco! Farmacias Roma.. lioresal e fibromialgia - Dettagli Azienda FARMACI... https://t.co/VDMkCthkap"
+        },
+        {
+            "author_id": "2812821973",
+            "created_at": "2016-02-16T02:30:42.000Z",
+            "id": "699420607176269824",
+            "lang": "ja",
+            "text": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30dc\u30f3\u30d0\u30fc\uff1aWhere do you study? https://t.co/X0XZQDrsUl superserver lioresal 10 mg wikipedia ...https://t.co/bOd0nBziJi"
+        },
+        {
+            "author_id": "2812821973",
+            "created_at": "2016-02-16T02:30:25.000Z",
+            "id": "699420537336909824",
+            "lang": "ja",
+            "text": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30dc\u30f3\u30d0\u30fc\uff1aAnother service? https://t.co/X0XZQDrsUl standstill lioresal 5 mg tablet rpg arch...https://t.co/bOd0nBziJi"
+        },
+        {
+            "author_id": "4209816358",
+            "created_at": "2016-02-12T10:36:02.000Z",
+            "id": "698093194391629824",
+            "lang": "en",
+            "text": "Where to Buy Baclofen (Lioresal) 10, 25\u00a0mg https://t.co/d7NKAbKVOz"
+        },
+        {
+            "author_id": "1260331148",
+            "created_at": "2016-02-11T15:47:23.000Z",
+            "id": "697809161678147584",
+            "lang": "ht",
+            "text": "SE NECESITA URGENTEEE!!! GABITAL  400 MGS TAB (GABAPENTINA) LIORESAL 20 MGS TAB (BACLOFENO) @pedroluisflores @prensarcr  @rolandcarreno"
+        },
+        {
+            "author_id": "2781232796",
+            "created_at": "2016-02-11T13:23:24.000Z",
+            "id": "697772926687428608",
+            "lang": "in",
+            "text": "RT Pharma_Data: #Pharmaceuticals baclofen : Lioresal : https://t.co/sC0aaubark; #MRX #Surveys #Statistics #MarketResearchReports #Forecast \u2026"
+        },
+        {
+            "author_id": "2983200407",
+            "created_at": "2016-02-11T13:05:33.000Z",
+            "id": "697768433589620737",
+            "lang": "es",
+            "text": "#Pharmaceuticals baclofen : Lioresal : https://t.co/zpOBE2f1br #MRX #Surveys #Statistics #MarketResearchReports #Forecast #Marketing"
+        },
+        {
+            "author_id": "224816994",
+            "created_at": "2016-02-09T21:40:22.000Z",
+            "id": "697173216142479362",
+            "lang": "es",
+            "text": "@fundatiacruz B TARDES NECESITO PARA TRATAMIENTO DE MIELITIS SEVERA GABITAL DE 300 MGS Y LIORESAL PASTILLAS DE 20 MGS...."
+        },
+        {
+            "author_id": "15199808",
+            "created_at": "2016-02-09T19:04:03.000Z",
+            "id": "697133876787843072",
+            "lang": "en",
+            "text": "@RachithSridhar Same with Lioresal. Different doctor. Muscles relaxed, but so much, he had balance issues. Fell several times, broke tooth."
+        },
+        {
+            "author_id": "15199808",
+            "created_at": "2016-02-09T19:01:20.000Z",
+            "id": "697133194877890560",
+            "lang": "en",
+            "text": "@RachithSridhar That assumption is with docs too. Kid was prescribed syndopa and lioresal - diff docs, diff times. I asked, no side-eff info"
+        },
+        {
+            "author_id": "341972933",
+            "created_at": "2016-02-09T18:52:05.000Z",
+            "id": "697130866854797312",
+            "lang": "en",
+            "text": "Lioresal Legal Buying Brand Name https://t.co/WERBgyoLJG #foundry"
+        },
+        {
+            "author_id": "341972933",
+            "created_at": "2016-02-09T07:33:04.000Z",
+            "id": "696959987311108096",
+            "lang": "en",
+            "text": "Lioresal Legal Buying Brand Name https://t.co/J0B7kiUuEh #rackham"
+        },
+        {
+            "author_id": "341972933",
+            "created_at": "2016-02-06T13:11:54.000Z",
+            "id": "695958095206445056",
+            "lang": "en",
+            "text": "Lioresal For Cats Without Prescription https://t.co/i26pgjJ3eF #foundry"
+        },
+        {
+            "author_id": "2801700121",
+            "created_at": "2016-02-05T19:47:16.000Z",
+            "id": "695695204150616064",
+            "lang": "es",
+            "text": "@cardenalessport disponible  @FundacionBADAN  \n presentaci\u00f3n BACLOFENO 10MG/20ML AMP LIORESAL INTRATE, llame al 0501 223 26 00"
+        },
+        {
+            "author_id": "2766759461",
+            "created_at": "2016-02-05T13:48:43.000Z",
+            "id": "695604971295866880",
+            "lang": "es",
+            "text": "RT @FundacionBADAN: BD @Oropeza_Mari s\u00f3lo disponemos de la siguiente presentaci\u00f3n BACLOFENO 10MG/20ML AMP LIORESAL INTRATE, llame al 0501 2\u2026"
+        },
+        {
+            "author_id": "168492310",
+            "created_at": "2016-02-05T13:44:31.000Z",
+            "id": "695603912896868353",
+            "lang": "es",
+            "text": "BD @Oropeza_Mari s\u00f3lo disponemos de la siguiente presentaci\u00f3n BACLOFENO 10MG/20ML AMP LIORESAL INTRATE, llame al 0501 223 26 00"
+        },
+        {
+            "author_id": "1921907946",
+            "created_at": "2016-02-05T02:21:23.000Z",
+            "id": "695431999176069120",
+            "lang": "es",
+            "text": "RT @botmedx: BrownieLovers1: #ServicioPublico Urgente! Asdrubal Gonz\u00e1lez,solicita lioresal o baclofeno para hija con t\u00e9tano HCMAragua 04144\u2026"
+        },
+        {
+            "author_id": "2912758143",
+            "created_at": "2016-02-04T18:11:42.000Z",
+            "id": "695308764791095296",
+            "lang": "es",
+            "text": "BrownieLovers1: #ServicioPublico Urgente! Asdrubal Gonz\u00e1lez,solicita lioresal o baclofeno para hija con t\u00e9tano HCMAragua 04144603470 041694\u2026"
+        },
+        {
+            "author_id": "4872430395",
+            "created_at": "2016-02-04T18:07:54.000Z",
+            "id": "695307809542561795",
+            "lang": "es",
+            "text": "RT @BrownieLovers1: #ServicioPublico Urgente! Asdrubal Gonz\u00e1lez,solicita lioresal o baclofeno para hija con t\u00e9tano HCMAragua 04144603470 04\u2026"
+        },
+        {
+            "author_id": "1257561932",
+            "created_at": "2016-02-04T18:06:46.000Z",
+            "id": "695307524719955968",
+            "lang": "es",
+            "text": "#ServicioPublico Urgente! Asdrubal Gonz\u00e1lez,solicita lioresal o baclofeno para hija con t\u00e9tano HCMAragua 04144603470 04169467608 04124452846"
+        },
+        {
+            "author_id": "392889962",
+            "created_at": "2016-02-04T15:34:00.000Z",
+            "id": "695269077347123200",
+            "lang": "es",
+            "text": "La ni\u00f1a Aleyber hoy necesita de ti, ma\u00f1ana puedes ser t\u00fa, su padre Sr. Asdr\u00fabal Gonz\u00e5les 04124452846 Urgente LIORESAL O BACLOFENO"
+        },
+        {
+            "author_id": "392889962",
+            "created_at": "2016-02-04T15:29:13.000Z",
+            "id": "695267875360219137",
+            "lang": "es",
+            "text": "Con car\u00e5cter de Urgencia se solicita para Aleyber de 5 a\u00f1os recluida en el HC de Maracay LIORESAL O BACLOFENO. 04144603470, 04169467608"
+        },
+        {
+            "author_id": "199914019",
+            "created_at": "2016-02-04T14:52:09.000Z",
+            "id": "695258545353330688",
+            "lang": "es",
+            "text": "@betocreativo Lioresal de 10 mg... Voy a Googlear... Antes de quedarme tiesa."
+        },
+        {
+            "author_id": "597046325",
+            "created_at": "2016-02-04T13:35:07.000Z",
+            "id": "695239161037611008",
+            "lang": "es",
+            "text": "@FundacionBADAN Buen d\u00eda estimados, tienen disponible BACLOFENO \u00f3 LIORESAL, URGENTE Para paciente en Carcas,gracias de antemano. Bendiciones"
+        },
+        {
+            "author_id": "863517030",
+            "created_at": "2016-02-04T00:54:42.000Z",
+            "id": "695047793635901440",
+            "lang": "es",
+            "text": "MARACAY. Urgente Lioresal o Baclofeno. esto podr\u00eda salvar la vida d Aleiber d 5 a\u00f1os recluida en el HCM 04144603470 04169467608 04124452846"
+        },
+        {
+            "author_id": "61809714",
+            "created_at": "2016-02-03T01:37:23.000Z",
+            "id": "694696148376903680",
+            "lang": "es",
+            "text": "Me lleg\u00f3: Se requiere Urgente el medicamento Lioresal o Baclofeno para ni\u00f1a recluida en el HCM de Maracay. Contacto: 0414-4603470 #Medicina"
+        },
+        {
+            "author_id": "2180907432",
+            "created_at": "2016-02-03T01:15:17.000Z",
+            "id": "694690586566246400",
+            "lang": "en",
+            "text": "Order Baclofen 25 mg Low Price. Can I Purchase Lioresal Cheap https://t.co/1qiuflmL7u #medical #blog #health"
+        },
+        {
+            "author_id": "4491742936",
+            "created_at": "2016-02-03T00:57:59.000Z",
+            "id": "694686233235066880",
+            "lang": "it",
+            "text": "lioresal e fibromialgia: lioresal e fibromialgia: Farmacie Pistoia | Profumare.it : lioresal e fibromialgia - ... https://t.co/F6UB37Okde"
+        },
+        {
+            "author_id": "1457319540",
+            "created_at": "2016-02-02T22:48:54.000Z",
+            "id": "694653751257382912",
+            "lang": "es",
+            "text": "@DonaMed_VE necesito Lioresal (Baclofen) 25 mg para lesi\u00f3n medular. Gracias"
+        }
+    ],
+    "meta": {
+        "newest_id": "704360601099829248",
+        "oldest_id": "694653751257382912",
+        "result_count": 97
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}

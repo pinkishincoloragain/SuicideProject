@@ -1,0 +1,200 @@
+{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "meta": {
+        "result_count": 0
+    }
+}{
+    "data": [
+        {
+            "author_id": "801483092",
+            "created_at": "2016-04-27T15:16:08.000Z",
+            "id": "725342774581587968",
+            "lang": "es",
+            "text": "@xy71 Buen d\u00eda. Tengo una caja de lioresal de 25mg. Le interesa?"
+        },
+        {
+            "author_id": "23383698",
+            "created_at": "2016-04-26T03:10:39.000Z",
+            "id": "724797812379160576",
+            "lang": "pt",
+            "text": "@tu_endocrino @raforih o lioresal"
+        },
+        {
+            "author_id": "4290136534",
+            "created_at": "2016-04-24T20:09:48.000Z",
+            "id": "724329513472143361",
+            "lang": "es",
+            "text": "RT @LucioQuincioC: Urgente se requiere lioresal o baclofeno (contra el Tetanos)para ni\u00f1a de 5 a\u00f1os en Aragua 04144603470 04169467608 A BUSC\u2026"
+        },
+        {
+            "author_id": "2744142232",
+            "created_at": "2016-04-24T13:20:41.000Z",
+            "id": "724226557389189120",
+            "lang": "es",
+            "text": "@NicolasMaduro   NECESITO CARDIOSOL 30 mg y LIORESAL 10 Mg  y no lo hay en toda Venezuela. Como se drnomina esto:  CRISIS HUMANITARIA."
+        },
+        {
+            "author_id": "248365871",
+            "created_at": "2016-04-19T13:33:04.000Z",
+            "id": "722417732944338944",
+            "lang": "es",
+            "text": "Urgente lioresal o baclofeno cualquier presentaci\u00f3n para ni\u00f1a 5 a\u00f1os, recluida en el HCM d Aragua Asdrubal G\n04144603470-04124452846"
+        },
+        {
+            "author_id": "396694262",
+            "created_at": "2016-04-13T14:58:29.000Z",
+            "id": "720264905463623681",
+            "lang": "es",
+            "text": "RT @xy71: Necesito urgentemente los siguiente medicamentos para familiar en estado vegetativo : liryca, lioresal, aquineton 2mg, rivotril o\u2026"
+        },
+        {
+            "author_id": "93191614",
+            "created_at": "2016-04-13T14:38:06.000Z",
+            "id": "720259772952535040",
+            "lang": "es",
+            "text": "Necesito urgentemente los siguientes medicamentos para familiar en estado vegetativo :liryca, lioresal, aquineton 2mg, rivotril o clonac 2mg"
+        },
+        {
+            "author_id": "93191614",
+            "created_at": "2016-04-13T14:27:27.000Z",
+            "id": "720257094511947776",
+            "lang": "es",
+            "text": "Necesito urgentemente los siguiente medicamentos para familiar en estado vegetativo : liryca, lioresal, aquineton 2mg, rivotril o clonac 2mg"
+        },
+        {
+            "author_id": "3631238956",
+            "created_at": "2016-04-13T07:31:08.000Z",
+            "id": "720152322135838722",
+            "lang": "en",
+            "text": "Buy Lioresal Online Australia - no prescription Lioresal at East Kilbride: How To Get Lioresal Without Prescri... https://t.co/v7NDYUGmKY"
+        },
+        {
+            "author_id": "224752601",
+            "created_at": "2016-04-11T21:28:46.000Z",
+            "id": "719638347023519744",
+            "lang": "und",
+            "text": "#NaidaDelibasic https://t.co/35jqgX4gbw"
+        },
+        {
+            "author_id": "620671025",
+            "created_at": "2016-04-09T21:45:35.000Z",
+            "id": "718917800174219265",
+            "lang": "es",
+            "text": "@trafficTACHIRA x fa alguien q sepa o tenga  lioresal 10 mgs.  Rilutek 50mgs. Triptanol 25mgs. Urgente para fliar 0416-7727587."
+        },
+        {
+            "author_id": "2351572075",
+            "created_at": "2016-04-09T02:47:43.000Z",
+            "id": "718631449155526657",
+            "lang": "es",
+            "text": "RT @jose_m4a1: UrgenteJoven necesita Lioresal o Baclofeno para matar la bacteria de t\u00e9tano HCM #Aragua @jennyoro1 04144603470 -04169467608\u2026"
+        },
+        {
+            "author_id": "117443647",
+            "created_at": "2016-04-08T15:08:08.000Z",
+            "id": "718455391571410944",
+            "lang": "en",
+            "text": "I can't hear you very well https://t.co/y0PnRGyURx ... https://t.co/ETNfMtxvDS"
+        },
+        {
+            "author_id": "117443647",
+            "created_at": "2016-04-08T15:08:07.000Z",
+            "id": "718455386865467392",
+            "lang": "en",
+            "text": "I support Manchester United https://t.co/y0PnRGyURx... https://t.co/VIM5P5vaWy"
+        },
+        {
+            "author_id": "403502853",
+            "created_at": "2016-04-08T10:44:34.000Z",
+            "id": "718389062109904896",
+            "lang": "en",
+            "text": "Lioresal Side Effects Some E9puLD0 https://t.co/OfIQu31wO7"
+        },
+        {
+            "author_id": "370759571",
+            "created_at": "2016-04-04T20:25:31.000Z",
+            "id": "717085713196560385",
+            "lang": "es",
+            "text": "Necesito lioresal de 10 o 25 mg al 04144337509 mi numero d contacto"
+        },
+        {
+            "author_id": "250720766",
+            "created_at": "2016-04-04T01:34:55.000Z",
+            "id": "716801188012883969",
+            "lang": "es",
+            "text": "RT @jose_m4a1: UrgenteJoven necesita Lioresal o Baclofeno para matar la bacteria de t\u00e9tano HCM #Aragua @jennyoro1 04144603470 -04169467608\u2026"
+        },
+        {
+            "author_id": "85364241",
+            "created_at": "2016-04-03T17:38:19.000Z",
+            "id": "716681246873665537",
+            "lang": "es",
+            "text": "RT @ReporteYa: #28M Suma Urgencia: Joven necesita Lioresal o Baclofeno para matar la bacteria de t\u00e9tano HCM #Aragua @trafficARAGUA 04144603\u2026"
+        },
+        {
+            "author_id": "128448748",
+            "created_at": "2016-04-03T15:12:39.000Z",
+            "id": "716644590439309312",
+            "lang": "es",
+            "text": "@ElNacionalWeb #ServicioP\u00fablico necesito URGENTE este medicamento LIORESAL su componente BACLOFENO"
+        },
+        {
+            "author_id": "3631238956",
+            "created_at": "2016-04-03T14:54:09.000Z",
+            "id": "716639935969628160",
+            "lang": "it",
+            "text": "order lioresal amex: ____ Koop LIORESAL online ____  \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. \n. ... https://t.co/invsw4w6AG"
+        },
+        {
+            "author_id": "128448748",
+            "created_at": "2016-04-02T17:36:16.000Z",
+            "id": "716318345780469760",
+            "lang": "es",
+            "text": "@LucioQuincioC solicito su ayuda p conseguir este medicamento LIORESAL su Componente BACLOFENO adulto cualquier presentacion Gracias"
+        },
+        {
+            "author_id": "128448748",
+            "created_at": "2016-04-02T17:19:54.000Z",
+            "id": "716314226634035201",
+            "lang": "es",
+            "text": "#Servicio Publico se necesita URGENTE este Medicamento LIORESAL componente BACLOFENO. Avisar por este medio. GRACIAS"
+        },
+        {
+            "author_id": "128448748",
+            "created_at": "2016-04-02T16:23:53.000Z",
+            "id": "716300126826991622",
+            "lang": "es",
+            "text": "#Servicio Publico se Necesita URGENTE este Medicamento LIORESAL su Componente BACLOFENO quien lo tenga avisar p este medio"
+        },
+        {
+            "author_id": "2907005745",
+            "created_at": "2016-04-01T20:36:34.000Z",
+            "id": "716001328812662784",
+            "lang": "es",
+            "text": "#Pharmaceutical baclofen : Lioresal : https://t.co/j7H75suTzn #MRX #Surveys #Statistics #MarketResearchReports #Forecast #Marketing"
+        },
+        {
+            "author_id": "2907005745",
+            "created_at": "2016-04-01T01:26:10.000Z",
+            "id": "715711824163786752",
+            "lang": "et",
+            "text": "#Pharmaceutical LIORESAL 10 : Tablet : 10mg : Novartis Pharma AG, Switzerland : https://t.co/MI72OzohZZ #MarketResearch #Statistics"
+        }
+    ],
+    "meta": {
+        "newest_id": "725342774581587968",
+        "oldest_id": "715711824163786752",
+        "result_count": 25
+    }
+}

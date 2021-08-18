@@ -1,0 +1,964 @@
+{
+    "data": [
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-12-26T20:27:18.000Z",
+            "id": "813481333393592320",
+            "lang": "en",
+            "text": "I think there is a life lesson to be learned in the squeaking of a hinge.. Frustration, Tolerance, Action, Denial, Repair, Redemption .#Life"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-12-21T02:06:44.000Z",
+            "id": "811392426522787840",
+            "lang": "en",
+            "text": "RT @PharmERToxGuy: ED bedside tip: In undifferentiated CHF/COPD exacerbation w/ limited IV access, Mg &amp; NTG are compatible in same line htt\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-12-06T18:33:01.000Z",
+            "id": "806204815189639168",
+            "lang": "en",
+            "text": "Scored 196/200 on placement tests... Looks like they'll let me be a college student again. #OldDogNewTricks"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-12-06T04:45:08.000Z",
+            "id": "805996471724244993",
+            "lang": "en",
+            "text": "Homework done, beer down, bed beckons."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-12-05T08:02:37.000Z",
+            "id": "805683784033177603",
+            "lang": "en",
+            "text": "RT @PharmERToxGuy: Preventing Hypoglycemia From Insulin During Hyperkalemia Treatment | From the ALiEM archive https://t.co/qzo1qDg65C #FOA\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-11-15T15:14:03.000Z",
+            "id": "798544598037626880",
+            "lang": "en",
+            "text": "Teaching PALS today. #RowanEMS"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-11-08T23:22:02.000Z",
+            "id": "796130688114237440",
+            "lang": "en",
+            "text": "RT @the_TOTAL_EM: Do you know how to #handoff your #EMS patient to the ED? Listen to this #FOAMed &amp; #FOAMems #podcast ping @ketaminh https:\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-10-14T14:22:15.000Z",
+            "id": "786935153201405952",
+            "lang": "en",
+            "text": "People act for reasons that make sense to them.  The critique of actions without understanding reasons short circuits the learning process."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-10-03T01:25:42.000Z",
+            "id": "782753459816636416",
+            "lang": "en",
+            "text": "It might be called The Bad Lands.... But the experience is amazing #vacation #NationalParks #BadLandsSD https://t.co/R2ywyIvllC"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-10-03T00:19:18.000Z",
+            "id": "782736749109792768",
+            "lang": "en",
+            "text": "What's in this bag?  Styrofoam peanuts?  #NotRight https://t.co/6yWw7MJxRn"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-10-03T00:15:45.000Z",
+            "id": "782735857664921600",
+            "lang": "en",
+            "text": "There is no destination.... Only the journey.... Enjoy it. #ExploreAmerica #TalkToStrangers https://t.co/3pAGeMxXNS"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-10-02T01:19:54.000Z",
+            "id": "782389611582541824",
+            "lang": "en",
+            "text": "Crossing the Missouri River.. Beautiful statue just erected. https://t.co/EcO7BMYEzQ"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-09-27T15:34:24.000Z",
+            "id": "780792717286772736",
+            "lang": "en",
+            "text": "When you realize you need coffee before your coffee. @ Yellowstone Grizzly RV Park https://t.co/lZRs0SZcDE"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-09-22T20:24:05.000Z",
+            "id": "779053679345143812",
+            "lang": "en",
+            "text": "A thought from Montana.... Tough times don't last, tough people do."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-09-22T00:45:17.000Z",
+            "id": "778757021461942272",
+            "lang": "en",
+            "text": "Want to know how 50 feels?  Strap on a pack and hike 15 miles in Yellowstone. #vacation #yellowstone #dontActYourAge"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-09-20T20:55:00.000Z",
+            "id": "778336683687378944",
+            "lang": "en",
+            "text": "One of the highlights of the last 2300 miles. What a country. #montana #vacation @ Bridger Teton\u2026 https://t.co/KWloP1RgFx"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-09-10T01:42:43.000Z",
+            "id": "774422823133671424",
+            "lang": "en",
+            "text": "Look around, do one thing nice every day, not because it makes you feel good, but because it made someone feel better."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-09-10T01:42:34.000Z",
+            "id": "774422784298651648",
+            "lang": "en",
+            "text": "We will be judged not on what we did in this world but by how we left it to our descendants........ Let's quit screwing it up."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-09-05T14:20:33.000Z",
+            "id": "772801596245803008",
+            "lang": "en",
+            "text": "RT @DanielRGerard: We need to train better, build muscle memory to reduce perishock pause, develop tech that syncs defibs with mech CPR htt\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-28T03:58:42.000Z",
+            "id": "769746002278486016",
+            "lang": "en",
+            "text": "@romanmars Thanks Maine.....for making North Carolina look better #NotLast"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-28T03:54:53.000Z",
+            "id": "769745038922375168",
+            "lang": "en",
+            "text": "@kashanacauley Thanks Maine... For making North Carolina look better"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-23T18:39:47.000Z",
+            "id": "768155795003412480",
+            "lang": "en",
+            "text": "Some stare into a dark moonless night and see nothing.... Others imagine everything."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-23T15:00:13.000Z",
+            "id": "768100537258639361",
+            "lang": "en",
+            "text": "Who really knows where the path begins.... Or when the destination is reached?"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-22T15:14:41.000Z",
+            "id": "767741789969248257",
+            "lang": "en",
+            "text": "Muffins are a breakfast food... Cupcakes are just muffins with frosting.. That means cupcakes are breakfast food too. #KidAtHeart. #Smiling"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-20T16:12:30.000Z",
+            "id": "767031563771121664",
+            "lang": "en",
+            "text": "RT @fema: Thank you for the continued support for #LAflood recovery. Cash is the best way you can help -- thank you again! https://t.co/H0f\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-14T02:06:16.000Z",
+            "id": "764644275858604033",
+            "lang": "en",
+            "text": "@DrHowieMell @ketaminh @PBSherren @matlibby @scripe57 @VikingOne_ @F_Kooij @HEMS_Doc   Worked yesterday #ArriveAlive"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-14T02:01:40.000Z",
+            "id": "764643118436192256",
+            "lang": "en",
+            "text": "@EMS12Lead  Focusing paramedic training more toward knowledge and less on \u201cskills\u201d. We tend to forget \u201ckill\u201d is right in middle of \u201cskills\u201d."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-14T01:12:03.000Z",
+            "id": "764630632345509888",
+            "lang": "en",
+            "text": "RT @HistoryInPics: American soldiers escorting Dutch children dressed in national costume, 1944. https://t.co/SjRsYALFQ6"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-05T02:37:25.000Z",
+            "id": "761390625128378368",
+            "lang": "en",
+            "text": "Before a problem can be fixed it must be understood."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-08-03T00:10:50.000Z",
+            "id": "760628961080643584",
+            "lang": "en",
+            "text": "Just found out that people name their pianos..... Who knew?.... Listening to Hans being played right now #PerformanceToday"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-28T17:05:50.000Z",
+            "id": "758710064140185600",
+            "lang": "en",
+            "text": "RT @WakeEMresidency: ECG findings suggestive of HOCM:\n High LV voltage, L atrial enlargement, dagger-like (narrow &lt;1 box) Q waves in latera\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-28T17:04:27.000Z",
+            "id": "758709715899670528",
+            "lang": "en",
+            "text": "RT @WakeEMresidency: Great discussion about HCOM today during Wake EM conference!  Consider in cases of syncope, near-syncope, palpitations\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-28T17:04:04.000Z",
+            "id": "758709619921412096",
+            "lang": "en",
+            "text": "RT @WakeEMresidency: IV phenylephrine for acute hypotension unresponsive to IVF. Avoid pressors with positive inotropic effect - can worsen\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-22T16:48:37.000Z",
+            "id": "756531406331928577",
+            "lang": "en",
+            "text": "To be happy...you  should be the sum of all your experiences and not the remainder when they are subtracted."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-21T01:37:24.000Z",
+            "id": "755939703833100288",
+            "lang": "en",
+            "text": "Ted Cruz sounds like a male version of Fran Dresher. #nasal"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-20T23:55:38.000Z",
+            "id": "755914093459038212",
+            "lang": "en",
+            "text": "RT @FLTDOC1: The #1 problem holding back US prehospital medicine is that the entire CMS payment structure is primarily based on pt transpor\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-17T23:57:05.000Z",
+            "id": "754827295525838848",
+            "lang": "en",
+            "text": "RT @HistoryInPics: A 15-year-old Franklin D. Roosevelt, Fairhaven, MA, 1897. Photo by National Archives and Records Administration. https:/\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-17T23:13:19.000Z",
+            "id": "754816279673012224",
+            "lang": "en",
+            "text": "They were wrong... It's only black criminal lives that matter to them. #BatonRouge #PoliceLivesMatter"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-14T05:25:01.000Z",
+            "id": "753460270035529729",
+            "lang": "und",
+            "text": "@MedicSparks #Resum\u00e9Stuff"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-06T19:00:11.000Z",
+            "id": "750766310787866624",
+            "lang": "en",
+            "text": "@digitalwarr fitbit said I slept 66 minutes on my last 24 hour shift. #Paramedic #LifeLessons"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-06T14:42:50.000Z",
+            "id": "750701545457590274",
+            "lang": "en",
+            "text": "Resident Conference- Sleep Deprivation. Chronic and acute. Effects on performance."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-06T14:11:07.000Z",
+            "id": "750693563437056000",
+            "lang": "en",
+            "text": "Resident Conference - How to be a better teacher.  Expectations and results."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-04T02:53:44.000Z",
+            "id": "749798319371722752",
+            "lang": "en",
+            "text": "@FitbitSupport maybe I'm really a slug and don't know it."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-04T02:52:57.000Z",
+            "id": "749798123883655168",
+            "lang": "en",
+            "text": "@FitbitSupport worked 13 hours in a busy emergency department.. Iphone thinks I walked 16000 steps HR has been over 100 all day. Just synced"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-07-04T02:25:50.000Z",
+            "id": "749791298333315072",
+            "lang": "en",
+            "text": "When you have a day like I've had, and you're fitbit tells you \" you've had 9 active minutes\"....... This is how things get broken."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-26T23:10:13.000Z",
+            "id": "747205356208590848",
+            "lang": "en",
+            "text": "Finding my Camelbak lid fits my Nalgene bottle. #Win.... It's the little things"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-20T02:03:07.000Z",
+            "id": "744712151307194369",
+            "lang": "und",
+            "text": "@cnrichardson https://t.co/QIKEum6gOm"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-20T01:59:30.000Z",
+            "id": "744711240652455937",
+            "lang": "en",
+            "text": "@cnrichardson good, we've recently seen what alligators and gorillas do when they're teased.... Imagine T-rex. Ha ha"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-20T01:40:42.000Z",
+            "id": "744706507766272000",
+            "lang": "en",
+            "text": "@cnrichardson does it work?"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-17T02:29:18.000Z",
+            "id": "743631574529417216",
+            "lang": "en",
+            "text": "Just posted a photo https://t.co/zZeeVrnBKV"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-13T01:13:21.000Z",
+            "id": "742162911473307649",
+            "lang": "en",
+            "text": "We don't need to find people to help, we need to find it within ourselves to help people.  Leave the world a better place for our children."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-07T01:54:09.000Z",
+            "id": "739998851462004736",
+            "lang": "en",
+            "text": "RT @USMC: \"Come on you sons of bitches, do you want to live forever?\"\nDan Daly\n\n#OTD in 1918 the Battle of Belleau Wood began https://t.co/\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-05T15:05:53.000Z",
+            "id": "739473323550183425",
+            "lang": "en",
+            "text": "Planes coming down-Helicopters going up-Trucks rolling over-Tones going off-C shift getting it done.-#RowanEMS #StrongWork #GoodCrews"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-05T14:52:15.000Z",
+            "id": "739469890906693632",
+            "lang": "en",
+            "text": "@bcwarr.  Hmmm. I'll beat you to the ground this summer https://t.co/1zYNVvEJqY"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-06-05T02:21:54.000Z",
+            "id": "739281060073213952",
+            "lang": "en",
+            "text": "@jessk5495 I'm in  keep the kiddos dry."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-27T17:13:56.000Z",
+            "id": "736244057865879552",
+            "lang": "en",
+            "text": "Interdisciplinary Communication using Trauma Simulations.  When to C.U.S. and when not to.  #Teamwork is the #Framework"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-25T23:59:12.000Z",
+            "id": "735621267701833728",
+            "lang": "en",
+            "text": "RT @ECorner: \u201cTo produce innovators, we must change: Who we teach, what we teach, how we teach\u201d ~Richard Miller @OlinCollege #StanfordETL #\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-24T12:59:35.000Z",
+            "id": "735092884219809792",
+            "lang": "en",
+            "text": "RT @EMS12Lead: Prehospital use of 10% dextrose for management of severe hypoglycemia @ACLSMedTraining #FOAMed #FOAMems #MedEd... https://t.\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-21T02:01:01.000Z",
+            "id": "733839987993645056",
+            "lang": "en",
+            "text": "4 Habits That Will Make You A Better Military Leader via @TaskandPurpose https://t.co/YJ71ceverc"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-15T18:42:31.000Z",
+            "id": "731917695323656192",
+            "lang": "en",
+            "text": "If you're the smartest person in the room.... You're in the wrong room. https://t.co/lUrLBs05Qs"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-10T18:59:29.000Z",
+            "id": "730110024509468672",
+            "lang": "en",
+            "text": "RT @TheCaseyGlass: Today we taught CPR to 35 staff with improvised trainers - backpack + pillow. Felt like the real thing #FOAMed https://t\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-10T18:58:03.000Z",
+            "id": "730109665107976192",
+            "lang": "pt",
+            "text": "Cardizem review.  #paramedic  https://t.co/MpK4PDye7u"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-10T00:21:25.000Z",
+            "id": "729828656688795648",
+            "lang": "en",
+            "text": "RT @DrHowieMell: \"Truth passes through 3 stages. 1st, it is ridiculed. 2nd, it is violently opposed. 3rd, it is accepted as being self-evid\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-09T15:36:45.000Z",
+            "id": "729696617289363456",
+            "lang": "en",
+            "text": "Starbucks is fabulous. #Starbucks #morning #coffee https://t.co/W9TwqlPSla"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-04T18:51:32.000Z",
+            "id": "727933696217624576",
+            "lang": "en",
+            "text": "All our experiences will forever exist in the space between reflection and shadow."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-05-03T23:12:03.000Z",
+            "id": "727636869387849728",
+            "lang": "en",
+            "text": "...... Even for you this is a ridiculous idea.  Wife's wisdom"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-30T16:09:44.000Z",
+            "id": "726443425684426752",
+            "lang": "en",
+            "text": "RT @MlNDFACTS: If the Sun was scaled down to the size of a white blood cell, the Milky way would be the size of the continental United Stat\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-24T16:31:25.000Z",
+            "id": "724274558589624320",
+            "lang": "en",
+            "text": "Put a little balance in your life... And think big. https://t.co/jh5QgaXrRe"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-21T17:37:49.000Z",
+            "id": "723204105326477313",
+            "lang": "en",
+            "text": "A lot of things can get done before you learn they were impossible........ #Believe"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-18T15:11:53.000Z",
+            "id": "722080213908238336",
+            "lang": "en",
+            "text": "RT @DrBretNicks: Leading change #ICEM2016 - email me if you would like the e-document for the presentation - Cheers! https://t.co/EBTIFq0sTs"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-16T00:22:00.000Z",
+            "id": "721131492718600192",
+            "lang": "en",
+            "text": "\"have an opinion about which problems are worth solving and then convince other people of that\"\n\n\u201cUnintuitive Lessons on Being a Designer\u201d"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-16T00:13:12.000Z",
+            "id": "721129278079897601",
+            "lang": "en",
+            "text": "\u201cUnintuitive Things I\u2019ve Learned about Management (Part 2)\u201d by @joulee https://t.co/Di74rn7atS"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-16T00:00:47.000Z",
+            "id": "721126154485264385",
+            "lang": "en",
+            "text": "\u201cUnintuitive Things I\u2019ve Learned about Management (Part 1)\u201d by @joulee https://t.co/2mv04ILPWr"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-15T00:18:28.000Z",
+            "id": "720768217501851648",
+            "lang": "en",
+            "text": "Whatcha doin'? https://t.co/FULQRahZuq"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-14T22:30:55.000Z",
+            "id": "720741151599419392",
+            "lang": "en",
+            "text": "Normal breathing uses 2% of cardiac output.....This can increase to 20% in patients in acute respiratory distress. #EMS #CriticalCare #FixIt"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-14T14:32:31.000Z",
+            "id": "720620756003106816",
+            "lang": "en",
+            "text": "RT @ZackRepEM: .@painfreeED good review of PICHFORK in @TempleEM blog\nhttps://t.co/Lt0TE7d7un"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-14T14:31:00.000Z",
+            "id": "720620375135109120",
+            "lang": "en",
+            "text": "@DrNickKman @DrBretNicks @nytimeswell. \n\nI ask all of my patients about the most beautiful place they've ever been.... I've been amazed."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-14T14:25:18.000Z",
+            "id": "720618939148025856",
+            "lang": "en",
+            "text": "I ask all of my patients about the most beautiful place they've ever been....\n\nLetting Patients Tell Their Stories https://t.co/se5dxIhPVz"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-14T01:06:48.000Z",
+            "id": "720417990680797184",
+            "lang": "en",
+            "text": "Lawd have mercy that don't look like no mouth to mouth resurrection."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-13T23:44:53.000Z",
+            "id": "720397377085898752",
+            "lang": "en",
+            "text": "#Vacation #kayaking  #alligators @ Reed Bingham State Park https://t.co/7yPZxcBjnf"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-13T23:36:44.000Z",
+            "id": "720395323689070592",
+            "lang": "en",
+            "text": "When you just need a little blow @ Crossing Florida/Georgia State Line https://t.co/iuemCDFRGk"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-13T21:27:45.000Z",
+            "id": "720362864398061568",
+            "lang": "en",
+            "text": "Watching two birds build a nest... Their home improvement project takes as many trips for supplies as mine. #HomeImprovement #LowesAgain"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-13T20:18:57.000Z",
+            "id": "720345550227402752",
+            "lang": "en",
+            "text": "RT @ktcollopy: #CCTMC16 has generated &gt;2million twitter impressions! Follow the movement @CCTMC16 @AMPAdocs @IAFCCP @EMSWorldNews @podmedic\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-12T18:20:31.000Z",
+            "id": "719953358581317633",
+            "lang": "en",
+            "text": "RT @ktcollopy: The best way to NOT Get better is to not change the process when. You see a problem.-M.Bigham #CCTMC16 @hp_ems @IAFCCP @EMSL\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-12T18:20:21.000Z",
+            "id": "719953315082145793",
+            "lang": "en",
+            "text": "RT @ktcollopy: The most dangerous phrase in #EMS, \"we've always done it this way!\"@DrewCathers #CCTMC16 @hp_ems @EMSWorldNews @podmedic @IA\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-09T02:05:14.000Z",
+            "id": "718620758830903296",
+            "lang": "en",
+            "text": "..... That's the way to end a day. #vacation #relax https://t.co/GZrrzBaMSv"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-06T14:25:14.000Z",
+            "id": "717719819227947010",
+            "lang": "en",
+            "text": "@romanmars Pink Floyd. The Wall"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-06T14:22:22.000Z",
+            "id": "717719098587811840",
+            "lang": "en",
+            "text": "RT @EMS12Lead: Diagnosing STEMI in presence of ventricular paced rhythm @SmithECGBlog #FOAMed #FOAMems #FOANed #MedEd #CardioEd... https://\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-05T00:44:17.000Z",
+            "id": "717150835013238786",
+            "lang": "en",
+            "text": "Just completed a 5.34 mi run - Running in the sand hills and swamps of South Georgia... Waist deep a ... https://t.co/pKXfjsZGVs #Runkeeper"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-04T21:46:32.000Z",
+            "id": "717106103511826434",
+            "lang": "en",
+            "text": "The sun, shade, birds, breeze, and a good book."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-01T19:30:38.000Z",
+            "id": "715984739539226626",
+            "lang": "en",
+            "text": "Twiddler's  syndrome..... When chest Xrays amaze"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-01T18:55:25.000Z",
+            "id": "715975873963409409",
+            "lang": "en",
+            "text": "RT @ktcollopy: Excellence in training leads to excellence in #patient care! Heart dissection lab today at #AirLink/VitaLink #CME https://t.\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-04-01T18:55:17.000Z",
+            "id": "715975839867863040",
+            "lang": "en",
+            "text": "RT @WakeEMresidency: Wake Forest EM faculty member, Dr. Jason Stopyra, wins 2016 NC \"Doctor of the Year\" award. Congrats Jason!! https://t.\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-29T19:59:28.000Z",
+            "id": "714904830758817792",
+            "lang": "en",
+            "text": "RT @ECGTalk: Borderline BP, no SOB, no angina, smiling pt. Decided to CV early rather than waiting for amio to kicks in. #FOAMed https://t.\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-28T15:11:46.000Z",
+            "id": "714470039987077121",
+            "lang": "en",
+            "text": "RT @EMS12Lead: Wolff-Parkinson-White Syndrome: The Delta Wave @ECGTraining #FOAMed #FOAMems #FOANed #MedEd #CardioEd #USMLE... https://t.co\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-23T00:13:29.000Z",
+            "id": "712432039627202561",
+            "lang": "en",
+            "text": "RT @WBTV_News: Tuscarora Yarns in Rowan Co. to close, 123 jobs to be lost https://t.co/4FC9Wl1r7z https://t.co/mWwvFd6jJ8"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-23T00:12:33.000Z",
+            "id": "712431805140484096",
+            "lang": "en",
+            "text": "When the committee focuses on symptoms not problems.  #creativity \n\nhttps://t.co/vrD8rFmiDL"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-20T22:17:33.000Z",
+            "id": "711678089110167552",
+            "lang": "en",
+            "text": "RT @epmonthly: surprise! docs are more likely to miss stuff on \"difficult patients\" HT @pash22 https://t.co/j1QlI61tpD -ST https://t.co/zs3\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "813481333393592320",
+        "next_token": "zldjwdz3w6sba13nkqhz6v2lvznaxh7wwxgufpllu7m",
+        "oldest_id": "711678089110167552",
+        "result_count": 98
+    }
+}{
+    "data": [
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-20T22:17:12.000Z",
+            "id": "711677999985336320",
+            "lang": "en",
+            "text": "RT @USMC: Honor the Fallen\n\nStaff Sgt. Louis F. Cardin, of Temecula, CA, died March 19 in Iraq.\n\nSemper Fidelis, Marine. https://t.co/XMgsb\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-10T15:35:39.000Z",
+            "id": "707953070798475264",
+            "lang": "en",
+            "text": "RT @ktcollopy: Outstanding image of the constellation of #PAD and why it needs careful management @hp_ems @FOAMEMS @EMS_Nation #ems https:/\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-10T15:31:59.000Z",
+            "id": "707952144670920704",
+            "lang": "en",
+            "text": "RT @emcrit: Live Critical Care Grand Rounds Starting now with Upitt CCM and Stony Brook Resus https://t.co/sePUoGwrzx"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-10T15:13:25.000Z",
+            "id": "707947475882123264",
+            "lang": "en",
+            "text": "Teddy the Trauma Bear... Doing some pit crew CPR with Rowan County EMS https://t.co/jltEeS1jEa"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-10T15:11:22.000Z",
+            "id": "707946956660805633",
+            "lang": "en",
+            "text": "RT @AMR_Social: Teddy the Trauma Bear travels from Boston to Hartford with AMR crews! Follow his journey here: http://t.co/hII8XlPHf7 http:\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-06T22:07:30.000Z",
+            "id": "706602129503490048",
+            "lang": "en",
+            "text": "RT @WakeEMresidency: Great stuff at Wake Forest EM Grand Rounds this week!  Dr. Jason Stopyra discussed mobile integrated health &amp; potentia\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-02T20:34:03.000Z",
+            "id": "705129060905545728",
+            "lang": "en",
+            "text": "Bells and whistles are nice but don't let them speak louder than your patient or family. #EMS #technology"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-02T20:32:58.000Z",
+            "id": "705128787080380416",
+            "lang": "en",
+            "text": "Assess your patient then supplement with technology..... Never the reverse.  #CriticalCare"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-03-02T20:24:10.000Z",
+            "id": "705126572018298881",
+            "lang": "en",
+            "text": "Pediatric trauma treatment reviews, lab tests, and the pharmacology of vasopressors.  Been an educational day so far"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-19T02:13:53.000Z",
+            "id": "700503538825351170",
+            "lang": "en",
+            "text": "@romanmars Got coin checked by @bcwarr...... Wasn't prepared #99PI #CoinCheck https://t.co/3IW2iyyvw9"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-18T20:39:26.000Z",
+            "id": "700419373501034496",
+            "lang": "en",
+            "text": "Always remember that your best day will only last a day.....as will your worst day."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-16T03:18:53.000Z",
+            "id": "699432733605498881",
+            "lang": "en",
+            "text": "Criminal suffers massive injuries after fall off of curb https://t.co/Zw4lr3p0cr"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-15T23:45:52.000Z",
+            "id": "699379126369656832",
+            "lang": "en",
+            "text": "The ice cube is home. #StayInside #IceDriving"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-15T18:30:57.000Z",
+            "id": "699299874475536388",
+            "lang": "en",
+            "text": "@cnrichardson  Might be swimming in the wrong pool  .... Or that was a near meese"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-08T22:54:52.000Z",
+            "id": "696829576832483328",
+            "lang": "en",
+            "text": "This is more golf than I've ever watched... And I'm actually sucked into sudden death. #PhoenixOpen"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-08T03:50:09.000Z",
+            "id": "696541498930814976",
+            "lang": "und",
+            "text": "Krispy Kreme donuts........49.99 / dozen. #SB50"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-02-01T13:44:41.000Z",
+            "id": "694154403985629184",
+            "lang": "en",
+            "text": "RT @medicalce: How to Read a Chest X-ray Lesson 1 https://t.co/ALmoRRa0yW  retweet please https://t.co/rL3UgtTBgo"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-30T12:42:03.000Z",
+            "id": "693413865405681664",
+            "lang": "en",
+            "text": "Countdown to C2 is in the final days."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-30T00:25:41.000Z",
+            "id": "693228552871878656",
+            "lang": "en",
+            "text": "Chris jogs Salisbury https://t.co/YTSneqmV9N"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-29T18:11:35.000Z",
+            "id": "693134409948647424",
+            "lang": "en",
+            "text": "What's not to like about a day like this. #sunshine https://t.co/nK2905EVMQ"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-28T16:00:42.000Z",
+            "id": "692739082498281472",
+            "lang": "en",
+            "text": "Salisbury city run...Cool and cloudy, but it clears my head for the day Just finished a 4.31mi run with #EaseInto5K https://t.co/S3N6Es60WB"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-25T16:10:38.000Z",
+            "id": "691654419742658560",
+            "lang": "en",
+            "text": "What if addiction isn't a spiritual or moral calamity to be overcome....but a chronic illness we don't understand. #baclofen_study #RadioLab"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-25T15:44:05.000Z",
+            "id": "691647738807742466",
+            "lang": "en",
+            "text": "Enjoy every one..... Tomorrow's is not guaranteed.  #beautiful_day https://t.co/NDPSTK02n4"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-25T04:05:38.000Z",
+            "id": "691471964997816320",
+            "lang": "en",
+            "text": "RT @DavidWhisenant: A police officer performs a selfless act of mercy and reminds everyone to check on shut ins. https://t.co/bfQIek107Q #g\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-25T04:05:28.000Z",
+            "id": "691471926657728512",
+            "lang": "en",
+            "text": "RT @DavidWhisenant: Firefighters, EMS on scene of house fire, 613 Gold Hill Drive in Salisbury.  Pic from Rowan EMS"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-25T04:04:51.000Z",
+            "id": "691471771623624705",
+            "lang": "en",
+            "text": "RT @DavidWhisenant: Woman burned Sunday in house fire is same woman cared for by police Lt, on Saturday. https://t.co/Cdfhwaq9pP"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-25T03:25:00.000Z",
+            "id": "691461740811403265",
+            "lang": "en",
+            "text": "RT @DavidWhisenant: Woman burned, taken to hospital after fire on Gold Hill Dr in Salisbury. https://t.co/3uqCHN2BF2"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-22T15:51:02.000Z",
+            "id": "690562322755117056",
+            "lang": "in",
+            "text": "@cnrichardson. Survival kit. #RowanJonas https://t.co/fj0M2iPk39"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-22T15:14:44.000Z",
+            "id": "690553185895878656",
+            "lang": "en",
+            "text": "@cnrichardson exactly..... I too  wander the frozen tundra, all the while wondering did I not Espresso my wishes a Latte to these people."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-19T17:59:47.000Z",
+            "id": "689507558449639424",
+            "lang": "en",
+            "text": "Be the best version of you.... This has been in my wallet for the last 30 years.... It works. https://t.co/CXnbR2Rct9"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-17T01:25:10.000Z",
+            "id": "688532482237566976",
+            "lang": "en",
+            "text": "RT @EMS12Lead: Should have gone to cath lab anyway but modified Sgarbossa removes all doubt @SmithECGBlog #FOAMed #MedEd #USMLE... https://\u2026"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-16T16:18:30.000Z",
+            "id": "688394906860130304",
+            "lang": "en",
+            "text": "Station 85 loop around the hospital. Now off to get Stella for the day.  Just finished a 4.40mi run with #EaseInto5K https://t.co/4f9827fXRO"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-14T21:02:57.000Z",
+            "id": "687741717827698689",
+            "lang": "en",
+            "text": "Stella Starbucks and Papa Starbucks @ Harris Teeter https://t.co/Df2tu0R6dE"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-13T19:21:40.000Z",
+            "id": "687353841965264896",
+            "lang": "en",
+            "text": "Station,87 to Station 85 and back.  Crisp and cool day Just finished a 7.19mi run with #EaseInto5K https://t.co/63fDwWtJQ8"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-09T19:13:55.000Z",
+            "id": "685902338427584514",
+            "lang": "en",
+            "text": "..... It's not just for burns anymore?\nhttps://t.co/AWttPGmHST"
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-03T03:39:44.000Z",
+            "id": "683492913888768000",
+            "lang": "en",
+            "text": "Sometimes we end up in places we don't expect for reasons that aren't clear.   Tonight was one of those."
+        },
+        {
+            "author_id": "1061602142",
+            "created_at": "2016-01-01T16:04:23.000Z",
+            "id": "682955538561372164",
+            "lang": "en",
+            "text": "Station 84 run after shift from hell....... I feel better now.  Just finished a 6.32mi run with #EaseInto5K https://t.co/I3JRbxn63V"
+        }
+    ],
+    "meta": {
+        "newest_id": "711677999985336320",
+        "oldest_id": "682955538561372164",
+        "previous_token": "10iy0xk016rrqp9xabjxnfsl9qaariyxt14fcerddu0g",
+        "result_count": 37
+    }
+}
