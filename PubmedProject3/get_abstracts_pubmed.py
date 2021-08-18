@@ -39,7 +39,7 @@ class PyMedCrawler:
             from tqdm import tqdm
             print(f"Restoring from excel {self.restore}")
             self.papers=pd.read_excel(self.restore, sheet_name="result", index_col=None).to_dict('records')
-            for _ in tqdm(self.papers):
+            for _ in tqdm(self.papers, desc="Papers"):
                 _.update({"drugs": json.loads(_.get("drugs").replace("\'", "\""))})
                 _.update({"PMIDa":_.get("PMID").split(",")})
                 for attr in ["meshs", "filters"]:
@@ -59,24 +59,78 @@ class PyMedCrawler:
         self.set_drugs()
         self.n_drugs = len(self.drugs)
 
-    def utils(self, config="sentence_number", entity="sentences", key=None):
+    def utils(self, config="sentence_number", entities=None, drugs=None):
+        from tqdm import tqdm
+        if entities:
+            if isinstance(entities,dict):
+                if "papers" in entities.keys():
+                    if isinstance(entities.get("papers"), list):p_attrs = entities.get("papers")
+                    else:p_attrs = [entities.get("papers")]
+                if "sentences" in entities.keys():
+                    if isinstance(entities.get("sentences"), list):s_attrs = entities.get("sentences")
+                    else:s_attrs = [entities.get("sentences")]
+
+        if config == "drug_pivot":
+            """pymed results pivot by drug"""
+            from collections import Counter
+            if drugs:   l=Counter(tok['drug'] for tok in self.results if tok['drug'] in drugs)
+            else:   l=Counter(tok['drug'] for tok in self.results)
+            return l
+
+        if config=="abstract_number":
+            if entities:
+                return [ss.get('abstract') for ss in self.papers if ss.get('abstract') and ss.get(entities)]
+            else:
+                return [ss.get('abstract') for ss in self.papers if ss.get('abstract')]
+
+        if config=="title_number":
+            if drugs:
+                return [ss.get('title') for ss in self.papers
+                            if ss.get('title')
+                            and any(drug in ss.get('title') for drug in self.drugs)
+                            ]
+            else:
+                return [ss.get('title') for ss in self.papers if ss.get('title') ]
+
 
         if config=="sentence_number":
-            return len(list(set([_.get("ID") for _ in [item for sublist in [ss.get('sentences') for ss in self.papers] for item in sublist]])))
+            if drugs:
+                return list(set([_.get("ID") for _ in
+                                     [item for sublist in [ss.get('sentences') for ss in self.papers] for item in
+                                      sublist] if _.get("drugs")]))
+                # if isinstance(drugs,list): return len(list(set([_.get("ID") for _ in [item for sublist in [ss.get('sentences') for ss in self.papers] for item in sublist] if _.get("drugs") in drugs])))
+                # else: return len(list(set([_.get("ID") for _ in [item for sublist in [ss.get('sentences') for ss in self.papers] for item in sublist] if _.get("drugs")])))
+            else:
+                return list(set([_.get("ID") for _ in [item for sublist in [ss.get('sentences') for ss in self.papers] for item in sublist] ]))
 
-        if config=="delete_items" and key:
-            print(f"Dropping {key} items from {entity}...")
+        if config=="delete_items":
+            """ entities={"papers":[], "sentences":[]} """
+            i=0
+            for k in entities.keys():
+                print(f"\nDropping {','.join(entities.get(k))} items from {k}...")
             for paper in self.papers:
-                if entity=="papers":
-                    del paper[key]
-                if entity=="sentences":
-                    for s in paper.get(entity):
-                        del s[key]
+                i=i+1
+                if i%100==0: print(i, end=',')
+
+                if "papers" in entities.keys():
+                    for pattr in p_attrs:
+                        paper.pop(pattr,None)
+                        # delattr(paper, pattr)
+
+                if "sentences" in entities.keys():
+                    for sattr in s_attrs:
+                        for s in paper.get("sentences"):
+                            s.pop(sattr,None)
+            print("\nDeletion completed")
 
         if config=="wrong_parsing":
             import re
-            aaa=[sublist.get('sentences') for sublist in self.papers]
-            return [item.get('sent') for sublist in aaa for item in sublist if re.findall(r'[!?.][A-Z]', item.get('sent')) and (item.get('drugs') if entity=="drugs" else True)]
+            aa=[sublist.get('sentences') for sublist in self.papers]
+            aaa= [item for sublist in aa for item in sublist if re.findall(r'[!?.][A-Z]', item.get('sent'))]
+            if drugs:
+                return [_ for _ in aaa if _.get('drugs')]
+            else: return aaa
+
 
     def set_drugs(self):
         import get_drugs
@@ -187,15 +241,15 @@ class PyMedCrawler:
 
         return result
 
-    def post_processing(self): #GROUP BY imitation with PMID key to get an array of drug for each paper
+    def post_processing(self): #GROUP BY imitation with PMIDlist key to get an array of drug for each paper
         from tqdm import tqdm
         """
         Post-processing
         """
-        #keys = ["PMIDlist"]
+        keys = ["PMIDlist"]
         papers = []
-        print("Postprocessing...")
-        for article in tqdm(self.results):
+        print("\nPostprocessing...")
+        for article in tqdm(self.results, desc="Response items"):
             obj = article.get("obj")
             if obj.abstract:
                 data = {"abstract": obj.abstract, "drugs": [article.get("drug")],
@@ -236,16 +290,19 @@ class PyMedCrawler:
         #             self.results.extend(res)
         #             pass
 
-        for drug in tqdm.tqdm(drugs): #temporary workaround: 1 process
+        for drug in tqdm.tqdm(drugs, desc="Drugs"): #temporary workaround: 1 process
             query=self.make_query(drug)
             res = self.execute_query(drug=drug, Q=query)
             self.queries.append(query)
             self.results.extend(res)
 
-    def split_to_sents(self,classify=False, keywords=False, titles=False):
-        print("Getting sentences...")
+    def split_to_sents(self,classify=False, keywords=False, titles=False, regex_sentsplit=False, med7=False): #wasnt tested on multiple filters/meshs
+        print("\nGetting sentences...")
         from tqdm import tqdm
-        import nltk.data
+        import nltk.data,re
+        import warnings
+        warnings.filterwarnings('ignore')
+
         sui_keywords=["suicid"]
         exc_sents=["(ABSTRACT TRUNCATED AT 250 WORDS)"]
         tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -254,28 +311,46 @@ class PyMedCrawler:
             from transformers import pipeline
             sui_classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
             candidate_labels = ["suicide", "non-suicide"]
+        if med7:
+            import spacy
+            med7_model = spacy.load("en_core_med7_lg")
 
         x = 0 #cross-paper sentence counter
-        for paper in tqdm(self.papers):
+        for paper in tqdm(self.papers, desc="Papers"):
             ss = tokenizer.tokenize(paper['abstract']) #TODO tokenizers???
             list = []
             if titles:
-                paper.update({"is_suicidal":"", "ADE":""})
-                if keywords:
-                    suiskw = [kw for kw in sui_keywords if kw in paper.get("title")]
-                    if suiskw:
-                        paper.update({"sui_keywords": suiskw})
-                        if classify:
-                            k = sui_classifier(paper.get("title"), candidate_labels)
-                            paper.update({"sui_clasifier": k.get("scores")[k.get("labels").index("suicide")]})  # score for suicide
+                tdict={}
+                if paper.get("title"):
+                    # paper.update({"is_suicidal":"", "ADE":""})
+                    if keywords:
+                        suickw = [kw for kw in sui_keywords if kw in paper.get("title").lower()]
+                        if suickw:
+                            tdict.update({"sui_keywords": suickw})
+                    if classify:
+                        k = sui_classifier(paper.get("title"), candidate_labels)
+                        tdict.update({"sui_clasifier": k.get("scores")[k.get("labels").index("suicide")]})  # score for suicide
                             # sdict.update({"sui_classifier": k.get("labels")[k.get("scores").index(max(k.get("scores")))]}) #a label
+                    if med7:
+                        med7drugs=[{"text":ent.text, "start_char":ent.start_char, "end_char":ent.end_char} for ent
+                                   in med7_model(paper.get("title")).ents if ent.label_=="DRUG"]
+                        if med7drugs:
+                            tdict.update({"med7":med7drugs})
+                        del med7drugs
+
+                    if regex_sentsplit:
+                        if re.findall(r'[!?.][A-Z]', paper.get('title')):
+                            tdict.update({"regex":1})
+
+                    paper.update({"title_attr":tdict})
 
             for s in ss:
                 if s not in exc_sents:
-                    sdict={"ID": "s" + str(x), "sent": s, "is_suicidal": "", "ADE": "",
-                                 "drugs": [drug for drug in paper['drugs'] if drug in s]}
+                    sdict={"ID": "s" + str(x), "sent": s,
+                           # "is_suicidal": "", "ADE": "",
+                                 "drugs": [drug for drug in paper['drugs'] if drug.lower() in s.lower()]}
                     if keywords:
-                        suiskw=[kw for kw in sui_keywords if kw in s]
+                        suiskw=[kw for kw in sui_keywords if kw in s.lower()]
                         if suiskw:
                             sdict.update({"sui_keywords":suiskw})
 
@@ -283,6 +358,18 @@ class PyMedCrawler:
                         k = sui_classifier(s, candidate_labels)
                         sdict.update({"sui_clasifier":k.get("scores")[k.get("labels").index("suicide")]}) #score for suicide
                         # sdict.update({"sui_classifier": k.get("labels")[k.get("scores").index(max(k.get("scores")))]}) #a label
+
+                    if med7:
+                        med7drugs = [{"text": ent.text, "start_char": ent.start_char, "end_char": ent.end_char} for ent
+                                     in med7_model(s).ents if ent.label_ == "DRUG"]
+                        if med7drugs:
+                            sdict.update({"med7": med7drugs})
+                        del med7drugs
+
+                    if regex_sentsplit:
+                        if re.findall(r'[!?.][A-Z]', s):
+                            sdict.update({"regex": 1})
+
                     list.append(sdict)
                 x += 1
             paper.update({"sentences": list})
@@ -292,14 +379,14 @@ class PyMedCrawler:
         """type: mesh or filter
         list: list of instances"""
         if type in ["mesh", "filter"] and list:
-            print(f"Checking {','.join(list)} {type}s:") #
+            print(f"\nChecking {','.join(list)} {type}s:") #
 
             for _ in list:
                 query=self.make_query(check_tags=type,tags=list)
                 res=self.execute_query(Q=query)
                 PMIDA = [_.pubmed_id.splitlines() for _ in res]
                 PMIDA = [item for sublist in PMIDA for item in sublist] #papers with those PMIDs has the mesh/filter
-                for paper in tqdm(self.papers):
+                for paper in tqdm(self.papers, desc="Papers"):
                     if set(paper.get("PMIDa")).intersection(PMIDA):
                         paper.update({
                             type+"s":list(set(paper.get(type+"s").append(_))) if hasattr(paper,type+"s")
@@ -315,7 +402,6 @@ def main(**kwargs):
     crawlerObj.split_to_sents(keywords=True, classify=False, titles=True) #classifying takes some time
 
     print(crawlerObj.utils(config="sentence_number"))
-
 
     return crawlerObj.papers, crawlerObj.drugs, crawlerObj.queries
 
