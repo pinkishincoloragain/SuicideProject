@@ -53,7 +53,9 @@ class PyMedCrawler:
             self.queries=pd.read_excel(self.restore, sheet_name="queries", index_col=None).to_dict('records')
         else:
             self.papers=[]
+            self.tweets = []
             self.results=[]
+
             print(
             f"Using drug list {self.druglist_path if hasattr(self, 'druglist_path') else 'input'}, crawling max {self.max_results}  abstracts for {self.email}. "
             f"Corresponding articles were published from {self.from_date if hasattr(self, 'from_date') else str(float('-inf'))} to {self.to_date if hasattr(self, 'to_date') else str(float('inf'))} ")
@@ -275,12 +277,9 @@ class PyMedCrawler:
                 date = date + datetime.timedelta(weeks=1)
                 self.query_params['end_time'] = str(date)[0:10] + "T00:00:00Z"
                 if str(date)[0:10] > str(end_date)[0:10]:
-                    print(str(date)[0:10])
-                    print(str(end_date)[0:10])
                     break
 
                 response = requests.request("GET", self.search_url, headers=headers, params=self.query_params).json()
-                print(response)
 
                 try:
                     data.extend(response["data"])
@@ -293,7 +292,6 @@ class PyMedCrawler:
                 sleep(2)
             result.extend([{"tw_obj": item, "drug": drug} for item in data])
 
-            print(result)
 
         return result
 
@@ -331,14 +329,34 @@ class PyMedCrawler:
             # for paper in self.papers:
             #     del paper["PMIDlist"]
 
-        # if "twitter" in self.source:
-        #     keys = ["id"]
-        #     tweets = []
-        #     print("\nPostprocessing tweets...")
-        #     for tweet in tqdm(self.results, desc="Response items"):
-        #         tw_obj = tweet.get("tw_obj")
-        #         if tw_obj.tweet
+        if "twitter" in self.source:
+            keys = ["id"]
+            tweets = []
+            print("\nPostprocessing tweets...")
+            for tweet in tqdm(self.results, desc="Response items"):
+                tw_obj = tweet.get("tw_obj")
+                if tw_obj["text"]:
+                    data = {
+                        "id":tw_obj["id"],
+                        "lang": tw_obj["lang"],
+                        "text": tw_obj["text"],
+                        "author_id": tw_obj["author_id"],
+                        "drugs": [tweet.get("drug")],
+                        "created_at": tw_obj["created_at"]}
+                iii = [i for i, x in enumerate(tweets) if x["id"] == data.get("id")]  # if there are duplicate PMIDs
+                if iii:  # YES, update
+                    duplicatesdrug = data.get("drugs")
+                    for d in iii:
+                        if tweets[d].get("drugs")[0] not in duplicatesdrug:
+                            duplicatesdrug.extend(tweets[d].get("drugs"))
+                    data.update({"drugs": duplicatesdrug})
+                    for i in iii:
+                        tweets[i] = data
+                else:  # NO, append
+                    tweets.append(data)
+            self.tweets.extend(tweets)
 
+            print(self.tweets)
 
     def harvest(self):
         """self.source = "pubmed" AND/OR "twitter"""
