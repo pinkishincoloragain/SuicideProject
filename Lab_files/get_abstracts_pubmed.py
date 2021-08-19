@@ -295,6 +295,25 @@ class PyMedCrawler:
 
         return result
 
+    def tw_processing(self,data):
+        import re
+
+        pattern_rt = re.compile(r'@RT[\S\s]+')
+        pattern_special = re.compile(r'[-=+,#/:^$.*\"※~&%ㆍ!』\\‘|\[\]`…》]')
+        pattern_email = re.compile(r"\S*@\S*\s?")
+        pattern_link = re.compile(r'http\S+')
+
+        text = data.get("text")
+        text = text.lower().strip()
+        text = re.sub(pattern=pattern_rt, repl='', string=text)
+        text = re.sub(pattern=pattern_email, repl='', string=text)
+        text = re.sub(pattern=pattern_link, repl='', string=text)
+        res = re.sub(pattern=pattern_special, repl="", string=text)
+
+        data["text"] = res
+
+        return data
+
     def post_processing(self): #GROUP BY imitation with PMIDlist key to get an array of drug for each paper
         from tqdm import tqdm
         """
@@ -313,6 +332,7 @@ class PyMedCrawler:
                             "DOI": obj.doi,
                             "date": obj.publication_date,
                             "PMIDa": obj.pubmed_id.splitlines()}
+                    data = self.tw_processing(data)
 
                 iii = [i for i, x in enumerate(papers) if x["PMIDa"] == data.get("PMIDa")]  # if there are duplicate PMIDs
                 if iii: #YES, update
