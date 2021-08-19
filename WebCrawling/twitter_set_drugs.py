@@ -6,7 +6,8 @@ class Drugs:
     columns = []
 
     def __init__(self):
-        df = pd.read_csv("drug_brand.csv")
+        df = pd.read_csv(
+            "../../../Downloads/twitter_crawling_Ver_API-master/twitter_crawling_Ver_API-master/drug_brand.csv")
         data = df.columns
         data = data.tolist()
         self.columns = data

@@ -154,7 +154,7 @@ if __name__ == "__main__":
     temp = pymed(args_main.__dict__) # pymed에 넣어 줌. 지금은 예외처리 하나도 되지 않고 그냥 인자 받은 그대로 넘겨줌.
 
     # 실행 방법
-    # 터미널창에 가서 \SuicideProject\PubmedProject2> 경로에 가서
+    # 터미널창에 가서 \SuicideProject\CLI_and_drug_ae> 경로에 가서
         # python get_abstracts_pubmed.py --email smb1103@gmail.com --druglist_path Drug_mapping_v2.csv --max_results 10 --from_date 2021/01/01 --to_date 2021/07/01 --no_mesh  --case_report --drugs a
     # 이렇게 넣어 주면 실행이 됩니다.
     # --(인자이름) (인자에 넣을 값) 이런 형식으로 들어가고,

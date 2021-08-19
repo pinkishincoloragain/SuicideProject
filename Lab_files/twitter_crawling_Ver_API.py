@@ -4,7 +4,7 @@ import datetime
 import time
 
 
-class Crawling:
+class TwitterObj:
     bearer_token = ""
     search_url = ""
     query_params = {}
@@ -44,13 +44,6 @@ class Crawling:
             raise Exception(response.status_code, response.text)
         return response.json()
 
-    def main_act_id(self, author_id_info, start_time, end_time):
-        fw = open(author_id_info + " " + start_time[0:10] + "~" + end_time[0:10] + ".txt", "w")
-        self.search_url_from_id = self.search_url_from_id + author_id_info + "/tweets"
-        self.query_params_id['start_time'] = start_time
-        self.query_params_id['end_time'] = end_time
-        self.crawling_part_id(fw)
-
     def main_act_months(self, brand_list, drug_name, start_year, end_year):
         for year in range(start_year, end_year + 1):
             for month in range(2, 14):
@@ -68,39 +61,6 @@ class Crawling:
                     self.crawling_part(fw)
                 fw.close()
 
-    def main_act_weeks(self, brand_list, drug_name):
-        date = datetime.date(2020, 2, 1)
-        self.query_params['start_time'] = str(date) + "T00:00:00Z"
-        while True:
-            date = date + datetime.timedelta(weeks=1)
-            self.query_params['end_time'] = str(date) + "T00:00:00Z"
-            dateforcheck = str(date)
-            if dateforcheck[0:7] == "2020-03":
-                break
-
-            # main activity
-            fw = open(drug_name + " " + self.query_params['start_time'][0:10] + "~" + self.query_params['end_time'][
-                                                                                      0:10] + ".txt", "w")
-            for brand_name in brand_list:
-                self.query_params['query'] = brand_name
-                print(self.query_params)
-                self.crawling_part(fw)
-            fw.close()
-
-            self.query_params['start_time'] = str(date) + "T00:00:00Z"
-
-    def main_act_indi(self, brand_list, drug_name):
-        self.query_params['start_time'] = "2020-02-01T00:00:00Z"
-        self.query_params['end_time'] = "2020-03-01T00:00:00Z"
-        self.query_params['tweet.fields'] = "lang"
-        # main activity
-        fw = open(drug_name + " " + self.query_params['start_time'][0:10] + "~" + self.query_params['end_time'][
-                                                                                  0:10] + ".txt", "w")
-        for brand_name in brand_list:
-            self.query_params['query'] = brand_name
-            print(self.query_params)
-            self.crawling_part(fw)
-
     def crawling_part(self, fw):
         headers = self.create_headers()
         json_response = self.connect_to_endpoint(headers)
@@ -117,21 +77,3 @@ class Crawling:
             return
         time.sleep(2)
         self.crawling_part(fw)
-
-    def crawling_part_id(self, fw):
-        print(self.query_params_id)
-        headers = self.create_headers()
-        json_response = self.connect_to_endpoint_id(headers)
-        data = json.dumps(json_response, indent=4, sort_keys=True)
-        fw.write(data)
-        try:
-            self.query_params_id['pagination_token'] = json_response['meta']['next_token']
-        except Exception as e:
-            print("done")
-            self.query_params_id['pagination_token'] = "DUMMY"
-            del self.query_params_id['pagination_token']
-            # print(e)
-            time.sleep(2)
-            return
-        time.sleep(2)
-        self.crawling_part_id(fw)
