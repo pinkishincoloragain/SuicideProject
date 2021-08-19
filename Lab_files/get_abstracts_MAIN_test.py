@@ -12,7 +12,7 @@ crawlerObj = PyMedCrawler(
     max_results=100000,
     suicide_mesh=True,
     from_date="2021/01/01",
-    to_date="2021/01/30",
+    to_date="2021/03/30",
     suicide_tw=True,case_report=True,lang=["English"],
 )
 

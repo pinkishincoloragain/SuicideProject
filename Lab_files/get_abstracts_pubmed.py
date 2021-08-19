@@ -261,6 +261,7 @@ class PyMedCrawler:
                     result = []
 
         if "twitter" in self.source:
+            # TODO time issue
             from time import sleep
             import json
             import requests
@@ -290,6 +291,7 @@ class PyMedCrawler:
                     # print(e)
 
                 sleep(2)
+            # TODO too big result - line
             result.extend([{"tw_obj": item, "drug": drug} for item in data])
 
         return result
@@ -305,6 +307,7 @@ class PyMedCrawler:
         pattern_email = re.compile(r"\S*@\S*\s?")
         pattern_link = re.compile(r'http\S+')
 
+        # TODO add processing
         text = data.get("text")
         text = text.lower().strip()
         text = re.sub(pattern=pattern_rt, repl='', string=text)
@@ -344,7 +347,7 @@ class PyMedCrawler:
                     data.update({"drugs": duplicatesdrug})
                     for i in iii:
                         papers[i] = data
-                # detects whether tw_obj or obj
+                # TODO detects whether the obj is tw_obj or obj - checks all articles (takes too long time)
                 elif article.get("tw_obj"):
                     pass
                 else: #NO, append
@@ -359,7 +362,8 @@ class PyMedCrawler:
             print("\nPostprocessing tweets...")
             for tweet in tqdm(self.results, desc="Response items"):
                 tw_obj = tweet.get("tw_obj")
-                if tw_obj["text"]:
+                # TODO need to check whether obj is null or not
+                if tw_obj is not None and tw_obj["text"]:
                     data = {
                         "id":tw_obj["id"],
                         "lang": tw_obj["lang"],
@@ -370,17 +374,18 @@ class PyMedCrawler:
                     data = self.tw_processing(data)
                     if data is None:
                         continue
-                iii = [i for i, x in enumerate(tweets) if x["id"] == data.get("id")]  # if there are duplicate PMIDs
-                if iii:  # YES, update
-                    duplicatesdrug = data.get("drugs")
-                    for d in iii:
-                        if tweets[d].get("drugs")[0] not in duplicatesdrug:
-                            duplicatesdrug.extend(tweets[d].get("drugs"))
-                    data.update({"drugs": duplicatesdrug})
-                    for i in iii:
-                        tweets[i] = data
-                else:  # NO, append
-                    tweets.append(data)
+                    # TODO indent issue with iii
+                    iii = [i for i, x in enumerate(tweets) if x["id"] == data.get("id")]  # if there are duplicate ids
+                    if iii:  # YES, update
+                        duplicatesdrug = data.get("drugs")
+                        for d in iii:
+                            if tweets[d].get("drugs")[0] not in duplicatesdrug:
+                                duplicatesdrug.extend(tweets[d].get("drugs"))
+                        data.update({"drugs": duplicatesdrug})
+                        for i in iii:
+                            tweets[i] = data
+                    else:  # NO, append
+                        tweets.append(data)
             self.tweets.extend(tweets)
             print(self.tweets)
 
