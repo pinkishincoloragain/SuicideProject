@@ -32,8 +32,8 @@ class PyMedCrawler:
         import pandas as pd
 
         # Sampling for test
-        # self.source = ["pubmed", "twitter"]
-        self.source = ["twitter"]
+        self.source = ["pubmed", "twitter"]
+        # self.source = ["twitter"]
 
         for k, v in kwargs.items():
             setattr(self, k, v)
@@ -292,11 +292,13 @@ class PyMedCrawler:
                 sleep(2)
             result.extend([{"tw_obj": item, "drug": drug} for item in data])
 
-
         return result
 
     def tw_processing(self,data):
         import re
+
+        if data.get("lang") != "en":
+            return None
 
         pattern_rt = re.compile(r'@RT[\S\s]+')
         pattern_special = re.compile(r'[-=+,#/:^$.*\"※~&%ㆍ!』\\‘|\[\]`…》]')
@@ -325,14 +327,13 @@ class PyMedCrawler:
             print("\nPostprocessing articles...")
             for article in tqdm(self.results, desc="Response items"):
                 obj = article.get("obj")
-                if obj.abstract:
+                if obj is not None and obj.abstract:
                     data = {"abstract": obj.abstract,
                             "drugs": [article.get("drug")],
                             "title": obj.title[0] if isinstance(obj.title, list) else obj.title,
                             "DOI": obj.doi,
                             "date": obj.publication_date,
                             "PMIDa": obj.pubmed_id.splitlines()}
-                    data = self.tw_processing(data)
 
                 iii = [i for i, x in enumerate(papers) if x["PMIDa"] == data.get("PMIDa")]  # if there are duplicate PMIDs
                 if iii: #YES, update
@@ -343,6 +344,9 @@ class PyMedCrawler:
                     data.update({"drugs": duplicatesdrug})
                     for i in iii:
                         papers[i] = data
+                # detects whether tw_obj or obj
+                elif article.get("tw_obj"):
+                    pass
                 else: #NO, append
                     papers.append(data)
             self.papers.extend(papers)
@@ -363,6 +367,9 @@ class PyMedCrawler:
                         "author_id": tw_obj["author_id"],
                         "drugs": [tweet.get("drug")],
                         "created_at": tw_obj["created_at"]}
+                    data = self.tw_processing(data)
+                    if data is None:
+                        continue
                 iii = [i for i, x in enumerate(tweets) if x["id"] == data.get("id")]  # if there are duplicate PMIDs
                 if iii:  # YES, update
                     duplicatesdrug = data.get("drugs")
@@ -375,7 +382,6 @@ class PyMedCrawler:
                 else:  # NO, append
                     tweets.append(data)
             self.tweets.extend(tweets)
-
             print(self.tweets)
 
     def harvest(self):
